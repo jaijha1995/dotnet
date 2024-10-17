@@ -1,0 +1,3037 @@
+﻿<DestinationRoot>
+  <Destination>
+    <code>NORESULT</code>
+    <DestinationName>NORESULT</DestinationName>
+    <DestinationStr>No Result Found</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ACK</code>
+    <DestinationName>Nantucket Memorial</DestinationName>
+    <DestinationStr>Nantucket Memorial(ACK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ACK</code>
+    <DestinationName>Nantucket</DestinationName>
+    <DestinationStr>Nantucket(ACK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AHA</code>
+    <DestinationName>Naha AFB</DestinationName>
+    <DestinationStr>Naha AFB(AHA)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ALP</code>
+    <DestinationName>Nejrab Arpt</DestinationName>
+    <DestinationStr>Nejrab Arpt(ALP)-Syrian Arab Rep.</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>APC</code>
+    <DestinationName>Napa Cty Arpt</DestinationName>
+    <DestinationStr>Napa Cty Arpt(APC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>APC</code>
+    <DestinationName>Napa</DestinationName>
+    <DestinationStr>Napa(APC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>APF</code>
+    <DestinationName>Naples Municipal</DestinationName>
+    <DestinationStr>Naples Municipal(APF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>APF</code>
+    <DestinationName>Naples</DestinationName>
+    <DestinationStr>Naples(APF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>APL</code>
+    <DestinationName>Nampula Arpt</DestinationName>
+    <DestinationStr>Nampula Arpt(APL)-Mozambique</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>APL</code>
+    <DestinationName>Nampula</DestinationName>
+    <DestinationStr>Nampula(APL)-Mozambique</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ARA</code>
+    <DestinationName>NEW IBERIA</DestinationName>
+    <DestinationStr>NEW IBERIA(ARA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ARV</code>
+    <DestinationName>Noble F Lee Memorial Field</DestinationName>
+    <DestinationStr>Noble F Lee Memorial Field(ARV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ARZ</code>
+    <DestinationName>N Zeto</DestinationName>
+    <DestinationStr>N Zeto(ARZ)-Angola</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ASH</code>
+    <DestinationName>Nashua</DestinationName>
+    <DestinationStr>Nashua(ASH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ATN</code>
+    <DestinationName>Namatanai</DestinationName>
+    <DestinationStr>Namatanai(ATN)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AXV</code>
+    <DestinationName>Neil Armstrong Arpt</DestinationName>
+    <DestinationStr>Neil Armstrong Arpt(AXV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BMI</code>
+    <DestinationName>Normal Airport</DestinationName>
+    <DestinationStr>Normal Airport(BMI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BNA</code>
+    <DestinationName>Nashville International Arpt</DestinationName>
+    <DestinationStr>Nashville International Arpt(BNA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BNA</code>
+    <DestinationName>Nashville</DestinationName>
+    <DestinationStr>Nashville(BNA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BRR</code>
+    <DestinationName>North Bay Arpt</DestinationName>
+    <DestinationStr>North Bay Arpt(BRR)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CCU</code>
+    <DestinationName>Netaji Subhas Chandra Bose Intl</DestinationName>
+    <DestinationStr>Netaji Subhas Chandra Bose Intl(CCU)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CLJ</code>
+    <DestinationName>Napoca Arpt</DestinationName>
+    <DestinationStr>Napoca Arpt(CLJ)-Romania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CPR</code>
+    <DestinationName>Natrona Cty Intl Arpt</DestinationName>
+    <DestinationStr>Natrona Cty Intl Arpt(CPR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CRM</code>
+    <DestinationName>National Airport</DestinationName>
+    <DestinationStr>National Airport(CRM)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DPS</code>
+    <DestinationName>Ngurah Rai Arpt</DestinationName>
+    <DestinationStr>Ngurah Rai Arpt(DPS)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EAM</code>
+    <DestinationName>Nejran Arpt</DestinationName>
+    <DestinationStr>Nejran Arpt(EAM)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EAM</code>
+    <DestinationName>Nejran</DestinationName>
+    <DestinationStr>Nejran(EAM)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ECP</code>
+    <DestinationName>Northwest Florida Beaches Intl</DestinationName>
+    <DestinationStr>Northwest Florida Beaches Intl(ECP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EED</code>
+    <DestinationName>Needles Arpt</DestinationName>
+    <DestinationStr>Needles Arpt(EED)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EED</code>
+    <DestinationName>Needles</DestinationName>
+    <DestinationStr>Needles(EED)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ELH</code>
+    <DestinationName>North Eleuthera Intl</DestinationName>
+    <DestinationStr>North Eleuthera Intl(ELH)-Bahamas</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ELH</code>
+    <DestinationName>North Eleuthera</DestinationName>
+    <DestinationStr>North Eleuthera(ELH)-Bahamas</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EMN</code>
+    <DestinationName>Nema</DestinationName>
+    <DestinationStr>Nema(EMN)-Mauritania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ENC</code>
+    <DestinationName>Nancy</DestinationName>
+    <DestinationStr>Nancy(ENC)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ENN</code>
+    <DestinationName>Nenana</DestinationName>
+    <DestinationStr>Nenana(ENN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EUM</code>
+    <DestinationName>Neumuenster Arpt</DestinationName>
+    <DestinationStr>Neumuenster Arpt(EUM)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EUM</code>
+    <DestinationName>Neumuenster</DestinationName>
+    <DestinationStr>Neumuenster(EUM)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EWB</code>
+    <DestinationName>New Bedford Municipal</DestinationName>
+    <DestinationStr>New Bedford Municipal(EWB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EWB</code>
+    <DestinationName>New Bedford</DestinationName>
+    <DestinationStr>New Bedford(EWB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EWK</code>
+    <DestinationName>Newton City County Arpt</DestinationName>
+    <DestinationStr>Newton City County Arpt(EWK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EWK</code>
+    <DestinationName>Newton</DestinationName>
+    <DestinationStr>Newton(EWK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EWN</code>
+    <DestinationName>New Bern</DestinationName>
+    <DestinationStr>New Bern(EWN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EWR</code>
+    <DestinationName>Newark Liberty Intl Arpt</DestinationName>
+    <DestinationStr>Newark Liberty Intl Arpt(EWR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EWR</code>
+    <DestinationName>Newark</DestinationName>
+    <DestinationStr>Newark(EWR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EWY</code>
+    <DestinationName>Newbury</DestinationName>
+    <DestinationStr>Newbury(EWY)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FNB</code>
+    <DestinationName>Neubrandenburg Arpt</DestinationName>
+    <DestinationStr>Neubrandenburg Arpt(FNB)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FNB</code>
+    <DestinationName>Neubrandenburg</DestinationName>
+    <DestinationStr>Neubrandenburg(FNB)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FNI</code>
+    <DestinationName>Nimes Airport</DestinationName>
+    <DestinationStr>Nimes Airport(FNI)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FNI</code>
+    <DestinationName>Nimes</DestinationName>
+    <DestinationStr>Nimes(FNI)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FOO</code>
+    <DestinationName>Numfoor</DestinationName>
+    <DestinationStr>Numfoor(FOO)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GER</code>
+    <DestinationName>Nueva Gerona</DestinationName>
+    <DestinationStr>Nueva Gerona(GER)-Cuba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GHA</code>
+    <DestinationName>Noumerate Arpt</DestinationName>
+    <DestinationStr>Noumerate Arpt(GHA)-Algeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GIB</code>
+    <DestinationName>North Front Arpt</DestinationName>
+    <DestinationStr>North Front Arpt(GIB)-Gibraltar</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GOH</code>
+    <DestinationName>Nuuk Arpt</DestinationName>
+    <DestinationStr>Nuuk Arpt(GOH)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GOH</code>
+    <DestinationName>Nuuk</DestinationName>
+    <DestinationStr>Nuuk(GOH)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GOJ</code>
+    <DestinationName>Nizhniy Novgorod Arpt</DestinationName>
+    <DestinationStr>Nizhniy Novgorod Arpt(GOJ)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GOJ</code>
+    <DestinationName>Nizhniy Novgorod</DestinationName>
+    <DestinationStr>Nizhniy Novgorod(GOJ)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GON</code>
+    <DestinationName>New London</DestinationName>
+    <DestinationStr>New London(GON)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GOV</code>
+    <DestinationName>Nhulunbuy Arpt</DestinationName>
+    <DestinationStr>Nhulunbuy Arpt(GOV)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HAN</code>
+    <DestinationName>Noibai Arpt</DestinationName>
+    <DestinationStr>Noibai Arpt(HAN)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HER</code>
+    <DestinationName>N Kazantzakis Arpt</DestinationName>
+    <DestinationStr>N Kazantzakis Arpt(HER)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HEZ</code>
+    <DestinationName>Natchez Adams Cty</DestinationName>
+    <DestinationStr>Natchez Adams Cty(HEZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HEZ</code>
+    <DestinationName>Natchez</DestinationName>
+    <DestinationStr>Natchez(HEZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HVN</code>
+    <DestinationName>New Haven</DestinationName>
+    <DestinationStr>New Haven(HVN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HWO</code>
+    <DestinationName>North Perry Arpt</DestinationName>
+    <DestinationStr>North Perry Arpt(HWO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IAG</code>
+    <DestinationName>Niagara Falls Intl Arpt</DestinationName>
+    <DestinationStr>Niagara Falls Intl Arpt(IAG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IAG</code>
+    <DestinationName>Niagara Falls</DestinationName>
+    <DestinationStr>Niagara Falls(IAG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ICK</code>
+    <DestinationName>Nieuw Nickerie</DestinationName>
+    <DestinationStr>Nieuw Nickerie(ICK)-Suriname</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IIS</code>
+    <DestinationName>Nissan</DestinationName>
+    <DestinationStr>Nissan(IIS)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IKO</code>
+    <DestinationName>Nikolski Afs</DestinationName>
+    <DestinationStr>Nikolski Afs(IKO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IKO</code>
+    <DestinationName>Nikolski</DestinationName>
+    <DestinationStr>Nikolski(IKO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ILM</code>
+    <DestinationName>New Hanover Cty Arpt</DestinationName>
+    <DestinationStr>New Hanover Cty Arpt(ILM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>INI</code>
+    <DestinationName>Nis Arpt</DestinationName>
+    <DestinationStr>Nis Arpt(INI)-Serbia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>INI</code>
+    <DestinationName>Nis Rs</DestinationName>
+    <DestinationStr>Nis Rs(INI)-Serbia</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>INU</code>
+    <DestinationName>Nauru Intl Arpt</DestinationName>
+    <DestinationStr>Nauru Intl Arpt(INU)-Nauru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>INU</code>
+    <DestinationName>Nauru Island</DestinationName>
+    <DestinationStr>Nauru Island(INU)-Nauru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ISK</code>
+    <DestinationName>Nasik</DestinationName>
+    <DestinationStr>Nasik(ISK)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IUE</code>
+    <DestinationName>Niue Island</DestinationName>
+    <DestinationStr>Niue Island(IUE)-Niue</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JBB</code>
+    <DestinationName>Noto Hadinegoro Arpt</DestinationName>
+    <DestinationStr>Noto Hadinegoro Arpt(JBB)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JNH</code>
+    <DestinationName>North Park Inn Heliport</DestinationName>
+    <DestinationStr>North Park Inn Heliport(JNH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JNN</code>
+    <DestinationName>Nanortalik Arpt</DestinationName>
+    <DestinationStr>Nanortalik Arpt(JNN)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JNN</code>
+    <DestinationName>Nanortalik</DestinationName>
+    <DestinationStr>Nanortalik(JNN)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JNP</code>
+    <DestinationName>Newport Beach Heliport</DestinationName>
+    <DestinationStr>Newport Beach Heliport(JNP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JNS</code>
+    <DestinationName>Narsaq Heleport</DestinationName>
+    <DestinationStr>Narsaq Heleport(JNS)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JNS</code>
+    <DestinationName>Narsaq</DestinationName>
+    <DestinationStr>Narsaq(JNS)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JNX</code>
+    <DestinationName>Naxos Arpt</DestinationName>
+    <DestinationStr>Naxos Arpt(JNX)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JNX</code>
+    <DestinationName>Naxos</DestinationName>
+    <DestinationStr>Naxos(JNX)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KDN</code>
+    <DestinationName>N Dende</DestinationName>
+    <DestinationStr>N Dende(KDN)-Gabon</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KEB</code>
+    <DestinationName>Nanwalek Arpt</DestinationName>
+    <DestinationStr>Nanwalek Arpt(KEB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KHN</code>
+    <DestinationName>Nanchang Arpt</DestinationName>
+    <DestinationStr>Nanchang Arpt(KHN)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KHN</code>
+    <DestinationName>Nanchang</DestinationName>
+    <DestinationStr>Nanchang(KHN)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KHV</code>
+    <DestinationName>Novyy Arpt</DestinationName>
+    <DestinationStr>Novyy Arpt(KHV)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KIJ</code>
+    <DestinationName>Niigata Arpt</DestinationName>
+    <DestinationStr>Niigata Arpt(KIJ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KIJ</code>
+    <DestinationName>Niigata</DestinationName>
+    <DestinationStr>Niigata(KIJ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KIN</code>
+    <DestinationName>Norman Manley Intl</DestinationName>
+    <DestinationStr>Norman Manley Intl(KIN)-Jamaica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KNW</code>
+    <DestinationName>New Stuyahok</DestinationName>
+    <DestinationStr>New Stuyahok(KNW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KOP</code>
+    <DestinationName>Nakhon Phanom Arpt</DestinationName>
+    <DestinationStr>Nakhon Phanom Arpt(KOP)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KOP</code>
+    <DestinationName>Nakhon Phanom</DestinationName>
+    <DestinationStr>Nakhon Phanom(KOP)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LAE</code>
+    <DestinationName>Nadzab Arpt</DestinationName>
+    <DestinationStr>Nadzab Arpt(LAE)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LBF</code>
+    <DestinationName>North Platte</DestinationName>
+    <DestinationStr>North Platte(LBF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LSV</code>
+    <DestinationName>Nellis Air Force Base</DestinationName>
+    <DestinationStr>Nellis Air Force Base(LSV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LZY</code>
+    <DestinationName>Nyingchi Mainling Arpt</DestinationName>
+    <DestinationStr>Nyingchi Mainling Arpt(LZY)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LZY</code>
+    <DestinationName>Nyingchi</DestinationName>
+    <DestinationStr>Nyingchi(LZY)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MGA</code>
+    <DestinationName>Nicaragua</DestinationName>
+    <DestinationStr>Nicaragua(MGA)-Nicaragua</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MNL</code>
+    <DestinationName>Ninoy Aquino Intl</DestinationName>
+    <DestinationStr>Ninoy Aquino Intl(MNL)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MSY</code>
+    <DestinationName>New Orleans</DestinationName>
+    <DestinationStr>New Orleans(MSY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MSZ</code>
+    <DestinationName>Namibe</DestinationName>
+    <DestinationStr>Namibe(MSZ)-Angola</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NAA</code>
+    <DestinationName>Narrabri Arpt</DestinationName>
+    <DestinationStr>Narrabri Arpt(NAA)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NAA</code>
+    <DestinationName>Narrabri</DestinationName>
+    <DestinationStr>Narrabri(NAA)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NAB</code>
+    <DestinationName>Albany Naval Air Station</DestinationName>
+    <DestinationStr>Albany Naval Air Station(NAB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NAC</code>
+    <DestinationName>Naracoorte Arpt</DestinationName>
+    <DestinationStr>Naracoorte Arpt(NAC)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NAC</code>
+    <DestinationName>Naracoorte</DestinationName>
+    <DestinationStr>Naracoorte(NAC)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NAG</code>
+    <DestinationName>Dr Ambedkar Intl Arpt</DestinationName>
+    <DestinationStr>Dr Ambedkar Intl Arpt(NAG)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NAG</code>
+    <DestinationName>Nagpur</DestinationName>
+    <DestinationStr>Nagpur(NAG)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NAH</code>
+    <DestinationName>Naha</DestinationName>
+    <DestinationStr>Naha(NAH)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NAJ</code>
+    <DestinationName>Nakchivan Airport</DestinationName>
+    <DestinationStr>Nakchivan Airport(NAJ)-Azerbaijan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NAJ</code>
+    <DestinationName>Nakchivan</DestinationName>
+    <DestinationStr>Nakchivan(NAJ)-Azerbaijan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NAK</code>
+    <DestinationName>Nakhon Ratchasima Arpt</DestinationName>
+    <DestinationStr>Nakhon Ratchasima Arpt(NAK)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NAK</code>
+    <DestinationName>Nakhon Ratchasima</DestinationName>
+    <DestinationStr>Nakhon Ratchasima(NAK)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NAL</code>
+    <DestinationName>Nalchik Arpt</DestinationName>
+    <DestinationStr>Nalchik Arpt(NAL)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NAL</code>
+    <DestinationName>Nalchik</DestinationName>
+    <DestinationStr>Nalchik(NAL)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NAM</code>
+    <DestinationName>Namlea Arpt</DestinationName>
+    <DestinationStr>Namlea Arpt(NAM)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NAM</code>
+    <DestinationName>Namlea</DestinationName>
+    <DestinationStr>Namlea(NAM)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NAN</code>
+    <DestinationName>Nadi Intl</DestinationName>
+    <DestinationStr>Nadi Intl(NAN)-Fiji Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NAN</code>
+    <DestinationName>Nadi</DestinationName>
+    <DestinationStr>Nadi(NAN)-Fiji Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NAO</code>
+    <DestinationName>Nanchong Arpt</DestinationName>
+    <DestinationStr>Nanchong Arpt(NAO)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NAO</code>
+    <DestinationName>Nanchong</DestinationName>
+    <DestinationStr>Nanchong(NAO)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NAP</code>
+    <DestinationName>Capodichino Arpt</DestinationName>
+    <DestinationStr>Capodichino Arpt(NAP)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NAP</code>
+    <DestinationName>Naples</DestinationName>
+    <DestinationStr>Naples(NAP)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NAP</code>
+    <DestinationName>Napoli</DestinationName>
+    <DestinationStr>Napoli(NAP)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NAR</code>
+    <DestinationName>Nare</DestinationName>
+    <DestinationStr>Nare(NAR)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NAR</code>
+    <DestinationName>Puerto Nare Airport</DestinationName>
+    <DestinationStr>Puerto Nare Airport(NAR)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NAS</code>
+    <DestinationName>Lynden Pindling Intl</DestinationName>
+    <DestinationStr>Lynden Pindling Intl(NAS)-Bahamas</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NAS</code>
+    <DestinationName>Nassau</DestinationName>
+    <DestinationStr>Nassau(NAS)-Bahamas</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NAT</code>
+    <DestinationName>Natal</DestinationName>
+    <DestinationStr>Natal(NAT)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NAT</code>
+    <DestinationName>Sao Goncalo Amarante Arpt</DestinationName>
+    <DestinationStr>Sao Goncalo Amarante Arpt(NAT)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NAU</code>
+    <DestinationName>Napuka Island</DestinationName>
+    <DestinationStr>Napuka Island(NAU)-French Polynesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NAV</code>
+    <DestinationName>Nevsehir Arpt</DestinationName>
+    <DestinationStr>Nevsehir Arpt(NAV)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NAV</code>
+    <DestinationName>Nevsehir</DestinationName>
+    <DestinationStr>Nevsehir(NAV)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NAW</code>
+    <DestinationName>Narathiwat Arpt</DestinationName>
+    <DestinationStr>Narathiwat Arpt(NAW)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NAW</code>
+    <DestinationName>Narathiwat</DestinationName>
+    <DestinationStr>Narathiwat(NAW)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NAY</code>
+    <DestinationName>Nanyuan Arpt</DestinationName>
+    <DestinationStr>Nanyuan Arpt(NAY)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NBC</code>
+    <DestinationName>Naberevnye Chelny</DestinationName>
+    <DestinationStr>Naberevnye Chelny(NBC)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NBC</code>
+    <DestinationName>Nijnekamsk Arpt</DestinationName>
+    <DestinationStr>Nijnekamsk Arpt(NBC)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NBE</code>
+    <DestinationName>Enfidha</DestinationName>
+    <DestinationStr>Enfidha(NBE)-Tunisia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NBE</code>
+    <DestinationName>Zine Elabidine Ben Ali</DestinationName>
+    <DestinationStr>Zine Elabidine Ben Ali(NBE)-Tunisia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NBG</code>
+    <DestinationName>Alvin Callendar Arpt</DestinationName>
+    <DestinationStr>Alvin Callendar Arpt(NBG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NBL</code>
+    <DestinationName>San Blas</DestinationName>
+    <DestinationStr>San Blas(NBL)-Panama</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NBO</code>
+    <DestinationName>Jomo Kenyatta Intl</DestinationName>
+    <DestinationStr>Jomo Kenyatta Intl(NBO)-Kenya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NBO</code>
+    <DestinationName>Nairobi</DestinationName>
+    <DestinationStr>Nairobi(NBO)-Kenya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NBP</code>
+    <DestinationName>Battery Pk City N Cov</DestinationName>
+    <DestinationStr>Battery Pk City N Cov(NBP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NBR</code>
+    <DestinationName>Nambour</DestinationName>
+    <DestinationStr>Nambour(NBR)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NBS</code>
+    <DestinationName>Baishan</DestinationName>
+    <DestinationStr>Baishan(NBS)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NBS</code>
+    <DestinationName>Changbaishan Airport</DestinationName>
+    <DestinationStr>Changbaishan Airport(NBS)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NBW</code>
+    <DestinationName>Guantanamo Mariana Grajales</DestinationName>
+    <DestinationStr>Guantanamo Mariana Grajales(NBW)-Cuba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NBX</code>
+    <DestinationName>Nabire</DestinationName>
+    <DestinationStr>Nabire(NBX)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NCA</code>
+    <DestinationName>North Caicos Municipal Arpt</DestinationName>
+    <DestinationStr>North Caicos Municipal Arpt(NCA)-Turks And Caicos Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NCA</code>
+    <DestinationName>North Caicos</DestinationName>
+    <DestinationStr>North Caicos(NCA)-Turks And Caicos Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NCE</code>
+    <DestinationName>Cote D Azur Arpt</DestinationName>
+    <DestinationStr>Cote D Azur Arpt(NCE)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NCE</code>
+    <DestinationName>Nice</DestinationName>
+    <DestinationStr>Nice(NCE)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NCH</code>
+    <DestinationName>Nachingwea</DestinationName>
+    <DestinationStr>Nachingwea(NCH)-Tanzania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NCI</code>
+    <DestinationName>Necocli Arpt</DestinationName>
+    <DestinationStr>Necocli Arpt(NCI)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NCI</code>
+    <DestinationName>Necocli</DestinationName>
+    <DestinationStr>Necocli(NCI)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NCL</code>
+    <DestinationName>Newcastle Arpt</DestinationName>
+    <DestinationStr>Newcastle Arpt(NCL)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NCL</code>
+    <DestinationName>Newcastle</DestinationName>
+    <DestinationStr>Newcastle(NCL)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NCP</code>
+    <DestinationName>Cubi Pt NAS</DestinationName>
+    <DestinationStr>Cubi Pt NAS(NCP)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NCQ</code>
+    <DestinationName>Marietta Atlanta Naval Air Station</DestinationName>
+    <DestinationStr>Marietta Atlanta Naval Air Station(NCQ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NCS</code>
+    <DestinationName>Newcastle Intl Arpt</DestinationName>
+    <DestinationStr>Newcastle Intl Arpt(NCS)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NCS</code>
+    <DestinationName>Newcastle</DestinationName>
+    <DestinationStr>Newcastle(NCS)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NCT</code>
+    <DestinationName>Nicoya</DestinationName>
+    <DestinationStr>Nicoya(NCT)-Costa Rica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NCU</code>
+    <DestinationName>Nukus Airport</DestinationName>
+    <DestinationStr>Nukus Airport(NCU)-Uzbekistan Sum</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NCU</code>
+    <DestinationName>Nukus</DestinationName>
+    <DestinationStr>Nukus(NCU)-Uzbekistan Sum</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NCY</code>
+    <DestinationName>Annecy Meythet Arpt</DestinationName>
+    <DestinationStr>Annecy Meythet Arpt(NCY)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NCY</code>
+    <DestinationName>Annecy</DestinationName>
+    <DestinationStr>Annecy(NCY)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NDA</code>
+    <DestinationName>Bandanaira</DestinationName>
+    <DestinationStr>Bandanaira(NDA)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NDB</code>
+    <DestinationName>Nouadhibou Arpt</DestinationName>
+    <DestinationStr>Nouadhibou Arpt(NDB)-Mauritania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NDB</code>
+    <DestinationName>Nouadhibou</DestinationName>
+    <DestinationStr>Nouadhibou(NDB)-Mauritania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NDC</code>
+    <DestinationName>Nanded Airport</DestinationName>
+    <DestinationStr>Nanded Airport(NDC)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NDC</code>
+    <DestinationName>Nanded</DestinationName>
+    <DestinationStr>Nanded(NDC)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NDD</code>
+    <DestinationName>Sumbe</DestinationName>
+    <DestinationStr>Sumbe(NDD)-Angola</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NDE</code>
+    <DestinationName>Mandera</DestinationName>
+    <DestinationStr>Mandera(NDE)-Kenya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NDG</code>
+    <DestinationName>Qiqihar Arpt</DestinationName>
+    <DestinationStr>Qiqihar Arpt(NDG)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NDG</code>
+    <DestinationName>Qiqihar</DestinationName>
+    <DestinationStr>Qiqihar(NDG)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NDJ</code>
+    <DestinationName>Chad</DestinationName>
+    <DestinationStr>Chad(NDJ)-Chad</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NDJ</code>
+    <DestinationName>N Djamena Arpt</DestinationName>
+    <DestinationStr>N Djamena Arpt(NDJ)-Chad</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NDJ</code>
+    <DestinationName>N Djamena</DestinationName>
+    <DestinationStr>N Djamena(NDJ)-Chad</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NDK</code>
+    <DestinationName>Namdrik Arpt</DestinationName>
+    <DestinationStr>Namdrik Arpt(NDK)-Marshall Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NDK</code>
+    <DestinationName>Namdrik</DestinationName>
+    <DestinationStr>Namdrik(NDK)-Marshall Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NDL</code>
+    <DestinationName>Ndele</DestinationName>
+    <DestinationStr>Ndele(NDL)-Central African Republic</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>NDO</code>
+    <DestinationName>La Palma del Condado</DestinationName>
+    <DestinationStr>La Palma del Condado(NDO)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NDP</code>
+    <DestinationName>Pensacola Ellyson Naval Air Station</DestinationName>
+    <DestinationStr>Pensacola Ellyson Naval Air Station(NDP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NDR</code>
+    <DestinationName>Nador Arpt</DestinationName>
+    <DestinationStr>Nador Arpt(NDR)-Morocco</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NDR</code>
+    <DestinationName>Nador</DestinationName>
+    <DestinationStr>Nador(NDR)-Morocco</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NDU</code>
+    <DestinationName>Rundu Airport</DestinationName>
+    <DestinationStr>Rundu Airport(NDU)-Namibia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NDU</code>
+    <DestinationName>Rundu</DestinationName>
+    <DestinationStr>Rundu(NDU)-Namibia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NDV</code>
+    <DestinationName>Anacostia Heliport Facility</DestinationName>
+    <DestinationStr>Anacostia Heliport Facility(NDV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NDV</code>
+    <DestinationName>Anacostia</DestinationName>
+    <DestinationStr>Anacostia(NDV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NDV</code>
+    <DestinationName>USN Heliport</DestinationName>
+    <DestinationStr>USN Heliport(NDV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NDY</code>
+    <DestinationName>Sanday Arpt</DestinationName>
+    <DestinationStr>Sanday Arpt(NDY)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NDY</code>
+    <DestinationName>Sanday</DestinationName>
+    <DestinationStr>Sanday(NDY)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NDZ</code>
+    <DestinationName>Cuxhaven Arpt</DestinationName>
+    <DestinationStr>Cuxhaven Arpt(NDZ)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NDZ</code>
+    <DestinationName>Nordholz Spieka</DestinationName>
+    <DestinationStr>Nordholz Spieka(NDZ)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NEC</code>
+    <DestinationName>Necochea</DestinationName>
+    <DestinationStr>Necochea(NEC)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NEG</code>
+    <DestinationName>Negril Arpt</DestinationName>
+    <DestinationStr>Negril Arpt(NEG)-Jamaica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NEG</code>
+    <DestinationName>Negril</DestinationName>
+    <DestinationStr>Negril(NEG)-Jamaica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NES</code>
+    <DestinationName>Skyports Inc Seaplane Base</DestinationName>
+    <DestinationStr>Skyports Inc Seaplane Base(NES)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NEV</code>
+    <DestinationName>Nevis</DestinationName>
+    <DestinationStr>Nevis(NEV)-St. Kitts - Nevis</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NEV</code>
+    <DestinationName>Vance W Amory Intl</DestinationName>
+    <DestinationStr>Vance W Amory Intl(NEV)-St. Kitts - Nevis</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NEW</code>
+    <DestinationName>New Lakefront Arpt</DestinationName>
+    <DestinationStr>New Lakefront Arpt(NEW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NFB</code>
+    <DestinationName>Detroit Naval Air Facility</DestinationName>
+    <DestinationStr>Detroit Naval Air Facility(NFB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NFG</code>
+    <DestinationName>Nefteyugansk Arpt</DestinationName>
+    <DestinationStr>Nefteyugansk Arpt(NFG)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NFG</code>
+    <DestinationName>Nefteyugansk</DestinationName>
+    <DestinationStr>Nefteyugansk(NFG)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NFL</code>
+    <DestinationName>Fallon Nas</DestinationName>
+    <DestinationStr>Fallon Nas(NFL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NFL</code>
+    <DestinationName>Fallon</DestinationName>
+    <DestinationStr>Fallon(NFL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NGA</code>
+    <DestinationName>Young Arpt</DestinationName>
+    <DestinationStr>Young Arpt(NGA)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NGA</code>
+    <DestinationName>Young</DestinationName>
+    <DestinationStr>Young(NGA)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NGB</code>
+    <DestinationName>Ningbo Arpt</DestinationName>
+    <DestinationStr>Ningbo Arpt(NGB)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NGB</code>
+    <DestinationName>Ningbo</DestinationName>
+    <DestinationStr>Ningbo(NGB)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NGC</code>
+    <DestinationName>Grand Canyon North Rim Arpt</DestinationName>
+    <DestinationStr>Grand Canyon North Rim Arpt(NGC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NGC</code>
+    <DestinationName>North Grand Canyon</DestinationName>
+    <DestinationStr>North Grand Canyon(NGC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NGD</code>
+    <DestinationName>Anegada</DestinationName>
+    <DestinationStr>Anegada(NGD)-British Virgin Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NGE</code>
+    <DestinationName>N Gaoundere Arpt</DestinationName>
+    <DestinationStr>N Gaoundere Arpt(NGE)-Cameroon, United Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NGE</code>
+    <DestinationName>N Gaoundere</DestinationName>
+    <DestinationStr>N Gaoundere(NGE)-Cameroon, United Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NGM</code>
+    <DestinationName>Agana NAS</DestinationName>
+    <DestinationStr>Agana NAS(NGM)-Guam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NGO</code>
+    <DestinationName>Chubu Centrair Intl Arpt</DestinationName>
+    <DestinationStr>Chubu Centrair Intl Arpt(NGO)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NGO</code>
+    <DestinationName>Nagoya</DestinationName>
+    <DestinationStr>Nagoya(NGO)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NGP</code>
+    <DestinationName>Corpus Christi Naval Air Station</DestinationName>
+    <DestinationStr>Corpus Christi Naval Air Station(NGP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NGQ</code>
+    <DestinationName>Ali Airport</DestinationName>
+    <DestinationStr>Ali Airport(NGQ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NGQ</code>
+    <DestinationName>Shi Quan He</DestinationName>
+    <DestinationStr>Shi Quan He(NGQ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NGS</code>
+    <DestinationName>Nagasaki Airport</DestinationName>
+    <DestinationStr>Nagasaki Airport(NGS)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NGS</code>
+    <DestinationName>Nagasaki</DestinationName>
+    <DestinationStr>Nagasaki(NGS)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NGU</code>
+    <DestinationName>Naval Air Station Chambers</DestinationName>
+    <DestinationStr>Naval Air Station Chambers(NGU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NGW</code>
+    <DestinationName>Cabaniss Field Arpt</DestinationName>
+    <DestinationStr>Cabaniss Field Arpt(NGW)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>NGZ</code>
+    <DestinationName>Alameda Naval Air Station</DestinationName>
+    <DestinationStr>Alameda Naval Air Station(NGZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NHA</code>
+    <DestinationName>Nha Trang Arpt</DestinationName>
+    <DestinationStr>Nha Trang Arpt(NHA)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NHA</code>
+    <DestinationName>Nha Trang</DestinationName>
+    <DestinationStr>Nha Trang(NHA)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NHK</code>
+    <DestinationName>Patuxent River</DestinationName>
+    <DestinationStr>Patuxent River(NHK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NHT</code>
+    <DestinationName>Northolt</DestinationName>
+    <DestinationStr>Northolt(NHT)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NHV</code>
+    <DestinationName>Nuku Hiva Airport</DestinationName>
+    <DestinationStr>Nuku Hiva Airport(NHV)-French Polynesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NHV</code>
+    <DestinationName>Nuku Hiva</DestinationName>
+    <DestinationStr>Nuku Hiva(NHV)-French Polynesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NHX</code>
+    <DestinationName>Foley</DestinationName>
+    <DestinationStr>Foley(NHX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NHZ</code>
+    <DestinationName>Brunswick</DestinationName>
+    <DestinationStr>Brunswick(NHZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NHZ</code>
+    <DestinationName>Naval Air Station</DestinationName>
+    <DestinationStr>Naval Air Station(NHZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NIB</code>
+    <DestinationName>Nikolai</DestinationName>
+    <DestinationStr>Nikolai(NIB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NIC</code>
+    <DestinationName>Nicosia Airport</DestinationName>
+    <DestinationStr>Nicosia Airport(NIC)-Cyprus</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NIC</code>
+    <DestinationName>Nicosia</DestinationName>
+    <DestinationStr>Nicosia(NIC)-Cyprus</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NIG</code>
+    <DestinationName>Nizunau</DestinationName>
+    <DestinationStr>Nizunau(NIG)-Kiribati</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NIM</code>
+    <DestinationName>Niamey Airport</DestinationName>
+    <DestinationStr>Niamey Airport(NIM)-Niger</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NIM</code>
+    <DestinationName>Niamey</DestinationName>
+    <DestinationStr>Niamey(NIM)-Niger</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NIM</code>
+    <DestinationName>Niger</DestinationName>
+    <DestinationStr>Niger(NIM)-Niger</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NIN</code>
+    <DestinationName>Ninilchik Arpt</DestinationName>
+    <DestinationStr>Ninilchik Arpt(NIN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NIN</code>
+    <DestinationName>Ninilchik</DestinationName>
+    <DestinationStr>Ninilchik(NIN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NIP</code>
+    <DestinationName>Jacksonville Nas</DestinationName>
+    <DestinationStr>Jacksonville Nas(NIP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NIR</code>
+    <DestinationName>Beeville</DestinationName>
+    <DestinationStr>Beeville(NIR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NIS</code>
+    <DestinationName>Simberi</DestinationName>
+    <DestinationStr>Simberi(NIS)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NIT</code>
+    <DestinationName>Niort</DestinationName>
+    <DestinationStr>Niort(NIT)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NIT</code>
+    <DestinationName>Souche Airport</DestinationName>
+    <DestinationStr>Souche Airport(NIT)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NIX</code>
+    <DestinationName>Nioro</DestinationName>
+    <DestinationStr>Nioro(NIX)-Mali</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NJA</code>
+    <DestinationName>Atsugi Naval Air Station</DestinationName>
+    <DestinationStr>Atsugi Naval Air Station(NJA)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NJA</code>
+    <DestinationName>Atsugi</DestinationName>
+    <DestinationStr>Atsugi(NJA)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NJC</code>
+    <DestinationName>Nizhnevartovsk Arpt</DestinationName>
+    <DestinationStr>Nizhnevartovsk Arpt(NJC)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NJC</code>
+    <DestinationName>Nizhnevartovsk</DestinationName>
+    <DestinationStr>Nizhnevartovsk(NJC)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NJF</code>
+    <DestinationName>Al Najaf</DestinationName>
+    <DestinationStr>Al Najaf(NJF)-Iraq</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NJF</code>
+    <DestinationName>Najaf International Arpt</DestinationName>
+    <DestinationStr>Najaf International Arpt(NJF)-Iraq</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NJK</code>
+    <DestinationName>El Centro Naval Air Facility</DestinationName>
+    <DestinationStr>El Centro Naval Air Facility(NJK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NKC</code>
+    <DestinationName>Nouakchott Arpt</DestinationName>
+    <DestinationStr>Nouakchott Arpt(NKC)-Mauritania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NKC</code>
+    <DestinationName>Nouakchott</DestinationName>
+    <DestinationStr>Nouakchott(NKC)-Mauritania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NKG</code>
+    <DestinationName>Nanjing Arpt</DestinationName>
+    <DestinationStr>Nanjing Arpt(NKG)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NKG</code>
+    <DestinationName>Nanjing</DestinationName>
+    <DestinationStr>Nanjing(NKG)-China</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>NKM</code>
+    <DestinationName>Nagoya Komaki Arpt</DestinationName>
+    <DestinationStr>Nagoya Komaki Arpt(NKM)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NKU</code>
+    <DestinationName>Nkaus</DestinationName>
+    <DestinationStr>Nkaus(NKU)-Lesotho</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NKX</code>
+    <DestinationName>San Diego Miramar Naval Air Station</DestinationName>
+    <DestinationStr>San Diego Miramar Naval Air Station(NKX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NKY</code>
+    <DestinationName>Nkayi</DestinationName>
+    <DestinationStr>Nkayi(NKY)-Congo</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NLA</code>
+    <DestinationName>N Dola</DestinationName>
+    <DestinationStr>N Dola(NLA)-Zambia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NLA</code>
+    <DestinationName>Ndola Arpt</DestinationName>
+    <DestinationStr>Ndola Arpt(NLA)-Zambia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NLC</code>
+    <DestinationName>Lemoore</DestinationName>
+    <DestinationStr>Lemoore(NLC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NLC</code>
+    <DestinationName>Nas Reeves Field</DestinationName>
+    <DestinationStr>Nas Reeves Field(NLC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NLD</code>
+    <DestinationName>Nuevo Laredo</DestinationName>
+    <DestinationStr>Nuevo Laredo(NLD)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NLD</code>
+    <DestinationName>Quetzalcoatl International</DestinationName>
+    <DestinationStr>Quetzalcoatl International(NLD)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NLF</code>
+    <DestinationName>Darnley Island</DestinationName>
+    <DestinationStr>Darnley Island(NLF)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NLG</code>
+    <DestinationName>Nelson Lagoon Arpt</DestinationName>
+    <DestinationStr>Nelson Lagoon Arpt(NLG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NLG</code>
+    <DestinationName>Nelson Lagoon</DestinationName>
+    <DestinationStr>Nelson Lagoon(NLG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NLK</code>
+    <DestinationName>Norfolk Island Intl Arpt</DestinationName>
+    <DestinationStr>Norfolk Island Intl Arpt(NLK)-Norfolk Island</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NLK</code>
+    <DestinationName>Norfolk Island</DestinationName>
+    <DestinationStr>Norfolk Island(NLK)-Norfolk Island</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NLL</code>
+    <DestinationName>Nullagine</DestinationName>
+    <DestinationStr>Nullagine(NLL)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NLO</code>
+    <DestinationName>N Dolo Airport</DestinationName>
+    <DestinationStr>N Dolo Airport(NLO)-Congo Democratic Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NLP</code>
+    <DestinationName>Nelspruit Airport</DestinationName>
+    <DestinationStr>Nelspruit Airport(NLP)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NLP</code>
+    <DestinationName>Nelspruit</DestinationName>
+    <DestinationStr>Nelspruit(NLP)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NLT</code>
+    <DestinationName>Xinyuan City Nalati Airport</DestinationName>
+    <DestinationStr>Xinyuan City Nalati Airport(NLT)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NLT</code>
+    <DestinationName>Xinyuan City</DestinationName>
+    <DestinationStr>Xinyuan City(NLT)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NLU</code>
+    <DestinationName>Mexico City Santa Lucia AFB</DestinationName>
+    <DestinationStr>Mexico City Santa Lucia AFB(NLU)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NLV</code>
+    <DestinationName>Nikolaev Arpt</DestinationName>
+    <DestinationStr>Nikolaev Arpt(NLV)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NLV</code>
+    <DestinationName>Nikolaev</DestinationName>
+    <DestinationStr>Nikolaev(NLV)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NMA</code>
+    <DestinationName>Namangan Airport</DestinationName>
+    <DestinationStr>Namangan Airport(NMA)-Uzbekistan Sum</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NMA</code>
+    <DestinationName>Namangan</DestinationName>
+    <DestinationStr>Namangan(NMA)-Uzbekistan Sum</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NMB</code>
+    <DestinationName>Daman Airport</DestinationName>
+    <DestinationStr>Daman Airport(NMB)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NMB</code>
+    <DestinationName>Daman</DestinationName>
+    <DestinationStr>Daman(NMB)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NME</code>
+    <DestinationName>Nightmute</DestinationName>
+    <DestinationStr>Nightmute(NME)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NMG</code>
+    <DestinationName>San Miguel</DestinationName>
+    <DestinationStr>San Miguel(NMG)-Panama</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NNB</code>
+    <DestinationName>Santa Ana</DestinationName>
+    <DestinationStr>Santa Ana(NNB)-Solomon Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NNG</code>
+    <DestinationName>Nanning Arpt</DestinationName>
+    <DestinationStr>Nanning Arpt(NNG)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NNG</code>
+    <DestinationName>Nanning</DestinationName>
+    <DestinationStr>Nanning(NNG)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NNK</code>
+    <DestinationName>Naknek</DestinationName>
+    <DestinationStr>Naknek(NNK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NNL</code>
+    <DestinationName>Nondalton Arpt</DestinationName>
+    <DestinationStr>Nondalton Arpt(NNL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NNL</code>
+    <DestinationName>Nondalton</DestinationName>
+    <DestinationStr>Nondalton(NNL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NNM</code>
+    <DestinationName>Naryan Mar Airport</DestinationName>
+    <DestinationStr>Naryan Mar Airport(NNM)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NNM</code>
+    <DestinationName>Naryan Mar</DestinationName>
+    <DestinationStr>Naryan Mar(NNM)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NNR</code>
+    <DestinationName>Connemara Arpt</DestinationName>
+    <DestinationStr>Connemara Arpt(NNR)-Ireland, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NNR</code>
+    <DestinationName>Spiddal</DestinationName>
+    <DestinationStr>Spiddal(NNR)-Ireland, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NNT</code>
+    <DestinationName>Nan Arpt</DestinationName>
+    <DestinationStr>Nan Arpt(NNT)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NNT</code>
+    <DestinationName>Nan Th</DestinationName>
+    <DestinationStr>Nan Th(NNT)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NNY</code>
+    <DestinationName>Nanyang Airport</DestinationName>
+    <DestinationStr>Nanyang Airport(NNY)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NNY</code>
+    <DestinationName>Nanyang</DestinationName>
+    <DestinationStr>Nanyang(NNY)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NOA</code>
+    <DestinationName>Nowra Arpt</DestinationName>
+    <DestinationStr>Nowra Arpt(NOA)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NOA</code>
+    <DestinationName>Nowra</DestinationName>
+    <DestinationStr>Nowra(NOA)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NOB</code>
+    <DestinationName>Nosara Arpt</DestinationName>
+    <DestinationStr>Nosara Arpt(NOB)-Costa Rica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NOB</code>
+    <DestinationName>Nosara Beach</DestinationName>
+    <DestinationStr>Nosara Beach(NOB)-Costa Rica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NOC</code>
+    <DestinationName>Knock International</DestinationName>
+    <DestinationStr>Knock International(NOC)-Ireland, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NOC</code>
+    <DestinationName>Knock</DestinationName>
+    <DestinationStr>Knock(NOC)-Ireland, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NOG</code>
+    <DestinationName>Nogales Intl</DestinationName>
+    <DestinationStr>Nogales Intl(NOG)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NOG</code>
+    <DestinationName>Nogales</DestinationName>
+    <DestinationStr>Nogales(NOG)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NOJ</code>
+    <DestinationName>Nojabrxsk Arpt</DestinationName>
+    <DestinationStr>Nojabrxsk Arpt(NOJ)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NOJ</code>
+    <DestinationName>Nojabrxsk</DestinationName>
+    <DestinationStr>Nojabrxsk(NOJ)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NOJ</code>
+    <DestinationName>Noyabrsk</DestinationName>
+    <DestinationStr>Noyabrsk(NOJ)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NOM</code>
+    <DestinationName>Nomad River</DestinationName>
+    <DestinationStr>Nomad River(NOM)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NON</code>
+    <DestinationName>Nonouti</DestinationName>
+    <DestinationStr>Nonouti(NON)-Kiribati</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NOO</code>
+    <DestinationName>Naoro</DestinationName>
+    <DestinationStr>Naoro(NOO)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NOP</code>
+    <DestinationName>Sinop Arpt</DestinationName>
+    <DestinationStr>Sinop Arpt(NOP)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NOP</code>
+    <DestinationName>SINOP</DestinationName>
+    <DestinationStr>SINOP(NOP)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NOR</code>
+    <DestinationName>Nordfjordur</DestinationName>
+    <DestinationStr>Nordfjordur(NOR)-Iceland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NOS</code>
+    <DestinationName>Fascene Arpt</DestinationName>
+    <DestinationStr>Fascene Arpt(NOS)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NOS</code>
+    <DestinationName>Nossi Be</DestinationName>
+    <DestinationStr>Nossi Be(NOS)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NOT</code>
+    <DestinationName>Novato Arpt</DestinationName>
+    <DestinationStr>Novato Arpt(NOT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NOT</code>
+    <DestinationName>Novato</DestinationName>
+    <DestinationStr>Novato(NOT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NOU</code>
+    <DestinationName>Noumea La Tontouta Arpt</DestinationName>
+    <DestinationStr>Noumea La Tontouta Arpt(NOU)-New Caledonia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NOU</code>
+    <DestinationName>Noumea</DestinationName>
+    <DestinationStr>Noumea(NOU)-New Caledonia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NOV</code>
+    <DestinationName>Huambo</DestinationName>
+    <DestinationStr>Huambo(NOV)-Angola</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NOZ</code>
+    <DestinationName>Novokuznetsk Arpt</DestinationName>
+    <DestinationStr>Novokuznetsk Arpt(NOZ)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NOZ</code>
+    <DestinationName>Novokuznetsk</DestinationName>
+    <DestinationStr>Novokuznetsk(NOZ)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NPA</code>
+    <DestinationName>Pensacola Naval Air Station</DestinationName>
+    <DestinationStr>Pensacola Naval Air Station(NPA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NPE</code>
+    <DestinationName>Hawkes Bay Arpt</DestinationName>
+    <DestinationStr>Hawkes Bay Arpt(NPE)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NPE</code>
+    <DestinationName>Napier Hastings</DestinationName>
+    <DestinationStr>Napier Hastings(NPE)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NPL</code>
+    <DestinationName>New Plymouth Arpt</DestinationName>
+    <DestinationStr>New Plymouth Arpt(NPL)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NPL</code>
+    <DestinationName>New Plymouth</DestinationName>
+    <DestinationStr>New Plymouth(NPL)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NPR</code>
+    <DestinationName>Novo Progresso</DestinationName>
+    <DestinationStr>Novo Progresso(NPR)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NPT</code>
+    <DestinationName>Newport State Arpt</DestinationName>
+    <DestinationStr>Newport State Arpt(NPT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NPT</code>
+    <DestinationName>Newport</DestinationName>
+    <DestinationStr>Newport(NPT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NQA</code>
+    <DestinationName>Memphis Naval Air Station</DestinationName>
+    <DestinationStr>Memphis Naval Air Station(NQA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NQI</code>
+    <DestinationName>Kingsville</DestinationName>
+    <DestinationStr>Kingsville(NQI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NQI</code>
+    <DestinationName>Naval Air Station Arpt</DestinationName>
+    <DestinationStr>Naval Air Station Arpt(NQI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NQN</code>
+    <DestinationName>Neuquen</DestinationName>
+    <DestinationStr>Neuquen(NQN)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NQN</code>
+    <DestinationName>Presidente Peron Arpt</DestinationName>
+    <DestinationStr>Presidente Peron Arpt(NQN)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NQT</code>
+    <DestinationName>Nottingham Arpt</DestinationName>
+    <DestinationStr>Nottingham Arpt(NQT)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NQT</code>
+    <DestinationName>Nottingham Uk</DestinationName>
+    <DestinationStr>Nottingham Uk(NQT)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NQU</code>
+    <DestinationName>Nuqui</DestinationName>
+    <DestinationStr>Nuqui(NQU)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NQU</code>
+    <DestinationName>Reyes Murillo Arpt</DestinationName>
+    <DestinationStr>Reyes Murillo Arpt(NQU)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NQX</code>
+    <DestinationName>Key West Naval Air Station Arpt</DestinationName>
+    <DestinationStr>Key West Naval Air Station Arpt(NQX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NQY</code>
+    <DestinationName>Newquay Civil Arpt</DestinationName>
+    <DestinationStr>Newquay Civil Arpt(NQY)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NQY</code>
+    <DestinationName>Newquay</DestinationName>
+    <DestinationStr>Newquay(NQY)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NQY</code>
+    <DestinationName>Saint Mawgan Newqual Civil</DestinationName>
+    <DestinationStr>Saint Mawgan Newqual Civil(NQY)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NRA</code>
+    <DestinationName>Narrandera Arpt</DestinationName>
+    <DestinationStr>Narrandera Arpt(NRA)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NRA</code>
+    <DestinationName>Narrandera</DestinationName>
+    <DestinationStr>Narrandera(NRA)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NRC</code>
+    <DestinationName>Aux Field Arpt</DestinationName>
+    <DestinationStr>Aux Field Arpt(NRC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NRC</code>
+    <DestinationName>Crows Landing</DestinationName>
+    <DestinationStr>Crows Landing(NRC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NRD</code>
+    <DestinationName>Norderney</DestinationName>
+    <DestinationStr>Norderney(NRD)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NRK</code>
+    <DestinationName>Kungsangen Arpt</DestinationName>
+    <DestinationStr>Kungsangen Arpt(NRK)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NRK</code>
+    <DestinationName>Norrkoping</DestinationName>
+    <DestinationStr>Norrkoping(NRK)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NRL</code>
+    <DestinationName>North Ronaldsay Arpt</DestinationName>
+    <DestinationStr>North Ronaldsay Arpt(NRL)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NRL</code>
+    <DestinationName>North Ronaldsay</DestinationName>
+    <DestinationStr>North Ronaldsay(NRL)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NRN</code>
+    <DestinationName>Niederrhein Arpt</DestinationName>
+    <DestinationStr>Niederrhein Arpt(NRN)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NRS</code>
+    <DestinationName>Imperial Beach</DestinationName>
+    <DestinationStr>Imperial Beach(NRS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NRS</code>
+    <DestinationName>Naval Air Station Airport</DestinationName>
+    <DestinationStr>Naval Air Station Airport(NRS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NRT</code>
+    <DestinationName>Narita</DestinationName>
+    <DestinationStr>Narita(NRT)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NRV</code>
+    <DestinationName>USCG Shore Street Guam</DestinationName>
+    <DestinationStr>USCG Shore Street Guam(NRV)-Guam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NSA</code>
+    <DestinationName>Noosa Airport</DestinationName>
+    <DestinationStr>Noosa Airport(NSA)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NSA</code>
+    <DestinationName>Noosa</DestinationName>
+    <DestinationStr>Noosa(NSA)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NSB</code>
+    <DestinationName>Bimini North Seaplane Base</DestinationName>
+    <DestinationStr>Bimini North Seaplane Base(NSB)-Bahamas</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NSE</code>
+    <DestinationName>Milton</DestinationName>
+    <DestinationStr>Milton(NSE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NSE</code>
+    <DestinationName>Whiting Field Nas</DestinationName>
+    <DestinationStr>Whiting Field Nas(NSE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NSF</code>
+    <DestinationName>Camp Springs Andrew Air Force Base</DestinationName>
+    <DestinationStr>Camp Springs Andrew Air Force Base(NSF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NSI</code>
+    <DestinationName>Nsimalen Arpt</DestinationName>
+    <DestinationStr>Nsimalen Arpt(NSI)-Cameroon, United Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NSK</code>
+    <DestinationName>Norilsk Arpt</DestinationName>
+    <DestinationStr>Norilsk Arpt(NSK)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NSK</code>
+    <DestinationName>Norilsk</DestinationName>
+    <DestinationStr>Norilsk(NSK)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NSM</code>
+    <DestinationName>Norseman Arpt</DestinationName>
+    <DestinationStr>Norseman Arpt(NSM)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NSM</code>
+    <DestinationName>Norseman</DestinationName>
+    <DestinationStr>Norseman(NSM)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NSN</code>
+    <DestinationName>Nelson Arpt</DestinationName>
+    <DestinationStr>Nelson Arpt(NSN)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NSN</code>
+    <DestinationName>Nelson</DestinationName>
+    <DestinationStr>Nelson(NSN)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NSO</code>
+    <DestinationName>Scone Airport</DestinationName>
+    <DestinationStr>Scone Airport(NSO)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NSO</code>
+    <DestinationName>Scone</DestinationName>
+    <DestinationStr>Scone(NSO)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NST</code>
+    <DestinationName>Nakhon Si Thammarat Arpt</DestinationName>
+    <DestinationStr>Nakhon Si Thammarat Arpt(NST)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NST</code>
+    <DestinationName>Nakhon Si Thammarat</DestinationName>
+    <DestinationStr>Nakhon Si Thammarat(NST)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NSV</code>
+    <DestinationName>Noosaville</DestinationName>
+    <DestinationStr>Noosaville(NSV)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NTB</code>
+    <DestinationName>Notodden Arpt</DestinationName>
+    <DestinationStr>Notodden Arpt(NTB)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NTB</code>
+    <DestinationName>Notodden</DestinationName>
+    <DestinationStr>Notodden(NTB)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NTD</code>
+    <DestinationName>Point Mugu</DestinationName>
+    <DestinationStr>Point Mugu(NTD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NTD</code>
+    <DestinationName>Port Hueneme</DestinationName>
+    <DestinationStr>Port Hueneme(NTD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NTE</code>
+    <DestinationName>Nantes Atlantique</DestinationName>
+    <DestinationStr>Nantes Atlantique(NTE)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NTE</code>
+    <DestinationName>Nantes</DestinationName>
+    <DestinationStr>Nantes(NTE)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NTG</code>
+    <DestinationName>Nantong Arpt</DestinationName>
+    <DestinationStr>Nantong Arpt(NTG)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NTG</code>
+    <DestinationName>Nantong</DestinationName>
+    <DestinationStr>Nantong(NTG)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NTI</code>
+    <DestinationName>Bintuni</DestinationName>
+    <DestinationStr>Bintuni(NTI)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NTL</code>
+    <DestinationName>Newcastle</DestinationName>
+    <DestinationStr>Newcastle(NTL)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NTL</code>
+    <DestinationName>Williamtown Arpt</DestinationName>
+    <DestinationStr>Williamtown Arpt(NTL)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NTN</code>
+    <DestinationName>Normanton Arpt</DestinationName>
+    <DestinationStr>Normanton Arpt(NTN)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NTN</code>
+    <DestinationName>Normanton</DestinationName>
+    <DestinationStr>Normanton(NTN)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NTO</code>
+    <DestinationName>Santo Antao Arpt</DestinationName>
+    <DestinationStr>Santo Antao Arpt(NTO)-Cape Verde, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NTO</code>
+    <DestinationName>Santo Antao</DestinationName>
+    <DestinationStr>Santo Antao(NTO)-Cape Verde, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NTQ</code>
+    <DestinationName>Wajima Airport</DestinationName>
+    <DestinationStr>Wajima Airport(NTQ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NTQ</code>
+    <DestinationName>WAJIMA</DestinationName>
+    <DestinationStr>WAJIMA(NTQ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NTR</code>
+    <DestinationName>Del Norte International</DestinationName>
+    <DestinationStr>Del Norte International(NTR)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NTT</code>
+    <DestinationName>Niuatoputapu</DestinationName>
+    <DestinationStr>Niuatoputapu(NTT)-Tonga</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NTY</code>
+    <DestinationName>Pilansberg Arpt</DestinationName>
+    <DestinationStr>Pilansberg Arpt(NTY)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NTY</code>
+    <DestinationName>Sun City</DestinationName>
+    <DestinationStr>Sun City(NTY)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NUA</code>
+    <DestinationName>Gregorys Lake Airport</DestinationName>
+    <DestinationStr>Gregorys Lake Airport(NUA)-Sri Lanka</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NUA</code>
+    <DestinationName>Nuwara Eliya</DestinationName>
+    <DestinationStr>Nuwara Eliya(NUA)-Sri Lanka</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NUE</code>
+    <DestinationName>Nuernberg Arpt</DestinationName>
+    <DestinationStr>Nuernberg Arpt(NUE)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NUE</code>
+    <DestinationName>NUERNBERG</DestinationName>
+    <DestinationStr>NUERNBERG(NUE)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NUE</code>
+    <DestinationName>Nuremberg Arpt</DestinationName>
+    <DestinationStr>Nuremberg Arpt(NUE)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NUE</code>
+    <DestinationName>Nuremberg</DestinationName>
+    <DestinationStr>Nuremberg(NUE)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NUI</code>
+    <DestinationName>Nuiqsut</DestinationName>
+    <DestinationStr>Nuiqsut(NUI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NUJ</code>
+    <DestinationName>Nogeh Airport</DestinationName>
+    <DestinationStr>Nogeh Airport(NUJ)-Iran</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NUJ</code>
+    <DestinationName>Nogeh</DestinationName>
+    <DestinationStr>Nogeh(NUJ)-Iran</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NUK</code>
+    <DestinationName>Nukutavake</DestinationName>
+    <DestinationStr>Nukutavake(NUK)-French Polynesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NUL</code>
+    <DestinationName>Nulato Arpt</DestinationName>
+    <DestinationStr>Nulato Arpt(NUL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NUL</code>
+    <DestinationName>Nulato</DestinationName>
+    <DestinationStr>Nulato(NUL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NUN</code>
+    <DestinationName>Saufley Field Naval Outlying Field</DestinationName>
+    <DestinationStr>Saufley Field Naval Outlying Field(NUN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NUP</code>
+    <DestinationName>Nunapitchuk</DestinationName>
+    <DestinationStr>Nunapitchuk(NUP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NUQ</code>
+    <DestinationName>Moffett Field</DestinationName>
+    <DestinationStr>Moffett Field(NUQ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NUQ</code>
+    <DestinationName>Mountain View</DestinationName>
+    <DestinationStr>Mountain View(NUQ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NUR</code>
+    <DestinationName>Nullarbor Arpt</DestinationName>
+    <DestinationStr>Nullarbor Arpt(NUR)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NUR</code>
+    <DestinationName>Nullarbor</DestinationName>
+    <DestinationStr>Nullarbor(NUR)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NUS</code>
+    <DestinationName>Norsup Airport</DestinationName>
+    <DestinationStr>Norsup Airport(NUS)-Vanuatu</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NUS</code>
+    <DestinationName>Norsup</DestinationName>
+    <DestinationStr>Norsup(NUS)-Vanuatu</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NUU</code>
+    <DestinationName>Nakuru Airport</DestinationName>
+    <DestinationStr>Nakuru Airport(NUU)-Kenya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NUU</code>
+    <DestinationName>Nakuru</DestinationName>
+    <DestinationStr>Nakuru(NUU)-Kenya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NUW</code>
+    <DestinationName>Whidbey Island</DestinationName>
+    <DestinationStr>Whidbey Island(NUW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NUX</code>
+    <DestinationName>Novy Urengoy Arpt</DestinationName>
+    <DestinationStr>Novy Urengoy Arpt(NUX)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NUX</code>
+    <DestinationName>Novy Urengoy</DestinationName>
+    <DestinationStr>Novy Urengoy(NUX)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NVA</code>
+    <DestinationName>Benito Sales Arpt</DestinationName>
+    <DestinationStr>Benito Sales Arpt(NVA)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NVA</code>
+    <DestinationName>Neiva</DestinationName>
+    <DestinationStr>Neiva(NVA)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NVD</code>
+    <DestinationName>Nevada</DestinationName>
+    <DestinationStr>Nevada(NVD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NVI</code>
+    <DestinationName>Navoi Airport</DestinationName>
+    <DestinationStr>Navoi Airport(NVI)-Uzbekistan Sum</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NVI</code>
+    <DestinationName>Navoi</DestinationName>
+    <DestinationStr>Navoi(NVI)-Uzbekistan Sum</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NVK</code>
+    <DestinationName>Framnes Arpt</DestinationName>
+    <DestinationStr>Framnes Arpt(NVK)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NVK</code>
+    <DestinationName>Narvik</DestinationName>
+    <DestinationStr>Narvik(NVK)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NVN</code>
+    <DestinationName>Beckwourth</DestinationName>
+    <DestinationStr>Beckwourth(NVN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NVR</code>
+    <DestinationName>Novgorod</DestinationName>
+    <DestinationStr>Novgorod(NVR)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NVS</code>
+    <DestinationName>Nevers Arpt</DestinationName>
+    <DestinationStr>Nevers Arpt(NVS)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NVS</code>
+    <DestinationName>Nevers</DestinationName>
+    <DestinationStr>Nevers(NVS)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NVT</code>
+    <DestinationName>Navegantes Arpt</DestinationName>
+    <DestinationStr>Navegantes Arpt(NVT)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NVT</code>
+    <DestinationName>Navegantes</DestinationName>
+    <DestinationStr>Navegantes(NVT)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NVY</code>
+    <DestinationName>NEYVELI</DestinationName>
+    <DestinationStr>NEYVELI(NVY)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NWA</code>
+    <DestinationName>Moheli</DestinationName>
+    <DestinationStr>Moheli(NWA)-Comoros</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NWI</code>
+    <DestinationName>Norwich Airport</DestinationName>
+    <DestinationStr>Norwich Airport(NWI)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NWI</code>
+    <DestinationName>Norwich</DestinationName>
+    <DestinationStr>Norwich(NWI)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>NWS</code>
+    <DestinationName>Pier 11 Wall St Seaplane Base</DestinationName>
+    <DestinationStr>Pier 11 Wall St Seaplane Base(NWS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NWT</code>
+    <DestinationName>Nowata</DestinationName>
+    <DestinationStr>Nowata(NWT)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NWU</code>
+    <DestinationName>Bermuda Naval Air Station</DestinationName>
+    <DestinationStr>Bermuda Naval Air Station(NWU)-Bermuda</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NYA</code>
+    <DestinationName>Nyagan Arpt</DestinationName>
+    <DestinationStr>Nyagan Arpt(NYA)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NYA</code>
+    <DestinationName>Nyagan</DestinationName>
+    <DestinationStr>Nyagan(NYA)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NYC</code>
+    <DestinationName>New York City</DestinationName>
+    <DestinationStr>New York City(NYC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NYC</code>
+    <DestinationName>New York</DestinationName>
+    <DestinationStr>New York(NYC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NYE</code>
+    <DestinationName>Nyeri Arpt</DestinationName>
+    <DestinationStr>Nyeri Arpt(NYE)-Kenya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NYE</code>
+    <DestinationName>Nyeri</DestinationName>
+    <DestinationStr>Nyeri(NYE)-Kenya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NYI</code>
+    <DestinationName>Sunyani</DestinationName>
+    <DestinationStr>Sunyani(NYI)-Ghana</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NYK</code>
+    <DestinationName>Nanyuki Arpt</DestinationName>
+    <DestinationStr>Nanyuki Arpt(NYK)-Kenya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NYK</code>
+    <DestinationName>Nanyuki</DestinationName>
+    <DestinationStr>Nanyuki(NYK)-Kenya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NYN</code>
+    <DestinationName>Nyngan Arpt</DestinationName>
+    <DestinationStr>Nyngan Arpt(NYN)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NYN</code>
+    <DestinationName>Nyngan</DestinationName>
+    <DestinationStr>Nyngan(NYN)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NYO</code>
+    <DestinationName>Skavsta Airport</DestinationName>
+    <DestinationStr>Skavsta Airport(NYO)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NYR</code>
+    <DestinationName>Nyurba Airport</DestinationName>
+    <DestinationStr>Nyurba Airport(NYR)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NYR</code>
+    <DestinationName>Nyurba</DestinationName>
+    <DestinationStr>Nyurba(NYR)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NYT</code>
+    <DestinationName>Nay Pyi Taw International</DestinationName>
+    <DestinationStr>Nay Pyi Taw International(NYT)-Myanmar</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NYT</code>
+    <DestinationName>Nay Pyi Taw</DestinationName>
+    <DestinationStr>Nay Pyi Taw(NYT)-Myanmar</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NYU</code>
+    <DestinationName>Bagan Nyaung U Arpt</DestinationName>
+    <DestinationStr>Bagan Nyaung U Arpt(NYU)-Myanmar</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NYU</code>
+    <DestinationName>Nyaung</DestinationName>
+    <DestinationStr>Nyaung(NYU)-Myanmar</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NZC</code>
+    <DestinationName>Cecil Field Nas</DestinationName>
+    <DestinationStr>Cecil Field Nas(NZC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NZH</code>
+    <DestinationName>Manzhouli Airport</DestinationName>
+    <DestinationStr>Manzhouli Airport(NZH)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NZH</code>
+    <DestinationName>Manzhouli</DestinationName>
+    <DestinationStr>Manzhouli(NZH)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NZY</code>
+    <DestinationName>San Diego North Island Naval Air Station</DestinationName>
+    <DestinationStr>San Diego North Island Naval Air Station(NZY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OCH</code>
+    <DestinationName>Nacogdoches</DestinationName>
+    <DestinationStr>Nacogdoches(OCH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OFK</code>
+    <DestinationName>Norfolk</DestinationName>
+    <DestinationStr>Norfolk(OFK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OHH</code>
+    <DestinationName>Novostroyka Airport</DestinationName>
+    <DestinationStr>Novostroyka Airport(OHH)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OKA</code>
+    <DestinationName>Naha Field</DestinationName>
+    <DestinationStr>Naha Field(OKA)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OLS</code>
+    <DestinationName>Nogales Intl Arpt</DestinationName>
+    <DestinationStr>Nogales Intl Arpt(OLS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OLS</code>
+    <DestinationName>Nogales</DestinationName>
+    <DestinationStr>Nogales(OLS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OME</code>
+    <DestinationName>Nome Arpt</DestinationName>
+    <DestinationStr>Nome Arpt(OME)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OME</code>
+    <DestinationName>Nome</DestinationName>
+    <DestinationStr>Nome(OME)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ONP</code>
+    <DestinationName>Newport Municipal Arpt</DestinationName>
+    <DestinationStr>Newport Municipal Arpt(ONP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ONP</code>
+    <DestinationName>Newport</DestinationName>
+    <DestinationStr>Newport(ONP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ORF</code>
+    <DestinationName>Norfolk Intl Arpt</DestinationName>
+    <DestinationStr>Norfolk Intl Arpt(ORF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ORF</code>
+    <DestinationName>Norfolk</DestinationName>
+    <DestinationStr>Norfolk(ORF)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ORM</code>
+    <DestinationName>Northampton</DestinationName>
+    <DestinationStr>Northampton(ORM)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ORQ</code>
+    <DestinationName>Norwalk Heliport</DestinationName>
+    <DestinationStr>Norwalk Heliport(ORQ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ORQ</code>
+    <DestinationName>Norwalk</DestinationName>
+    <DestinationStr>Norwalk(ORQ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ORT</code>
+    <DestinationName>Northway Arpt</DestinationName>
+    <DestinationStr>Northway Arpt(ORT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ORT</code>
+    <DestinationName>Northway</DestinationName>
+    <DestinationStr>Northway(ORT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ORV</code>
+    <DestinationName>Noorvik</DestinationName>
+    <DestinationStr>Noorvik(ORV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OSY</code>
+    <DestinationName>Namsos Arpt</DestinationName>
+    <DestinationStr>Namsos Arpt(OSY)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OSY</code>
+    <DestinationName>Namsos</DestinationName>
+    <DestinationStr>Namsos(OSY)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OTH</code>
+    <DestinationName>North Bend Municipal</DestinationName>
+    <DestinationStr>North Bend Municipal(OTH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OTH</code>
+    <DestinationName>North Bend</DestinationName>
+    <DestinationStr>North Bend(OTH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OVB</code>
+    <DestinationName>Novosibirsk</DestinationName>
+    <DestinationStr>Novosibirsk(OVB)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OWD</code>
+    <DestinationName>Norwood Ma Arpt</DestinationName>
+    <DestinationStr>Norwood Ma Arpt(OWD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OWD</code>
+    <DestinationName>Norwood</DestinationName>
+    <DestinationStr>Norwood(OWD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PDL</code>
+    <DestinationName>Nordela Arpt</DestinationName>
+    <DestinationStr>Nordela Arpt(PDL)-Portugal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PHF</code>
+    <DestinationName>Newport News</DestinationName>
+    <DestinationStr>Newport News(PHF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PID</code>
+    <DestinationName>Nassau Paradise Island Arpt</DestinationName>
+    <DestinationStr>Nassau Paradise Island Arpt(PID)-Bahamas</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PKA</code>
+    <DestinationName>Napaskiak</DestinationName>
+    <DestinationStr>Napaskiak(PKA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PNE</code>
+    <DestinationName>N Philadelphia</DestinationName>
+    <DestinationStr>N Philadelphia(PNE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PQI</code>
+    <DestinationName>Northern Maine Regional</DestinationName>
+    <DestinationStr>Northern Maine Regional(PQI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PSK</code>
+    <DestinationName>New River Valley Arpt</DestinationName>
+    <DestinationStr>New River Valley Arpt(PSK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QGJ</code>
+    <DestinationName>Nova Friburgo</DestinationName>
+    <DestinationStr>Nova Friburgo(QGJ)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QHV</code>
+    <DestinationName>Novo Hamburgo Arpt</DestinationName>
+    <DestinationStr>Novo Hamburgo Arpt(QHV)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QHV</code>
+    <DestinationName>Novo Hamburgo</DestinationName>
+    <DestinationStr>Novo Hamburgo(QHV)-Brazil</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QNC</code>
+    <DestinationName>Neuchalet</DestinationName>
+    <DestinationStr>Neuchalet(QNC)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QND</code>
+    <DestinationName>Novi Sad</DestinationName>
+    <DestinationStr>Novi Sad(QND)-Serbia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QNG</code>
+    <DestinationName>Nagano</DestinationName>
+    <DestinationStr>Nagano(QNG)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QNL</code>
+    <DestinationName>Neuilly Sur Seine</DestinationName>
+    <DestinationStr>Neuilly Sur Seine(QNL)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QNM</code>
+    <DestinationName>Namure</DestinationName>
+    <DestinationStr>Namure(QNM)-Belgium</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QNT</code>
+    <DestinationName>Niteroi Arpt</DestinationName>
+    <DestinationStr>Niteroi Arpt(QNT)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QNT</code>
+    <DestinationName>Niteroi</DestinationName>
+    <DestinationStr>Niteroi(QNT)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QNU</code>
+    <DestinationName>Nuoro</DestinationName>
+    <DestinationStr>Nuoro(QNU)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QNW</code>
+    <DestinationName>NAWANSHAHAR</DestinationName>
+    <DestinationStr>NAWANSHAHAR(QNW)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QRM</code>
+    <DestinationName>Narromine</DestinationName>
+    <DestinationStr>Narromine(QRM)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QWS</code>
+    <DestinationName>Nowy Targ</DestinationName>
+    <DestinationStr>Nowy Targ(QWS)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QWW</code>
+    <DestinationName>Navalmoral de la Mata</DestinationName>
+    <DestinationStr>Navalmoral de la Mata(QWW)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RLA</code>
+    <DestinationName>National Arpt</DestinationName>
+    <DestinationStr>National Arpt(RLA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RNH</code>
+    <DestinationName>New Richmond Municipal</DestinationName>
+    <DestinationStr>New Richmond Municipal(RNH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RNH</code>
+    <DestinationName>New Richmond</DestinationName>
+    <DestinationStr>New Richmond(RNH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SHB</code>
+    <DestinationName>Nakashibetsu Arpt</DestinationName>
+    <DestinationStr>Nakashibetsu Arpt(SHB)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SHB</code>
+    <DestinationName>Nakashibetsu</DestinationName>
+    <DestinationStr>Nakashibetsu(SHB)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SHM</code>
+    <DestinationName>Nanki Shirahama</DestinationName>
+    <DestinationStr>Nanki Shirahama(SHM)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SNF</code>
+    <DestinationName>Nestor Arias Arpt</DestinationName>
+    <DestinationStr>Nestor Arias Arpt(SNF)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SQH</code>
+    <DestinationName>Na San Arpt</DestinationName>
+    <DestinationStr>Na San Arpt(SQH)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SUV</code>
+    <DestinationName>Nausori Airport</DestinationName>
+    <DestinationStr>Nausori Airport(SUV)-Fiji Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SWF</code>
+    <DestinationName>Newburgh</DestinationName>
+    <DestinationStr>Newburgh(SWF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TBI</code>
+    <DestinationName>New Bight Heliport</DestinationName>
+    <DestinationStr>New Bight Heliport(TBI)-Bahamas</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TBU</code>
+    <DestinationName>Nuku Alofa</DestinationName>
+    <DestinationStr>Nuku Alofa(TBU)-Tonga</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>THA</code>
+    <DestinationName>Northern Arpt</DestinationName>
+    <DestinationStr>Northern Arpt(THA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TNU</code>
+    <DestinationName>Newton</DestinationName>
+    <DestinationStr>Newton(TNU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UAK</code>
+    <DestinationName>Narsarsuaq Arpt</DestinationName>
+    <DestinationStr>Narsarsuaq Arpt(UAK)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UAK</code>
+    <DestinationName>Narsarsuaq</DestinationName>
+    <DestinationStr>Narsarsuaq(UAK)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UKU</code>
+    <DestinationName>Nuku</DestinationName>
+    <DestinationStr>Nuku(UKU)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ULM</code>
+    <DestinationName>New Ulm Arpt</DestinationName>
+    <DestinationStr>New Ulm Arpt(ULM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ULM</code>
+    <DestinationName>New Ulm</DestinationName>
+    <DestinationStr>New Ulm(ULM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UYL</code>
+    <DestinationName>Nyala</DestinationName>
+    <DestinationStr>Nyala(UYL)-Sudan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VOL</code>
+    <DestinationName>Nea Anchialos Arpt</DestinationName>
+    <DestinationStr>Nea Anchialos Arpt(VOL)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WMI</code>
+    <DestinationName>Nowy Dwor Mazowiecki</DestinationName>
+    <DestinationStr>Nowy Dwor Mazowiecki(WMI)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WNA</code>
+    <DestinationName>Napakiak</DestinationName>
+    <DestinationStr>Napakiak(WNA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WNP</code>
+    <DestinationName>Naga Arpt</DestinationName>
+    <DestinationStr>Naga Arpt(WNP)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WNP</code>
+    <DestinationName>Naga</DestinationName>
+    <DestinationStr>Naga(WNP)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WNS</code>
+    <DestinationName>Nawabshah Arpt</DestinationName>
+    <DestinationStr>Nawabshah Arpt(WNS)-Pakistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WNS</code>
+    <DestinationName>Nawabshah</DestinationName>
+    <DestinationStr>Nawabshah(WNS)-Pakistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WPO</code>
+    <DestinationName>North Fork Valley Arpt</DestinationName>
+    <DestinationStr>North Fork Valley Arpt(WPO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WTK</code>
+    <DestinationName>Noatak</DestinationName>
+    <DestinationStr>Noatak(WTK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WWT</code>
+    <DestinationName>Newtok</DestinationName>
+    <DestinationStr>Newtok(WWT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WZY</code>
+    <DestinationName>Nassau SPB</DestinationName>
+    <DestinationStr>Nassau SPB(WZY)-Bahamas</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XEL</code>
+    <DestinationName>New Carlisle</DestinationName>
+    <DestinationStr>New Carlisle(XEL)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XEM</code>
+    <DestinationName>New Richmond</DestinationName>
+    <DestinationStr>New Richmond(XEM)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XEY</code>
+    <DestinationName>Newcastle</DestinationName>
+    <DestinationStr>Newcastle(XEY)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XHL</code>
+    <DestinationName>Nelaug</DestinationName>
+    <DestinationStr>Nelaug(XHL)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XIF</code>
+    <DestinationName>Napanee</DestinationName>
+    <DestinationStr>Napanee(XIF)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XLV</code>
+    <DestinationName>Niagara Falls</DestinationName>
+    <DestinationStr>Niagara Falls(XLV)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XNA</code>
+    <DestinationName>Northwest Arkansas Regional Arpt</DestinationName>
+    <DestinationStr>Northwest Arkansas Regional Arpt(XNA)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XNE</code>
+    <DestinationName>Newport</DestinationName>
+    <DestinationStr>Newport(XNE)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XNK</code>
+    <DestinationName>Newark</DestinationName>
+    <DestinationStr>Newark(XNK)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XNM</code>
+    <DestinationName>Nottingham</DestinationName>
+    <DestinationStr>Nottingham(XNM)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XNO</code>
+    <DestinationName>Northallerton</DestinationName>
+    <DestinationStr>Northallerton(XNO)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XNV</code>
+    <DestinationName>Nuneaton</DestinationName>
+    <DestinationStr>Nuneaton(XNV)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XUL</code>
+    <DestinationName>Nesbyen</DestinationName>
+    <DestinationStr>Nesbyen(XUL)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XUM</code>
+    <DestinationName>Neslandsvatn</DestinationName>
+    <DestinationStr>Neslandsvatn(XUM)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XUO</code>
+    <DestinationName>Nordagutu</DestinationName>
+    <DestinationStr>Nordagutu(XUO)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XWX</code>
+    <DestinationName>Nassjo</DestinationName>
+    <DestinationStr>Nassjo(XWX)-Sweden</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XWZ</code>
+    <DestinationName>Nykoping</DestinationName>
+    <DestinationStr>Nykoping(XWZ)-Sweden</DestinationStr>
+  </Destination>   
+  <Destination>
+    <code>YBD</code>
+    <DestinationName>New Westminster</DestinationName>
+    <DestinationStr>New Westminster(YBD)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCD</code>
+    <DestinationName>Nanaimo Arpt</DestinationName>
+    <DestinationStr>Nanaimo Arpt(YCD)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCD</code>
+    <DestinationName>Nanaimo</DestinationName>
+    <DestinationStr>Nanaimo(YCD)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YDP</code>
+    <DestinationName>Nain Arpt</DestinationName>
+    <DestinationStr>Nain Arpt(YDP)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YDP</code>
+    <DestinationName>Nain</DestinationName>
+    <DestinationStr>Nain(YDP)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YGK</code>
+    <DestinationName>Norman Rodgers Arpt</DestinationName>
+    <DestinationStr>Norman Rodgers Arpt(YGK)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YNA</code>
+    <DestinationName>Natashquan Arpt</DestinationName>
+    <DestinationStr>Natashquan Arpt(YNA)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YNA</code>
+    <DestinationName>Natashquan</DestinationName>
+    <DestinationStr>Natashquan(YNA)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YNP</code>
+    <DestinationName>Natuashish Arpt</DestinationName>
+    <DestinationStr>Natuashish Arpt(YNP)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YNP</code>
+    <DestinationName>Natuashish</DestinationName>
+    <DestinationStr>Natuashish(YNP)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>YQN</code>
+    <DestinationName>Nakina</DestinationName>
+    <DestinationStr>Nakina(YQN)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQW</code>
+    <DestinationName>North Battleford Arpt</DestinationName>
+    <DestinationStr>North Battleford Arpt(YQW)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQW</code>
+    <DestinationName>North Battleford</DestinationName>
+    <DestinationStr>North Battleford(YQW)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YSR</code>
+    <DestinationName>Nanisivik</DestinationName>
+    <DestinationStr>Nanisivik(YSR)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YVQ</code>
+    <DestinationName>Norman Wells Municipal Arpt</DestinationName>
+    <DestinationStr>Norman Wells Municipal Arpt(YVQ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YVQ</code>
+    <DestinationName>Norman Wells</DestinationName>
+    <DestinationStr>Norman Wells(YVQ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYB</code>
+    <DestinationName>North Bay Municipal</DestinationName>
+    <DestinationStr>North Bay Municipal(YYB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYB</code>
+    <DestinationName>North Bay</DestinationName>
+    <DestinationStr>North Bay(YYB)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZAW</code>
+    <DestinationName>NYKOBING MORS</DestinationName>
+    <DestinationStr>NYKOBING MORS(ZAW)-Denmark</DestinationStr>
+  </Destination>    
+  <Destination>
+    <code>ZIB</code>
+    <DestinationName>Nyborg</DestinationName>
+    <DestinationStr>Nyborg(ZIB)-Denmark</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZIJ</code>
+    <DestinationName>Nykoing Sjaelland</DestinationName>
+    <DestinationStr>Nykoing Sjaelland(ZIJ)-Denmark</DestinationStr>
+  </Destination>    
+  <Destination>
+    <code>ZNC</code>
+    <DestinationName>Nyac</DestinationName>
+    <DestinationStr>Nyac(ZNC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZNE</code>
+    <DestinationName>Newman Airport</DestinationName>
+    <DestinationStr>Newman Airport(ZNE)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZNE</code>
+    <DestinationName>Newman</DestinationName>
+    <DestinationStr>Newman(ZNE)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZOQ</code>
+    <DestinationName>Neuss</DestinationName>
+    <DestinationStr>Neuss(ZOQ)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZOR</code>
+    <DestinationName>Neustadt An Der Weinstrasse</DestinationName>
+    <DestinationStr>Neustadt An Der Weinstrasse(ZOR)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZOU</code>
+    <DestinationName>Neuwied</DestinationName>
+    <DestinationStr>Neuwied(ZOU)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZOV</code>
+    <DestinationName>Norderstedt</DestinationName>
+    <DestinationStr>Norderstedt(ZOV)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZOW</code>
+    <DestinationName>Nordhorn</DestinationName>
+    <DestinationStr>Nordhorn(ZOW)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZRN</code>
+    <DestinationName>Nyon</DestinationName>
+    <DestinationStr>Nyon(ZRN)-Switzerland</DestinationStr>
+  </Destination>   
+  <Destination>
+    <code>ZYP</code>
+    <DestinationName>New York Penn Station</DestinationName>
+    <DestinationStr>New York Penn Station(ZYP)-United States</DestinationStr>
+  </Destination>
+</DestinationRoot>

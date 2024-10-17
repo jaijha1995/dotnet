@@ -1,0 +1,2222 @@
+﻿<DestinationRoot>
+  <Destination>
+    <code>NORESULT</code>
+    <DestinationName>NORESULT</DestinationName>
+    <DestinationStr>No Result Found</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ACT</code>
+    <DestinationName>Waco</DestinationName>
+    <DestinationStr>Waco(ACT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AGE</code>
+    <DestinationName>Wangerooge</DestinationName>
+    <DestinationStr>Wangerooge(AGE)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AGL</code>
+    <DestinationName>Wanigela</DestinationName>
+    <DestinationStr>Wanigela(AGL)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AIN</code>
+    <DestinationName>Wainwright Municipal Arpt</DestinationName>
+    <DestinationStr>Wainwright Municipal Arpt(AIN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AIN</code>
+    <DestinationName>Wainwright</DestinationName>
+    <DestinationStr>Wainwright(AIN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AKO</code>
+    <DestinationName>Washington County</DestinationName>
+    <DestinationStr>Washington County(AKO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ALO</code>
+    <DestinationName>Waterloo</DestinationName>
+    <DestinationStr>Waterloo(ALO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ALW</code>
+    <DestinationName>Walla Walla City County</DestinationName>
+    <DestinationStr>Walla Walla City County(ALW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ALW</code>
+    <DestinationName>Walla Walla</DestinationName>
+    <DestinationStr>Walla Walla(ALW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ARG</code>
+    <DestinationName>Walnut Ridge Arpt</DestinationName>
+    <DestinationStr>Walnut Ridge Arpt(ARG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ARG</code>
+    <DestinationName>Walnut Ridge</DestinationName>
+    <DestinationStr>Walnut Ridge(ARG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ART</code>
+    <DestinationName>Watertown Arpt</DestinationName>
+    <DestinationStr>Watertown Arpt(ART)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ART</code>
+    <DestinationName>Watertown</DestinationName>
+    <DestinationStr>Watertown(ART)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ATY</code>
+    <DestinationName>Watertown Municipal</DestinationName>
+    <DestinationStr>Watertown Municipal(ATY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ATY</code>
+    <DestinationName>Watertown</DestinationName>
+    <DestinationStr>Watertown(ATY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AUW</code>
+    <DestinationName>Wausau Municipal Arpt</DestinationName>
+    <DestinationStr>Wausau Municipal Arpt(AUW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AUW</code>
+    <DestinationName>Wausau</DestinationName>
+    <DestinationStr>Wausau(AUW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AVP</code>
+    <DestinationName>Wilkes Barre Scranton Intl Arpt</DestinationName>
+    <DestinationStr>Wilkes Barre Scranton Intl Arpt(AVP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AWK</code>
+    <DestinationName>Wake Island</DestinationName>
+    <DestinationStr>Wake Island(AWK)-United States Minor Outlying Islnds</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AWM</code>
+    <DestinationName>West Memphis Municipal Arpt</DestinationName>
+    <DestinationStr>West Memphis Municipal Arpt(AWM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AWM</code>
+    <DestinationName>West Memphis</DestinationName>
+    <DestinationStr>West Memphis(AWM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AXV</code>
+    <DestinationName>Wapakoneta</DestinationName>
+    <DestinationStr>Wapakoneta(AXV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AYS</code>
+    <DestinationName>Ware County Arpt</DestinationName>
+    <DestinationStr>Ware County Arpt(AYS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AYS</code>
+    <DestinationName>Waycross</DestinationName>
+    <DestinationStr>Waycross(AYS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AZA</code>
+    <DestinationName>Williams Gateway Arpt</DestinationName>
+    <DestinationStr>Williams Gateway Arpt(AZA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BGS</code>
+    <DestinationName>Webb Airforce Base</DestinationName>
+    <DestinationStr>Webb Airforce Base(BGS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BHE</code>
+    <DestinationName>Woodbourne Arpt</DestinationName>
+    <DestinationStr>Woodbourne Arpt(BHE)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BRG</code>
+    <DestinationName>Whitesburg</DestinationName>
+    <DestinationStr>Whitesburg(BRG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BTL</code>
+    <DestinationName>WK Kellogg Regional</DestinationName>
+    <DestinationStr>WK Kellogg Regional(BTL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BWF</code>
+    <DestinationName>Walney Island</DestinationName>
+    <DestinationStr>Walney Island(BWF)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BWG</code>
+    <DestinationName>Warren Cty Arpt</DestinationName>
+    <DestinationStr>Warren Cty Arpt(BWG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAD</code>
+    <DestinationName>Wexford County Arpt</DestinationName>
+    <DestinationStr>Wexford County Arpt(CAD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CEF</code>
+    <DestinationName>Westover Metro</DestinationName>
+    <DestinationStr>Westover Metro(CEF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CEO</code>
+    <DestinationName>Waco Kungo</DestinationName>
+    <DestinationStr>Waco Kungo(CEO)-Angola</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CHD</code>
+    <DestinationName>Williams AFB</DestinationName>
+    <DestinationStr>Williams AFB(CHD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CLM</code>
+    <DestinationName>William Fairchild Intl Arpt</DestinationName>
+    <DestinationStr>William Fairchild Intl Arpt(CLM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DCA</code>
+    <DestinationName>Washington National Arpt</DestinationName>
+    <DestinationStr>Washington National Arpt(DCA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DTM</code>
+    <DestinationName>Wickede Dortmund Arpt</DestinationName>
+    <DestinationStr>Wickede Dortmund Arpt(DTM)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DWF</code>
+    <DestinationName>Wright AFB</DestinationName>
+    <DestinationStr>Wright AFB(DWF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DWS</code>
+    <DestinationName>Walt Disney World Arpt</DestinationName>
+    <DestinationStr>Walt Disney World Arpt(DWS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EAN</code>
+    <DestinationName>WHEATLAND</DestinationName>
+    <DestinationStr>WHEATLAND(EAN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EAT</code>
+    <DestinationName>Wenatchee</DestinationName>
+    <DestinationStr>Wenatchee(EAT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EIN</code>
+    <DestinationName>Welschap Arpt</DestinationName>
+    <DestinationStr>Welschap Arpt(EIN)-Netherlands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EJH</code>
+    <DestinationName>Wedjh</DestinationName>
+    <DestinationStr>Wedjh(EJH)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ELZ</code>
+    <DestinationName>Wellsville Municipal Arpt</DestinationName>
+    <DestinationStr>Wellsville Municipal Arpt(ELZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ELZ</code>
+    <DestinationName>Wellsville</DestinationName>
+    <DestinationStr>Wellsville(ELZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ENV</code>
+    <DestinationName>Wendover Arpt</DestinationName>
+    <DestinationStr>Wendover Arpt(ENV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ENV</code>
+    <DestinationName>Wendover</DestinationName>
+    <DestinationStr>Wendover(ENV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ETB</code>
+    <DestinationName>West Bend Arpt</DestinationName>
+    <DestinationStr>West Bend Arpt(ETB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ETB</code>
+    <DestinationName>West Bend</DestinationName>
+    <DestinationStr>West Bend(ETB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EUF</code>
+    <DestinationName>Weedon Field</DestinationName>
+    <DestinationStr>Weedon Field(EUF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EWD</code>
+    <DestinationName>Wildman Lake Arpt</DestinationName>
+    <DestinationStr>Wildman Lake Arpt(EWD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EWD</code>
+    <DestinationName>Wildman Lake</DestinationName>
+    <DestinationStr>Wildman Lake(EWD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FEW</code>
+    <DestinationName>Warren AFB Heliport</DestinationName>
+    <DestinationStr>Warren AFB Heliport(FEW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FOK</code>
+    <DestinationName>Westhampton</DestinationName>
+    <DestinationStr>Westhampton(FOK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FRR</code>
+    <DestinationName>Warren County Arpt</DestinationName>
+    <DestinationStr>Warren County Arpt(FRR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GFL</code>
+    <DestinationName>Warren County</DestinationName>
+    <DestinationStr>Warren County(GFL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GIF</code>
+    <DestinationName>Winter Haven</DestinationName>
+    <DestinationStr>Winter Haven(GIF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GJT</code>
+    <DestinationName>Walker Field Arpt</DestinationName>
+    <DestinationStr>Walker Field Arpt(GJT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GWT</code>
+    <DestinationName>Westerland Airport</DestinationName>
+    <DestinationStr>Westerland Airport(GWT)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GWT</code>
+    <DestinationName>Westerland</DestinationName>
+    <DestinationStr>Westerland(GWT)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GXY</code>
+    <DestinationName>Weld County Regional Arpt</DestinationName>
+    <DestinationStr>Weld County Regional Arpt(GXY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HGR</code>
+    <DestinationName>Washington Cty Regional</DestinationName>
+    <DestinationStr>Washington Cty Regional(HGR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HIE</code>
+    <DestinationName>Whitefield</DestinationName>
+    <DestinationStr>Whitefield(HIE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HLG</code>
+    <DestinationName>Wheeling</DestinationName>
+    <DestinationStr>Wheeling(HLG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HPN</code>
+    <DestinationName>Westchester County Arpt</DestinationName>
+    <DestinationStr>Westchester County Arpt(HPN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HPN</code>
+    <DestinationName>White Plains</DestinationName>
+    <DestinationStr>White Plains(HPN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IAD</code>
+    <DestinationName>Washington Dulles Intl</DestinationName>
+    <DestinationStr>Washington Dulles Intl(IAD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ICT</code>
+    <DestinationName>Wichita</DestinationName>
+    <DestinationStr>Wichita(ICT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IKB</code>
+    <DestinationName>Wilkesboro</DestinationName>
+    <DestinationStr>Wilkesboro(IKB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ILG</code>
+    <DestinationName>Wilmington</DestinationName>
+    <DestinationStr>Wilmington(ILG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ILL</code>
+    <DestinationName>Willmar</DestinationName>
+    <DestinationStr>Willmar(ILL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ILM</code>
+    <DestinationName>Wilmington</DestinationName>
+    <DestinationStr>Wilmington(ILM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ILN</code>
+    <DestinationName>Wilmington</DestinationName>
+    <DestinationStr>Wilmington(ILN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>INT</code>
+    <DestinationName>Winston-Salem</DestinationName>
+    <DestinationStr>Winston-Salem(INT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>INW</code>
+    <DestinationName>Winslow Municipal</DestinationName>
+    <DestinationStr>Winslow Municipal(INW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>INW</code>
+    <DestinationName>Winslow</DestinationName>
+    <DestinationStr>Winslow(INW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IPT</code>
+    <DestinationName>Williamsport Lycoming Municipal</DestinationName>
+    <DestinationStr>Williamsport Lycoming Municipal(IPT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IPT</code>
+    <DestinationName>Williamsport</DestinationName>
+    <DestinationStr>Williamsport(IPT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ISN</code>
+    <DestinationName>Williston</DestinationName>
+    <DestinationStr>Williston(ISN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ISS</code>
+    <DestinationName>Wiscasset Arpt</DestinationName>
+    <DestinationStr>Wiscasset Arpt(ISS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ISS</code>
+    <DestinationName>Wiscasset</DestinationName>
+    <DestinationStr>Wiscasset(ISS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ISW</code>
+    <DestinationName>Wisconsin Rapids</DestinationName>
+    <DestinationStr>Wisconsin Rapids(ISW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IWS</code>
+    <DestinationName>West Houston</DestinationName>
+    <DestinationStr>West Houston(IWS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JRA</code>
+    <DestinationName>West 30Th St Heliport</DestinationName>
+    <DestinationStr>West 30Th St Heliport(JRA)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>JWH</code>
+    <DestinationName>Westchase Hilton Heliport</DestinationName>
+    <DestinationStr>Westchase Hilton Heliport(JWH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JWL</code>
+    <DestinationName>Woodlawns Airport</DestinationName>
+    <DestinationStr>Woodlawns Airport(JWL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KDI</code>
+    <DestinationName>Wolter  Monginsidi Airport</DestinationName>
+    <DestinationStr>Wolter  Monginsidi Airport(KDI)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KWF</code>
+    <DestinationName>Waterfall Spb</DestinationName>
+    <DestinationStr>Waterfall Spb(KWF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KWF</code>
+    <DestinationName>Waterfall</DestinationName>
+    <DestinationStr>Waterfall(KWF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KWP</code>
+    <DestinationName>West Point</DestinationName>
+    <DestinationStr>West Point(KWP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LBE</code>
+    <DestinationName>Westmorland County</DestinationName>
+    <DestinationStr>Westmorland County(LBE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LWL</code>
+    <DestinationName>Wells</DestinationName>
+    <DestinationStr>Wells(LWL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MUE</code>
+    <DestinationName>Waimea Arpt</DestinationName>
+    <DestinationStr>Waimea Arpt(MUE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MUE</code>
+    <DestinationName>Waimea</DestinationName>
+    <DestinationStr>Waimea(MUE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MWA</code>
+    <DestinationName>Williamson County</DestinationName>
+    <DestinationStr>Williamson County(MWA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NSE</code>
+    <DestinationName>Whiting Field Nas</DestinationName>
+    <DestinationStr>Whiting Field Nas(NSE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NTL</code>
+    <DestinationName>Williamtown Arpt</DestinationName>
+    <DestinationStr>Williamtown Arpt(NTL)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NTQ</code>
+    <DestinationName>Wajima Airport</DestinationName>
+    <DestinationStr>Wajima Airport(NTQ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NTQ</code>
+    <DestinationName>WAJIMA</DestinationName>
+    <DestinationStr>WAJIMA(NTQ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NUW</code>
+    <DestinationName>Whidbey Island</DestinationName>
+    <DestinationStr>Whidbey Island(NUW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OKC</code>
+    <DestinationName>Will Rogers World Arpt</DestinationName>
+    <DestinationStr>Will Rogers World Arpt(OKC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OLF</code>
+    <DestinationName>Wolf Point</DestinationName>
+    <DestinationStr>Wolf Point(OLF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ONA</code>
+    <DestinationName>Winona</DestinationName>
+    <DestinationStr>Winona(ONA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ORH</code>
+    <DestinationName>Worcester Arpt</DestinationName>
+    <DestinationStr>Worcester Arpt(ORH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ORH</code>
+    <DestinationName>Worcester</DestinationName>
+    <DestinationStr>Worcester(ORH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ORS</code>
+    <DestinationName>Waterport Arpt</DestinationName>
+    <DestinationStr>Waterport Arpt(ORS)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OSH</code>
+    <DestinationName>Wittman Field</DestinationName>
+    <DestinationStr>Wittman Field(OSH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OTG</code>
+    <DestinationName>Worthington Arpt</DestinationName>
+    <DestinationStr>Worthington Arpt(OTG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OTG</code>
+    <DestinationName>Worthington</DestinationName>
+    <DestinationStr>Worthington(OTG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OXC</code>
+    <DestinationName>Waterbury Oxford Arpt</DestinationName>
+    <DestinationStr>Waterbury Oxford Arpt(OXC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PBI</code>
+    <DestinationName>West Palm Beach</DestinationName>
+    <DestinationStr>West Palm Beach(PBI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PHF</code>
+    <DestinationName>Williamsburg Intl Arpt</DestinationName>
+    <DestinationStr>Williamsburg Intl Arpt(PHF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PKB</code>
+    <DestinationName>Wood County</DestinationName>
+    <DestinationStr>Wood County(PKB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PPP</code>
+    <DestinationName>Whitsunday Coast Arpt</DestinationName>
+    <DestinationStr>Whitsunday Coast Arpt(PPP)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PRY</code>
+    <DestinationName>Wonderboom Arpt</DestinationName>
+    <DestinationStr>Wonderboom Arpt(PRY)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PTN</code>
+    <DestinationName>Williams Memorial Arpt</DestinationName>
+    <DestinationStr>Williams Memorial Arpt(PTN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PWA</code>
+    <DestinationName>Wiley Post Arpt</DestinationName>
+    <DestinationStr>Wiley Post Arpt(PWA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QCW</code>
+    <DestinationName>Wilton</DestinationName>
+    <DestinationStr>Wilton(QCW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QRW</code>
+    <DestinationName>Warri Airport</DestinationName>
+    <DestinationStr>Warri Airport(QRW)-Nigeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QRW</code>
+    <DestinationName>Warri</DestinationName>
+    <DestinationStr>Warri(QRW)-Nigeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QWG</code>
+    <DestinationName>Wilgrove Air Parkarpt</DestinationName>
+    <DestinationStr>Wilgrove Air Parkarpt(QWG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QWP</code>
+    <DestinationName>Winter Park</DestinationName>
+    <DestinationStr>Winter Park(QWP)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QWU</code>
+    <DestinationName>Wurzburg</DestinationName>
+    <DestinationStr>Wurzburg(QWU)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RBM</code>
+    <DestinationName>Wallmuhle</DestinationName>
+    <DestinationStr>Wallmuhle(RBM)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RBW</code>
+    <DestinationName>Walterboro Municipal Arpt</DestinationName>
+    <DestinationStr>Walterboro Municipal Arpt(RBW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RBW</code>
+    <DestinationName>Walterboro</DestinationName>
+    <DestinationStr>Walterboro(RBW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RWI</code>
+    <DestinationName>Wilson Arpt</DestinationName>
+    <DestinationStr>Wilson Arpt(RWI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SBY</code>
+    <DestinationName>Wicomico Regional Arpt</DestinationName>
+    <DestinationStr>Wicomico Regional Arpt(SBY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SPG</code>
+    <DestinationName>Whitted Arpt</DestinationName>
+    <DestinationStr>Whitted Arpt(SPG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SPS</code>
+    <DestinationName>Wichita Falls Municipal Arpt</DestinationName>
+    <DestinationStr>Wichita Falls Municipal Arpt(SPS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SPS</code>
+    <DestinationName>Wichita Falls</DestinationName>
+    <DestinationStr>Wichita Falls(SPS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SQI</code>
+    <DestinationName>Whiteside Cty Municipal</DestinationName>
+    <DestinationStr>Whiteside Cty Municipal(SQI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SUA</code>
+    <DestinationName>Witham Field</DestinationName>
+    <DestinationStr>Witham Field(SUA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UES</code>
+    <DestinationName>Waukesha</DestinationName>
+    <DestinationStr>Waukesha(UES)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UGN</code>
+    <DestinationName>Waukegan</DestinationName>
+    <DestinationStr>Waukegan(UGN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UMR</code>
+    <DestinationName>Woomera</DestinationName>
+    <DestinationStr>Woomera(UMR)-Australia</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>UWE</code>
+    <DestinationName>Wiesbaden</DestinationName>
+    <DestinationStr>Wiesbaden(UWE)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>UWP</code>
+    <DestinationName>Wuppertal</DestinationName>
+    <DestinationStr>Wuppertal(UWP)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VIE</code>
+    <DestinationName>Wien</DestinationName>
+    <DestinationStr>Wien(VIE)-Austria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VTE</code>
+    <DestinationName>Wattay Arpt</DestinationName>
+    <DestinationStr>Wattay Arpt(VTE)-Lao, People's Dem. Rep.</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WAA</code>
+    <DestinationName>Wales</DestinationName>
+    <DestinationStr>Wales(WAA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WAC</code>
+    <DestinationName>Waca</DestinationName>
+    <DestinationStr>Waca(WAC)-Ethiopia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WAD</code>
+    <DestinationName>Adriamena</DestinationName>
+    <DestinationStr>Adriamena(WAD)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WAE</code>
+    <DestinationName>Wadi Al Dawaser Airport</DestinationName>
+    <DestinationStr>Wadi Al Dawaser Airport(WAE)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WAE</code>
+    <DestinationName>Wadi Al Dawaser</DestinationName>
+    <DestinationStr>Wadi Al Dawaser(WAE)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WAG</code>
+    <DestinationName>Wanganui Arpt</DestinationName>
+    <DestinationStr>Wanganui Arpt(WAG)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WAG</code>
+    <DestinationName>Wanganui</DestinationName>
+    <DestinationStr>Wanganui(WAG)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WAH</code>
+    <DestinationName>Wahpeton</DestinationName>
+    <DestinationStr>Wahpeton(WAH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WAI</code>
+    <DestinationName>Antsohihy</DestinationName>
+    <DestinationStr>Antsohihy(WAI)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WAK</code>
+    <DestinationName>Ankazoabo</DestinationName>
+    <DestinationStr>Ankazoabo(WAK)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WAL</code>
+    <DestinationName>Chincoteague</DestinationName>
+    <DestinationStr>Chincoteague(WAL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WAL</code>
+    <DestinationName>Wallops Arpt</DestinationName>
+    <DestinationStr>Wallops Arpt(WAL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WAM</code>
+    <DestinationName>Ambatondrazaka</DestinationName>
+    <DestinationStr>Ambatondrazaka(WAM)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WAO</code>
+    <DestinationName>Wabo</DestinationName>
+    <DestinationStr>Wabo(WAO)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WAQ</code>
+    <DestinationName>Antsalova</DestinationName>
+    <DestinationStr>Antsalova(WAQ)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WAS</code>
+    <DestinationName>Washington</DestinationName>
+    <DestinationStr>Washington(WAS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WAT</code>
+    <DestinationName>Waterford Arpt</DestinationName>
+    <DestinationStr>Waterford Arpt(WAT)-Ireland, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WAT</code>
+    <DestinationName>Waterford</DestinationName>
+    <DestinationStr>Waterford(WAT)-Ireland, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WAW</code>
+    <DestinationName>Frederic Chopin Arpt</DestinationName>
+    <DestinationStr>Frederic Chopin Arpt(WAW)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WAW</code>
+    <DestinationName>Warsaw</DestinationName>
+    <DestinationStr>Warsaw(WAW)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WAW</code>
+    <DestinationName>Warszawa</DestinationName>
+    <DestinationStr>Warszawa(WAW)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WAY</code>
+    <DestinationName>Green County Airport</DestinationName>
+    <DestinationStr>Green County Airport(WAY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WAY</code>
+    <DestinationName>Waynesburg</DestinationName>
+    <DestinationStr>Waynesburg(WAY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WAZ</code>
+    <DestinationName>Warwick Arpt</DestinationName>
+    <DestinationStr>Warwick Arpt(WAZ)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WAZ</code>
+    <DestinationName>Warwick</DestinationName>
+    <DestinationStr>Warwick(WAZ)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WBB</code>
+    <DestinationName>Stebbins</DestinationName>
+    <DestinationStr>Stebbins(WBB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WBE</code>
+    <DestinationName>Bealanana</DestinationName>
+    <DestinationStr>Bealanana(WBE)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WBI</code>
+    <DestinationName>Broker Inn</DestinationName>
+    <DestinationStr>Broker Inn(WBI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WBM</code>
+    <DestinationName>Wapenamanda Airport</DestinationName>
+    <DestinationStr>Wapenamanda Airport(WBM)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WBM</code>
+    <DestinationName>Wapenamanda</DestinationName>
+    <DestinationStr>Wapenamanda(WBM)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WBN</code>
+    <DestinationName>Woburn</DestinationName>
+    <DestinationStr>Woburn(WBN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WBO</code>
+    <DestinationName>Beroroha</DestinationName>
+    <DestinationStr>Beroroha(WBO)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WBQ</code>
+    <DestinationName>Beaver</DestinationName>
+    <DestinationStr>Beaver(WBQ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WBU</code>
+    <DestinationName>Boulder Municipal Arpt</DestinationName>
+    <DestinationStr>Boulder Municipal Arpt(WBU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WBU</code>
+    <DestinationName>Boulder</DestinationName>
+    <DestinationStr>Boulder(WBU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WBW</code>
+    <DestinationName>Wilkes Barre Wyoming Valley Arpt</DestinationName>
+    <DestinationStr>Wilkes Barre Wyoming Valley Arpt(WBW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WCA</code>
+    <DestinationName>Castro</DestinationName>
+    <DestinationStr>Castro(WCA)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WCA</code>
+    <DestinationName>Gamboa Airport</DestinationName>
+    <DestinationStr>Gamboa Airport(WCA)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WCR</code>
+    <DestinationName>Chandalar Arpt</DestinationName>
+    <DestinationStr>Chandalar Arpt(WCR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WCR</code>
+    <DestinationName>Chandalar</DestinationName>
+    <DestinationStr>Chandalar(WCR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WDG</code>
+    <DestinationName>Enid</DestinationName>
+    <DestinationStr>Enid(WDG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WDG</code>
+    <DestinationName>Woodring Municipal</DestinationName>
+    <DestinationStr>Woodring Municipal(WDG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WDH</code>
+    <DestinationName>Hosea Kutako International Arpt</DestinationName>
+    <DestinationStr>Hosea Kutako International Arpt(WDH)-Namibia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WDH</code>
+    <DestinationName>Windhoek</DestinationName>
+    <DestinationStr>Windhoek(WDH)-Namibia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WDY</code>
+    <DestinationName>Kodiak Fss</DestinationName>
+    <DestinationStr>Kodiak Fss(WDY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WEA</code>
+    <DestinationName>Parker County Airport</DestinationName>
+    <DestinationStr>Parker County Airport(WEA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WEA</code>
+    <DestinationName>Weatherford</DestinationName>
+    <DestinationStr>Weatherford(WEA)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>WEC</code>
+    <DestinationName>Wenchang</DestinationName>
+    <DestinationStr>Wenchang(WEC)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WED</code>
+    <DestinationName>Wedau</DestinationName>
+    <DestinationStr>Wedau(WED)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WEF</code>
+    <DestinationName>Weifang Arpt</DestinationName>
+    <DestinationStr>Weifang Arpt(WEF)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WEF</code>
+    <DestinationName>Weifang</DestinationName>
+    <DestinationStr>Weifang(WEF)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WEH</code>
+    <DestinationName>Dashuibo Arpt</DestinationName>
+    <DestinationStr>Dashuibo Arpt(WEH)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WEH</code>
+    <DestinationName>Weihai</DestinationName>
+    <DestinationStr>Weihai(WEH)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WEI</code>
+    <DestinationName>Weipa Arpt</DestinationName>
+    <DestinationStr>Weipa Arpt(WEI)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WEI</code>
+    <DestinationName>Weipa</DestinationName>
+    <DestinationStr>Weipa(WEI)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WEL</code>
+    <DestinationName>Welkom Arpt</DestinationName>
+    <DestinationStr>Welkom Arpt(WEL)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WEL</code>
+    <DestinationName>Welkom</DestinationName>
+    <DestinationStr>Welkom(WEL)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WEW</code>
+    <DestinationName>Wee Waa Airport</DestinationName>
+    <DestinationStr>Wee Waa Airport(WEW)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WEW</code>
+    <DestinationName>Wee Waa</DestinationName>
+    <DestinationStr>Wee Waa(WEW)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WEX</code>
+    <DestinationName>Castlebridge Arpt</DestinationName>
+    <DestinationStr>Castlebridge Arpt(WEX)-Ireland, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WEX</code>
+    <DestinationName>Wexford</DestinationName>
+    <DestinationStr>Wexford(WEX)-Ireland, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WFB</code>
+    <DestinationName>Ketchikan Harbor Seaplane Base</DestinationName>
+    <DestinationStr>Ketchikan Harbor Seaplane Base(WFB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WFI</code>
+    <DestinationName>Fianarantsoa</DestinationName>
+    <DestinationStr>Fianarantsoa(WFI)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WFK</code>
+    <DestinationName>Frenchville</DestinationName>
+    <DestinationStr>Frenchville(WFK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WGA</code>
+    <DestinationName>Forrest Hill Arpt</DestinationName>
+    <DestinationStr>Forrest Hill Arpt(WGA)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WGA</code>
+    <DestinationName>Wagga Wagga</DestinationName>
+    <DestinationStr>Wagga Wagga(WGA)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WGC</code>
+    <DestinationName>Warangal</DestinationName>
+    <DestinationStr>Warangal(WGC)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WGC</code>
+    <DestinationName>Warangalairport</DestinationName>
+    <DestinationStr>Warangalairport(WGC)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WGE</code>
+    <DestinationName>Walgett Arpt</DestinationName>
+    <DestinationStr>Walgett Arpt(WGE)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WGE</code>
+    <DestinationName>Walgett</DestinationName>
+    <DestinationStr>Walgett(WGE)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WGN</code>
+    <DestinationName>Waitangi</DestinationName>
+    <DestinationStr>Waitangi(WGN)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WGO</code>
+    <DestinationName>Winchester Arpt</DestinationName>
+    <DestinationStr>Winchester Arpt(WGO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WGO</code>
+    <DestinationName>Winchester</DestinationName>
+    <DestinationStr>Winchester(WGO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WGP</code>
+    <DestinationName>Waingapu</DestinationName>
+    <DestinationStr>Waingapu(WGP)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WGT</code>
+    <DestinationName>Wangaratta</DestinationName>
+    <DestinationStr>Wangaratta(WGT)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WHD</code>
+    <DestinationName>Hyder</DestinationName>
+    <DestinationStr>Hyder(WHD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WHD</code>
+    <DestinationName>Seaplane Base Airpot</DestinationName>
+    <DestinationStr>Seaplane Base Airpot(WHD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WHH</code>
+    <DestinationName>Hiltons Har H</DestinationName>
+    <DestinationStr>Hiltons Har H(WHH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WHK</code>
+    <DestinationName>Whakatane Arpt</DestinationName>
+    <DestinationStr>Whakatane Arpt(WHK)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WHK</code>
+    <DestinationName>Whakatane</DestinationName>
+    <DestinationStr>Whakatane(WHK)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WHL</code>
+    <DestinationName>Welshpool Arpt</DestinationName>
+    <DestinationStr>Welshpool Arpt(WHL)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WHL</code>
+    <DestinationName>Welshpool</DestinationName>
+    <DestinationStr>Welshpool(WHL)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WHO</code>
+    <DestinationName>Franz Josef</DestinationName>
+    <DestinationStr>Franz Josef(WHO)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WHP</code>
+    <DestinationName>Whiteman Arpt</DestinationName>
+    <DestinationStr>Whiteman Arpt(WHP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WHS</code>
+    <DestinationName>Whalsay</DestinationName>
+    <DestinationStr>Whalsay(WHS)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WHT</code>
+    <DestinationName>Wharton</DestinationName>
+    <DestinationStr>Wharton(WHT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WHU</code>
+    <DestinationName>Wuhu</DestinationName>
+    <DestinationStr>Wuhu(WHU)-China</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>WIC</code>
+    <DestinationName>Wick Arpt</DestinationName>
+    <DestinationStr>Wick Arpt(WIC)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WIC</code>
+    <DestinationName>Wick</DestinationName>
+    <DestinationStr>Wick(WIC)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WIE</code>
+    <DestinationName>Air Base</DestinationName>
+    <DestinationStr>Air Base(WIE)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WIL</code>
+    <DestinationName>Wilson Airport</DestinationName>
+    <DestinationStr>Wilson Airport(WIL)-Kenya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WIN</code>
+    <DestinationName>Winton</DestinationName>
+    <DestinationStr>Winton(WIN)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WIU</code>
+    <DestinationName>Witu</DestinationName>
+    <DestinationStr>Witu(WIU)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WJF</code>
+    <DestinationName>Lancaster</DestinationName>
+    <DestinationStr>Lancaster(WJF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WJF</code>
+    <DestinationName>Williams J Fox Arpt</DestinationName>
+    <DestinationStr>Williams J Fox Arpt(WJF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WJR</code>
+    <DestinationName>Wajir</DestinationName>
+    <DestinationStr>Wajir(WJR)-Kenya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WKA</code>
+    <DestinationName>Wanaka Arpt</DestinationName>
+    <DestinationStr>Wanaka Arpt(WKA)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WKA</code>
+    <DestinationName>Wanaka</DestinationName>
+    <DestinationStr>Wanaka(WKA)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WKF</code>
+    <DestinationName>Waterkloof Airport Fawk</DestinationName>
+    <DestinationStr>Waterkloof Airport Fawk(WKF)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WKF</code>
+    <DestinationName>Waterkloof</DestinationName>
+    <DestinationStr>Waterkloof(WKF)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WKJ</code>
+    <DestinationName>Hokkaido Arpt</DestinationName>
+    <DestinationStr>Hokkaido Arpt(WKJ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WKJ</code>
+    <DestinationName>Wakkanai</DestinationName>
+    <DestinationStr>Wakkanai(WKJ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WKK</code>
+    <DestinationName>Aleknagik</DestinationName>
+    <DestinationStr>Aleknagik(WKK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WKL</code>
+    <DestinationName>Waikoloa Arpt</DestinationName>
+    <DestinationStr>Waikoloa Arpt(WKL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WKL</code>
+    <DestinationName>Waikoloa</DestinationName>
+    <DestinationStr>Waikoloa(WKL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WKN</code>
+    <DestinationName>Wakunai</DestinationName>
+    <DestinationStr>Wakunai(WKN)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WLB</code>
+    <DestinationName>Labouchere Bay Arpt</DestinationName>
+    <DestinationStr>Labouchere Bay Arpt(WLB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WLB</code>
+    <DestinationName>Labouchere Bay</DestinationName>
+    <DestinationStr>Labouchere Bay(WLB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WLD</code>
+    <DestinationName>Arkansas City Arpt</DestinationName>
+    <DestinationStr>Arkansas City Arpt(WLD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WLD</code>
+    <DestinationName>Winfield</DestinationName>
+    <DestinationStr>Winfield(WLD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WLE</code>
+    <DestinationName>Miles</DestinationName>
+    <DestinationStr>Miles(WLE)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WLG</code>
+    <DestinationName>Wellington Arpt</DestinationName>
+    <DestinationStr>Wellington Arpt(WLG)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WLG</code>
+    <DestinationName>Wellington</DestinationName>
+    <DestinationStr>Wellington(WLG)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WLH</code>
+    <DestinationName>Walaha Arpt</DestinationName>
+    <DestinationStr>Walaha Arpt(WLH)-Vanuatu</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WLH</code>
+    <DestinationName>Walaha</DestinationName>
+    <DestinationStr>Walaha(WLH)-Vanuatu</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WLK</code>
+    <DestinationName>Selawik Arpt</DestinationName>
+    <DestinationStr>Selawik Arpt(WLK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WLK</code>
+    <DestinationName>Selawik</DestinationName>
+    <DestinationStr>Selawik(WLK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WLL</code>
+    <DestinationName>Wollogorang</DestinationName>
+    <DestinationStr>Wollogorang(WLL)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WLM</code>
+    <DestinationName>Waltham</DestinationName>
+    <DestinationStr>Waltham(WLM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WLP</code>
+    <DestinationName>West Angelas</DestinationName>
+    <DestinationStr>West Angelas(WLP)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WLS</code>
+    <DestinationName>Wallis Island Airport</DestinationName>
+    <DestinationStr>Wallis Island Airport(WLS)-Wallis Futuna Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WLW</code>
+    <DestinationName>Glenn County Arpt</DestinationName>
+    <DestinationStr>Glenn County Arpt(WLW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WLW</code>
+    <DestinationName>WILLOWS</DestinationName>
+    <DestinationStr>WILLOWS(WLW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WMA</code>
+    <DestinationName>Mandritsara</DestinationName>
+    <DestinationStr>Mandritsara(WMA)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WMB</code>
+    <DestinationName>Warrnambool</DestinationName>
+    <DestinationStr>Warrnambool(WMB)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WMC</code>
+    <DestinationName>Winnemucca Municipal Arpt</DestinationName>
+    <DestinationStr>Winnemucca Municipal Arpt(WMC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WMC</code>
+    <DestinationName>Winnemucca</DestinationName>
+    <DestinationStr>Winnemucca(WMC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WMD</code>
+    <DestinationName>Mandabe</DestinationName>
+    <DestinationStr>Mandabe(WMD)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WMH</code>
+    <DestinationName>Mountain Home Arpt</DestinationName>
+    <DestinationStr>Mountain Home Arpt(WMH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WMH</code>
+    <DestinationName>Mountain Home</DestinationName>
+    <DestinationStr>Mountain Home(WMH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WMI</code>
+    <DestinationName>Modlin Arpt</DestinationName>
+    <DestinationStr>Modlin Arpt(WMI)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WMI</code>
+    <DestinationName>Nowy Dwor Mazowiecki</DestinationName>
+    <DestinationStr>Nowy Dwor Mazowiecki(WMI)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WMN</code>
+    <DestinationName>Maroantsetra Airport</DestinationName>
+    <DestinationStr>Maroantsetra Airport(WMN)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WMN</code>
+    <DestinationName>Maroantsetra</DestinationName>
+    <DestinationStr>Maroantsetra(WMN)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WMO</code>
+    <DestinationName>White Mountain</DestinationName>
+    <DestinationStr>White Mountain(WMO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WMR</code>
+    <DestinationName>Mananara</DestinationName>
+    <DestinationStr>Mananara(WMR)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WMX</code>
+    <DestinationName>Wamena</DestinationName>
+    <DestinationStr>Wamena(WMX)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WNA</code>
+    <DestinationName>Napakiak</DestinationName>
+    <DestinationStr>Napakiak(WNA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WNP</code>
+    <DestinationName>Naga Arpt</DestinationName>
+    <DestinationStr>Naga Arpt(WNP)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WNP</code>
+    <DestinationName>Naga</DestinationName>
+    <DestinationStr>Naga(WNP)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WNR</code>
+    <DestinationName>Windorah Arpt</DestinationName>
+    <DestinationStr>Windorah Arpt(WNR)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WNR</code>
+    <DestinationName>Windorah</DestinationName>
+    <DestinationStr>Windorah(WNR)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WNS</code>
+    <DestinationName>Nawabshah Arpt</DestinationName>
+    <DestinationStr>Nawabshah Arpt(WNS)-Pakistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WNS</code>
+    <DestinationName>Nawabshah</DestinationName>
+    <DestinationStr>Nawabshah(WNS)-Pakistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WNZ</code>
+    <DestinationName>Wenzhou Arpt</DestinationName>
+    <DestinationStr>Wenzhou Arpt(WNZ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WNZ</code>
+    <DestinationName>Wenzhou</DestinationName>
+    <DestinationStr>Wenzhou(WNZ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WOD</code>
+    <DestinationName>Wood River Arpt</DestinationName>
+    <DestinationStr>Wood River Arpt(WOD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WOD</code>
+    <DestinationName>Wood River</DestinationName>
+    <DestinationStr>Wood River(WOD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WOE</code>
+    <DestinationName>Bergen Op Zoom</DestinationName>
+    <DestinationStr>Bergen Op Zoom(WOE)-Netherlands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WOL</code>
+    <DestinationName>Wollongong Arpt</DestinationName>
+    <DestinationStr>Wollongong Arpt(WOL)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WOL</code>
+    <DestinationName>Wollongong</DestinationName>
+    <DestinationStr>Wollongong(WOL)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WOW</code>
+    <DestinationName>Willow Arpt</DestinationName>
+    <DestinationStr>Willow Arpt(WOW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WOW</code>
+    <DestinationName>Willow</DestinationName>
+    <DestinationStr>Willow(WOW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WPA</code>
+    <DestinationName>Puerto Aisen Arpt</DestinationName>
+    <DestinationStr>Puerto Aisen Arpt(WPA)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WPA</code>
+    <DestinationName>Puerto Aisen</DestinationName>
+    <DestinationStr>Puerto Aisen(WPA)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WPB</code>
+    <DestinationName>Port Berge</DestinationName>
+    <DestinationStr>Port Berge(WPB)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WPM</code>
+    <DestinationName>Wipim Airport</DestinationName>
+    <DestinationStr>Wipim Airport(WPM)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WPM</code>
+    <DestinationName>Wipim</DestinationName>
+    <DestinationStr>Wipim(WPM)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WPO</code>
+    <DestinationName>North Fork Valley Arpt</DestinationName>
+    <DestinationStr>North Fork Valley Arpt(WPO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WPO</code>
+    <DestinationName>Paonia</DestinationName>
+    <DestinationStr>Paonia(WPO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WRA</code>
+    <DestinationName>Warder</DestinationName>
+    <DestinationStr>Warder(WRA)-Ethiopia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WRB</code>
+    <DestinationName>Robins Airforce Base</DestinationName>
+    <DestinationStr>Robins Airforce Base(WRB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WRE</code>
+    <DestinationName>Whangarei Arpt</DestinationName>
+    <DestinationStr>Whangarei Arpt(WRE)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WRE</code>
+    <DestinationName>Whangarei</DestinationName>
+    <DestinationStr>Whangarei(WRE)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WRG</code>
+    <DestinationName>Wrangell Seaplane Base</DestinationName>
+    <DestinationStr>Wrangell Seaplane Base(WRG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WRG</code>
+    <DestinationName>Wrangell</DestinationName>
+    <DestinationStr>Wrangell(WRG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WRL</code>
+    <DestinationName>Worland Municipal</DestinationName>
+    <DestinationStr>Worland Municipal(WRL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WRL</code>
+    <DestinationName>Worland</DestinationName>
+    <DestinationStr>Worland(WRL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WRO</code>
+    <DestinationName>Strachowice</DestinationName>
+    <DestinationStr>Strachowice(WRO)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WRO</code>
+    <DestinationName>Wroclaw</DestinationName>
+    <DestinationStr>Wroclaw(WRO)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WRY</code>
+    <DestinationName>Westray Arpt</DestinationName>
+    <DestinationStr>Westray Arpt(WRY)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WRY</code>
+    <DestinationName>Westray</DestinationName>
+    <DestinationStr>Westray(WRY)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WSB</code>
+    <DestinationName>Seaplane</DestinationName>
+    <DestinationStr>Seaplane(WSB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WSB</code>
+    <DestinationName>Steamboat Bay</DestinationName>
+    <DestinationStr>Steamboat Bay(WSB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WSE</code>
+    <DestinationName>Santa Cecilia</DestinationName>
+    <DestinationStr>Santa Cecilia(WSE)-Ecuador</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WSG</code>
+    <DestinationName>WASHINGTON COUNTY ARPT</DestinationName>
+    <DestinationStr>WASHINGTON COUNTY ARPT(WSG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WSG</code>
+    <DestinationName>Washington</DestinationName>
+    <DestinationStr>Washington(WSG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WSH</code>
+    <DestinationName>Brookhaven Airport</DestinationName>
+    <DestinationStr>Brookhaven Airport(WSH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WSH</code>
+    <DestinationName>Brookhaven</DestinationName>
+    <DestinationStr>Brookhaven(WSH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WSM</code>
+    <DestinationName>Wiseman Arpt</DestinationName>
+    <DestinationStr>Wiseman Arpt(WSM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WSM</code>
+    <DestinationName>Wiseman</DestinationName>
+    <DestinationStr>Wiseman(WSM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WSN</code>
+    <DestinationName>South Naknek</DestinationName>
+    <DestinationStr>South Naknek(WSN)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>WST</code>
+    <DestinationName>Westerly Municipal</DestinationName>
+    <DestinationStr>Westerly Municipal(WST)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WST</code>
+    <DestinationName>Westerly</DestinationName>
+    <DestinationStr>Westerly(WST)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WSU</code>
+    <DestinationName>Wasu</DestinationName>
+    <DestinationStr>Wasu(WSU)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WSX</code>
+    <DestinationName>Westsound Seaplane Base</DestinationName>
+    <DestinationStr>Westsound Seaplane Base(WSX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WSY</code>
+    <DestinationName>Airlie Beach</DestinationName>
+    <DestinationStr>Airlie Beach(WSY)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WSY</code>
+    <DestinationName>Whitsunday Airstrip</DestinationName>
+    <DestinationStr>Whitsunday Airstrip(WSY)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WSZ</code>
+    <DestinationName>Westport Airport</DestinationName>
+    <DestinationStr>Westport Airport(WSZ)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WSZ</code>
+    <DestinationName>Westport</DestinationName>
+    <DestinationStr>Westport(WSZ)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WTA</code>
+    <DestinationName>Tambohorano</DestinationName>
+    <DestinationStr>Tambohorano(WTA)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WTD</code>
+    <DestinationName>West End</DestinationName>
+    <DestinationStr>West End(WTD)-Bahamas</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WTK</code>
+    <DestinationName>Noatak</DestinationName>
+    <DestinationStr>Noatak(WTK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WTL</code>
+    <DestinationName>Tuntatuliak</DestinationName>
+    <DestinationStr>Tuntatuliak(WTL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WTN</code>
+    <DestinationName>Waddington</DestinationName>
+    <DestinationStr>Waddington(WTN)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WTP</code>
+    <DestinationName>Woitape</DestinationName>
+    <DestinationStr>Woitape(WTP)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WTR</code>
+    <DestinationName>Whiteriver Arpt</DestinationName>
+    <DestinationStr>Whiteriver Arpt(WTR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WTR</code>
+    <DestinationName>Whiteriver</DestinationName>
+    <DestinationStr>Whiteriver(WTR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WTS</code>
+    <DestinationName>Tsiroanomandidy</DestinationName>
+    <DestinationStr>Tsiroanomandidy(WTS)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WUA</code>
+    <DestinationName>Wuhai</DestinationName>
+    <DestinationStr>Wuhai(WUA)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WUG</code>
+    <DestinationName>Wau PG</DestinationName>
+    <DestinationStr>Wau PG(WUG)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WUH</code>
+    <DestinationName>Wuhan Arpt</DestinationName>
+    <DestinationStr>Wuhan Arpt(WUH)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WUH</code>
+    <DestinationName>Wuhan</DestinationName>
+    <DestinationStr>Wuhan(WUH)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WUN</code>
+    <DestinationName>Wiluna Arpt</DestinationName>
+    <DestinationStr>Wiluna Arpt(WUN)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WUN</code>
+    <DestinationName>Wiluna</DestinationName>
+    <DestinationStr>Wiluna(WUN)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WUS</code>
+    <DestinationName>Wuyishan Arpt</DestinationName>
+    <DestinationStr>Wuyishan Arpt(WUS)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WUS</code>
+    <DestinationName>Wuyishan</DestinationName>
+    <DestinationStr>Wuyishan(WUS)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WUU</code>
+    <DestinationName>Wau Arpt</DestinationName>
+    <DestinationStr>Wau Arpt(WUU)-South Sudan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WUU</code>
+    <DestinationName>Wau City</DestinationName>
+    <DestinationStr>Wau City(WUU)-South Sudan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WUV</code>
+    <DestinationName>Wuvulu Island</DestinationName>
+    <DestinationStr>Wuvulu Island(WUV)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WUX</code>
+    <DestinationName>Sunan Shuofang Arpt</DestinationName>
+    <DestinationStr>Sunan Shuofang Arpt(WUX)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WUX</code>
+    <DestinationName>Wuxi</DestinationName>
+    <DestinationStr>Wuxi(WUX)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WUZ</code>
+    <DestinationName>Changzhoudao Airport</DestinationName>
+    <DestinationStr>Changzhoudao Airport(WUZ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WUZ</code>
+    <DestinationName>Wuzhou Changzhoudao Airport</DestinationName>
+    <DestinationStr>Wuzhou Changzhoudao Airport(WUZ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WUZ</code>
+    <DestinationName>Wuzhou</DestinationName>
+    <DestinationStr>Wuzhou(WUZ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WVB</code>
+    <DestinationName>Rooikop Arpt</DestinationName>
+    <DestinationStr>Rooikop Arpt(WVB)-Namibia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WVB</code>
+    <DestinationName>Walvis Bay</DestinationName>
+    <DestinationStr>Walvis Bay(WVB)-Namibia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WVI</code>
+    <DestinationName>Watsonville Municipal Arpt</DestinationName>
+    <DestinationStr>Watsonville Municipal Arpt(WVI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WVI</code>
+    <DestinationName>Watsonville</DestinationName>
+    <DestinationStr>Watsonville(WVI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WVK</code>
+    <DestinationName>Manakara</DestinationName>
+    <DestinationStr>Manakara(WVK)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WVL</code>
+    <DestinationName>Robert La Fleur Arpt</DestinationName>
+    <DestinationStr>Robert La Fleur Arpt(WVL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WVL</code>
+    <DestinationName>Waterville</DestinationName>
+    <DestinationStr>Waterville(WVL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WVN</code>
+    <DestinationName>Wilhelmshaven Arpt</DestinationName>
+    <DestinationStr>Wilhelmshaven Arpt(WVN)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WVN</code>
+    <DestinationName>Wilhelmshaven</DestinationName>
+    <DestinationStr>Wilhelmshaven(WVN)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WWA</code>
+    <DestinationName>Wasilla Arpt</DestinationName>
+    <DestinationStr>Wasilla Arpt(WWA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WWA</code>
+    <DestinationName>Wasilla</DestinationName>
+    <DestinationStr>Wasilla(WWA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WWD</code>
+    <DestinationName>Cape May Arpt</DestinationName>
+    <DestinationStr>Cape May Arpt(WWD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WWD</code>
+    <DestinationName>Cape May</DestinationName>
+    <DestinationStr>Cape May(WWD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WWK</code>
+    <DestinationName>Boram Arpt</DestinationName>
+    <DestinationStr>Boram Arpt(WWK)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WWK</code>
+    <DestinationName>Wewak</DestinationName>
+    <DestinationStr>Wewak(WWK)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WWP</code>
+    <DestinationName>Whale Pass Arpt</DestinationName>
+    <DestinationStr>Whale Pass Arpt(WWP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WWP</code>
+    <DestinationName>Whale Pass</DestinationName>
+    <DestinationStr>Whale Pass(WWP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WWR</code>
+    <DestinationName>West Woodward Arpt</DestinationName>
+    <DestinationStr>West Woodward Arpt(WWR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WWR</code>
+    <DestinationName>Woodward</DestinationName>
+    <DestinationStr>Woodward(WWR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WWT</code>
+    <DestinationName>Newtok</DestinationName>
+    <DestinationStr>Newtok(WWT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WWY</code>
+    <DestinationName>West Wyalong</DestinationName>
+    <DestinationStr>West Wyalong(WWY)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WXF</code>
+    <DestinationName>Braintree</DestinationName>
+    <DestinationStr>Braintree(WXF)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WXF</code>
+    <DestinationName>Wether Field Raf</DestinationName>
+    <DestinationStr>Wether Field Raf(WXF)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>WXJ</code>
+    <DestinationName>Wanning</DestinationName>
+    <DestinationStr>Wanning(WXJ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WXN</code>
+    <DestinationName>Wanxian Arpt</DestinationName>
+    <DestinationStr>Wanxian Arpt(WXN)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WXN</code>
+    <DestinationName>Wanxian</DestinationName>
+    <DestinationStr>Wanxian(WXN)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WYA</code>
+    <DestinationName>Whyalla Arpt</DestinationName>
+    <DestinationStr>Whyalla Arpt(WYA)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WYA</code>
+    <DestinationName>Whyalla</DestinationName>
+    <DestinationStr>Whyalla(WYA)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WYB</code>
+    <DestinationName>Sea Base</DestinationName>
+    <DestinationStr>Sea Base(WYB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WYB</code>
+    <DestinationName>Yes Bay</DestinationName>
+    <DestinationStr>Yes Bay(WYB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WYN</code>
+    <DestinationName>Wyndham Arpt</DestinationName>
+    <DestinationStr>Wyndham Arpt(WYN)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WYN</code>
+    <DestinationName>Wyndham</DestinationName>
+    <DestinationStr>Wyndham(WYN)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WYS</code>
+    <DestinationName>West Yellowstone Arpt</DestinationName>
+    <DestinationStr>West Yellowstone Arpt(WYS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WYS</code>
+    <DestinationName>West Yellowstone</DestinationName>
+    <DestinationStr>West Yellowstone(WYS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WZY</code>
+    <DestinationName>Nassau SPB</DestinationName>
+    <DestinationStr>Nassau SPB(WZY)-Bahamas</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XFQ</code>
+    <DestinationName>Weymont</DestinationName>
+    <DestinationStr>Weymont(XFQ)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XIP</code>
+    <DestinationName>Woodstock</DestinationName>
+    <DestinationStr>Woodstock(XIP)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XPU</code>
+    <DestinationName>West Kuparuk Arpt</DestinationName>
+    <DestinationStr>West Kuparuk Arpt(XPU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XPU</code>
+    <DestinationName>West Kuparuk</DestinationName>
+    <DestinationStr>West Kuparuk(XPU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XVW</code>
+    <DestinationName>Wolverhampton</DestinationName>
+    <DestinationStr>Wolverhampton(XVW)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XWA</code>
+    <DestinationName>Watford</DestinationName>
+    <DestinationStr>Watford(XWA)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XWD</code>
+    <DestinationName>Wakefield Westgate</DestinationName>
+    <DestinationStr>Wakefield Westgate(XWD)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XWE</code>
+    <DestinationName>Wellingborough</DestinationName>
+    <DestinationStr>Wellingborough(XWE)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XWI</code>
+    <DestinationName>Wigan</DestinationName>
+    <DestinationStr>Wigan(XWI)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XWN</code>
+    <DestinationName>Warrington</DestinationName>
+    <DestinationStr>Warrington(XWN)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XWO</code>
+    <DestinationName>Woking</DestinationName>
+    <DestinationStr>Woking(XWO)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XWY</code>
+    <DestinationName>Wyoming</DestinationName>
+    <DestinationStr>Wyoming(XWY)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YIP</code>
+    <DestinationName>Willow Run Arpt</DestinationName>
+    <DestinationStr>Willow Run Arpt(YIP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YKQ</code>
+    <DestinationName>Waskaganish Arpt</DestinationName>
+    <DestinationStr>Waskaganish Arpt(YKQ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YKQ</code>
+    <DestinationName>Waskaganish</DestinationName>
+    <DestinationStr>Waskaganish(YKQ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPW</code>
+    <DestinationName>Westview Arpt</DestinationName>
+    <DestinationStr>Westview Arpt(YPW)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQG</code>
+    <DestinationName>Windsor Airport</DestinationName>
+    <DestinationStr>Windsor Airport(YQG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQG</code>
+    <DestinationName>Windsor</DestinationName>
+    <DestinationStr>Windsor(YQG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQH</code>
+    <DestinationName>Watson Lake Arpt</DestinationName>
+    <DestinationStr>Watson Lake Arpt(YQH)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQH</code>
+    <DestinationName>Watson Lake</DestinationName>
+    <DestinationStr>Watson Lake(YQH)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YWG</code>
+    <DestinationName>Winnipeg Intl Arpt</DestinationName>
+    <DestinationStr>Winnipeg Intl Arpt(YWG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YWG</code>
+    <DestinationName>Winnipeg</DestinationName>
+    <DestinationStr>Winnipeg(YWG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YWK</code>
+    <DestinationName>Wabush Arpt</DestinationName>
+    <DestinationStr>Wabush Arpt(YWK)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YWK</code>
+    <DestinationName>Wabush</DestinationName>
+    <DestinationStr>Wabush(YWK)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YWL</code>
+    <DestinationName>Williams Lake Municipal</DestinationName>
+    <DestinationStr>Williams Lake Municipal(YWL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YWL</code>
+    <DestinationName>Williams Lake</DestinationName>
+    <DestinationStr>Williams Lake(YWL)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>YWR</code>
+    <DestinationName>White River</DestinationName>
+    <DestinationStr>White River(YWR)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YWS</code>
+    <DestinationName>Whistler Arpt</DestinationName>
+    <DestinationStr>Whistler Arpt(YWS)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YWS</code>
+    <DestinationName>Whistler</DestinationName>
+    <DestinationStr>Whistler(YWS)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXN</code>
+    <DestinationName>Whale Cove Arpt</DestinationName>
+    <DestinationStr>Whale Cove Arpt(YXN)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXN</code>
+    <DestinationName>Whale Cove</DestinationName>
+    <DestinationStr>Whale Cove(YXN)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXY</code>
+    <DestinationName>Whitehorse Arpt</DestinationName>
+    <DestinationStr>Whitehorse Arpt(YXY)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXY</code>
+    <DestinationName>Whitehorse</DestinationName>
+    <DestinationStr>Whitehorse(YXY)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXZ</code>
+    <DestinationName>Wawa</DestinationName>
+    <DestinationStr>Wawa(YXZ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YZU</code>
+    <DestinationName>Whitecourt</DestinationName>
+    <DestinationStr>Whitecourt(YZU)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZGV</code>
+    <DestinationName>Wavre</DestinationName>
+    <DestinationStr>Wavre(ZGV)-Belgium</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZKW</code>
+    <DestinationName>Wetzikon</DestinationName>
+    <DestinationStr>Wetzikon(ZKW)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZLC</code>
+    <DestinationName>Waedenswil</DestinationName>
+    <DestinationStr>Waedenswil(ZLC)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZLD</code>
+    <DestinationName>Weinfelden</DestinationName>
+    <DestinationStr>Weinfelden(ZLD)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZLE</code>
+    <DestinationName>WENGEN</DestinationName>
+    <DestinationStr>WENGEN(ZLE)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZLF</code>
+    <DestinationName>Wettingen</DestinationName>
+    <DestinationStr>Wettingen(ZLF)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZLH</code>
+    <DestinationName>Wil CH</DestinationName>
+    <DestinationStr>Wil CH(ZLH)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZLI</code>
+    <DestinationName>WINTERTHUR</DestinationName>
+    <DestinationStr>WINTERTHUR(ZLI)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZQO</code>
+    <DestinationName>Waiblingen</DestinationName>
+    <DestinationStr>Waiblingen(ZQO)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZQP</code>
+    <DestinationName>Wesel</DestinationName>
+    <DestinationStr>Wesel(ZQP)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZQQ</code>
+    <DestinationName>Wetzlar</DestinationName>
+    <DestinationStr>Wetzlar(ZQQ)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZQR</code>
+    <DestinationName>Witten</DestinationName>
+    <DestinationStr>Witten(ZQR)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZQU</code>
+    <DestinationName>Wolfsburg</DestinationName>
+    <DestinationStr>Wolfsburg(ZQU)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZQV</code>
+    <DestinationName>Worms</DestinationName>
+    <DestinationStr>Worms(ZQV)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZWD</code>
+    <DestinationName>Warnemuende</DestinationName>
+    <DestinationStr>Warnemuende(ZWD)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZWM</code>
+    <DestinationName>Wismar</DestinationName>
+    <DestinationStr>Wismar(ZWM)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZWT</code>
+    <DestinationName>Wittenberg</DestinationName>
+    <DestinationStr>Wittenberg(ZWT)-Germany</DestinationStr>
+  </Destination>  
+</DestinationRoot>

@@ -1,0 +1,3912 @@
+﻿<DestinationRoot>
+  <Destination>
+    <code>NORESULT</code>
+    <DestinationName>NORESULT</DestinationName>
+    <DestinationStr>No Result Found</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ABK</code>
+    <DestinationName>Kabri Dar</DestinationName>
+    <DestinationStr>Kabri Dar(ABK)-Ethiopia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ACC</code>
+    <DestinationName>Kotoka Airport</DestinationName>
+    <DestinationStr>Kotoka Airport(ACC)-Ghana</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ADQ</code>
+    <DestinationName>Kodiak Arpt</DestinationName>
+    <DestinationStr>Kodiak Arpt(ADQ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ADQ</code>
+    <DestinationName>Kodiak</DestinationName>
+    <DestinationStr>Kodiak(ADQ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AFK</code>
+    <DestinationName>Kondavattavan Tank Arpt</DestinationName>
+    <DestinationStr>Kondavattavan Tank Arpt(AFK)-Sri Lanka</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AGR</code>
+    <DestinationName>Kheria Arpt</DestinationName>
+    <DestinationStr>Kheria Arpt(AGR)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AKF</code>
+    <DestinationName>Kufrah</DestinationName>
+    <DestinationStr>Kufrah(AKF)-Libyan Arab Jamahiriya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AKN</code>
+    <DestinationName>King Salmon Arpt</DestinationName>
+    <DestinationStr>King Salmon Arpt(AKN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AKN</code>
+    <DestinationName>King Salmon</DestinationName>
+    <DestinationStr>King Salmon(AKN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ALJ</code>
+    <DestinationName>Kortdoorn Arpt</DestinationName>
+    <DestinationStr>Kortdoorn Arpt(ALJ)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AOK</code>
+    <DestinationName>Karpathos Arpt</DestinationName>
+    <DestinationStr>Karpathos Arpt(AOK)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AOK</code>
+    <DestinationName>Karpathos</DestinationName>
+    <DestinationStr>Karpathos(AOK)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ASR</code>
+    <DestinationName>Kayseri Arpt</DestinationName>
+    <DestinationStr>Kayseri Arpt(ASR)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ASR</code>
+    <DestinationName>Kayseri</DestinationName>
+    <DestinationStr>Kayseri(ASR)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AZO</code>
+    <DestinationName>Kalamazoo Cty Arpt</DestinationName>
+    <DestinationStr>Kalamazoo Cty Arpt(AZO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AZO</code>
+    <DestinationName>Kalamazoo</DestinationName>
+    <DestinationStr>Kalamazoo(AZO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BBK</code>
+    <DestinationName>Kasane Arpt</DestinationName>
+    <DestinationStr>Kasane Arpt(BBK)-Botswana</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BBK</code>
+    <DestinationName>Kasane</DestinationName>
+    <DestinationStr>Kasane(BBK)-Botswana</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BKI</code>
+    <DestinationName>Kota Kinabalu Arpt</DestinationName>
+    <DestinationStr>Kota Kinabalu Arpt(BKI)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BKI</code>
+    <DestinationName>Kota Kinabalu</DestinationName>
+    <DestinationStr>Kota Kinabalu(BKI)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BLR</code>
+    <DestinationName>Kempegowda Intl Arpt</DestinationName>
+    <DestinationStr>Kempegowda Intl Arpt(BLR)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CCJ</code>
+    <DestinationName>Kozhikode Arpt</DestinationName>
+    <DestinationStr>Kozhikode Arpt(CCJ)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CCJ</code>
+    <DestinationName>Kozhikode</DestinationName>
+    <DestinationStr>Kozhikode(CCJ)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CCU</code>
+    <DestinationName>Kolkata</DestinationName>
+    <DestinationStr>Kolkata(CCU)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CFU</code>
+    <DestinationName>Kerkyra</DestinationName>
+    <DestinationStr>Kerkyra(CFU)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CGN</code>
+    <DestinationName>Koeln Bonn Arpt</DestinationName>
+    <DestinationStr>Koeln Bonn Arpt(CGN)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CGN</code>
+    <DestinationName>Koln</DestinationName>
+    <DestinationStr>Koln(CGN)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CMU</code>
+    <DestinationName>Kundiawa</DestinationName>
+    <DestinationStr>Kundiawa(CMU)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CND</code>
+    <DestinationName>Kogalniceanu Arpt</DestinationName>
+    <DestinationStr>Kogalniceanu Arpt(CND)-Romania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>COK</code>
+    <DestinationName>Kochi</DestinationName>
+    <DestinationStr>Kochi(COK)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DKA</code>
+    <DestinationName>Katsina Airport</DestinationName>
+    <DestinationStr>Katsina Airport(DKA)-Nigeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DKA</code>
+    <DestinationName>Katsina</DestinationName>
+    <DestinationStr>Katsina(DKA)-Nigeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DMM</code>
+    <DestinationName>King Fahad Arpt</DestinationName>
+    <DestinationStr>King Fahad Arpt(DMM)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DNA</code>
+    <DestinationName>Kadena AFB</DestinationName>
+    <DestinationStr>Kadena AFB(DNA)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DUR</code>
+    <DestinationName>King Shaka International</DestinationName>
+    <DestinationStr>King Shaka International(DUR)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EAR</code>
+    <DestinationName>Kearney Municipal Arrpt</DestinationName>
+    <DestinationStr>Kearney Municipal Arrpt(EAR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EAR</code>
+    <DestinationName>Kearney</DestinationName>
+    <DestinationStr>Kearney(EAR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EEN</code>
+    <DestinationName>Keene</DestinationName>
+    <DestinationStr>Keene(EEN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EFL</code>
+    <DestinationName>Kefalonia</DestinationName>
+    <DestinationStr>Kefalonia(EFL)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ENA</code>
+    <DestinationName>Kenai Municipal Arpt</DestinationName>
+    <DestinationStr>Kenai Municipal Arpt(ENA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ENA</code>
+    <DestinationName>Kenai</DestinationName>
+    <DestinationStr>Kenai(ENA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ENW</code>
+    <DestinationName>Kenosha Regional Airport</DestinationName>
+    <DestinationStr>Kenosha Regional Airport(ENW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ENW</code>
+    <DestinationName>Kenosha</DestinationName>
+    <DestinationStr>Kenosha(ENW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EOK</code>
+    <DestinationName>Keokuk Arpt</DestinationName>
+    <DestinationStr>Keokuk Arpt(EOK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EOK</code>
+    <DestinationName>Keokuk</DestinationName>
+    <DestinationStr>Keokuk(EOK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ERV</code>
+    <DestinationName>Kerrville Arpt</DestinationName>
+    <DestinationStr>Kerrville Arpt(ERV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ERV</code>
+    <DestinationName>Kerrville</DestinationName>
+    <DestinationStr>Kerrville(ERV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EYW</code>
+    <DestinationName>Key West Intl</DestinationName>
+    <DestinationStr>Key West Intl(EYW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EYW</code>
+    <DestinationName>Key West</DestinationName>
+    <DestinationStr>Key West(EYW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FCA</code>
+    <DestinationName>Kalispell</DestinationName>
+    <DestinationStr>Kalispell(FCA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FIH</code>
+    <DestinationName>Kinshasa Arpt</DestinationName>
+    <DestinationStr>Kinshasa Arpt(FIH)-Congo Democratic Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FIH</code>
+    <DestinationName>Kinshasa</DestinationName>
+    <DestinationStr>Kinshasa(FIH)-Congo Democratic Republic Of</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>FKB</code>
+    <DestinationName>Karlsruhe Baden Baden</DestinationName>
+    <DestinationStr>Karlsruhe Baden Baden(FKB)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FKI</code>
+    <DestinationName>Kisangani</DestinationName>
+    <DestinationStr>Kisangani(FKI)-Congo Democratic Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FMI</code>
+    <DestinationName>Kalemie</DestinationName>
+    <DestinationStr>Kalemie(FMI)-Congo Democratic Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FRU</code>
+    <DestinationName>Kyrgyzstan</DestinationName>
+    <DestinationStr>Kyrgyzstan(FRU)-Kyrgyzstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GGM</code>
+    <DestinationName>Kakamega Airport</DestinationName>
+    <DestinationStr>Kakamega Airport(GGM)-Kenya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GGM</code>
+    <DestinationName>Kakamega</DestinationName>
+    <DestinationStr>Kakamega(GGM)-Kenya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GKK</code>
+    <DestinationName>Kooddoo Arpt</DestinationName>
+    <DestinationStr>Kooddoo Arpt(GKK)-Maldives</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GKK</code>
+    <DestinationName>Kooddoo Island</DestinationName>
+    <DestinationStr>Kooddoo Island(GKK)-Maldives</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GLL</code>
+    <DestinationName>Klanten Arpt</DestinationName>
+    <DestinationStr>Klanten Arpt(GLL)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GRK</code>
+    <DestinationName>Killeen Fort Hood Regional Arpt</DestinationName>
+    <DestinationStr>Killeen Fort Hood Regional Arpt(GRK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GRR</code>
+    <DestinationName>Kent County Intl Arpt</DestinationName>
+    <DestinationStr>Kent County Intl Arpt(GRR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HAU</code>
+    <DestinationName>Karmoy Arpt</DestinationName>
+    <DestinationStr>Karmoy Arpt(HAU)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HGO</code>
+    <DestinationName>Korhogo</DestinationName>
+    <DestinationStr>Korhogo(HGO)-Ivory Coast</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HGU</code>
+    <DestinationName>Kagamuga Arpt</DestinationName>
+    <DestinationStr>Kagamuga Arpt(HGU)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HJR</code>
+    <DestinationName>Khajuraho Arpt</DestinationName>
+    <DestinationStr>Khajuraho Arpt(HJR)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HJR</code>
+    <DestinationName>Khajuraho</DestinationName>
+    <DestinationStr>Khajuraho(HJR)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HMA</code>
+    <DestinationName>Khanty Mansiysk Arpt</DestinationName>
+    <DestinationStr>Khanty Mansiysk Arpt(HMA)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HMA</code>
+    <DestinationName>Khanty Mansiysk</DestinationName>
+    <DestinationStr>Khanty Mansiysk(HMA)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HPV</code>
+    <DestinationName>Kauai</DestinationName>
+    <DestinationStr>Kauai(HPV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HRK</code>
+    <DestinationName>Kharkov Arpt</DestinationName>
+    <DestinationStr>Kharkov Arpt(HRK)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HRK</code>
+    <DestinationName>Kharkov</DestinationName>
+    <DestinationStr>Kharkov(HRK)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IAN</code>
+    <DestinationName>Kiana</DestinationName>
+    <DestinationStr>Kiana(IAN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IEV</code>
+    <DestinationName>Kiev Zhuliany Arpt</DestinationName>
+    <DestinationStr>Kiev Zhuliany Arpt(IEV)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IEV</code>
+    <DestinationName>Kiev</DestinationName>
+    <DestinationStr>Kiev(IEV)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IGM</code>
+    <DestinationName>Kingman</DestinationName>
+    <DestinationStr>Kingman(IGM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IKK</code>
+    <DestinationName>Kankakee</DestinationName>
+    <DestinationStr>Kankakee(IKK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ILE</code>
+    <DestinationName>Killeen Municipal</DestinationName>
+    <DestinationStr>Killeen Municipal(ILE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ILE</code>
+    <DestinationName>Killeen</DestinationName>
+    <DestinationStr>Killeen(ILE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>INN</code>
+    <DestinationName>Kranebitten Airport</DestinationName>
+    <DestinationStr>Kranebitten Airport(INN)-Austria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>INR</code>
+    <DestinationName>Kincheloe AFB</DestinationName>
+    <DestinationStr>Kincheloe AFB(INR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IRA</code>
+    <DestinationName>Kirakira</DestinationName>
+    <DestinationStr>Kirakira(IRA)-Solomon Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IRK</code>
+    <DestinationName>Kirksville Municipal</DestinationName>
+    <DestinationStr>Kirksville Municipal(IRK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IRK</code>
+    <DestinationName>Kirksville</DestinationName>
+    <DestinationStr>Kirksville(IRK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IRS</code>
+    <DestinationName>Kirsch Municipal</DestinationName>
+    <DestinationStr>Kirsch Municipal(IRS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ISM</code>
+    <DestinationName>Kissimmee Municipal Arpt</DestinationName>
+    <DestinationStr>Kissimmee Municipal Arpt(ISM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ISM</code>
+    <DestinationName>Kissimmee</DestinationName>
+    <DestinationStr>Kissimmee(ISM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ISO</code>
+    <DestinationName>Kinston</DestinationName>
+    <DestinationStr>Kinston(ISO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IXH</code>
+    <DestinationName>Kailashahar Airport</DestinationName>
+    <DestinationStr>Kailashahar Airport(IXH)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IXH</code>
+    <DestinationName>Kailashahar</DestinationName>
+    <DestinationStr>Kailashahar(IXH)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IXK</code>
+    <DestinationName>Keshod Airport</DestinationName>
+    <DestinationStr>Keshod Airport(IXK)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IXK</code>
+    <DestinationName>Keshod</DestinationName>
+    <DestinationStr>Keshod(IXK)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IXN</code>
+    <DestinationName>khowai Airport</DestinationName>
+    <DestinationStr>khowai Airport(IXN)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IXN</code>
+    <DestinationName>khowai</DestinationName>
+    <DestinationStr>khowai(IXN)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IXQ</code>
+    <DestinationName>Kamalpur Airport</DestinationName>
+    <DestinationStr>Kamalpur Airport(IXQ)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IXQ</code>
+    <DestinationName>Kamalpur</DestinationName>
+    <DestinationStr>Kamalpur(IXQ)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IXS</code>
+    <DestinationName>Kumbhigram Arpt</DestinationName>
+    <DestinationStr>Kumbhigram Arpt(IXS)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IXY</code>
+    <DestinationName>Kandla Arpt</DestinationName>
+    <DestinationStr>Kandla Arpt(IXY)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IXY</code>
+    <DestinationName>Kandla</DestinationName>
+    <DestinationStr>Kandla(IXY)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IYK</code>
+    <DestinationName>Kern Cty Airport</DestinationName>
+    <DestinationStr>Kern Cty Airport(IYK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JHM</code>
+    <DestinationName>Kapalua Arpt</DestinationName>
+    <DestinationStr>Kapalua Arpt(JHM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JHM</code>
+    <DestinationName>Kapalua</DestinationName>
+    <DestinationStr>Kapalua(JHM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JKL</code>
+    <DestinationName>Kalymnos Arpt</DestinationName>
+    <DestinationStr>Kalymnos Arpt(JKL)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JKL</code>
+    <DestinationName>Kalymnos Island</DestinationName>
+    <DestinationStr>Kalymnos Island(JKL)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JRF</code>
+    <DestinationName>Kalaeloa Arpt</DestinationName>
+    <DestinationStr>Kalaeloa Arpt(JRF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JRF</code>
+    <DestinationName>Kapolei</DestinationName>
+    <DestinationStr>Kapolei(JRF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JRO</code>
+    <DestinationName>Kilimanjaro Arpt</DestinationName>
+    <DestinationStr>Kilimanjaro Arpt(JRO)-Tanzania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JRO</code>
+    <DestinationName>Kilimanjaro</DestinationName>
+    <DestinationStr>Kilimanjaro(JRO)-Tanzania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KAA</code>
+    <DestinationName>Kazama</DestinationName>
+    <DestinationStr>Kazama(KAA)-Zambia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KAB</code>
+    <DestinationName>Kariba Arpt</DestinationName>
+    <DestinationStr>Kariba Arpt(KAB)-Zimbabwe</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KAB</code>
+    <DestinationName>Kariba Dam</DestinationName>
+    <DestinationStr>Kariba Dam(KAB)-Zimbabwe</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KAC</code>
+    <DestinationName>Kameshli</DestinationName>
+    <DestinationStr>Kameshli(KAC)-Syrian Arab Rep.</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KAD</code>
+    <DestinationName>Kaduna Airport</DestinationName>
+    <DestinationStr>Kaduna Airport(KAD)-Nigeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KAD</code>
+    <DestinationName>Kaduna</DestinationName>
+    <DestinationStr>Kaduna(KAD)-Nigeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KAE</code>
+    <DestinationName>Kake Arpt</DestinationName>
+    <DestinationStr>Kake Arpt(KAE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KAE</code>
+    <DestinationName>Kake</DestinationName>
+    <DestinationStr>Kake(KAE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KAH</code>
+    <DestinationName>City Heliport</DestinationName>
+    <DestinationStr>City Heliport(KAH)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KAJ</code>
+    <DestinationName>Kajaani Airport</DestinationName>
+    <DestinationStr>Kajaani Airport(KAJ)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KAJ</code>
+    <DestinationName>Kajaani</DestinationName>
+    <DestinationStr>Kajaani(KAJ)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KAL</code>
+    <DestinationName>Kaltag</DestinationName>
+    <DestinationStr>Kaltag(KAL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KAN</code>
+    <DestinationName>Aminu Kano Intl Arpt</DestinationName>
+    <DestinationStr>Aminu Kano Intl Arpt(KAN)-Nigeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KAN</code>
+    <DestinationName>Kano</DestinationName>
+    <DestinationStr>Kano(KAN)-Nigeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KAO</code>
+    <DestinationName>Kuusamo</DestinationName>
+    <DestinationStr>Kuusamo(KAO)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KAT</code>
+    <DestinationName>Kaitaia Arpt</DestinationName>
+    <DestinationStr>Kaitaia Arpt(KAT)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KAT</code>
+    <DestinationName>Kaitaia</DestinationName>
+    <DestinationStr>Kaitaia(KAT)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KAW</code>
+    <DestinationName>Kawthaung</DestinationName>
+    <DestinationStr>Kawthaung(KAW)-Myanmar</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KAX</code>
+    <DestinationName>Kalbarri</DestinationName>
+    <DestinationStr>Kalbarri(KAX)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KAZ</code>
+    <DestinationName>Au ID</DestinationName>
+    <DestinationStr>Au ID(KAZ)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KBA</code>
+    <DestinationName>Kabala</DestinationName>
+    <DestinationStr>Kabala(KBA)-Sierra Leone</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KBC</code>
+    <DestinationName>Birch Creek</DestinationName>
+    <DestinationStr>Birch Creek(KBC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KBJ</code>
+    <DestinationName>Kings Canyon Arpt</DestinationName>
+    <DestinationStr>Kings Canyon Arpt(KBJ)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KBJ</code>
+    <DestinationName>Kings Canyon</DestinationName>
+    <DestinationStr>Kings Canyon(KBJ)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KBL</code>
+    <DestinationName>Kabul</DestinationName>
+    <DestinationStr>Kabul(KBL)-Afghanistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KBL</code>
+    <DestinationName>Khwaja Rawash Arpt</DestinationName>
+    <DestinationStr>Khwaja Rawash Arpt(KBL)-Afghanistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KBM</code>
+    <DestinationName>Kabwum</DestinationName>
+    <DestinationStr>Kabwum(KBM)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KBP</code>
+    <DestinationName>Boryspil Arpt</DestinationName>
+    <DestinationStr>Boryspil Arpt(KBP)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KBR</code>
+    <DestinationName>Kota Bharu</DestinationName>
+    <DestinationStr>Kota Bharu(KBR)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KBR</code>
+    <DestinationName>Pengkalan Chepa</DestinationName>
+    <DestinationStr>Pengkalan Chepa(KBR)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KBV</code>
+    <DestinationName>Krabi Arpt</DestinationName>
+    <DestinationStr>Krabi Arpt(KBV)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KBV</code>
+    <DestinationName>Krabi</DestinationName>
+    <DestinationStr>Krabi(KBV)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KBW</code>
+    <DestinationName>Chignik Bay Arpt</DestinationName>
+    <DestinationStr>Chignik Bay Arpt(KBW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KBY</code>
+    <DestinationName>Streaky Bay</DestinationName>
+    <DestinationStr>Streaky Bay(KBY)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KBZ</code>
+    <DestinationName>Kaikoura Arpt</DestinationName>
+    <DestinationStr>Kaikoura Arpt(KBZ)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KBZ</code>
+    <DestinationName>Kaikoura</DestinationName>
+    <DestinationStr>Kaikoura(KBZ)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KCA</code>
+    <DestinationName>Kuqa</DestinationName>
+    <DestinationStr>Kuqa(KCA)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KCC</code>
+    <DestinationName>Coffman Cove</DestinationName>
+    <DestinationStr>Coffman Cove(KCC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KCD</code>
+    <DestinationName>Kamur</DestinationName>
+    <DestinationStr>Kamur(KCD)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KCE</code>
+    <DestinationName>Collinsville Arpt</DestinationName>
+    <DestinationStr>Collinsville Arpt(KCE)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KCE</code>
+    <DestinationName>Collinsville</DestinationName>
+    <DestinationStr>Collinsville(KCE)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KCG</code>
+    <DestinationName>Chignik Fisheries Arpt</DestinationName>
+    <DestinationStr>Chignik Fisheries Arpt(KCG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KCG</code>
+    <DestinationName>Chignik</DestinationName>
+    <DestinationStr>Chignik(KCG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KCH</code>
+    <DestinationName>Kuching Airport</DestinationName>
+    <DestinationStr>Kuching Airport(KCH)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KCH</code>
+    <DestinationName>Kuching</DestinationName>
+    <DestinationStr>Kuching(KCH)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KCK</code>
+    <DestinationName>Kirensk</DestinationName>
+    <DestinationStr>Kirensk(KCK)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KCL</code>
+    <DestinationName>Chignik Lagoon Arpt</DestinationName>
+    <DestinationStr>Chignik Lagoon Arpt(KCL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KCL</code>
+    <DestinationName>Chignik Lagoon</DestinationName>
+    <DestinationStr>Chignik Lagoon(KCL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KCM</code>
+    <DestinationName>Kahramanmaras aRPT</DestinationName>
+    <DestinationStr>Kahramanmaras aRPT(KCM)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KCM</code>
+    <DestinationName>Kahramanmaras</DestinationName>
+    <DestinationStr>Kahramanmaras(KCM)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KCN</code>
+    <DestinationName>Chernofski</DestinationName>
+    <DestinationStr>Chernofski(KCN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KCN</code>
+    <DestinationName>Sp Base</DestinationName>
+    <DestinationStr>Sp Base(KCN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KCO</code>
+    <DestinationName>Cengiz Topel Airport</DestinationName>
+    <DestinationStr>Cengiz Topel Airport(KCO)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KCO</code>
+    <DestinationName>Kocaeli</DestinationName>
+    <DestinationStr>Kocaeli(KCO)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KCP</code>
+    <DestinationName>Kamenets Podolski Arpt</DestinationName>
+    <DestinationStr>Kamenets Podolski Arpt(KCP)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KCP</code>
+    <DestinationName>Kamenets Podolski</DestinationName>
+    <DestinationStr>Kamenets Podolski(KCP)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KCQ</code>
+    <DestinationName>Chignik Airport</DestinationName>
+    <DestinationStr>Chignik Airport(KCQ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KCT</code>
+    <DestinationName>Koggala Airport</DestinationName>
+    <DestinationStr>Koggala Airport(KCT)-Sri Lanka</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KCT</code>
+    <DestinationName>Koggala</DestinationName>
+    <DestinationStr>Koggala(KCT)-Sri Lanka</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KCZ</code>
+    <DestinationName>Kochi Airport</DestinationName>
+    <DestinationStr>Kochi Airport(KCZ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KCZ</code>
+    <DestinationName>Kochi</DestinationName>
+    <DestinationStr>Kochi(KCZ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KDI</code>
+    <DestinationName>Kendari</DestinationName>
+    <DestinationStr>Kendari(KDI)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KDI</code>
+    <DestinationName>Wolter  Monginsidi Airport</DestinationName>
+    <DestinationStr>Wolter  Monginsidi Airport(KDI)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KDK</code>
+    <DestinationName>Kodiak Municipal</DestinationName>
+    <DestinationStr>Kodiak Municipal(KDK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KDM</code>
+    <DestinationName>Kaadedhdhoo</DestinationName>
+    <DestinationStr>Kaadedhdhoo(KDM)-Maldives</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KDN</code>
+    <DestinationName>N Dende</DestinationName>
+    <DestinationStr>N Dende(KDN)-Gabon</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KDO</code>
+    <DestinationName>Kadhdhoo Island Arpt</DestinationName>
+    <DestinationStr>Kadhdhoo Island Arpt(KDO)-Maldives</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KDO</code>
+    <DestinationName>Kadhdhoo Island</DestinationName>
+    <DestinationStr>Kadhdhoo Island(KDO)-Maldives</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KDR</code>
+    <DestinationName>Kandrian</DestinationName>
+    <DestinationStr>Kandrian(KDR)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KDU</code>
+    <DestinationName>Skardu Airport</DestinationName>
+    <DestinationStr>Skardu Airport(KDU)-Pakistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KDU</code>
+    <DestinationName>Skardu</DestinationName>
+    <DestinationStr>Skardu(KDU)-Pakistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KDV</code>
+    <DestinationName>Kadavu Airport</DestinationName>
+    <DestinationStr>Kadavu Airport(KDV)-Fiji Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KDV</code>
+    <DestinationName>Kandavu</DestinationName>
+    <DestinationStr>Kandavu(KDV)-Fiji Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KDW</code>
+    <DestinationName>Kandy</DestinationName>
+    <DestinationStr>Kandy(KDW)-Sri Lanka</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KEB</code>
+    <DestinationName>English Bay</DestinationName>
+    <DestinationStr>English Bay(KEB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KEB</code>
+    <DestinationName>Nanwalek Arpt</DestinationName>
+    <DestinationStr>Nanwalek Arpt(KEB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KED</code>
+    <DestinationName>Kaedi</DestinationName>
+    <DestinationStr>Kaedi(KED)-Mauritania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KEE</code>
+    <DestinationName>Kelle</DestinationName>
+    <DestinationStr>Kelle(KEE)-Congo</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KEF</code>
+    <DestinationName>Reykjavik Keflavik Intl Arpt</DestinationName>
+    <DestinationStr>Reykjavik Keflavik Intl Arpt(KEF)-Iceland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KEH</code>
+    <DestinationName>Kenmore Air Harbor</DestinationName>
+    <DestinationStr>Kenmore Air Harbor(KEH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KEI</code>
+    <DestinationName>Kepi</DestinationName>
+    <DestinationStr>Kepi(KEI)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KEJ</code>
+    <DestinationName>Kemerovo Arpt</DestinationName>
+    <DestinationStr>Kemerovo Arpt(KEJ)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KEJ</code>
+    <DestinationName>Kemerovo</DestinationName>
+    <DestinationStr>Kemerovo(KEJ)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KEK</code>
+    <DestinationName>Ekwok</DestinationName>
+    <DestinationStr>Ekwok(KEK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KEL</code>
+    <DestinationName>Holtenau Arpt</DestinationName>
+    <DestinationStr>Holtenau Arpt(KEL)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KEL</code>
+    <DestinationName>Kiel</DestinationName>
+    <DestinationStr>Kiel(KEL)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KEM</code>
+    <DestinationName>Kemi Tornio Arpt</DestinationName>
+    <DestinationStr>Kemi Tornio Arpt(KEM)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KEM</code>
+    <DestinationName>Kemi</DestinationName>
+    <DestinationStr>Kemi(KEM)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KEN</code>
+    <DestinationName>Kenema</DestinationName>
+    <DestinationStr>Kenema(KEN)-Sierra Leone</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KEO</code>
+    <DestinationName>Odienne</DestinationName>
+    <DestinationStr>Odienne(KEO)-Ivory Coast</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KEQ</code>
+    <DestinationName>Kebar</DestinationName>
+    <DestinationStr>Kebar(KEQ)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KER</code>
+    <DestinationName>Kerman Arpt</DestinationName>
+    <DestinationStr>Kerman Arpt(KER)-Iran</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KER</code>
+    <DestinationName>Kerman</DestinationName>
+    <DestinationStr>Kerman(KER)-Iran</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KET</code>
+    <DestinationName>Kengtung</DestinationName>
+    <DestinationStr>Kengtung(KET)-Myanmar</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KEX</code>
+    <DestinationName>Kanabea</DestinationName>
+    <DestinationStr>Kanabea(KEX)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KEY</code>
+    <DestinationName>Kericho</DestinationName>
+    <DestinationStr>Kericho(KEY)-Kenya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KFA</code>
+    <DestinationName>Kiffa</DestinationName>
+    <DestinationStr>Kiffa(KFA)-Mauritania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KFP</code>
+    <DestinationName>False Pass</DestinationName>
+    <DestinationStr>False Pass(KFP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KFS</code>
+    <DestinationName>Kastamonu Airport</DestinationName>
+    <DestinationStr>Kastamonu Airport(KFS)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KFS</code>
+    <DestinationName>Kastamonu</DestinationName>
+    <DestinationStr>Kastamonu(KFS)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KGA</code>
+    <DestinationName>Kananga</DestinationName>
+    <DestinationStr>Kananga(KGA)-Congo Democratic Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KGB</code>
+    <DestinationName>Konge</DestinationName>
+    <DestinationStr>Konge(KGB)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KGC</code>
+    <DestinationName>Kingscote Arpt</DestinationName>
+    <DestinationStr>Kingscote Arpt(KGC)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KGC</code>
+    <DestinationName>Kingscote</DestinationName>
+    <DestinationStr>Kingscote(KGC)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KGD</code>
+    <DestinationName>Kaliningrad Arpt</DestinationName>
+    <DestinationStr>Kaliningrad Arpt(KGD)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KGD</code>
+    <DestinationName>Kaliningrad</DestinationName>
+    <DestinationStr>Kaliningrad(KGD)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KGF</code>
+    <DestinationName>Karaganda Arpt</DestinationName>
+    <DestinationStr>Karaganda Arpt(KGF)-Kazakstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KGF</code>
+    <DestinationName>Karaganda</DestinationName>
+    <DestinationStr>Karaganda(KGF)-Kazakstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KGG</code>
+    <DestinationName>Kedougou</DestinationName>
+    <DestinationStr>Kedougou(KGG)-Senegal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KGH</code>
+    <DestinationName>Yongai</DestinationName>
+    <DestinationStr>Yongai(KGH)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KGI</code>
+    <DestinationName>Kalgoorlie Arpt</DestinationName>
+    <DestinationStr>Kalgoorlie Arpt(KGI)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KGI</code>
+    <DestinationName>Kalgoorlie</DestinationName>
+    <DestinationStr>Kalgoorlie(KGI)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KGJ</code>
+    <DestinationName>Karonga</DestinationName>
+    <DestinationStr>Karonga(KGJ)-Malawi</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KGK</code>
+    <DestinationName>Koliganek</DestinationName>
+    <DestinationStr>Koliganek(KGK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KGL</code>
+    <DestinationName>Kigali Intl Arpt</DestinationName>
+    <DestinationStr>Kigali Intl Arpt(KGL)-Rwanda</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KGL</code>
+    <DestinationName>Kigali</DestinationName>
+    <DestinationStr>Kigali(KGL)-Rwanda</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KGL</code>
+    <DestinationName>Rwanda</DestinationName>
+    <DestinationStr>Rwanda(KGL)-Rwanda</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KGP</code>
+    <DestinationName>Kogalym International Airport</DestinationName>
+    <DestinationStr>Kogalym International Airport(KGP)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KGP</code>
+    <DestinationName>Kogalym</DestinationName>
+    <DestinationStr>Kogalym(KGP)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KGS</code>
+    <DestinationName>Kos Arpt</DestinationName>
+    <DestinationStr>Kos Arpt(KGS)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KGS</code>
+    <DestinationName>Kos Gr</DestinationName>
+    <DestinationStr>Kos Gr(KGS)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KGT</code>
+    <DestinationName>Kangding Airport</DestinationName>
+    <DestinationStr>Kangding Airport(KGT)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KGT</code>
+    <DestinationName>Kangding</DestinationName>
+    <DestinationStr>Kangding(KGT)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KGW</code>
+    <DestinationName>Kagi Airport</DestinationName>
+    <DestinationStr>Kagi Airport(KGW)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KGW</code>
+    <DestinationName>Kagi</DestinationName>
+    <DestinationStr>Kagi(KGW)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KGX</code>
+    <DestinationName>Grayling</DestinationName>
+    <DestinationStr>Grayling(KGX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KGY</code>
+    <DestinationName>Kingaroy</DestinationName>
+    <DestinationStr>Kingaroy(KGY)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KHC</code>
+    <DestinationName>Kerch</DestinationName>
+    <DestinationStr>Kerch(KHC)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KHD</code>
+    <DestinationName>Khorramabad Arpt</DestinationName>
+    <DestinationStr>Khorramabad Arpt(KHD)-Iran</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KHD</code>
+    <DestinationName>Khorramabad</DestinationName>
+    <DestinationStr>Khorramabad(KHD)-Iran</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KHE</code>
+    <DestinationName>Kherson</DestinationName>
+    <DestinationStr>Kherson(KHE)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KHG</code>
+    <DestinationName>Kashi Arpt</DestinationName>
+    <DestinationStr>Kashi Arpt(KHG)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KHG</code>
+    <DestinationName>Kashi</DestinationName>
+    <DestinationStr>Kashi(KHG)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KHH</code>
+    <DestinationName>Kaohsiung Intl</DestinationName>
+    <DestinationStr>Kaohsiung Intl(KHH)-Taiwan, Province of China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KHH</code>
+    <DestinationName>Kaohsiung</DestinationName>
+    <DestinationStr>Kaohsiung(KHH)-Taiwan, Province of China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KHI</code>
+    <DestinationName>Karachi Airport</DestinationName>
+    <DestinationStr>Karachi Airport(KHI)-Pakistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KHI</code>
+    <DestinationName>Karachi</DestinationName>
+    <DestinationStr>Karachi(KHI)-Pakistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KHI</code>
+    <DestinationName>Quaid E Azam International</DestinationName>
+    <DestinationStr>Quaid E Azam International(KHI)-Pakistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KHN</code>
+    <DestinationName>Nanchang Arpt</DestinationName>
+    <DestinationStr>Nanchang Arpt(KHN)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KHN</code>
+    <DestinationName>Nanchang</DestinationName>
+    <DestinationStr>Nanchang(KHN)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KHS</code>
+    <DestinationName>Khasab Arpt</DestinationName>
+    <DestinationStr>Khasab Arpt(KHS)-Oman Sultanate Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KHS</code>
+    <DestinationName>Khasab</DestinationName>
+    <DestinationStr>Khasab(KHS)-Oman Sultanate Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KHV</code>
+    <DestinationName>Khabarovsk</DestinationName>
+    <DestinationStr>Khabarovsk(KHV)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KHV</code>
+    <DestinationName>Novyy Arpt</DestinationName>
+    <DestinationStr>Novyy Arpt(KHV)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KHY</code>
+    <DestinationName>Khoy</DestinationName>
+    <DestinationStr>Khoy(KHY)-Iran</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KHZ</code>
+    <DestinationName>Kauehi</DestinationName>
+    <DestinationStr>Kauehi(KHZ)-French Polynesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KIB</code>
+    <DestinationName>Ivanof Bay</DestinationName>
+    <DestinationStr>Ivanof Bay(KIB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KIC</code>
+    <DestinationName>King City</DestinationName>
+    <DestinationStr>King City(KIC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KIC</code>
+    <DestinationName>Mesa Del Rey Arpt</DestinationName>
+    <DestinationStr>Mesa Del Rey Arpt(KIC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KID</code>
+    <DestinationName>Kristianstad Arpt</DestinationName>
+    <DestinationStr>Kristianstad Arpt(KID)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KID</code>
+    <DestinationName>Kristianstad</DestinationName>
+    <DestinationStr>Kristianstad(KID)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KIE</code>
+    <DestinationName>Kieta</DestinationName>
+    <DestinationStr>Kieta(KIE)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KIH</code>
+    <DestinationName>Kish Island</DestinationName>
+    <DestinationStr>Kish Island(KIH)-Iran</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KIJ</code>
+    <DestinationName>Niigata Arpt</DestinationName>
+    <DestinationStr>Niigata Arpt(KIJ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KIJ</code>
+    <DestinationName>Niigata</DestinationName>
+    <DestinationStr>Niigata(KIJ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KIL</code>
+    <DestinationName>Kilwa</DestinationName>
+    <DestinationStr>Kilwa(KIL)-Congo Democratic Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KIM</code>
+    <DestinationName>Kimberley Arpt</DestinationName>
+    <DestinationStr>Kimberley Arpt(KIM)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KIM</code>
+    <DestinationName>Kimberley</DestinationName>
+    <DestinationStr>Kimberley(KIM)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KIN</code>
+    <DestinationName>Kingston</DestinationName>
+    <DestinationStr>Kingston(KIN)-Jamaica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KIN</code>
+    <DestinationName>Norman Manley Intl</DestinationName>
+    <DestinationStr>Norman Manley Intl(KIN)-Jamaica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KIP</code>
+    <DestinationName>Kickapoo Downtown Airpark</DestinationName>
+    <DestinationStr>Kickapoo Downtown Airpark(KIP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KIQ</code>
+    <DestinationName>Kira</DestinationName>
+    <DestinationStr>Kira(KIQ)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KIR</code>
+    <DestinationName>Kerry County Arpt</DestinationName>
+    <DestinationStr>Kerry County Arpt(KIR)-Ireland, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KIR</code>
+    <DestinationName>Kerry County</DestinationName>
+    <DestinationStr>Kerry County(KIR)-Ireland, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KIS</code>
+    <DestinationName>Kisumu Arpt</DestinationName>
+    <DestinationStr>Kisumu Arpt(KIS)-Kenya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KIS</code>
+    <DestinationName>Kisumu</DestinationName>
+    <DestinationStr>Kisumu(KIS)-Kenya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KIT</code>
+    <DestinationName>Kithira Arpt</DestinationName>
+    <DestinationStr>Kithira Arpt(KIT)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KIT</code>
+    <DestinationName>Kithira</DestinationName>
+    <DestinationStr>Kithira(KIT)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KIV</code>
+    <DestinationName>Chisinau Arpt</DestinationName>
+    <DestinationStr>Chisinau Arpt(KIV)-Moldova</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KIV</code>
+    <DestinationName>Chisinau</DestinationName>
+    <DestinationStr>Chisinau(KIV)-Moldova</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KIV</code>
+    <DestinationName>Moldova</DestinationName>
+    <DestinationStr>Moldova(KIV)-Moldova</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KIW</code>
+    <DestinationName>Kitwe</DestinationName>
+    <DestinationStr>Kitwe(KIW)-Zambia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KIX</code>
+    <DestinationName>Kansai International Arpt</DestinationName>
+    <DestinationStr>Kansai International Arpt(KIX)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KIY</code>
+    <DestinationName>Kilwa</DestinationName>
+    <DestinationStr>Kilwa(KIY)-Tanzania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KJA</code>
+    <DestinationName>Krasnojarsk Arpt</DestinationName>
+    <DestinationStr>Krasnojarsk Arpt(KJA)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KJA</code>
+    <DestinationName>Krasnoyarsk</DestinationName>
+    <DestinationStr>Krasnoyarsk(KJA)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KJH</code>
+    <DestinationName>Kaili Huangping Airport</DestinationName>
+    <DestinationStr>Kaili Huangping Airport(KJH)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KJH</code>
+    <DestinationName>Kaili</DestinationName>
+    <DestinationStr>Kaili(KJH)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KJK</code>
+    <DestinationName>Kortrijk Arpt</DestinationName>
+    <DestinationStr>Kortrijk Arpt(KJK)-Belgium</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KJK</code>
+    <DestinationName>Kortrijk</DestinationName>
+    <DestinationStr>Kortrijk(KJK)-Belgium</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KKA</code>
+    <DestinationName>Koyuk</DestinationName>
+    <DestinationStr>Koyuk(KKA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KKB</code>
+    <DestinationName>Kitoi Bay</DestinationName>
+    <DestinationStr>Kitoi Bay(KKB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KKC</code>
+    <DestinationName>Khon Kaen Arpt</DestinationName>
+    <DestinationStr>Khon Kaen Arpt(KKC)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KKC</code>
+    <DestinationName>Khon Kaen</DestinationName>
+    <DestinationStr>Khon Kaen(KKC)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KKD</code>
+    <DestinationName>Kokoda</DestinationName>
+    <DestinationStr>Kokoda(KKD)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KKE</code>
+    <DestinationName>Kerikeri Arpt</DestinationName>
+    <DestinationStr>Kerikeri Arpt(KKE)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KKE</code>
+    <DestinationName>Kerikeri</DestinationName>
+    <DestinationStr>Kerikeri(KKE)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KKH</code>
+    <DestinationName>Kongiganak</DestinationName>
+    <DestinationStr>Kongiganak(KKH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KKI</code>
+    <DestinationName>Akiachak</DestinationName>
+    <DestinationStr>Akiachak(KKI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KKJ</code>
+    <DestinationName>Kita Kyushu</DestinationName>
+    <DestinationStr>Kita Kyushu(KKJ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KKJ</code>
+    <DestinationName>Kokura Arpt</DestinationName>
+    <DestinationStr>Kokura Arpt(KKJ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KKK</code>
+    <DestinationName>Kalakaket Afs</DestinationName>
+    <DestinationStr>Kalakaket Afs(KKK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KKK</code>
+    <DestinationName>Kalakaket</DestinationName>
+    <DestinationStr>Kalakaket(KKK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KKL</code>
+    <DestinationName>Karluk Lake Arpt</DestinationName>
+    <DestinationStr>Karluk Lake Arpt(KKL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KKL</code>
+    <DestinationName>Karluk Lake</DestinationName>
+    <DestinationStr>Karluk Lake(KKL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KKN</code>
+    <DestinationName>Hoeybuktmoen Arpt</DestinationName>
+    <DestinationStr>Hoeybuktmoen Arpt(KKN)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KKN</code>
+    <DestinationName>Kirkenes</DestinationName>
+    <DestinationStr>Kirkenes(KKN)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KKQ</code>
+    <DestinationName>Krasnoselkup</DestinationName>
+    <DestinationStr>Krasnoselkup(KKQ)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KKR</code>
+    <DestinationName>Kaukura</DestinationName>
+    <DestinationStr>Kaukura(KKR)-French Polynesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KKT</code>
+    <DestinationName>Kentland Arpt</DestinationName>
+    <DestinationStr>Kentland Arpt(KKT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KKT</code>
+    <DestinationName>Kentland</DestinationName>
+    <DestinationStr>Kentland(KKT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KKU</code>
+    <DestinationName>Ekuk</DestinationName>
+    <DestinationStr>Ekuk(KKU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KKX</code>
+    <DestinationName>Kikaiga Shima</DestinationName>
+    <DestinationStr>Kikaiga Shima(KKX)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KKY</code>
+    <DestinationName>Kilkenny</DestinationName>
+    <DestinationStr>Kilkenny(KKY)-Ireland, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KLA</code>
+    <DestinationName>Kampala</DestinationName>
+    <DestinationStr>Kampala(KLA)-Uganda</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KLC</code>
+    <DestinationName>Kaolack</DestinationName>
+    <DestinationStr>Kaolack(KLC)-Senegal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KLD</code>
+    <DestinationName>Kalinin</DestinationName>
+    <DestinationStr>Kalinin(KLD)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KLD</code>
+    <DestinationName>Migalovo Arpt</DestinationName>
+    <DestinationStr>Migalovo Arpt(KLD)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KLD</code>
+    <DestinationName>Tver</DestinationName>
+    <DestinationStr>Tver(KLD)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KLF</code>
+    <DestinationName>Kaluga Arpt</DestinationName>
+    <DestinationStr>Kaluga Arpt(KLF)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KLF</code>
+    <DestinationName>Kaluga</DestinationName>
+    <DestinationStr>Kaluga(KLF)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KLG</code>
+    <DestinationName>Kalskag Municipal Arpt</DestinationName>
+    <DestinationStr>Kalskag Municipal Arpt(KLG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KLG</code>
+    <DestinationName>Kalskag</DestinationName>
+    <DestinationStr>Kalskag(KLG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KLH</code>
+    <DestinationName>Kolhapur Arpt</DestinationName>
+    <DestinationStr>Kolhapur Arpt(KLH)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KLH</code>
+    <DestinationName>Kolhapur</DestinationName>
+    <DestinationStr>Kolhapur(KLH)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KLJ</code>
+    <DestinationName>Klaipeda Arpt</DestinationName>
+    <DestinationStr>Klaipeda Arpt(KLJ)-Lithuania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KLJ</code>
+    <DestinationName>Klaipeda</DestinationName>
+    <DestinationStr>Klaipeda(KLJ)-Lithuania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KLL</code>
+    <DestinationName>Levelock</DestinationName>
+    <DestinationStr>Levelock(KLL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KLN</code>
+    <DestinationName>Larsen Bay</DestinationName>
+    <DestinationStr>Larsen Bay(KLN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KLO</code>
+    <DestinationName>Kalibo Arpt</DestinationName>
+    <DestinationStr>Kalibo Arpt(KLO)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KLO</code>
+    <DestinationName>Kalibo</DestinationName>
+    <DestinationStr>Kalibo(KLO)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KLP</code>
+    <DestinationName>Kelp Bay Arpt</DestinationName>
+    <DestinationStr>Kelp Bay Arpt(KLP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KLP</code>
+    <DestinationName>Kelp Bay</DestinationName>
+    <DestinationStr>Kelp Bay(KLP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KLR</code>
+    <DestinationName>Kalmar Arpt</DestinationName>
+    <DestinationStr>Kalmar Arpt(KLR)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KLR</code>
+    <DestinationName>Kalmar</DestinationName>
+    <DestinationStr>Kalmar(KLR)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KLS</code>
+    <DestinationName>Kelso Longview Regional Arpt</DestinationName>
+    <DestinationStr>Kelso Longview Regional Arpt(KLS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KLS</code>
+    <DestinationName>Kelso</DestinationName>
+    <DestinationStr>Kelso(KLS)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>KLT</code>
+    <DestinationName>Kaiserslautern</DestinationName>
+    <DestinationStr>Kaiserslautern(KLT)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KLU</code>
+    <DestinationName>Klagenfurt Arpt</DestinationName>
+    <DestinationStr>Klagenfurt Arpt(KLU)-Austria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KLU</code>
+    <DestinationName>Klagenfurt</DestinationName>
+    <DestinationStr>Klagenfurt(KLU)-Austria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KLV</code>
+    <DestinationName>Karlovy Vary Arpt</DestinationName>
+    <DestinationStr>Karlovy Vary Arpt(KLV)-Czech Republic</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KLV</code>
+    <DestinationName>Karlovy Vary</DestinationName>
+    <DestinationStr>Karlovy Vary(KLV)-Czech Republic</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KLW</code>
+    <DestinationName>Klawock Arpt</DestinationName>
+    <DestinationStr>Klawock Arpt(KLW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KLW</code>
+    <DestinationName>Klawock</DestinationName>
+    <DestinationStr>Klawock(KLW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KLX</code>
+    <DestinationName>Kalamata Airport</DestinationName>
+    <DestinationStr>Kalamata Airport(KLX)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KLX</code>
+    <DestinationName>Kalamata</DestinationName>
+    <DestinationStr>Kalamata(KLX)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KLZ</code>
+    <DestinationName>Kleinzee</DestinationName>
+    <DestinationStr>Kleinzee(KLZ)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KMA</code>
+    <DestinationName>Kerema Airport</DestinationName>
+    <DestinationStr>Kerema Airport(KMA)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KMA</code>
+    <DestinationName>Kerema</DestinationName>
+    <DestinationStr>Kerema(KMA)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KMC</code>
+    <DestinationName>King Khalid Military Airport</DestinationName>
+    <DestinationStr>King Khalid Military Airport(KMC)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KMC</code>
+    <DestinationName>King Khalid Military City</DestinationName>
+    <DestinationStr>King Khalid Military City(KMC)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KME</code>
+    <DestinationName>Cyangugu</DestinationName>
+    <DestinationStr>Cyangugu(KME)-Rwanda</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KME</code>
+    <DestinationName>Kamembe Airport</DestinationName>
+    <DestinationStr>Kamembe Airport(KME)-Rwanda</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KMF</code>
+    <DestinationName>Kamina</DestinationName>
+    <DestinationStr>Kamina(KMF)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KMG</code>
+    <DestinationName>Kunming Airport</DestinationName>
+    <DestinationStr>Kunming Airport(KMG)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KMG</code>
+    <DestinationName>Kunming</DestinationName>
+    <DestinationStr>Kunming(KMG)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KMH</code>
+    <DestinationName>Kuruman Arpt</DestinationName>
+    <DestinationStr>Kuruman Arpt(KMH)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KMH</code>
+    <DestinationName>Kuruman</DestinationName>
+    <DestinationStr>Kuruman(KMH)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KMI</code>
+    <DestinationName>Miyazaki Arpt</DestinationName>
+    <DestinationStr>Miyazaki Arpt(KMI)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KMI</code>
+    <DestinationName>Miyazaki</DestinationName>
+    <DestinationStr>Miyazaki(KMI)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KMJ</code>
+    <DestinationName>Kumamoto Airport</DestinationName>
+    <DestinationStr>Kumamoto Airport(KMJ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KMJ</code>
+    <DestinationName>Kumamoto</DestinationName>
+    <DestinationStr>Kumamoto(KMJ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KMM</code>
+    <DestinationName>Kimam</DestinationName>
+    <DestinationStr>Kimam(KMM)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KMO</code>
+    <DestinationName>Manokotak</DestinationName>
+    <DestinationStr>Manokotak(KMO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KMP</code>
+    <DestinationName>Keetmanshoop</DestinationName>
+    <DestinationStr>Keetmanshoop(KMP)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KMQ</code>
+    <DestinationName>Komatsu Airport</DestinationName>
+    <DestinationStr>Komatsu Airport(KMQ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KMQ</code>
+    <DestinationName>Komatsu</DestinationName>
+    <DestinationStr>Komatsu(KMQ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KMR</code>
+    <DestinationName>Karimui</DestinationName>
+    <DestinationStr>Karimui(KMR)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KMS</code>
+    <DestinationName>Kumasi</DestinationName>
+    <DestinationStr>Kumasi(KMS)-Ghana</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KMS</code>
+    <DestinationName>Kumasiairport</DestinationName>
+    <DestinationStr>Kumasiairport(KMS)-Ghana</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KMT</code>
+    <DestinationName>Kampot</DestinationName>
+    <DestinationStr>Kampot(KMT)-Cambodia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KMU</code>
+    <DestinationName>Kismayu</DestinationName>
+    <DestinationStr>Kismayu(KMU)-Somalia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KMV</code>
+    <DestinationName>Kalemyo</DestinationName>
+    <DestinationStr>Kalemyo(KMV)-Myanmar</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KMW</code>
+    <DestinationName>Kostroma Arpt</DestinationName>
+    <DestinationStr>Kostroma Arpt(KMW)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KMW</code>
+    <DestinationName>Kostroma</DestinationName>
+    <DestinationStr>Kostroma(KMW)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KMX</code>
+    <DestinationName>Khamis Mushait Arpt</DestinationName>
+    <DestinationStr>Khamis Mushait Arpt(KMX)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KMX</code>
+    <DestinationName>Khamis Mushait</DestinationName>
+    <DestinationStr>Khamis Mushait(KMX)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KMY</code>
+    <DestinationName>Moser Bay</DestinationName>
+    <DestinationStr>Moser Bay(KMY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KNA</code>
+    <DestinationName>Vina Del Mar Arpt</DestinationName>
+    <DestinationStr>Vina Del Mar Arpt(KNA)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KNA</code>
+    <DestinationName>Vina Del Mar</DestinationName>
+    <DestinationStr>Vina Del Mar(KNA)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KND</code>
+    <DestinationName>Kindu</DestinationName>
+    <DestinationStr>Kindu(KND)-Congo Democratic Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KNF</code>
+    <DestinationName>Kings Lynn</DestinationName>
+    <DestinationStr>Kings Lynn(KNF)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KNF</code>
+    <DestinationName>Marham Raf</DestinationName>
+    <DestinationStr>Marham Raf(KNF)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KNG</code>
+    <DestinationName>Kaimana</DestinationName>
+    <DestinationStr>Kaimana(KNG)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KNH</code>
+    <DestinationName>Kinmen Shangyi Arpt</DestinationName>
+    <DestinationStr>Kinmen Shangyi Arpt(KNH)-Taiwan, Province of China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KNH</code>
+    <DestinationName>Kinmen</DestinationName>
+    <DestinationStr>Kinmen(KNH)-Taiwan, Province of China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KNK</code>
+    <DestinationName>Kakhonak Arpt</DestinationName>
+    <DestinationStr>Kakhonak Arpt(KNK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KNK</code>
+    <DestinationName>Kakhonak</DestinationName>
+    <DestinationStr>Kakhonak(KNK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KNO</code>
+    <DestinationName>Kuala Namu Airport</DestinationName>
+    <DestinationStr>Kuala Namu Airport(KNO)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KNQ</code>
+    <DestinationName>Kone</DestinationName>
+    <DestinationStr>Kone(KNQ)-New Caledonia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KNS</code>
+    <DestinationName>King Island Arpt</DestinationName>
+    <DestinationStr>King Island Arpt(KNS)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KNS</code>
+    <DestinationName>King Island</DestinationName>
+    <DestinationStr>King Island(KNS)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KNT</code>
+    <DestinationName>Kennett Municipal Arpt</DestinationName>
+    <DestinationStr>Kennett Municipal Arpt(KNT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KNT</code>
+    <DestinationName>Kennett</DestinationName>
+    <DestinationStr>Kennett(KNT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KNU</code>
+    <DestinationName>Chakeri Arpt</DestinationName>
+    <DestinationStr>Chakeri Arpt(KNU)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KNU</code>
+    <DestinationName>Kanpur</DestinationName>
+    <DestinationStr>Kanpur(KNU)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KNW</code>
+    <DestinationName>New Stuyahok</DestinationName>
+    <DestinationStr>New Stuyahok(KNW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KNX</code>
+    <DestinationName>Kununurra Airport</DestinationName>
+    <DestinationStr>Kununurra Airport(KNX)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KNX</code>
+    <DestinationName>Kununurra</DestinationName>
+    <DestinationStr>Kununurra(KNX)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KNZ</code>
+    <DestinationName>Kenieba</DestinationName>
+    <DestinationStr>Kenieba(KNZ)-Mali</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KOA</code>
+    <DestinationName>Island of Hawaii</DestinationName>
+    <DestinationStr>Island of Hawaii(KOA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KOA</code>
+    <DestinationName>Keahole Arpt</DestinationName>
+    <DestinationStr>Keahole Arpt(KOA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KOA</code>
+    <DestinationName>Kona</DestinationName>
+    <DestinationStr>Kona(KOA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KOB</code>
+    <DestinationName>Koutaba Arpt</DestinationName>
+    <DestinationStr>Koutaba Arpt(KOB)-Cameroon, United Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KOB</code>
+    <DestinationName>Koutaba</DestinationName>
+    <DestinationStr>Koutaba(KOB)-Cameroon, United Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KOC</code>
+    <DestinationName>Koumac Arpt</DestinationName>
+    <DestinationStr>Koumac Arpt(KOC)-New Caledonia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KOC</code>
+    <DestinationName>Koumac</DestinationName>
+    <DestinationStr>Koumac(KOC)-New Caledonia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KOE</code>
+    <DestinationName>El Tari Arpt</DestinationName>
+    <DestinationStr>El Tari Arpt(KOE)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KOE</code>
+    <DestinationName>Kupang</DestinationName>
+    <DestinationStr>Kupang(KOE)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KOF</code>
+    <DestinationName>Komatipoort Airport</DestinationName>
+    <DestinationStr>Komatipoort Airport(KOF)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KOF</code>
+    <DestinationName>KOMATIPOORT</DestinationName>
+    <DestinationStr>KOMATIPOORT(KOF)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KOH</code>
+    <DestinationName>Koolatah</DestinationName>
+    <DestinationStr>Koolatah(KOH)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KOI</code>
+    <DestinationName>Kirkwall Arpt</DestinationName>
+    <DestinationStr>Kirkwall Arpt(KOI)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KOI</code>
+    <DestinationName>Kirkwall</DestinationName>
+    <DestinationStr>Kirkwall(KOI)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KOJ</code>
+    <DestinationName>Kagoshima Arpt</DestinationName>
+    <DestinationStr>Kagoshima Arpt(KOJ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KOJ</code>
+    <DestinationName>Kagoshima</DestinationName>
+    <DestinationStr>Kagoshima(KOJ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KOK</code>
+    <DestinationName>Kokkola Arpt</DestinationName>
+    <DestinationStr>Kokkola Arpt(KOK)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KOK</code>
+    <DestinationName>Kokkola</DestinationName>
+    <DestinationStr>Kokkola(KOK)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KOO</code>
+    <DestinationName>Kongolo</DestinationName>
+    <DestinationStr>Kongolo(KOO)-Congo Democratic Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KOP</code>
+    <DestinationName>Nakhon Phanom Arpt</DestinationName>
+    <DestinationStr>Nakhon Phanom Arpt(KOP)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KOP</code>
+    <DestinationName>Nakhon Phanom</DestinationName>
+    <DestinationStr>Nakhon Phanom(KOP)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KOR</code>
+    <DestinationName>Kokoro Arpt</DestinationName>
+    <DestinationStr>Kokoro Arpt(KOR)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KOR</code>
+    <DestinationName>Kokoro</DestinationName>
+    <DestinationStr>Kokoro(KOR)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KOS</code>
+    <DestinationName>Sihanoukville Arpt</DestinationName>
+    <DestinationStr>Sihanoukville Arpt(KOS)-Cambodia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KOS</code>
+    <DestinationName>Sihanoukville</DestinationName>
+    <DestinationStr>Sihanoukville(KOS)-Cambodia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KOT</code>
+    <DestinationName>Kotlik</DestinationName>
+    <DestinationStr>Kotlik(KOT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KOU</code>
+    <DestinationName>Koulamoutou</DestinationName>
+    <DestinationStr>Koulamoutou(KOU)-Gabon</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KOV</code>
+    <DestinationName>Kokshetau Airport</DestinationName>
+    <DestinationStr>Kokshetau Airport(KOV)-Kazakstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KOV</code>
+    <DestinationName>Kokshetau</DestinationName>
+    <DestinationStr>Kokshetau(KOV)-Kazakstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KOW</code>
+    <DestinationName>Ganzhou Arpt</DestinationName>
+    <DestinationStr>Ganzhou Arpt(KOW)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KOW</code>
+    <DestinationName>Ganzhou</DestinationName>
+    <DestinationStr>Ganzhou(KOW)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KOY</code>
+    <DestinationName>Olga Bay</DestinationName>
+    <DestinationStr>Olga Bay(KOY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KOZ</code>
+    <DestinationName>Ouzinkie</DestinationName>
+    <DestinationStr>Ouzinkie(KOZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KPA</code>
+    <DestinationName>Kopiago</DestinationName>
+    <DestinationStr>Kopiago(KPA)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KPB</code>
+    <DestinationName>Point Baker Arpt</DestinationName>
+    <DestinationStr>Point Baker Arpt(KPB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KPB</code>
+    <DestinationName>Point Baker</DestinationName>
+    <DestinationStr>Point Baker(KPB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KPC</code>
+    <DestinationName>Port Clarence</DestinationName>
+    <DestinationStr>Port Clarence(KPC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KPD</code>
+    <DestinationName>King Of Prussia Arpt</DestinationName>
+    <DestinationStr>King Of Prussia Arpt(KPD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KPD</code>
+    <DestinationName>King Of Prussia</DestinationName>
+    <DestinationStr>King Of Prussia(KPD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KPH</code>
+    <DestinationName>Pauloff Arpt</DestinationName>
+    <DestinationStr>Pauloff Arpt(KPH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KPH</code>
+    <DestinationName>Pauloff Harbor</DestinationName>
+    <DestinationStr>Pauloff Harbor(KPH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KPI</code>
+    <DestinationName>Kapit</DestinationName>
+    <DestinationStr>Kapit(KPI)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KPK</code>
+    <DestinationName>Parks</DestinationName>
+    <DestinationStr>Parks(KPK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KPN</code>
+    <DestinationName>Kipnuk</DestinationName>
+    <DestinationStr>Kipnuk(KPN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KPO</code>
+    <DestinationName>Pohang Arpt</DestinationName>
+    <DestinationStr>Pohang Arpt(KPO)-Korea, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KPO</code>
+    <DestinationName>Pohang</DestinationName>
+    <DestinationStr>Pohang(KPO)-Korea, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KPR</code>
+    <DestinationName>Port Williams</DestinationName>
+    <DestinationStr>Port Williams(KPR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KPS</code>
+    <DestinationName>Kempsey Arpt</DestinationName>
+    <DestinationStr>Kempsey Arpt(KPS)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KPS</code>
+    <DestinationName>Kempsey</DestinationName>
+    <DestinationStr>Kempsey(KPS)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KPT</code>
+    <DestinationName>Jackpot</DestinationName>
+    <DestinationStr>Jackpot(KPT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KPV</code>
+    <DestinationName>Perryville</DestinationName>
+    <DestinationStr>Perryville(KPV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KPY</code>
+    <DestinationName>Port Bailey</DestinationName>
+    <DestinationStr>Port Bailey(KPY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KQA</code>
+    <DestinationName>Akutan</DestinationName>
+    <DestinationStr>Akutan(KQA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KQT</code>
+    <DestinationName>Qurghonteppa International</DestinationName>
+    <DestinationStr>Qurghonteppa International(KQT)-Tajikistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KQT</code>
+    <DestinationName>Qurghonteppa</DestinationName>
+    <DestinationStr>Qurghonteppa(KQT)-Tajikistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KRA</code>
+    <DestinationName>Kerang</DestinationName>
+    <DestinationStr>Kerang(KRA)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KRB</code>
+    <DestinationName>Karumba Arpt</DestinationName>
+    <DestinationStr>Karumba Arpt(KRB)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KRB</code>
+    <DestinationName>Karumba</DestinationName>
+    <DestinationStr>Karumba(KRB)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KRE</code>
+    <DestinationName>Kirundo</DestinationName>
+    <DestinationStr>Kirundo(KRE)-Burundi</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KRF</code>
+    <DestinationName>Kramfors Arpt</DestinationName>
+    <DestinationStr>Kramfors Arpt(KRF)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KRF</code>
+    <DestinationName>Kramfors</DestinationName>
+    <DestinationStr>Kramfors(KRF)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KRH</code>
+    <DestinationName>Redhill</DestinationName>
+    <DestinationStr>Redhill(KRH)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KRI</code>
+    <DestinationName>Kikori</DestinationName>
+    <DestinationStr>Kikori(KRI)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KRJ</code>
+    <DestinationName>Karawari</DestinationName>
+    <DestinationStr>Karawari(KRJ)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KRK</code>
+    <DestinationName>John Paul II International</DestinationName>
+    <DestinationStr>John Paul II International(KRK)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KRK</code>
+    <DestinationName>Krakow</DestinationName>
+    <DestinationStr>Krakow(KRK)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KRL</code>
+    <DestinationName>Korla Arpt</DestinationName>
+    <DestinationStr>Korla Arpt(KRL)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KRL</code>
+    <DestinationName>Korla</DestinationName>
+    <DestinationStr>Korla(KRL)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KRN</code>
+    <DestinationName>Kiruna Airport</DestinationName>
+    <DestinationStr>Kiruna Airport(KRN)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KRN</code>
+    <DestinationName>Kiruna</DestinationName>
+    <DestinationStr>Kiruna(KRN)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KRO</code>
+    <DestinationName>Kurgan Airport</DestinationName>
+    <DestinationStr>Kurgan Airport(KRO)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KRO</code>
+    <DestinationName>Kurgan</DestinationName>
+    <DestinationStr>Kurgan(KRO)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KRP</code>
+    <DestinationName>Karup Arpt</DestinationName>
+    <DestinationStr>Karup Arpt(KRP)-Denmark</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KRP</code>
+    <DestinationName>Karup</DestinationName>
+    <DestinationStr>Karup(KRP)-Denmark</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KRR</code>
+    <DestinationName>Krasnodar Arpt</DestinationName>
+    <DestinationStr>Krasnodar Arpt(KRR)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KRR</code>
+    <DestinationName>Krasnodar</DestinationName>
+    <DestinationStr>Krasnodar(KRR)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KRS</code>
+    <DestinationName>Kjevik Airport</DestinationName>
+    <DestinationStr>Kjevik Airport(KRS)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KRS</code>
+    <DestinationName>Kristiansand</DestinationName>
+    <DestinationStr>Kristiansand(KRS)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KRT</code>
+    <DestinationName>Civil Arpt</DestinationName>
+    <DestinationStr>Civil Arpt(KRT)-Sudan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KRT</code>
+    <DestinationName>Khartoum</DestinationName>
+    <DestinationStr>Khartoum(KRT)-Sudan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KRT</code>
+    <DestinationName>Sudan</DestinationName>
+    <DestinationStr>Sudan(KRT)-Sudan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KRU</code>
+    <DestinationName>Kerau</DestinationName>
+    <DestinationStr>Kerau(KRU)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KRW</code>
+    <DestinationName>Turkmanbashi Arpt</DestinationName>
+    <DestinationStr>Turkmanbashi Arpt(KRW)-Turkmenistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KRW</code>
+    <DestinationName>Turkmanbashi</DestinationName>
+    <DestinationStr>Turkmanbashi(KRW)-Turkmenistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KRX</code>
+    <DestinationName>Karkar</DestinationName>
+    <DestinationStr>Karkar(KRX)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KRY</code>
+    <DestinationName>Karamay Arpt</DestinationName>
+    <DestinationStr>Karamay Arpt(KRY)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KRY</code>
+    <DestinationName>Karamay</DestinationName>
+    <DestinationStr>Karamay(KRY)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KSA</code>
+    <DestinationName>Kosrae International Airport</DestinationName>
+    <DestinationStr>Kosrae International Airport(KSA)-Micronesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KSA</code>
+    <DestinationName>Kosrae</DestinationName>
+    <DestinationStr>Kosrae(KSA)-Micronesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KSC</code>
+    <DestinationName>Barca Arpt</DestinationName>
+    <DestinationStr>Barca Arpt(KSC)-Slovakia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KSC</code>
+    <DestinationName>Kosice</DestinationName>
+    <DestinationStr>Kosice(KSC)-Slovakia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KSD</code>
+    <DestinationName>Karlstad Arpt</DestinationName>
+    <DestinationStr>Karlstad Arpt(KSD)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KSD</code>
+    <DestinationName>Karlstad</DestinationName>
+    <DestinationStr>Karlstad(KSD)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KSE</code>
+    <DestinationName>Kasese</DestinationName>
+    <DestinationStr>Kasese(KSE)-Uganda</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KSF</code>
+    <DestinationName>Kassel Calden Arpt</DestinationName>
+    <DestinationStr>Kassel Calden Arpt(KSF)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KSF</code>
+    <DestinationName>Kassel</DestinationName>
+    <DestinationStr>Kassel(KSF)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KSG</code>
+    <DestinationName>Kisengan</DestinationName>
+    <DestinationStr>Kisengan(KSG)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KSH</code>
+    <DestinationName>Kermanshah Arpt</DestinationName>
+    <DestinationStr>Kermanshah Arpt(KSH)-Iran</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KSH</code>
+    <DestinationName>Kermanshah</DestinationName>
+    <DestinationStr>Kermanshah(KSH)-Iran</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KSJ</code>
+    <DestinationName>Kasos Island Airport</DestinationName>
+    <DestinationStr>Kasos Island Airport(KSJ)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KSJ</code>
+    <DestinationName>Kasos Island</DestinationName>
+    <DestinationStr>Kasos Island(KSJ)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KSK</code>
+    <DestinationName>Karlskoga</DestinationName>
+    <DestinationStr>Karlskoga(KSK)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KSL</code>
+    <DestinationName>Kassala</DestinationName>
+    <DestinationStr>Kassala(KSL)-Sudan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KSM</code>
+    <DestinationName>St Marys</DestinationName>
+    <DestinationStr>St Marys(KSM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KSN</code>
+    <DestinationName>Kostanay Arpt</DestinationName>
+    <DestinationStr>Kostanay Arpt(KSN)-Kazakstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KSN</code>
+    <DestinationName>Kostanay</DestinationName>
+    <DestinationStr>Kostanay(KSN)-Kazakstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KSO</code>
+    <DestinationName>Aristoteles Arpt</DestinationName>
+    <DestinationStr>Aristoteles Arpt(KSO)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KSO</code>
+    <DestinationName>Kastoria</DestinationName>
+    <DestinationStr>Kastoria(KSO)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KSQ</code>
+    <DestinationName>Karshi Airport</DestinationName>
+    <DestinationStr>Karshi Airport(KSQ)-Uzbekistan Sum</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KSQ</code>
+    <DestinationName>Karshi</DestinationName>
+    <DestinationStr>Karshi(KSQ)-Uzbekistan Sum</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KSU</code>
+    <DestinationName>Kristiansund</DestinationName>
+    <DestinationStr>Kristiansund(KSU)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KSU</code>
+    <DestinationName>Kvernberget Arpt</DestinationName>
+    <DestinationStr>Kvernberget Arpt(KSU)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KSW</code>
+    <DestinationName>Kiryat Shmona Arpt</DestinationName>
+    <DestinationStr>Kiryat Shmona Arpt(KSW)-Israel</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KSW</code>
+    <DestinationName>Kiryat Shmona</DestinationName>
+    <DestinationStr>Kiryat Shmona(KSW)-Israel</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KSY</code>
+    <DestinationName>Kars Arpt</DestinationName>
+    <DestinationStr>Kars Arpt(KSY)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KSY</code>
+    <DestinationName>Kars</DestinationName>
+    <DestinationStr>Kars(KSY)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KTA</code>
+    <DestinationName>Karratha Airport</DestinationName>
+    <DestinationStr>Karratha Airport(KTA)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KTA</code>
+    <DestinationName>Karratha</DestinationName>
+    <DestinationStr>Karratha(KTA)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KTB</code>
+    <DestinationName>Thorne Bay</DestinationName>
+    <DestinationStr>Thorne Bay(KTB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KTD</code>
+    <DestinationName>Kitadaito</DestinationName>
+    <DestinationStr>Kitadaito(KTD)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KTE</code>
+    <DestinationName>Kertech Arpt</DestinationName>
+    <DestinationStr>Kertech Arpt(KTE)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KTE</code>
+    <DestinationName>Kerteh</DestinationName>
+    <DestinationStr>Kerteh(KTE)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KTG</code>
+    <DestinationName>Ketapang</DestinationName>
+    <DestinationStr>Ketapang(KTG)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KTL</code>
+    <DestinationName>Kitale Airport</DestinationName>
+    <DestinationStr>Kitale Airport(KTL)-Kenya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KTL</code>
+    <DestinationName>Kitale</DestinationName>
+    <DestinationStr>Kitale(KTL)-Kenya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KTM</code>
+    <DestinationName>Kathmandu</DestinationName>
+    <DestinationStr>Kathmandu(KTM)-Nepal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KTM</code>
+    <DestinationName>Tribuvan Arpt</DestinationName>
+    <DestinationStr>Tribuvan Arpt(KTM)-Nepal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KTN</code>
+    <DestinationName>Ketchikan Intl Arpt</DestinationName>
+    <DestinationStr>Ketchikan Intl Arpt(KTN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KTN</code>
+    <DestinationName>Ketchikan</DestinationName>
+    <DestinationStr>Ketchikan(KTN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KTP</code>
+    <DestinationName>Tinson Pen Arpt</DestinationName>
+    <DestinationStr>Tinson Pen Arpt(KTP)-Jamaica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KTR</code>
+    <DestinationName>Katherine</DestinationName>
+    <DestinationStr>Katherine(KTR)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KTR</code>
+    <DestinationName>Tindal Airport</DestinationName>
+    <DestinationStr>Tindal Airport(KTR)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KTS</code>
+    <DestinationName>Brevig Mission Arpt</DestinationName>
+    <DestinationStr>Brevig Mission Arpt(KTS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KTS</code>
+    <DestinationName>Brevig Mission</DestinationName>
+    <DestinationStr>Brevig Mission(KTS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KTT</code>
+    <DestinationName>Kittila Arpt</DestinationName>
+    <DestinationStr>Kittila Arpt(KTT)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KTT</code>
+    <DestinationName>Kittila</DestinationName>
+    <DestinationStr>Kittila(KTT)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KTU</code>
+    <DestinationName>Kota Airport</DestinationName>
+    <DestinationStr>Kota Airport(KTU)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KTU</code>
+    <DestinationName>Kota</DestinationName>
+    <DestinationStr>Kota(KTU)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KTW</code>
+    <DestinationName>Katowice</DestinationName>
+    <DestinationStr>Katowice(KTW)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KTW</code>
+    <DestinationName>Pyrzowice</DestinationName>
+    <DestinationStr>Pyrzowice(KTW)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KUA</code>
+    <DestinationName>Kuantan Arpt</DestinationName>
+    <DestinationStr>Kuantan Arpt(KUA)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KUA</code>
+    <DestinationName>Kuantan</DestinationName>
+    <DestinationStr>Kuantan(KUA)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KUB</code>
+    <DestinationName>Kuala Belait Arpt</DestinationName>
+    <DestinationStr>Kuala Belait Arpt(KUB)-Brunei</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KUB</code>
+    <DestinationName>Kuala Belait</DestinationName>
+    <DestinationStr>Kuala Belait(KUB)-Brunei</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KUC</code>
+    <DestinationName>Kuria</DestinationName>
+    <DestinationStr>Kuria(KUC)-Kiribati</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KUD</code>
+    <DestinationName>Kudat Arpt</DestinationName>
+    <DestinationStr>Kudat Arpt(KUD)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KUD</code>
+    <DestinationName>Kudat</DestinationName>
+    <DestinationStr>Kudat(KUD)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KUF</code>
+    <DestinationName>Samara Arpt</DestinationName>
+    <DestinationStr>Samara Arpt(KUF)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KUF</code>
+    <DestinationName>Samara</DestinationName>
+    <DestinationStr>Samara(KUF)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KUG</code>
+    <DestinationName>Kubin Island</DestinationName>
+    <DestinationStr>Kubin Island(KUG)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KUH</code>
+    <DestinationName>Kushiro Arpt</DestinationName>
+    <DestinationStr>Kushiro Arpt(KUH)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KUH</code>
+    <DestinationName>Kushiro</DestinationName>
+    <DestinationStr>Kushiro(KUH)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KUK</code>
+    <DestinationName>Kasigluk Arpt</DestinationName>
+    <DestinationStr>Kasigluk Arpt(KUK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KUK</code>
+    <DestinationName>Kasigluk</DestinationName>
+    <DestinationStr>Kasigluk(KUK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KUL</code>
+    <DestinationName>Kuala Lumpur International Arpt</DestinationName>
+    <DestinationStr>Kuala Lumpur International Arpt(KUL)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KUL</code>
+    <DestinationName>Kuala Lumpur</DestinationName>
+    <DestinationStr>Kuala Lumpur(KUL)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KUM</code>
+    <DestinationName>Yakushima</DestinationName>
+    <DestinationStr>Yakushima(KUM)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KUN</code>
+    <DestinationName>Kaunas Arpt</DestinationName>
+    <DestinationStr>Kaunas Arpt(KUN)-Lithuania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KUN</code>
+    <DestinationName>Kaunas</DestinationName>
+    <DestinationStr>Kaunas(KUN)-Lithuania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KUO</code>
+    <DestinationName>Kuopio Arpt</DestinationName>
+    <DestinationStr>Kuopio Arpt(KUO)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KUO</code>
+    <DestinationName>Kuopio</DestinationName>
+    <DestinationStr>Kuopio(KUO)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KUP</code>
+    <DestinationName>Kupiano</DestinationName>
+    <DestinationStr>Kupiano(KUP)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KUS</code>
+    <DestinationName>Kulusuk Arpt</DestinationName>
+    <DestinationStr>Kulusuk Arpt(KUS)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KUS</code>
+    <DestinationName>Kulusuk</DestinationName>
+    <DestinationStr>Kulusuk(KUS)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KUT</code>
+    <DestinationName>Kopitnari</DestinationName>
+    <DestinationStr>Kopitnari(KUT)-Georgia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KUT</code>
+    <DestinationName>Kutaisi</DestinationName>
+    <DestinationStr>Kutaisi(KUT)-Georgia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KUU</code>
+    <DestinationName>Bhuntar Arpt</DestinationName>
+    <DestinationStr>Bhuntar Arpt(KUU)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KUU</code>
+    <DestinationName>Kulu</DestinationName>
+    <DestinationStr>Kulu(KUU)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KUV</code>
+    <DestinationName>Gunsan Arpt</DestinationName>
+    <DestinationStr>Gunsan Arpt(KUV)-Korea, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KUV</code>
+    <DestinationName>Kunsan Arpt</DestinationName>
+    <DestinationStr>Kunsan Arpt(KUV)-Korea, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KUV</code>
+    <DestinationName>Kunsan</DestinationName>
+    <DestinationStr>Kunsan(KUV)-Korea, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KVA</code>
+    <DestinationName>Kavalla</DestinationName>
+    <DestinationStr>Kavalla(KVA)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KVA</code>
+    <DestinationName>Megas Alexandros</DestinationName>
+    <DestinationStr>Megas Alexandros(KVA)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KVB</code>
+    <DestinationName>Skovde Arpt</DestinationName>
+    <DestinationStr>Skovde Arpt(KVB)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KVB</code>
+    <DestinationName>Skovde</DestinationName>
+    <DestinationStr>Skovde(KVB)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KVC</code>
+    <DestinationName>King Cove</DestinationName>
+    <DestinationStr>King Cove(KVC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KVD</code>
+    <DestinationName>Ganca</DestinationName>
+    <DestinationStr>Ganca(KVD)-Azerbaijan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KVD</code>
+    <DestinationName>Gyandzha Airport</DestinationName>
+    <DestinationStr>Gyandzha Airport(KVD)-Azerbaijan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KVD</code>
+    <DestinationName>Gyandzhan</DestinationName>
+    <DestinationStr>Gyandzhan(KVD)-Azerbaijan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KVG</code>
+    <DestinationName>Kavieng Arpt</DestinationName>
+    <DestinationStr>Kavieng Arpt(KVG)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KVG</code>
+    <DestinationName>Kavieng</DestinationName>
+    <DestinationStr>Kavieng(KVG)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KVL</code>
+    <DestinationName>Kivalina</DestinationName>
+    <DestinationStr>Kivalina(KVL)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>KVN</code>
+    <DestinationName>Kunshan</DestinationName>
+    <DestinationStr>Kunshan(KVN)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KVX</code>
+    <DestinationName>KIROV ARPT</DestinationName>
+    <DestinationStr>KIROV ARPT(KVX)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KVX</code>
+    <DestinationName>Kirov Pobedilovo</DestinationName>
+    <DestinationStr>Kirov Pobedilovo(KVX)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KWA</code>
+    <DestinationName>Kwajalein Arpt</DestinationName>
+    <DestinationStr>Kwajalein Arpt(KWA)-Marshall Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KWA</code>
+    <DestinationName>Kwajalein</DestinationName>
+    <DestinationStr>Kwajalein(KWA)-Marshall Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KWB</code>
+    <DestinationName>Karimunjawa</DestinationName>
+    <DestinationStr>Karimunjawa(KWB)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KWE</code>
+    <DestinationName>Guiyang Arpt</DestinationName>
+    <DestinationStr>Guiyang Arpt(KWE)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KWE</code>
+    <DestinationName>Guiyang</DestinationName>
+    <DestinationStr>Guiyang(KWE)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KWF</code>
+    <DestinationName>Waterfall Spb</DestinationName>
+    <DestinationStr>Waterfall Spb(KWF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KWF</code>
+    <DestinationName>Waterfall</DestinationName>
+    <DestinationStr>Waterfall(KWF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KWG</code>
+    <DestinationName>Krivoy Rog Arpt</DestinationName>
+    <DestinationStr>Krivoy Rog Arpt(KWG)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KWG</code>
+    <DestinationName>Krivoy Rog</DestinationName>
+    <DestinationStr>Krivoy Rog(KWG)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KWI</code>
+    <DestinationName>Al Kuwayt</DestinationName>
+    <DestinationStr>Al Kuwayt(KWI)-Kuwait</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KWI</code>
+    <DestinationName>Kuwait Intl</DestinationName>
+    <DestinationStr>Kuwait Intl(KWI)-Kuwait</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KWI</code>
+    <DestinationName>Kuwait</DestinationName>
+    <DestinationStr>Kuwait(KWI)-Kuwait</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KWJ</code>
+    <DestinationName>Kwangju Arpt</DestinationName>
+    <DestinationStr>Kwangju Arpt(KWJ)-Korea, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KWJ</code>
+    <DestinationName>Kwangju</DestinationName>
+    <DestinationStr>Kwangju(KWJ)-Korea, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KWK</code>
+    <DestinationName>Kwigillingok</DestinationName>
+    <DestinationStr>Kwigillingok(KWK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KWL</code>
+    <DestinationName>Guilin Airport</DestinationName>
+    <DestinationStr>Guilin Airport(KWL)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KWL</code>
+    <DestinationName>Guilin</DestinationName>
+    <DestinationStr>Guilin(KWL)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KWM</code>
+    <DestinationName>Kowanyama</DestinationName>
+    <DestinationStr>Kowanyama(KWM)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KWN</code>
+    <DestinationName>Quinhagak</DestinationName>
+    <DestinationStr>Quinhagak(KWN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KWP</code>
+    <DestinationName>West Point</DestinationName>
+    <DestinationStr>West Point(KWP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KWT</code>
+    <DestinationName>Kwethluk</DestinationName>
+    <DestinationStr>Kwethluk(KWT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KXA</code>
+    <DestinationName>Kasaan</DestinationName>
+    <DestinationStr>Kasaan(KXA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KXE</code>
+    <DestinationName>Klerksdorp</DestinationName>
+    <DestinationStr>Klerksdorp(KXE)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KXK</code>
+    <DestinationName>Komsomolsk Na Amure Arpt</DestinationName>
+    <DestinationStr>Komsomolsk Na Amure Arpt(KXK)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KXK</code>
+    <DestinationName>Komsomolsk Na Amure</DestinationName>
+    <DestinationStr>Komsomolsk Na Amure(KXK)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KXR</code>
+    <DestinationName>Karoola</DestinationName>
+    <DestinationStr>Karoola(KXR)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KYA</code>
+    <DestinationName>Konya Arpt</DestinationName>
+    <DestinationStr>Konya Arpt(KYA)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KYA</code>
+    <DestinationName>Konya</DestinationName>
+    <DestinationStr>Konya(KYA)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KYK</code>
+    <DestinationName>Karluk</DestinationName>
+    <DestinationStr>Karluk(KYK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KYL</code>
+    <DestinationName>Key Largo</DestinationName>
+    <DestinationStr>Key Largo(KYL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KYL</code>
+    <DestinationName>Port Largo Arpt</DestinationName>
+    <DestinationStr>Port Largo Arpt(KYL)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>KYN</code>
+    <DestinationName>Milton Keynes</DestinationName>
+    <DestinationStr>Milton Keynes(KYN)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KYO</code>
+    <DestinationName>Topp Of Tampa</DestinationName>
+    <DestinationStr>Topp Of Tampa(KYO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KYP</code>
+    <DestinationName>Kyaukpyu</DestinationName>
+    <DestinationStr>Kyaukpyu(KYP)-Myanmar</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KYU</code>
+    <DestinationName>Koyukuk</DestinationName>
+    <DestinationStr>Koyukuk(KYU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KYX</code>
+    <DestinationName>Yalumet</DestinationName>
+    <DestinationStr>Yalumet(KYX)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KZB</code>
+    <DestinationName>Zachar Bay</DestinationName>
+    <DestinationStr>Zachar Bay(KZB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KZF</code>
+    <DestinationName>Kaintiba</DestinationName>
+    <DestinationStr>Kaintiba(KZF)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KZI</code>
+    <DestinationName>Kozani</DestinationName>
+    <DestinationStr>Kozani(KZI)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KZI</code>
+    <DestinationName>Philippos Arpt</DestinationName>
+    <DestinationStr>Philippos Arpt(KZI)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KZK</code>
+    <DestinationName>Kampong Thom</DestinationName>
+    <DestinationStr>Kampong Thom(KZK)-Cambodia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KZN</code>
+    <DestinationName>Kazan Arpt</DestinationName>
+    <DestinationStr>Kazan Arpt(KZN)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KZN</code>
+    <DestinationName>Kazan</DestinationName>
+    <DestinationStr>Kazan(KZN)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KZO</code>
+    <DestinationName>Kzyl Orda Arpt</DestinationName>
+    <DestinationStr>Kzyl Orda Arpt(KZO)-Kazakstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KZO</code>
+    <DestinationName>Kzyl Orda</DestinationName>
+    <DestinationStr>Kzyl Orda(KZO)-Kazakstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KZR</code>
+    <DestinationName>Kutahya</DestinationName>
+    <DestinationStr>Kutahya(KZR)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KZR</code>
+    <DestinationName>Zafer Airport</DestinationName>
+    <DestinationStr>Zafer Airport(KZR)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KZS</code>
+    <DestinationName>Kastelorizo Arpt</DestinationName>
+    <DestinationStr>Kastelorizo Arpt(KZS)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KZS</code>
+    <DestinationName>Kastelorizo</DestinationName>
+    <DestinationStr>Kastelorizo(KZS)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LBD</code>
+    <DestinationName>Khujand Airport</DestinationName>
+    <DestinationStr>Khujand Airport(LBD)-Tajikistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LBD</code>
+    <DestinationName>Khujand</DestinationName>
+    <DestinationStr>Khujand(LBD)-Tajikistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LBJ</code>
+    <DestinationName>Komodo Airport</DestinationName>
+    <DestinationStr>Komodo Airport(LBJ)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LFO</code>
+    <DestinationName>Kelafo</DestinationName>
+    <DestinationStr>Kelafo(LFO)-Ethiopia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LIH</code>
+    <DestinationName>Kauai</DestinationName>
+    <DestinationStr>Kauai(LIH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LLA</code>
+    <DestinationName>Kallax Airport</DestinationName>
+    <DestinationStr>Kallax Airport(LLA)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LMT</code>
+    <DestinationName>Kingsley Field</DestinationName>
+    <DestinationStr>Kingsley Field(LMT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LMT</code>
+    <DestinationName>Klamath Falls</DestinationName>
+    <DestinationStr>Klamath Falls(LMT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LSA</code>
+    <DestinationName>Kiriwina Airport</DestinationName>
+    <DestinationStr>Kiriwina Airport(LSA)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LUP</code>
+    <DestinationName>Kalaupapa Municipal</DestinationName>
+    <DestinationStr>Kalaupapa Municipal(LUP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LUP</code>
+    <DestinationName>Kalaupapa</DestinationName>
+    <DestinationStr>Kalaupapa(LUP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MCI</code>
+    <DestinationName>Kansas City Intl</DestinationName>
+    <DestinationStr>Kansas City Intl(MCI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MEI</code>
+    <DestinationName>Key Field</DestinationName>
+    <DestinationStr>Key Field(MEI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MHV</code>
+    <DestinationName>Kern County Arpt</DestinationName>
+    <DestinationStr>Kern County Arpt(MHV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MJF</code>
+    <DestinationName>Kjaerstad Arpt</DestinationName>
+    <DestinationStr>Kjaerstad Arpt(MJF)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MKC</code>
+    <DestinationName>Kansas City Municipal Arpt</DestinationName>
+    <DestinationStr>Kansas City Municipal Arpt(MKC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MKC</code>
+    <DestinationName>Kansas City</DestinationName>
+    <DestinationStr>Kansas City(MKC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MQP</code>
+    <DestinationName>Kruger Mpumalanga Intl Arpt</DestinationName>
+    <DestinationStr>Kruger Mpumalanga Intl Arpt(MQP)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MSE</code>
+    <DestinationName>Kent International Arpt</DestinationName>
+    <DestinationStr>Kent International Arpt(MSE)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MUE</code>
+    <DestinationName>Kamuela</DestinationName>
+    <DestinationStr>Kamuela(MUE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NOC</code>
+    <DestinationName>Knock International</DestinationName>
+    <DestinationStr>Knock International(NOC)-Ireland, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NOC</code>
+    <DestinationName>Knock</DestinationName>
+    <DestinationStr>Knock(NOC)-Ireland, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NQI</code>
+    <DestinationName>Kingsville</DestinationName>
+    <DestinationStr>Kingsville(NQI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NQX</code>
+    <DestinationName>Key West Naval Air Station Arpt</DestinationName>
+    <DestinationStr>Key West Naval Air Station Arpt(NQX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NRK</code>
+    <DestinationName>Kungsangen Arpt</DestinationName>
+    <DestinationStr>Kungsangen Arpt(NRK)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OBU</code>
+    <DestinationName>Kobuk</DestinationName>
+    <DestinationStr>Kobuk(OBU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OFK</code>
+    <DestinationName>Karl Stefan Fld</DestinationName>
+    <DestinationStr>Karl Stefan Fld(OFK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OGG</code>
+    <DestinationName>Kahului Airport</DestinationName>
+    <DestinationStr>Kahului Airport(OGG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OGG</code>
+    <DestinationName>Kahului</DestinationName>
+    <DestinationStr>Kahului(OGG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OHT</code>
+    <DestinationName>Kohat</DestinationName>
+    <DestinationStr>Kohat(OHT)-Pakistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OKK</code>
+    <DestinationName>Kokomo Municipal</DestinationName>
+    <DestinationStr>Kokomo Municipal(OKK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OKK</code>
+    <DestinationName>Kokomo</DestinationName>
+    <DestinationStr>Kokomo(OKK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OPA</code>
+    <DestinationName>Kopasker Arpt</DestinationName>
+    <DestinationStr>Kopasker Arpt(OPA)-Iceland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OPA</code>
+    <DestinationName>Kopasker</DestinationName>
+    <DestinationStr>Kopasker(OPA)-Iceland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OSZ</code>
+    <DestinationName>Koszalin</DestinationName>
+    <DestinationStr>Koszalin(OSZ)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OTZ</code>
+    <DestinationName>Kotzebue</DestinationName>
+    <DestinationStr>Kotzebue(OTZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OXF</code>
+    <DestinationName>Kidlington Arpt</DestinationName>
+    <DestinationStr>Kidlington Arpt(OXF)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PCN</code>
+    <DestinationName>Koromiko</DestinationName>
+    <DestinationStr>Koromiko(PCN)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PPQ</code>
+    <DestinationName>Kapiti Coast Airport</DestinationName>
+    <DestinationStr>Kapiti Coast Airport(PPQ)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PUS</code>
+    <DestinationName>Kimhae Arpt</DestinationName>
+    <DestinationStr>Kimhae Arpt(PUS)-Korea, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QJY</code>
+    <DestinationName>Kolobrzeg</DestinationName>
+    <DestinationStr>Kolobrzeg(QJY)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QKF</code>
+    <DestinationName>Krefeld</DestinationName>
+    <DestinationStr>Krefeld(QKF)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QKI</code>
+    <DestinationName>Kielce</DestinationName>
+    <DestinationStr>Kielce(QKI)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QKN</code>
+    <DestinationName>Kairouan</DestinationName>
+    <DestinationStr>Kairouan(QKN)-Tunisia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QKR</code>
+    <DestinationName>Kourou</DestinationName>
+    <DestinationStr>Kourou(QKR)-French Guiana</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QKS</code>
+    <DestinationName>Keystone Van Service</DestinationName>
+    <DestinationStr>Keystone Van Service(QKS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QKS</code>
+    <DestinationName>Keystone</DestinationName>
+    <DestinationStr>Keystone(QKS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QKW</code>
+    <DestinationName>Kanazawa</DestinationName>
+    <DestinationStr>Kanazawa(QKW)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QKZ</code>
+    <DestinationName>Konstanz</DestinationName>
+    <DestinationStr>Konstanz(QKZ)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QLH</code>
+    <DestinationName>Kelsterbach</DestinationName>
+    <DestinationStr>Kelsterbach(QLH)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QVW</code>
+    <DestinationName>Kotka</DestinationName>
+    <DestinationStr>Kotka(QVW)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RNB</code>
+    <DestinationName>Kallinge Arpt</DestinationName>
+    <DestinationStr>Kallinge Arpt(RNB)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ROR</code>
+    <DestinationName>Koror</DestinationName>
+    <DestinationStr>Koror(ROR)-Palau</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RUH</code>
+    <DestinationName>King Khaled Intl</DestinationName>
+    <DestinationStr>King Khaled Intl(RUH)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SFJ</code>
+    <DestinationName>Kangerlussuaq</DestinationName>
+    <DestinationStr>Kangerlussuaq(SFJ)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SKF</code>
+    <DestinationName>Kelly Airforce Base</DestinationName>
+    <DestinationStr>Kelly Airforce Base(SKF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SVX</code>
+    <DestinationName>Koltsovo Arpt</DestinationName>
+    <DestinationStr>Koltsovo Arpt(SVX)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SYD</code>
+    <DestinationName>Kingsford Smith</DestinationName>
+    <DestinationStr>Kingsford Smith(SYD)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TGG</code>
+    <DestinationName>Kuala Terengganu</DestinationName>
+    <DestinationStr>Kuala Terengganu(TGG)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TJU</code>
+    <DestinationName>Kulob Airport</DestinationName>
+    <DestinationStr>Kulob Airport(TJU)-Tajikistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TJU</code>
+    <DestinationName>Kulob</DestinationName>
+    <DestinationStr>Kulob(TJU)-Tajikistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TKQ</code>
+    <DestinationName>Kigoma Arpt</DestinationName>
+    <DestinationStr>Kigoma Arpt(TKQ)-Tanzania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TKQ</code>
+    <DestinationName>Kigoma</DestinationName>
+    <DestinationStr>Kigoma(TKQ)-Tanzania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TYS</code>
+    <DestinationName>Knoxville</DestinationName>
+    <DestinationStr>Knoxville(TYS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UEO</code>
+    <DestinationName>Kume Jima</DestinationName>
+    <DestinationStr>Kume Jima(UEO)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UEO</code>
+    <DestinationName>Kumejima Arpt</DestinationName>
+    <DestinationStr>Kumejima Arpt(UEO)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UKB</code>
+    <DestinationName>Kobe Arpt</DestinationName>
+    <DestinationStr>Kobe Arpt(UKB)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UKB</code>
+    <DestinationName>Kobe</DestinationName>
+    <DestinationStr>Kobe(UKB)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UKY</code>
+    <DestinationName>Kyoto Arpt</DestinationName>
+    <DestinationStr>Kyoto Arpt(UKY)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UKY</code>
+    <DestinationName>Kyoto</DestinationName>
+    <DestinationStr>Kyoto(UKY)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UNG</code>
+    <DestinationName>Kiunga Airport</DestinationName>
+    <DestinationStr>Kiunga Airport(UNG)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UNG</code>
+    <DestinationName>Kiunga</DestinationName>
+    <DestinationStr>Kiunga(UNG)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>URE</code>
+    <DestinationName>Kuressaare Arpt</DestinationName>
+    <DestinationStr>Kuressaare Arpt(URE)-Estonia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>URE</code>
+    <DestinationName>Kuressaare</DestinationName>
+    <DestinationStr>Kuressaare(URE)-Estonia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>URS</code>
+    <DestinationName>Kursk Arpt</DestinationName>
+    <DestinationStr>Kursk Arpt(URS)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>URS</code>
+    <DestinationName>Kursk</DestinationName>
+    <DestinationStr>Kursk(URS)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>USM</code>
+    <DestinationName>Ko Samui Arpt</DestinationName>
+    <DestinationStr>Ko Samui Arpt(USM)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>USM</code>
+    <DestinationName>Koh Samui</DestinationName>
+    <DestinationStr>Koh Samui(USM)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UTI</code>
+    <DestinationName>Kouvola</DestinationName>
+    <DestinationStr>Kouvola(UTI)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UUK</code>
+    <DestinationName>Kuparuk Arpt</DestinationName>
+    <DestinationStr>Kuparuk Arpt(UUK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UUK</code>
+    <DestinationName>Kuparuk</DestinationName>
+    <DestinationStr>Kuparuk(UUK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UVL</code>
+    <DestinationName>Kharga Arpt</DestinationName>
+    <DestinationStr>Kharga Arpt(UVL)-Egypt</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UVL</code>
+    <DestinationName>Kharga</DestinationName>
+    <DestinationStr>Kharga(UVL)-Egypt</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VRO</code>
+    <DestinationName>Kawama Arpt</DestinationName>
+    <DestinationStr>Kawama Arpt(VRO)-Cuba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WDY</code>
+    <DestinationName>Kodiak Fss</DestinationName>
+    <DestinationStr>Kodiak Fss(WDY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WFB</code>
+    <DestinationName>Ketchikan Harbor Seaplane Base</DestinationName>
+    <DestinationStr>Ketchikan Harbor Seaplane Base(WFB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XBW</code>
+    <DestinationName>Killineq Arpt</DestinationName>
+    <DestinationStr>Killineq Arpt(XBW)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XBW</code>
+    <DestinationName>Killineq</DestinationName>
+    <DestinationStr>Killineq(XBW)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XGR</code>
+    <DestinationName>Kangiqsualujjuaq Arpt</DestinationName>
+    <DestinationStr>Kangiqsualujjuaq Arpt(XGR)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XGR</code>
+    <DestinationName>Kangiqsualujjuaq</DestinationName>
+    <DestinationStr>Kangiqsualujjuaq(XGR)-Canada</DestinationStr>
+  </Destination>    
+  <Destination>
+    <code>XKB</code>
+    <DestinationName>KONGSBERG</DestinationName>
+    <DestinationStr>KONGSBERG(XKB)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XKU</code>
+    <DestinationName>Kusadasi</DestinationName>
+    <DestinationStr>Kusadasi(XKU)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XOH</code>
+    <DestinationName>KITZBUEHEL</DestinationName>
+    <DestinationStr>KITZBUEHEL(XOH)-Austria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XXI</code>
+    <DestinationName>Koping</DestinationName>
+    <DestinationStr>Koping(XXI)-Sweden</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XXK</code>
+    <DestinationName>Katrineholm</DestinationName>
+    <DestinationStr>Katrineholm(XXK)-Sweden</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XXN</code>
+    <DestinationName>Kil Sweden</DestinationName>
+    <DestinationStr>Kil Sweden(XXN)-Sweden</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XXV</code>
+    <DestinationName>Kumla</DestinationName>
+    <DestinationStr>Kumla(XXV)-Sweden</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XYN</code>
+    <DestinationName>Kristinehamn</DestinationName>
+    <DestinationStr>Kristinehamn(XYN)-Sweden</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XYO</code>
+    <DestinationName>Karlshamn</DestinationName>
+    <DestinationStr>Karlshamn(XYO)-Sweden</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XZD</code>
+    <DestinationName>Kongsvinger</DestinationName>
+    <DestinationStr>Kongsvinger(XZD)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YBB</code>
+    <DestinationName>Kugaaruk Arpt</DestinationName>
+    <DestinationStr>Kugaaruk Arpt(YBB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCO</code>
+    <DestinationName>Kugluktuk Arpt</DestinationName>
+    <DestinationStr>Kugluktuk Arpt(YCO)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCO</code>
+    <DestinationName>Kugluktuk Coppermine</DestinationName>
+    <DestinationStr>Kugluktuk Coppermine(YCO)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YGK</code>
+    <DestinationName>Kingston</DestinationName>
+    <DestinationStr>Kingston(YGK)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YGW</code>
+    <DestinationName>Kuujjuaraapik Arpt</DestinationName>
+    <DestinationStr>Kuujjuaraapik Arpt(YGW)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YGW</code>
+    <DestinationName>kuujjuaraapik</DestinationName>
+    <DestinationStr>kuujjuaraapik(YGW)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YKA</code>
+    <DestinationName>Kamloops</DestinationName>
+    <DestinationStr>Kamloops(YKA)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YKD</code>
+    <DestinationName>Kincardine Airport</DestinationName>
+    <DestinationStr>Kincardine Airport(YKD)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YKD</code>
+    <DestinationName>Kincardine</DestinationName>
+    <DestinationStr>Kincardine(YKD)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YKF</code>
+    <DestinationName>Kitchener</DestinationName>
+    <DestinationStr>Kitchener(YKF)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YKG</code>
+    <DestinationName>Kangirsuk Arpt</DestinationName>
+    <DestinationStr>Kangirsuk Arpt(YKG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YKG</code>
+    <DestinationName>Kangirsuk</DestinationName>
+    <DestinationStr>Kangirsuk(YKG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YKI</code>
+    <DestinationName>Kennosao Lake</DestinationName>
+    <DestinationStr>Kennosao Lake(YKI)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YKX</code>
+    <DestinationName>Kirkland Lake Municipal Arpt</DestinationName>
+    <DestinationStr>Kirkland Lake Municipal Arpt(YKX)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YKX</code>
+    <DestinationName>Kirkland</DestinationName>
+    <DestinationStr>Kirkland(YKX)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YKY</code>
+    <DestinationName>Kindersley Regional Airport</DestinationName>
+    <DestinationStr>Kindersley Regional Airport(YKY)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YKY</code>
+    <DestinationName>Kindersley</DestinationName>
+    <DestinationStr>Kindersley(YKY)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YLC</code>
+    <DestinationName>Kimmirut Lake Harbour Arpt</DestinationName>
+    <DestinationStr>Kimmirut Lake Harbour Arpt(YLC)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YLC</code>
+    <DestinationName>Kimmirut Lake Harbour</DestinationName>
+    <DestinationStr>Kimmirut Lake Harbour(YLC)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YLW</code>
+    <DestinationName>Kelowna International Airport</DestinationName>
+    <DestinationStr>Kelowna International Airport(YLW)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YLW</code>
+    <DestinationName>Kelowna</DestinationName>
+    <DestinationStr>Kelowna(YLW)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQC</code>
+    <DestinationName>Koartac</DestinationName>
+    <DestinationStr>Koartac(YQC)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQE</code>
+    <DestinationName>Kimberley</DestinationName>
+    <DestinationStr>Kimberley(YQE)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQK</code>
+    <DestinationName>Kenora Arpt</DestinationName>
+    <DestinationStr>Kenora Arpt(YQK)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQK</code>
+    <DestinationName>Kenora</DestinationName>
+    <DestinationStr>Kenora(YQK)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YVK</code>
+    <DestinationName>Koppang</DestinationName>
+    <DestinationStr>Koppang(YVK)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YVP</code>
+    <DestinationName>Kuujjuaq Arpt</DestinationName>
+    <DestinationStr>Kuujjuaq Arpt(YVP)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YVP</code>
+    <DestinationName>Kuujjuaq</DestinationName>
+    <DestinationStr>Kuujjuaq(YVP)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YWB</code>
+    <DestinationName>Kangiqsujuaq Arpt</DestinationName>
+    <DestinationStr>Kangiqsujuaq Arpt(YWB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YWB</code>
+    <DestinationName>Kangiqsujuaq</DestinationName>
+    <DestinationStr>Kangiqsujuaq(YWB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYU</code>
+    <DestinationName>Kapuskasing Municipal Arpt</DestinationName>
+    <DestinationStr>Kapuskasing Municipal Arpt(YYU)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYU</code>
+    <DestinationName>Kapuskasing</DestinationName>
+    <DestinationStr>Kapuskasing(YYU)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZBT</code>
+    <DestinationName>Kolding</DestinationName>
+    <DestinationStr>Kolding(ZBT)-Denmark</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZHR</code>
+    <DestinationName>Kandersteg</DestinationName>
+    <DestinationStr>Kandersteg(ZHR)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZHS</code>
+    <DestinationName>Klosters</DestinationName>
+    <DestinationStr>Klosters(ZHS)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZHU</code>
+    <DestinationName>Kreuzlingen</DestinationName>
+    <DestinationStr>Kreuzlingen(ZHU)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZIW</code>
+    <DestinationName>Kehl</DestinationName>
+    <DestinationStr>Kehl(ZIW)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZKB</code>
+    <DestinationName>Kasaba Bay</DestinationName>
+    <DestinationStr>Kasaba Bay(ZKB)-Zambia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZKE</code>
+    <DestinationName>Kashechewan Airport</DestinationName>
+    <DestinationStr>Kashechewan Airport(ZKE)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZKE</code>
+    <DestinationName>Kashechewan</DestinationName>
+    <DestinationStr>Kashechewan(ZKE)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZKG</code>
+    <DestinationName>Kegaska Arpt</DestinationName>
+    <DestinationStr>Kegaska Arpt(ZKG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZKG</code>
+    <DestinationName>Kegaska</DestinationName>
+    <DestinationStr>Kegaska(ZKG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZKQ</code>
+    <DestinationName>Kotor</DestinationName>
+    <DestinationStr>Kotor(ZKQ)-Montenegro</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZKT</code>
+    <DestinationName>Komotini</DestinationName>
+    <DestinationStr>Komotini(ZKT)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZNS</code>
+    <DestinationName>Kempten</DestinationName>
+    <DestinationStr>Kempten(ZNS)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZNT</code>
+    <DestinationName>Kerpen</DestinationName>
+    <DestinationStr>Kerpen(ZNT)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZNV</code>
+    <DestinationName>Koblenz</DestinationName>
+    <DestinationStr>Koblenz(ZNV)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZNZ</code>
+    <DestinationName>Kisauni Arpt</DestinationName>
+    <DestinationStr>Kisauni Arpt(ZNZ)-Tanzania</DestinationStr>
+  </Destination>
+</DestinationRoot>

@@ -1,0 +1,3997 @@
+﻿<DestinationRoot>
+  <Destination>
+    <code>NORESULT</code>
+    <DestinationName>NORESULT</DestinationName>
+    <DestinationStr>No Result Found</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AAR</code>
+    <DestinationName>Tirstrup Arpt</DestinationName>
+    <DestinationStr>Tirstrup Arpt(AAR)-Denmark</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ACI</code>
+    <DestinationName>The Blaye Arpt</DestinationName>
+    <DestinationStr>The Blaye Arpt(ACI)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ALX</code>
+    <DestinationName>Thomas C Russell Field</DestinationName>
+    <DestinationStr>Thomas C Russell Field(ALX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ASN</code>
+    <DestinationName>Talladega Arpt</DestinationName>
+    <DestinationStr>Talladega Arpt(ASN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ASN</code>
+    <DestinationName>Talladega</DestinationName>
+    <DestinationStr>Talladega(ASN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AUR</code>
+    <DestinationName>Tronquieres Arpt</DestinationName>
+    <DestinationStr>Tronquieres Arpt(AUR)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BBA</code>
+    <DestinationName>Teniente Vidal Airport</DestinationName>
+    <DestinationStr>Teniente Vidal Airport(BBA)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BJZ</code>
+    <DestinationName>Talaveral La Real Arpt</DestinationName>
+    <DestinationStr>Talaveral La Real Arpt(BJZ)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BRQ</code>
+    <DestinationName>Turnay Arpt</DestinationName>
+    <DestinationStr>Turnay Arpt(BRQ)-Czech Republic</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CBL</code>
+    <DestinationName>Tomas De Heres Arpt</DestinationName>
+    <DestinationStr>Tomas De Heres Arpt(CBL)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CNF</code>
+    <DestinationName>Tancredo Neves Intl Arpt</DestinationName>
+    <DestinationStr>Tancredo Neves Intl Arpt(CNF)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CRZ</code>
+    <DestinationName>Turkmenabad</DestinationName>
+    <DestinationStr>Turkmenabad(CRZ)-Turkmenistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CRZ</code>
+    <DestinationName>Turkmenabat Arpt</DestinationName>
+    <DestinationStr>Turkmenabat Arpt(CRZ)-Turkmenistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CXP</code>
+    <DestinationName>Tunggul Wulung Arpt</DestinationName>
+    <DestinationStr>Tunggul Wulung Arpt(CXP)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DLE</code>
+    <DestinationName>Tavaux Arpt</DestinationName>
+    <DestinationStr>Tavaux Arpt(DLE)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DLS</code>
+    <DestinationName>The Dalles Municipal Arpt</DestinationName>
+    <DestinationStr>The Dalles Municipal Arpt(DLS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DLS</code>
+    <DestinationName>The Dalles</DestinationName>
+    <DestinationStr>The Dalles(DLS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DYU</code>
+    <DestinationName>Tajikistan</DestinationName>
+    <DestinationStr>Tajikistan(DYU)-Tajikistan</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>EEL</code>
+    <DestinationName>Tudela</DestinationName>
+    <DestinationStr>Tudela(EEL)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EIS</code>
+    <DestinationName>Terrence B Lettsome Arpt</DestinationName>
+    <DestinationStr>Terrence B Lettsome Arpt(EIS)-British Virgin Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ENS</code>
+    <DestinationName>Twente Airport</DestinationName>
+    <DestinationStr>Twente Airport(ENS)-Netherlands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FUN</code>
+    <DestinationName>Tuvalu</DestinationName>
+    <DestinationStr>Tuvalu(FUN)-Tuvalu</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GAT</code>
+    <DestinationName>Tallard Arpt</DestinationName>
+    <DestinationStr>Tallard Arpt(GAT)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GRZ</code>
+    <DestinationName>Thalerhof Arpt</DestinationName>
+    <DestinationStr>Thalerhof Arpt(GRZ)-Austria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GXQ</code>
+    <DestinationName>Teniente Vidal Arpt</DestinationName>
+    <DestinationStr>Teniente Vidal Arpt(GXQ)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HAG</code>
+    <DestinationName>The Hague</DestinationName>
+    <DestinationStr>The Hague(HAG)-Netherlands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HAI</code>
+    <DestinationName>Three Rivers</DestinationName>
+    <DestinationStr>Three Rivers(HAI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HGT</code>
+    <DestinationName>Tusi Ahp</DestinationName>
+    <DestinationStr>Tusi Ahp(HGT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HTS</code>
+    <DestinationName>Tri State Milton Arpt</DestinationName>
+    <DestinationStr>Tri State Milton Arpt(HTS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HUF</code>
+    <DestinationName>Terre Haute</DestinationName>
+    <DestinationStr>Terre Haute(HUF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HUM</code>
+    <DestinationName>Terrebonne Arpt</DestinationName>
+    <DestinationStr>Terrebonne Arpt(HUM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HVN</code>
+    <DestinationName>Tweed New Haven Arpt</DestinationName>
+    <DestinationStr>Tweed New Haven Arpt(HVN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IMF</code>
+    <DestinationName>Tulihal Arpt</DestinationName>
+    <DestinationStr>Tulihal Arpt(IMF)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ITH</code>
+    <DestinationName>Tomkins County</DestinationName>
+    <DestinationStr>Tomkins County(ITH)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>JAE</code>
+    <DestinationName>Technology Park Arpt</DestinationName>
+    <DestinationStr>Technology Park Arpt(JAE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JGQ</code>
+    <DestinationName>Transco Twr Galleria</DestinationName>
+    <DestinationStr>Transco Twr Galleria(JGQ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JTO</code>
+    <DestinationName>Thousand Oaks Hlpt</DestinationName>
+    <DestinationStr>Thousand Oaks Hlpt(JTO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JTR</code>
+    <DestinationName>Thira Island</DestinationName>
+    <DestinationStr>Thira Island(JTR)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KLD</code>
+    <DestinationName>Tver</DestinationName>
+    <DestinationStr>Tver(KLD)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KRW</code>
+    <DestinationName>Turkmanbashi Arpt</DestinationName>
+    <DestinationStr>Turkmanbashi Arpt(KRW)-Turkmenistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KRW</code>
+    <DestinationName>Turkmanbashi</DestinationName>
+    <DestinationStr>Turkmanbashi(KRW)-Turkmenistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KTB</code>
+    <DestinationName>Thorne Bay</DestinationName>
+    <DestinationStr>Thorne Bay(KTB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KTM</code>
+    <DestinationName>Tribuvan Arpt</DestinationName>
+    <DestinationStr>Tribuvan Arpt(KTM)-Nepal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KTP</code>
+    <DestinationName>Tinson Pen Arpt</DestinationName>
+    <DestinationStr>Tinson Pen Arpt(KTP)-Jamaica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KTR</code>
+    <DestinationName>Tindal Airport</DestinationName>
+    <DestinationStr>Tindal Airport(KTR)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KYO</code>
+    <DestinationName>Topp Of Tampa</DestinationName>
+    <DestinationStr>Topp Of Tampa(KYO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LDE</code>
+    <DestinationName>Tarbes Intl Arpt</DestinationName>
+    <DestinationStr>Tarbes Intl Arpt(LDE)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LFW</code>
+    <DestinationName>Togo</DestinationName>
+    <DestinationStr>Togo(LFW)-Togo</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LSO</code>
+    <DestinationName>Talmont Arpt</DestinationName>
+    <DestinationStr>Talmont Arpt(LSO)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LTA</code>
+    <DestinationName>Tzaneen Arpt</DestinationName>
+    <DestinationStr>Tzaneen Arpt(LTA)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LTA</code>
+    <DestinationName>Tzaneen</DestinationName>
+    <DestinationStr>Tzaneen(LTA)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LWK</code>
+    <DestinationName>Tingwall Arpt</DestinationName>
+    <DestinationStr>Tingwall Arpt(LWK)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MEL</code>
+    <DestinationName>Tullamarine Arpt</DestinationName>
+    <DestinationStr>Tullamarine Arpt(MEL)-Australia</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>MJX</code>
+    <DestinationName>Toms River</DestinationName>
+    <DestinationStr>Toms River(MJX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MME</code>
+    <DestinationName>Teesside Arpt</DestinationName>
+    <DestinationStr>Teesside Arpt(MME)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MOZ</code>
+    <DestinationName>Temae Airport</DestinationName>
+    <DestinationStr>Temae Airport(MOZ)-French Polynesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OCF</code>
+    <DestinationName>Taylor Field Arpt</DestinationName>
+    <DestinationStr>Taylor Field Arpt(OCF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OOK</code>
+    <DestinationName>Toksook Bay</DestinationName>
+    <DestinationStr>Toksook Bay(OOK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OVB</code>
+    <DestinationName>Tolmachevo Arpt</DestinationName>
+    <DestinationStr>Tolmachevo Arpt(OVB)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OYO</code>
+    <DestinationName>Tres Arroyos Arpt</DestinationName>
+    <DestinationStr>Tres Arroyos Arpt(OYO)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OYO</code>
+    <DestinationName>Tres Arroyos</DestinationName>
+    <DestinationStr>Tres Arroyos(OYO)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PAM</code>
+    <DestinationName>Tyndall Air Force Base</DestinationName>
+    <DestinationStr>Tyndall Air Force Base(PAM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PAP</code>
+    <DestinationName>Toussaint Louverture Arpt</DestinationName>
+    <DestinationStr>Toussaint Louverture Arpt(PAP)-Haiti</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PDG</code>
+    <DestinationName>Tabing Arpt</DestinationName>
+    <DestinationStr>Tabing Arpt(PDG)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PMC</code>
+    <DestinationName>Tepual Arpt</DestinationName>
+    <DestinationStr>Tepual Arpt(PMC)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PNT</code>
+    <DestinationName>Teniente Julio Gallardo Arpt</DestinationName>
+    <DestinationStr>Teniente Julio Gallardo Arpt(PNT)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PPF</code>
+    <DestinationName>Tri City</DestinationName>
+    <DestinationStr>Tri City(PPF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PPT</code>
+    <DestinationName>Tahiti</DestinationName>
+    <DestinationStr>Tahiti(PPT)-French Polynesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PSC</code>
+    <DestinationName>Tri Cities Arpt</DestinationName>
+    <DestinationStr>Tri Cities Arpt(PSC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PTY</code>
+    <DestinationName>Tocumen Intl Arpt</DestinationName>
+    <DestinationStr>Tocumen Intl Arpt(PTY)-Panama</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PUU</code>
+    <DestinationName>Tres De Mayo Arpt</DestinationName>
+    <DestinationStr>Tres De Mayo Arpt(PUU)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PVD</code>
+    <DestinationName>T F Green St Arpt</DestinationName>
+    <DestinationStr>T F Green St Arpt(PVD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QEA</code>
+    <DestinationName>Teramo</DestinationName>
+    <DestinationStr>Teramo(QEA)-Italy</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QGN</code>
+    <DestinationName>Tarragona</DestinationName>
+    <DestinationStr>Tarragona(QGN)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QHP</code>
+    <DestinationName>Taubate</DestinationName>
+    <DestinationStr>Taubate(QHP)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QHT</code>
+    <DestinationName>Terezopolis</DestinationName>
+    <DestinationStr>Terezopolis(QHT)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QIH</code>
+    <DestinationName>Tres Rios</DestinationName>
+    <DestinationStr>Tres Rios(QIH)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QTH</code>
+    <DestinationName>Thredbo</DestinationName>
+    <DestinationStr>Thredbo(QTH)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QTM</code>
+    <DestinationName>Tomakomai</DestinationName>
+    <DestinationStr>Tomakomai(QTM)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QTR</code>
+    <DestinationName>Tartous</DestinationName>
+    <DestinationStr>Tartous(QTR)-Syrian Arab Rep.</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QTY</code>
+    <DestinationName>Tsu Jp</DestinationName>
+    <DestinationStr>Tsu Jp(QTY)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QWT</code>
+    <DestinationName>Talavera De La Reina</DestinationName>
+    <DestinationStr>Talavera De La Reina(QWT)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QYR</code>
+    <DestinationName>Troyes</DestinationName>
+    <DestinationStr>Troyes(QYR)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RAB</code>
+    <DestinationName>Tokua Arpt</DestinationName>
+    <DestinationStr>Tokua Arpt(RAB)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RAD</code>
+    <DestinationName>Tortola Road Town SPB</DestinationName>
+    <DestinationStr>Tortola Road Town SPB(RAD)-British Virgin Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>REG</code>
+    <DestinationName>Tito Menniti Arpt</DestinationName>
+    <DestinationStr>Tito Menniti Arpt(REG)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>REL</code>
+    <DestinationName>Trelew Arpt</DestinationName>
+    <DestinationStr>Trelew Arpt(REL)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>REL</code>
+    <DestinationName>Trelew</DestinationName>
+    <DestinationStr>Trelew(REL)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RMQ</code>
+    <DestinationName>Taichung Cingcyuangang</DestinationName>
+    <DestinationStr>Taichung Cingcyuangang(RMQ)-Taiwan, Province of China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SBK</code>
+    <DestinationName>Tremuson Armor Arpt</DestinationName>
+    <DestinationStr>Tremuson Armor Arpt(SBK)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SGN</code>
+    <DestinationName>Tan Son Nhut Arpt</DestinationName>
+    <DestinationStr>Tan Son Nhut Arpt(SGN)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SKG</code>
+    <DestinationName>Thessaloniki</DestinationName>
+    <DestinationStr>Thessaloniki(SKG)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SUU</code>
+    <DestinationName>Travis AFB</DestinationName>
+    <DestinationStr>Travis AFB(SUU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SYQ</code>
+    <DestinationName>Tobias Bolanos Intl</DestinationName>
+    <DestinationStr>Tobias Bolanos Intl(SYQ)-Costa Rica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAB</code>
+    <DestinationName>Crown Point Arpt</DestinationName>
+    <DestinationStr>Crown Point Arpt(TAB)-Trinidad  Tobago</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAB</code>
+    <DestinationName>Tobago</DestinationName>
+    <DestinationStr>Tobago(TAB)-Trinidad  Tobago</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAC</code>
+    <DestinationName>D Z Romualdez Arpt</DestinationName>
+    <DestinationStr>D Z Romualdez Arpt(TAC)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAC</code>
+    <DestinationName>Tacloban</DestinationName>
+    <DestinationStr>Tacloban(TAC)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAD</code>
+    <DestinationName>Las Animas Arpt</DestinationName>
+    <DestinationStr>Las Animas Arpt(TAD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAD</code>
+    <DestinationName>Trinidad</DestinationName>
+    <DestinationStr>Trinidad(TAD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAE</code>
+    <DestinationName>Daegu Arpt</DestinationName>
+    <DestinationStr>Daegu Arpt(TAE)-Korea, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAE</code>
+    <DestinationName>Daegu</DestinationName>
+    <DestinationStr>Daegu(TAE)-Korea, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAE</code>
+    <DestinationName>Taegu</DestinationName>
+    <DestinationStr>Taegu(TAE)-Korea, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAF</code>
+    <DestinationName>Tafaraoui Arpt</DestinationName>
+    <DestinationStr>Tafaraoui Arpt(TAF)-Algeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAG</code>
+    <DestinationName>Tagbilaran Arpt</DestinationName>
+    <DestinationStr>Tagbilaran Arpt(TAG)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAG</code>
+    <DestinationName>Tagbilaran</DestinationName>
+    <DestinationStr>Tagbilaran(TAG)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAH</code>
+    <DestinationName>Tanna Arpt</DestinationName>
+    <DestinationStr>Tanna Arpt(TAH)-Vanuatu</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAH</code>
+    <DestinationName>Tanna</DestinationName>
+    <DestinationStr>Tanna(TAH)-Vanuatu</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAI</code>
+    <DestinationName>Taiz</DestinationName>
+    <DestinationStr>Taiz(TAI)-Yemen, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAI</code>
+    <DestinationName>Taizz International Airport</DestinationName>
+    <DestinationStr>Taizz International Airport(TAI)-Yemen, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAJ</code>
+    <DestinationName>Tadji Airport</DestinationName>
+    <DestinationStr>Tadji Airport(TAJ)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAK</code>
+    <DestinationName>Takamatsu Arpt</DestinationName>
+    <DestinationStr>Takamatsu Arpt(TAK)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAK</code>
+    <DestinationName>Takamatsu</DestinationName>
+    <DestinationStr>Takamatsu(TAK)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAL</code>
+    <DestinationName>Ralph Calhoun Arpt</DestinationName>
+    <DestinationStr>Ralph Calhoun Arpt(TAL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAL</code>
+    <DestinationName>Tanana</DestinationName>
+    <DestinationStr>Tanana(TAL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAM</code>
+    <DestinationName>F Javier Mina International</DestinationName>
+    <DestinationStr>F Javier Mina International(TAM)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAM</code>
+    <DestinationName>Tampico</DestinationName>
+    <DestinationStr>Tampico(TAM)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAN</code>
+    <DestinationName>Tangalooma</DestinationName>
+    <DestinationStr>Tangalooma(TAN)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAO</code>
+    <DestinationName>Liuting Arpt</DestinationName>
+    <DestinationStr>Liuting Arpt(TAO)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAO</code>
+    <DestinationName>Qingdao</DestinationName>
+    <DestinationStr>Qingdao(TAO)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAP</code>
+    <DestinationName>Tapachula Arpt</DestinationName>
+    <DestinationStr>Tapachula Arpt(TAP)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAP</code>
+    <DestinationName>Tapachula</DestinationName>
+    <DestinationStr>Tapachula(TAP)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAR</code>
+    <DestinationName>M A Grottag Arpt</DestinationName>
+    <DestinationStr>M A Grottag Arpt(TAR)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAR</code>
+    <DestinationName>Taranto</DestinationName>
+    <DestinationStr>Taranto(TAR)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAS</code>
+    <DestinationName>Tashkent</DestinationName>
+    <DestinationStr>Tashkent(TAS)-Uzbekistan Sum</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAS</code>
+    <DestinationName>Yuzhny Arpt</DestinationName>
+    <DestinationStr>Yuzhny Arpt(TAS)-Uzbekistan Sum</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAT</code>
+    <DestinationName>Poprad Tatry Arpt</DestinationName>
+    <DestinationStr>Poprad Tatry Arpt(TAT)-Slovakia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAT</code>
+    <DestinationName>Poprad Tatry</DestinationName>
+    <DestinationStr>Poprad Tatry(TAT)-Slovakia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAU</code>
+    <DestinationName>Tauramena Arpt</DestinationName>
+    <DestinationStr>Tauramena Arpt(TAU)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAU</code>
+    <DestinationName>Tauramena</DestinationName>
+    <DestinationStr>Tauramena(TAU)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAY</code>
+    <DestinationName>Tartu Arpt</DestinationName>
+    <DestinationStr>Tartu Arpt(TAY)-Estonia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAY</code>
+    <DestinationName>Tartu</DestinationName>
+    <DestinationStr>Tartu(TAY)-Estonia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAZ</code>
+    <DestinationName>Dashoguz Arpt</DestinationName>
+    <DestinationStr>Dashoguz Arpt(TAZ)-Turkmenistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAZ</code>
+    <DestinationName>Dashoguz</DestinationName>
+    <DestinationStr>Dashoguz(TAZ)-Turkmenistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TBB</code>
+    <DestinationName>Tuy Hoa Arpt</DestinationName>
+    <DestinationStr>Tuy Hoa Arpt(TBB)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TBB</code>
+    <DestinationName>Tuy Hoa</DestinationName>
+    <DestinationStr>Tuy Hoa(TBB)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TBC</code>
+    <DestinationName>Tuba City Arpt</DestinationName>
+    <DestinationStr>Tuba City Arpt(TBC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TBC</code>
+    <DestinationName>Tuba City</DestinationName>
+    <DestinationStr>Tuba City(TBC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TBF</code>
+    <DestinationName>Tabiteuea North</DestinationName>
+    <DestinationStr>Tabiteuea North(TBF)-Kiribati</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TBG</code>
+    <DestinationName>Tabubil Arpt</DestinationName>
+    <DestinationStr>Tabubil Arpt(TBG)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TBG</code>
+    <DestinationName>Tububil</DestinationName>
+    <DestinationStr>Tububil(TBG)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TBI</code>
+    <DestinationName>New Bight Heliport</DestinationName>
+    <DestinationStr>New Bight Heliport(TBI)-Bahamas</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TBI</code>
+    <DestinationName>The Bight</DestinationName>
+    <DestinationStr>The Bight(TBI)-Bahamas</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TBJ</code>
+    <DestinationName>Tabarka Arpt</DestinationName>
+    <DestinationStr>Tabarka Arpt(TBJ)-Tunisia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TBJ</code>
+    <DestinationName>Tabarka</DestinationName>
+    <DestinationStr>Tabarka(TBJ)-Tunisia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TBN</code>
+    <DestinationName>Forney Field</DestinationName>
+    <DestinationStr>Forney Field(TBN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TBN</code>
+    <DestinationName>Fort Leonard Wood</DestinationName>
+    <DestinationStr>Fort Leonard Wood(TBN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TBN</code>
+    <DestinationName>Ft Leonard Wood</DestinationName>
+    <DestinationStr>Ft Leonard Wood(TBN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TBO</code>
+    <DestinationName>Tabora Arpt</DestinationName>
+    <DestinationStr>Tabora Arpt(TBO)-Tanzania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TBO</code>
+    <DestinationName>Tabora</DestinationName>
+    <DestinationStr>Tabora(TBO)-Tanzania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TBP</code>
+    <DestinationName>Pedro Canga Rodriguez Arpt</DestinationName>
+    <DestinationStr>Pedro Canga Rodriguez Arpt(TBP)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TBP</code>
+    <DestinationName>Tumbes</DestinationName>
+    <DestinationStr>Tumbes(TBP)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TBS</code>
+    <DestinationName>Tbilisi International Arpt</DestinationName>
+    <DestinationStr>Tbilisi International Arpt(TBS)-Georgia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TBS</code>
+    <DestinationName>Tbilisi</DestinationName>
+    <DestinationStr>Tbilisi(TBS)-Georgia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TBT</code>
+    <DestinationName>Tabatinga Intl Arpt</DestinationName>
+    <DestinationStr>Tabatinga Intl Arpt(TBT)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TBT</code>
+    <DestinationName>Tabatinga</DestinationName>
+    <DestinationStr>Tabatinga(TBT)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TBU</code>
+    <DestinationName>Nuku Alofa</DestinationName>
+    <DestinationStr>Nuku Alofa(TBU)-Tonga</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TBU</code>
+    <DestinationName>Tongatapu Intl</DestinationName>
+    <DestinationStr>Tongatapu Intl(TBU)-Tonga</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TBW</code>
+    <DestinationName>Tambov Arpt</DestinationName>
+    <DestinationStr>Tambov Arpt(TBW)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TBW</code>
+    <DestinationName>Tambov</DestinationName>
+    <DestinationStr>Tambov(TBW)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TBZ</code>
+    <DestinationName>Tabriz International Arpt</DestinationName>
+    <DestinationStr>Tabriz International Arpt(TBZ)-Iran</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TBZ</code>
+    <DestinationName>Tabriz</DestinationName>
+    <DestinationStr>Tabriz(TBZ)-Iran</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TCA</code>
+    <DestinationName>Tennant Creek Arpt</DestinationName>
+    <DestinationStr>Tennant Creek Arpt(TCA)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TCA</code>
+    <DestinationName>Tennant Creek</DestinationName>
+    <DestinationStr>Tennant Creek(TCA)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TCB</code>
+    <DestinationName>Treasure Cay Arpt</DestinationName>
+    <DestinationStr>Treasure Cay Arpt(TCB)-Bahamas</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TCB</code>
+    <DestinationName>Treasure Cay</DestinationName>
+    <DestinationStr>Treasure Cay(TCB)-Bahamas</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TCC</code>
+    <DestinationName>Tucumcari Arpt</DestinationName>
+    <DestinationStr>Tucumcari Arpt(TCC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TCC</code>
+    <DestinationName>Tucumcari</DestinationName>
+    <DestinationStr>Tucumcari(TCC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TCD</code>
+    <DestinationName>Tarapaca Arpt</DestinationName>
+    <DestinationStr>Tarapaca Arpt(TCD)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TCD</code>
+    <DestinationName>Tarapaca</DestinationName>
+    <DestinationStr>Tarapaca(TCD)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TCE</code>
+    <DestinationName>Tulcea Arpt</DestinationName>
+    <DestinationStr>Tulcea Arpt(TCE)-Romania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TCE</code>
+    <DestinationName>Tulcea</DestinationName>
+    <DestinationStr>Tulcea(TCE)-Romania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TCH</code>
+    <DestinationName>Tchibanga</DestinationName>
+    <DestinationStr>Tchibanga(TCH)-Gabon</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TCI</code>
+    <DestinationName>Santa Cruz de Tenerife</DestinationName>
+    <DestinationStr>Santa Cruz de Tenerife(TCI)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TCI</code>
+    <DestinationName>Tenerife</DestinationName>
+    <DestinationStr>Tenerife(TCI)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TCL</code>
+    <DestinationName>Tuscaloosa</DestinationName>
+    <DestinationStr>Tuscaloosa(TCL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TCL</code>
+    <DestinationName>Van De Graff Arpt</DestinationName>
+    <DestinationStr>Van De Graff Arpt(TCL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TCM</code>
+    <DestinationName>McChord AFB</DestinationName>
+    <DestinationStr>McChord AFB(TCM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TCN</code>
+    <DestinationName>Tehuacan Arpt</DestinationName>
+    <DestinationStr>Tehuacan Arpt(TCN)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TCN</code>
+    <DestinationName>Tehuacan</DestinationName>
+    <DestinationStr>Tehuacan(TCN)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TCO</code>
+    <DestinationName>La Florida Arpt</DestinationName>
+    <DestinationStr>La Florida Arpt(TCO)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TCO</code>
+    <DestinationName>Tumaco</DestinationName>
+    <DestinationStr>Tumaco(TCO)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TCP</code>
+    <DestinationName>Ras An Naqb Arpt</DestinationName>
+    <DestinationStr>Ras An Naqb Arpt(TCP)-Egypt</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TCP</code>
+    <DestinationName>Taba</DestinationName>
+    <DestinationStr>Taba(TCP)-Egypt</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TCQ</code>
+    <DestinationName>C Ciriani Santa Rosa Arpt</DestinationName>
+    <DestinationStr>C Ciriani Santa Rosa Arpt(TCQ)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TCQ</code>
+    <DestinationName>Tacna</DestinationName>
+    <DestinationStr>Tacna(TCQ)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TCR</code>
+    <DestinationName>Tuticorin Arpt</DestinationName>
+    <DestinationStr>Tuticorin Arpt(TCR)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TCR</code>
+    <DestinationName>Tuticorin</DestinationName>
+    <DestinationStr>Tuticorin(TCR)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TCT</code>
+    <DestinationName>Takotna</DestinationName>
+    <DestinationStr>Takotna(TCT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TCU</code>
+    <DestinationName>Thaba Nchu Arpt</DestinationName>
+    <DestinationStr>Thaba Nchu Arpt(TCU)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TCU</code>
+    <DestinationName>Thaba Nchu</DestinationName>
+    <DestinationStr>Thaba Nchu(TCU)-South Africa</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>TCV</code>
+    <DestinationName>Tres Cruces</DestinationName>
+    <DestinationStr>Tres Cruces(TCV)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TCW</code>
+    <DestinationName>Tocumwal Arpt</DestinationName>
+    <DestinationStr>Tocumwal Arpt(TCW)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TCW</code>
+    <DestinationName>Tocumwal</DestinationName>
+    <DestinationStr>Tocumwal(TCW)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TCZ</code>
+    <DestinationName>Hump Airport</DestinationName>
+    <DestinationStr>Hump Airport(TCZ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TCZ</code>
+    <DestinationName>Tengchong</DestinationName>
+    <DestinationStr>Tengchong(TCZ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TDB</code>
+    <DestinationName>Tetebedi</DestinationName>
+    <DestinationStr>Tetebedi(TDB)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TDD</code>
+    <DestinationName>Jorge Henrich Arauz Arpt</DestinationName>
+    <DestinationStr>Jorge Henrich Arauz Arpt(TDD)-Bolivia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TDD</code>
+    <DestinationName>Trinidad</DestinationName>
+    <DestinationStr>Trinidad(TDD)-Bolivia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TDK</code>
+    <DestinationName>Taldy Kurgan Arpt</DestinationName>
+    <DestinationStr>Taldy Kurgan Arpt(TDK)-Kazakstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TDK</code>
+    <DestinationName>Taldy Kurgan</DestinationName>
+    <DestinationStr>Taldy Kurgan(TDK)-Kazakstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TDL</code>
+    <DestinationName>Tandil Arpt</DestinationName>
+    <DestinationStr>Tandil Arpt(TDL)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TDL</code>
+    <DestinationName>Tandil</DestinationName>
+    <DestinationStr>Tandil(TDL)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TDW</code>
+    <DestinationName>Tradewind Airport</DestinationName>
+    <DestinationStr>Tradewind Airport(TDW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TDX</code>
+    <DestinationName>Trat Arpt</DestinationName>
+    <DestinationStr>Trat Arpt(TDX)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TDX</code>
+    <DestinationName>Trat</DestinationName>
+    <DestinationStr>Trat(TDX)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TDZ</code>
+    <DestinationName>Toledo Metcalf Field</DestinationName>
+    <DestinationStr>Toledo Metcalf Field(TDZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TEA</code>
+    <DestinationName>Tela Arpt</DestinationName>
+    <DestinationStr>Tela Arpt(TEA)-Honduras</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TEA</code>
+    <DestinationName>Tela</DestinationName>
+    <DestinationStr>Tela(TEA)-Honduras</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TEB</code>
+    <DestinationName>Teterboro Arpt</DestinationName>
+    <DestinationStr>Teterboro Arpt(TEB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TEB</code>
+    <DestinationName>Teterboro</DestinationName>
+    <DestinationStr>Teterboro(TEB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TEC</code>
+    <DestinationName>Telemaco Borba Arpt</DestinationName>
+    <DestinationStr>Telemaco Borba Arpt(TEC)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TEC</code>
+    <DestinationName>Telemaco Borba</DestinationName>
+    <DestinationStr>Telemaco Borba(TEC)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TED</code>
+    <DestinationName>Thisted Arpt</DestinationName>
+    <DestinationStr>Thisted Arpt(TED)-Denmark</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TED</code>
+    <DestinationName>Thisted</DestinationName>
+    <DestinationStr>Thisted(TED)-Denmark</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TEE</code>
+    <DestinationName>Tbessa</DestinationName>
+    <DestinationStr>Tbessa(TEE)-Algeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TEF</code>
+    <DestinationName>Telfer</DestinationName>
+    <DestinationStr>Telfer(TEF)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TEG</code>
+    <DestinationName>Tenkodogo</DestinationName>
+    <DestinationStr>Tenkodogo(TEG)-Burkina Faso</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TEH</code>
+    <DestinationName>Tetlin Arpt</DestinationName>
+    <DestinationStr>Tetlin Arpt(TEH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TEH</code>
+    <DestinationName>Tetlin</DestinationName>
+    <DestinationStr>Tetlin(TEH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TEI</code>
+    <DestinationName>Tezu Airport</DestinationName>
+    <DestinationStr>Tezu Airport(TEI)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TEI</code>
+    <DestinationName>Tezu</DestinationName>
+    <DestinationStr>Tezu(TEI)-India</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>TEJ</code>
+    <DestinationName>Teruel</DestinationName>
+    <DestinationStr>Teruel(TEJ)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TEK</code>
+    <DestinationName>Tatitlek Arpt</DestinationName>
+    <DestinationStr>Tatitlek Arpt(TEK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TEK</code>
+    <DestinationName>Tatitlek</DestinationName>
+    <DestinationStr>Tatitlek(TEK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TEM</code>
+    <DestinationName>Temora</DestinationName>
+    <DestinationStr>Temora(TEM)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TEN</code>
+    <DestinationName>Tongren Arpt</DestinationName>
+    <DestinationStr>Tongren Arpt(TEN)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TEN</code>
+    <DestinationName>Tongren</DestinationName>
+    <DestinationStr>Tongren(TEN)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TEO</code>
+    <DestinationName>Terapo</DestinationName>
+    <DestinationStr>Terapo(TEO)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TEP</code>
+    <DestinationName>Teptep</DestinationName>
+    <DestinationStr>Teptep(TEP)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TEQ</code>
+    <DestinationName>Corlu Airport</DestinationName>
+    <DestinationStr>Corlu Airport(TEQ)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TEQ</code>
+    <DestinationName>Tekirdag</DestinationName>
+    <DestinationStr>Tekirdag(TEQ)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TER</code>
+    <DestinationName>Lajes Arpt</DestinationName>
+    <DestinationStr>Lajes Arpt(TER)-Portugal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TER</code>
+    <DestinationName>Terceira</DestinationName>
+    <DestinationStr>Terceira(TER)-Portugal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TES</code>
+    <DestinationName>Tessenei</DestinationName>
+    <DestinationStr>Tessenei(TES)-Eritrea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TET</code>
+    <DestinationName>Chingozi Airport</DestinationName>
+    <DestinationStr>Chingozi Airport(TET)-Mozambique</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TET</code>
+    <DestinationName>Tete</DestinationName>
+    <DestinationStr>Tete(TET)-Mozambique</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TEU</code>
+    <DestinationName>Manapouri Airport</DestinationName>
+    <DestinationStr>Manapouri Airport(TEU)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TEU</code>
+    <DestinationName>Te Anau</DestinationName>
+    <DestinationStr>Te Anau(TEU)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TEX</code>
+    <DestinationName>Telluride Municipal Arpt</DestinationName>
+    <DestinationStr>Telluride Municipal Arpt(TEX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TEX</code>
+    <DestinationName>Telluride</DestinationName>
+    <DestinationStr>Telluride(TEX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TEY</code>
+    <DestinationName>Thingeyri</DestinationName>
+    <DestinationStr>Thingeyri(TEY)-Iceland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TEZ</code>
+    <DestinationName>Salonibari Airport</DestinationName>
+    <DestinationStr>Salonibari Airport(TEZ)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TEZ</code>
+    <DestinationName>Tezpur</DestinationName>
+    <DestinationStr>Tezpur(TEZ)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TFC</code>
+    <DestinationName>Taormina</DestinationName>
+    <DestinationStr>Taormina(TFC)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TFF</code>
+    <DestinationName>Tefe Arpt</DestinationName>
+    <DestinationStr>Tefe Arpt(TFF)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TFF</code>
+    <DestinationName>Tefe</DestinationName>
+    <DestinationStr>Tefe(TFF)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TFI</code>
+    <DestinationName>Tufi Airport</DestinationName>
+    <DestinationStr>Tufi Airport(TFI)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TFI</code>
+    <DestinationName>Tufi</DestinationName>
+    <DestinationStr>Tufi(TFI)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TFL</code>
+    <DestinationName>Teofilo Otoni</DestinationName>
+    <DestinationStr>Teofilo Otoni(TFL)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TFM</code>
+    <DestinationName>Telefomin</DestinationName>
+    <DestinationStr>Telefomin(TFM)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TFN</code>
+    <DestinationName>Tenerife Norte Los Rodeos Arpt</DestinationName>
+    <DestinationStr>Tenerife Norte Los Rodeos Arpt(TFN)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TFS</code>
+    <DestinationName>Reina Sofia Arpt</DestinationName>
+    <DestinationStr>Reina Sofia Arpt(TFS)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TGC</code>
+    <DestinationName>Tanjung Manis Airport</DestinationName>
+    <DestinationStr>Tanjung Manis Airport(TGC)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TGC</code>
+    <DestinationName>Tanjung Manis</DestinationName>
+    <DestinationStr>Tanjung Manis(TGC)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TGD</code>
+    <DestinationName>Golubovci Arpt</DestinationName>
+    <DestinationStr>Golubovci Arpt(TGD)-Montenegro</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TGD</code>
+    <DestinationName>Podgorica</DestinationName>
+    <DestinationStr>Podgorica(TGD)-Montenegro</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TGE</code>
+    <DestinationName>Sharpe Field</DestinationName>
+    <DestinationStr>Sharpe Field(TGE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TGE</code>
+    <DestinationName>Tuskegee</DestinationName>
+    <DestinationStr>Tuskegee(TGE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TGF</code>
+    <DestinationName>Tignes</DestinationName>
+    <DestinationStr>Tignes(TGF)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TGG</code>
+    <DestinationName>Kuala Terengganu</DestinationName>
+    <DestinationStr>Kuala Terengganu(TGG)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TGG</code>
+    <DestinationName>Sultan Mahmood Arpt</DestinationName>
+    <DestinationStr>Sultan Mahmood Arpt(TGG)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TGH</code>
+    <DestinationName>Tongoa</DestinationName>
+    <DestinationStr>Tongoa(TGH)-Vanuatu</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TGI</code>
+    <DestinationName>Tingo Maria</DestinationName>
+    <DestinationStr>Tingo Maria(TGI)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TGJ</code>
+    <DestinationName>Tiga</DestinationName>
+    <DestinationStr>Tiga(TGJ)-New Caledonia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TGK</code>
+    <DestinationName>Taganrog Airport</DestinationName>
+    <DestinationStr>Taganrog Airport(TGK)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TGK</code>
+    <DestinationName>Taganrog</DestinationName>
+    <DestinationStr>Taganrog(TGK)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TGL</code>
+    <DestinationName>Tagula</DestinationName>
+    <DestinationStr>Tagula(TGL)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TGM</code>
+    <DestinationName>Tirgu Mures Arpt</DestinationName>
+    <DestinationStr>Tirgu Mures Arpt(TGM)-Romania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TGM</code>
+    <DestinationName>Tirgu Mures</DestinationName>
+    <DestinationStr>Tirgu Mures(TGM)-Romania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TGN</code>
+    <DestinationName>La Trobe Traralgon Arpt</DestinationName>
+    <DestinationStr>La Trobe Traralgon Arpt(TGN)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TGN</code>
+    <DestinationName>Traralgon</DestinationName>
+    <DestinationStr>Traralgon(TGN)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TGO</code>
+    <DestinationName>Tongliao Arpt</DestinationName>
+    <DestinationStr>Tongliao Arpt(TGO)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TGO</code>
+    <DestinationName>Tongliao</DestinationName>
+    <DestinationStr>Tongliao(TGO)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TGP</code>
+    <DestinationName>BOR RU</DestinationName>
+    <DestinationStr>BOR RU(TGP)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TGP</code>
+    <DestinationName>Podkamennaya Tunguska</DestinationName>
+    <DestinationStr>Podkamennaya Tunguska(TGP)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TGR</code>
+    <DestinationName>Touggourt</DestinationName>
+    <DestinationStr>Touggourt(TGR)-Algeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TGT</code>
+    <DestinationName>Tanga Arpt</DestinationName>
+    <DestinationStr>Tanga Arpt(TGT)-Tanzania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TGT</code>
+    <DestinationName>Tanga</DestinationName>
+    <DestinationStr>Tanga(TGT)-Tanzania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TGU</code>
+    <DestinationName>Tegucigalpa</DestinationName>
+    <DestinationStr>Tegucigalpa(TGU)-Honduras</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TGU</code>
+    <DestinationName>Toncontin Intl Arpt</DestinationName>
+    <DestinationStr>Toncontin Intl Arpt(TGU)-Honduras</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TGV</code>
+    <DestinationName>Targovishte</DestinationName>
+    <DestinationStr>Targovishte(TGV)-Bulgaria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TGZ</code>
+    <DestinationName>Angel Albino Corzo Intl</DestinationName>
+    <DestinationStr>Angel Albino Corzo Intl(TGZ)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TGZ</code>
+    <DestinationName>Tuxtla Gutierrez</DestinationName>
+    <DestinationStr>Tuxtla Gutierrez(TGZ)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>THA</code>
+    <DestinationName>Northern Arpt</DestinationName>
+    <DestinationStr>Northern Arpt(THA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>THA</code>
+    <DestinationName>Tullahoma</DestinationName>
+    <DestinationStr>Tullahoma(THA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>THB</code>
+    <DestinationName>Thaba Tseka</DestinationName>
+    <DestinationStr>Thaba Tseka(THB)-Lesotho</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>THC</code>
+    <DestinationName>Tchien Arpt</DestinationName>
+    <DestinationStr>Tchien Arpt(THC)-Liberia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>THC</code>
+    <DestinationName>Tchien</DestinationName>
+    <DestinationStr>Tchien(THC)-Liberia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>THD</code>
+    <DestinationName>Thanh Hoa</DestinationName>
+    <DestinationStr>Thanh Hoa(THD)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>THD</code>
+    <DestinationName>Tho Xuan Arpt</DestinationName>
+    <DestinationStr>Tho Xuan Arpt(THD)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>THE</code>
+    <DestinationName>Teresina Arpt</DestinationName>
+    <DestinationStr>Teresina Arpt(THE)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>THE</code>
+    <DestinationName>Teresina</DestinationName>
+    <DestinationStr>Teresina(THE)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>THF</code>
+    <DestinationName>Tempelhof Arpt</DestinationName>
+    <DestinationStr>Tempelhof Arpt(THF)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>THG</code>
+    <DestinationName>Thangool Arpt</DestinationName>
+    <DestinationStr>Thangool Arpt(THG)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>THG</code>
+    <DestinationName>Thangool</DestinationName>
+    <DestinationStr>Thangool(THG)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>THN</code>
+    <DestinationName>Trollhattan Arpt</DestinationName>
+    <DestinationStr>Trollhattan Arpt(THN)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>THN</code>
+    <DestinationName>Trollhattan</DestinationName>
+    <DestinationStr>Trollhattan(THN)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>THO</code>
+    <DestinationName>Thorshofn</DestinationName>
+    <DestinationStr>Thorshofn(THO)-Iceland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>THP</code>
+    <DestinationName>Hot Springs</DestinationName>
+    <DestinationStr>Hot Springs(THP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>THP</code>
+    <DestinationName>Thermopolis</DestinationName>
+    <DestinationStr>Thermopolis(THP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>THQ</code>
+    <DestinationName>Tianshui Maijishan</DestinationName>
+    <DestinationStr>Tianshui Maijishan(THQ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>THQ</code>
+    <DestinationName>Tianshui</DestinationName>
+    <DestinationStr>Tianshui(THQ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>THR</code>
+    <DestinationName>Mehrabad Arpt</DestinationName>
+    <DestinationStr>Mehrabad Arpt(THR)-Iran</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>THR</code>
+    <DestinationName>Teheran</DestinationName>
+    <DestinationStr>Teheran(THR)-Iran</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>THS</code>
+    <DestinationName>Sukhothai Arpt</DestinationName>
+    <DestinationStr>Sukhothai Arpt(THS)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>THS</code>
+    <DestinationName>Sukhothai</DestinationName>
+    <DestinationStr>Sukhothai(THS)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>THV</code>
+    <DestinationName>York Arpt</DestinationName>
+    <DestinationStr>York Arpt(THV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>THV</code>
+    <DestinationName>York</DestinationName>
+    <DestinationStr>York(THV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>THX</code>
+    <DestinationName>Turukhansk Airport</DestinationName>
+    <DestinationStr>Turukhansk Airport(THX)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>THX</code>
+    <DestinationName>Turukhansk</DestinationName>
+    <DestinationStr>Turukhansk(THX)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>THY</code>
+    <DestinationName>P R Mphephu Airport</DestinationName>
+    <DestinationStr>P R Mphephu Airport(THY)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>THY</code>
+    <DestinationName>Thohoyandou</DestinationName>
+    <DestinationStr>Thohoyandou(THY)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TIA</code>
+    <DestinationName>Albania</DestinationName>
+    <DestinationStr>Albania(TIA)-Albania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TIA</code>
+    <DestinationName>Rinas Arpt</DestinationName>
+    <DestinationStr>Rinas Arpt(TIA)-Albania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TIA</code>
+    <DestinationName>Tirana</DestinationName>
+    <DestinationStr>Tirana(TIA)-Albania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TIE</code>
+    <DestinationName>Tippi</DestinationName>
+    <DestinationStr>Tippi(TIE)-Ethiopia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TIF</code>
+    <DestinationName>Taif Airport</DestinationName>
+    <DestinationStr>Taif Airport(TIF)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TIF</code>
+    <DestinationName>Taif</DestinationName>
+    <DestinationStr>Taif(TIF)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TIG</code>
+    <DestinationName>Tingwon Arpt</DestinationName>
+    <DestinationStr>Tingwon Arpt(TIG)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TIG</code>
+    <DestinationName>Tingwon</DestinationName>
+    <DestinationStr>Tingwon(TIG)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TIH</code>
+    <DestinationName>Tikehau Arpt</DestinationName>
+    <DestinationStr>Tikehau Arpt(TIH)-French Polynesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TIH</code>
+    <DestinationName>Tikehau</DestinationName>
+    <DestinationStr>Tikehau(TIH)-French Polynesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TIJ</code>
+    <DestinationName>A L Rodriguez International</DestinationName>
+    <DestinationStr>A L Rodriguez International(TIJ)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TIJ</code>
+    <DestinationName>Tijuana</DestinationName>
+    <DestinationStr>Tijuana(TIJ)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TIK</code>
+    <DestinationName>Tinker Airforce Base Arpt</DestinationName>
+    <DestinationStr>Tinker Airforce Base Arpt(TIK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TIM</code>
+    <DestinationName>Timika Arpt</DestinationName>
+    <DestinationStr>Timika Arpt(TIM)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TIM</code>
+    <DestinationName>Timika</DestinationName>
+    <DestinationStr>Timika(TIM)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TIN</code>
+    <DestinationName>Tindouf</DestinationName>
+    <DestinationStr>Tindouf(TIN)-Algeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TIP</code>
+    <DestinationName>Tripoli Intl Arpt</DestinationName>
+    <DestinationStr>Tripoli Intl Arpt(TIP)-Libyan Arab Jamahiriya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TIP</code>
+    <DestinationName>Tripoli</DestinationName>
+    <DestinationStr>Tripoli(TIP)-Libyan Arab Jamahiriya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TIQ</code>
+    <DestinationName>Tinian Arpt</DestinationName>
+    <DestinationStr>Tinian Arpt(TIQ)-Marianna Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TIQ</code>
+    <DestinationName>Tinian</DestinationName>
+    <DestinationStr>Tinian(TIQ)-Marianna Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TIR</code>
+    <DestinationName>Tirupati Arpt</DestinationName>
+    <DestinationStr>Tirupati Arpt(TIR)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TIR</code>
+    <DestinationName>Tirupati</DestinationName>
+    <DestinationStr>Tirupati(TIR)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TIS</code>
+    <DestinationName>Thursday Island Arpt</DestinationName>
+    <DestinationStr>Thursday Island Arpt(TIS)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TIS</code>
+    <DestinationName>Thursday Island</DestinationName>
+    <DestinationStr>Thursday Island(TIS)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TIU</code>
+    <DestinationName>Timaru Arpt</DestinationName>
+    <DestinationStr>Timaru Arpt(TIU)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TIU</code>
+    <DestinationName>Timaru</DestinationName>
+    <DestinationStr>Timaru(TIU)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TIV</code>
+    <DestinationName>Tivat Arpt</DestinationName>
+    <DestinationStr>Tivat Arpt(TIV)-Montenegro</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TIV</code>
+    <DestinationName>Tivat</DestinationName>
+    <DestinationStr>Tivat(TIV)-Montenegro</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TIW</code>
+    <DestinationName>Tacoma Industrial Arpt</DestinationName>
+    <DestinationStr>Tacoma Industrial Arpt(TIW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TIW</code>
+    <DestinationName>Tacoma</DestinationName>
+    <DestinationStr>Tacoma(TIW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TIX</code>
+    <DestinationName>Space Center Executive Arpt</DestinationName>
+    <DestinationStr>Space Center Executive Arpt(TIX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TIX</code>
+    <DestinationName>Titusville</DestinationName>
+    <DestinationStr>Titusville(TIX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TIY</code>
+    <DestinationName>Tidjikja</DestinationName>
+    <DestinationStr>Tidjikja(TIY)-Mauritania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TIZ</code>
+    <DestinationName>Tari Arpt</DestinationName>
+    <DestinationStr>Tari Arpt(TIZ)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TIZ</code>
+    <DestinationName>Tari</DestinationName>
+    <DestinationStr>Tari(TIZ)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TJA</code>
+    <DestinationName>Captain Oriel Lea Plaza Arpt</DestinationName>
+    <DestinationStr>Captain Oriel Lea Plaza Arpt(TJA)-Bolivia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TJA</code>
+    <DestinationName>Tarija</DestinationName>
+    <DestinationStr>Tarija(TJA)-Bolivia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TJL</code>
+    <DestinationName>Tres Lagoas Arpt</DestinationName>
+    <DestinationStr>Tres Lagoas Arpt(TJL)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TJL</code>
+    <DestinationName>Tres Lagoas</DestinationName>
+    <DestinationStr>Tres Lagoas(TJL)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TJM</code>
+    <DestinationName>Roshchino Tyumen Intl Arpt</DestinationName>
+    <DestinationStr>Roshchino Tyumen Intl Arpt(TJM)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TJM</code>
+    <DestinationName>Tyumen</DestinationName>
+    <DestinationStr>Tyumen(TJM)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TJQ</code>
+    <DestinationName>Bulutumbang Arpt</DestinationName>
+    <DestinationStr>Bulutumbang Arpt(TJQ)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TJQ</code>
+    <DestinationName>Tanjung Pandan</DestinationName>
+    <DestinationStr>Tanjung Pandan(TJQ)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TJU</code>
+    <DestinationName>Kulob Airport</DestinationName>
+    <DestinationStr>Kulob Airport(TJU)-Tajikistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TJU</code>
+    <DestinationName>Kulob</DestinationName>
+    <DestinationStr>Kulob(TJU)-Tajikistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TJV</code>
+    <DestinationName>Thanjavur Air Force Station</DestinationName>
+    <DestinationStr>Thanjavur Air Force Station(TJV)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TJV</code>
+    <DestinationName>Thanjavur</DestinationName>
+    <DestinationStr>Thanjavur(TJV)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TKA</code>
+    <DestinationName>Talkeetna Arpt</DestinationName>
+    <DestinationStr>Talkeetna Arpt(TKA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TKA</code>
+    <DestinationName>Talkeetna</DestinationName>
+    <DestinationStr>Talkeetna(TKA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TKD</code>
+    <DestinationName>Takoradi</DestinationName>
+    <DestinationStr>Takoradi(TKD)-Ghana</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TKE</code>
+    <DestinationName>Tenakee</DestinationName>
+    <DestinationStr>Tenakee(TKE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TKF</code>
+    <DestinationName>Truckee Arpt</DestinationName>
+    <DestinationStr>Truckee Arpt(TKF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TKF</code>
+    <DestinationName>Truckee</DestinationName>
+    <DestinationStr>Truckee(TKF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TKG</code>
+    <DestinationName>Bandar Lampung</DestinationName>
+    <DestinationStr>Bandar Lampung(TKG)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TKG</code>
+    <DestinationName>Branti Arpt</DestinationName>
+    <DestinationStr>Branti Arpt(TKG)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TKI</code>
+    <DestinationName>Tokeen Arpt</DestinationName>
+    <DestinationStr>Tokeen Arpt(TKI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TKI</code>
+    <DestinationName>Tokeen</DestinationName>
+    <DestinationStr>Tokeen(TKI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TKJ</code>
+    <DestinationName>Tok Ak</DestinationName>
+    <DestinationStr>Tok Ak(TKJ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TKJ</code>
+    <DestinationName>Tok Arpt</DestinationName>
+    <DestinationStr>Tok Arpt(TKJ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TKK</code>
+    <DestinationName>Chuuk International</DestinationName>
+    <DestinationStr>Chuuk International(TKK)-Micronesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TKK</code>
+    <DestinationName>Truk</DestinationName>
+    <DestinationStr>Truk(TKK)-Micronesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TKL</code>
+    <DestinationName>Taku Lodge</DestinationName>
+    <DestinationStr>Taku Lodge(TKL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TKL</code>
+    <DestinationName>Taku Spb</DestinationName>
+    <DestinationStr>Taku Spb(TKL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TKM</code>
+    <DestinationName>Tikal</DestinationName>
+    <DestinationStr>Tikal(TKM)-Guatemala</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TKN</code>
+    <DestinationName>Tokunoshima Arpt</DestinationName>
+    <DestinationStr>Tokunoshima Arpt(TKN)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TKN</code>
+    <DestinationName>Tokunoshima</DestinationName>
+    <DestinationStr>Tokunoshima(TKN)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TKP</code>
+    <DestinationName>Takapoto</DestinationName>
+    <DestinationStr>Takapoto(TKP)-French Polynesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TKQ</code>
+    <DestinationName>Kigoma Arpt</DestinationName>
+    <DestinationStr>Kigoma Arpt(TKQ)-Tanzania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TKQ</code>
+    <DestinationName>Kigoma</DestinationName>
+    <DestinationStr>Kigoma(TKQ)-Tanzania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TKS</code>
+    <DestinationName>Tokushima Arpt</DestinationName>
+    <DestinationStr>Tokushima Arpt(TKS)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TKS</code>
+    <DestinationName>Tokushima</DestinationName>
+    <DestinationStr>Tokushima(TKS)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TKT</code>
+    <DestinationName>Tak TH</DestinationName>
+    <DestinationStr>Tak TH(TKT)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TKU</code>
+    <DestinationName>Turku Arpt</DestinationName>
+    <DestinationStr>Turku Arpt(TKU)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TKU</code>
+    <DestinationName>Turku</DestinationName>
+    <DestinationStr>Turku(TKU)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TKV</code>
+    <DestinationName>Tatakoto</DestinationName>
+    <DestinationStr>Tatakoto(TKV)-French Polynesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TLA</code>
+    <DestinationName>Teller</DestinationName>
+    <DestinationStr>Teller(TLA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TLC</code>
+    <DestinationName>Mexico City Toluca A Lopez Mateos</DestinationName>
+    <DestinationStr>Mexico City Toluca A Lopez Mateos(TLC)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TLC</code>
+    <DestinationName>Toluca</DestinationName>
+    <DestinationStr>Toluca(TLC)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TLD</code>
+    <DestinationName>Limpopo Valley Arpt</DestinationName>
+    <DestinationStr>Limpopo Valley Arpt(TLD)-Botswana</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TLD</code>
+    <DestinationName>Tuli Block</DestinationName>
+    <DestinationStr>Tuli Block(TLD)-Botswana</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TLE</code>
+    <DestinationName>Tulear Arpt</DestinationName>
+    <DestinationStr>Tulear Arpt(TLE)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TLE</code>
+    <DestinationName>Tulear</DestinationName>
+    <DestinationStr>Tulear(TLE)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TLF</code>
+    <DestinationName>Telida Arpt</DestinationName>
+    <DestinationStr>Telida Arpt(TLF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TLF</code>
+    <DestinationName>Telida</DestinationName>
+    <DestinationStr>Telida(TLF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TLH</code>
+    <DestinationName>Tallahassee Municipal</DestinationName>
+    <DestinationStr>Tallahassee Municipal(TLH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TLH</code>
+    <DestinationName>Tallahassee</DestinationName>
+    <DestinationStr>Tallahassee(TLH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TLI</code>
+    <DestinationName>Tolitoli</DestinationName>
+    <DestinationStr>Tolitoli(TLI)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TLJ</code>
+    <DestinationName>Tatalina</DestinationName>
+    <DestinationStr>Tatalina(TLJ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TLL</code>
+    <DestinationName>Lennart Meri Airport</DestinationName>
+    <DestinationStr>Lennart Meri Airport(TLL)-Estonia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TLL</code>
+    <DestinationName>Tallinn</DestinationName>
+    <DestinationStr>Tallinn(TLL)-Estonia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TLM</code>
+    <DestinationName>Tlemcen</DestinationName>
+    <DestinationStr>Tlemcen(TLM)-Algeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TLM</code>
+    <DestinationName>Zenata Messali El Hadj Airport</DestinationName>
+    <DestinationStr>Zenata Messali El Hadj Airport(TLM)-Algeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TLN</code>
+    <DestinationName>Le Palyvestre Arpt</DestinationName>
+    <DestinationStr>Le Palyvestre Arpt(TLN)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TLN</code>
+    <DestinationName>Toulon</DestinationName>
+    <DestinationStr>Toulon(TLN)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TLO</code>
+    <DestinationName>Tol PG</DestinationName>
+    <DestinationStr>Tol PG(TLO)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TLQ</code>
+    <DestinationName>Turpan Jiaohe Airport</DestinationName>
+    <DestinationStr>Turpan Jiaohe Airport(TLQ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TLQ</code>
+    <DestinationName>Turpan</DestinationName>
+    <DestinationStr>Turpan(TLQ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TLR</code>
+    <DestinationName>Mefford Field</DestinationName>
+    <DestinationStr>Mefford Field(TLR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TLR</code>
+    <DestinationName>Tulare</DestinationName>
+    <DestinationStr>Tulare(TLR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TLS</code>
+    <DestinationName>Blagnac Arpt</DestinationName>
+    <DestinationStr>Blagnac Arpt(TLS)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TLS</code>
+    <DestinationName>Toulouse</DestinationName>
+    <DestinationStr>Toulouse(TLS)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TLT</code>
+    <DestinationName>Tuluksak</DestinationName>
+    <DestinationStr>Tuluksak(TLT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TLU</code>
+    <DestinationName>Golfo De Morrosquillo Arpt</DestinationName>
+    <DestinationStr>Golfo De Morrosquillo Arpt(TLU)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TLU</code>
+    <DestinationName>Tolu</DestinationName>
+    <DestinationStr>Tolu(TLU)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TLV</code>
+    <DestinationName>Ben Gurion Intl Arpt</DestinationName>
+    <DestinationStr>Ben Gurion Intl Arpt(TLV)-Israel</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TLV</code>
+    <DestinationName>Tel Aviv</DestinationName>
+    <DestinationStr>Tel Aviv(TLV)-Israel</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TLX</code>
+    <DestinationName>Talca</DestinationName>
+    <DestinationStr>Talca(TLX)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TMA</code>
+    <DestinationName>Henry Tift Myers Arpt</DestinationName>
+    <DestinationStr>Henry Tift Myers Arpt(TMA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TMA</code>
+    <DestinationName>Tifton</DestinationName>
+    <DestinationStr>Tifton(TMA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TMB</code>
+    <DestinationName>Tamiami Airport</DestinationName>
+    <DestinationStr>Tamiami Airport(TMB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TME</code>
+    <DestinationName>Gabriel Vargas Santos Arpt</DestinationName>
+    <DestinationStr>Gabriel Vargas Santos Arpt(TME)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TME</code>
+    <DestinationName>TAME</DestinationName>
+    <DestinationStr>TAME(TME)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TMF</code>
+    <DestinationName>Thimarafushi Arpt</DestinationName>
+    <DestinationStr>Thimarafushi Arpt(TMF)-Maldives</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TMF</code>
+    <DestinationName>Thimarafushi</DestinationName>
+    <DestinationStr>Thimarafushi(TMF)-Maldives</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TMG</code>
+    <DestinationName>Tomanggong Arpt</DestinationName>
+    <DestinationStr>Tomanggong Arpt(TMG)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TMG</code>
+    <DestinationName>Tomanggong</DestinationName>
+    <DestinationStr>Tomanggong(TMG)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TMH</code>
+    <DestinationName>Tanah Merah</DestinationName>
+    <DestinationStr>Tanah Merah(TMH)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TMJ</code>
+    <DestinationName>Termez Airport</DestinationName>
+    <DestinationStr>Termez Airport(TMJ)-Uzbekistan Sum</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TMJ</code>
+    <DestinationName>Termez</DestinationName>
+    <DestinationStr>Termez(TMJ)-Uzbekistan Sum</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TML</code>
+    <DestinationName>Tamale Arpt</DestinationName>
+    <DestinationStr>Tamale Arpt(TML)-Ghana</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TML</code>
+    <DestinationName>Tamale</DestinationName>
+    <DestinationStr>Tamale(TML)-Ghana</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TMM</code>
+    <DestinationName>Tamatave Arpt</DestinationName>
+    <DestinationStr>Tamatave Arpt(TMM)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TMM</code>
+    <DestinationName>Tamatave</DestinationName>
+    <DestinationStr>Tamatave(TMM)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TMN</code>
+    <DestinationName>Tamana Island</DestinationName>
+    <DestinationStr>Tamana Island(TMN)-Kiribati</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TMP</code>
+    <DestinationName>Tampere Pirkkala Arpt</DestinationName>
+    <DestinationStr>Tampere Pirkkala Arpt(TMP)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TMP</code>
+    <DestinationName>Tampere</DestinationName>
+    <DestinationStr>Tampere(TMP)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TMR</code>
+    <DestinationName>Tamanrasset</DestinationName>
+    <DestinationStr>Tamanrasset(TMR)-Algeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TMS</code>
+    <DestinationName>Principe</DestinationName>
+    <DestinationStr>Principe(TMS)-Sao Tome  Principe</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TMS</code>
+    <DestinationName>Sao Tome Intl Arpt</DestinationName>
+    <DestinationStr>Sao Tome Intl Arpt(TMS)-Sao Tome  Principe</DestinationStr>
+  </Destination> 
+  <Destination>
+    <code>TMT</code>
+    <DestinationName>Trombetas Arpt</DestinationName>
+    <DestinationStr>Trombetas Arpt(TMT)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TMT</code>
+    <DestinationName>Trombetas</DestinationName>
+    <DestinationStr>Trombetas(TMT)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TMU</code>
+    <DestinationName>Tambor Arpt</DestinationName>
+    <DestinationStr>Tambor Arpt(TMU)-Costa Rica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TMU</code>
+    <DestinationName>Tambor</DestinationName>
+    <DestinationStr>Tambor(TMU)-Costa Rica</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>TMV</code>
+    <DestinationName>Tianmen</DestinationName>
+    <DestinationStr>Tianmen(TMV)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TMW</code>
+    <DestinationName>Tamworth Arpt</DestinationName>
+    <DestinationStr>Tamworth Arpt(TMW)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TMW</code>
+    <DestinationName>Tamworth</DestinationName>
+    <DestinationStr>Tamworth(TMW)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TMZ</code>
+    <DestinationName>Thames Arpt</DestinationName>
+    <DestinationStr>Thames Arpt(TMZ)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TMZ</code>
+    <DestinationName>Thames</DestinationName>
+    <DestinationStr>Thames(TMZ)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TNA</code>
+    <DestinationName>Jinan Arpt</DestinationName>
+    <DestinationStr>Jinan Arpt(TNA)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TNA</code>
+    <DestinationName>Jinan</DestinationName>
+    <DestinationStr>Jinan(TNA)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TNC</code>
+    <DestinationName>Tin City</DestinationName>
+    <DestinationStr>Tin City(TNC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TND</code>
+    <DestinationName>Alberto Delgado Arpt</DestinationName>
+    <DestinationStr>Alberto Delgado Arpt(TND)-Cuba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TND</code>
+    <DestinationName>Trinidad</DestinationName>
+    <DestinationStr>Trinidad(TND)-Cuba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TNE</code>
+    <DestinationName>Tanega Shima Arpt</DestinationName>
+    <DestinationStr>Tanega Shima Arpt(TNE)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TNE</code>
+    <DestinationName>Tanega Shima</DestinationName>
+    <DestinationStr>Tanega Shima(TNE)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TNF</code>
+    <DestinationName>Toussus Le Noble Arpt</DestinationName>
+    <DestinationStr>Toussus Le Noble Arpt(TNF)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TNF</code>
+    <DestinationName>Toussus Le Noble</DestinationName>
+    <DestinationStr>Toussus Le Noble(TNF)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TNG</code>
+    <DestinationName>Boukhalef Arpt</DestinationName>
+    <DestinationStr>Boukhalef Arpt(TNG)-Morocco</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TNG</code>
+    <DestinationName>Tangier</DestinationName>
+    <DestinationStr>Tangier(TNG)-Morocco</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TNI</code>
+    <DestinationName>Satna Airport</DestinationName>
+    <DestinationStr>Satna Airport(TNI)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TNI</code>
+    <DestinationName>SATNA</DestinationName>
+    <DestinationStr>SATNA(TNI)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TNJ</code>
+    <DestinationName>Tanjung Pinang</DestinationName>
+    <DestinationStr>Tanjung Pinang(TNJ)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TNK</code>
+    <DestinationName>Tununak</DestinationName>
+    <DestinationStr>Tununak(TNK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TNL</code>
+    <DestinationName>Ternopol</DestinationName>
+    <DestinationStr>Ternopol(TNL)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TNN</code>
+    <DestinationName>Tainan Arpt</DestinationName>
+    <DestinationStr>Tainan Arpt(TNN)-Taiwan, Province of China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TNN</code>
+    <DestinationName>Tainan</DestinationName>
+    <DestinationStr>Tainan(TNN)-Taiwan, Province of China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TNO</code>
+    <DestinationName>Tamarindo Arpt</DestinationName>
+    <DestinationStr>Tamarindo Arpt(TNO)-Costa Rica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TNO</code>
+    <DestinationName>Tamarindo</DestinationName>
+    <DestinationStr>Tamarindo(TNO)-Costa Rica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TNP</code>
+    <DestinationName>Twenty Nine Palms</DestinationName>
+    <DestinationStr>Twenty Nine Palms(TNP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TNR</code>
+    <DestinationName>Antananarivo</DestinationName>
+    <DestinationStr>Antananarivo(TNR)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TNR</code>
+    <DestinationName>Ivato Arpt</DestinationName>
+    <DestinationStr>Ivato Arpt(TNR)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TNT</code>
+    <DestinationName>Dade Collier Arpt</DestinationName>
+    <DestinationStr>Dade Collier Arpt(TNT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TNU</code>
+    <DestinationName>Municipal Newton Arpt</DestinationName>
+    <DestinationStr>Municipal Newton Arpt(TNU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TNU</code>
+    <DestinationName>Newton</DestinationName>
+    <DestinationStr>Newton(TNU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TNV</code>
+    <DestinationName>Tabuaeran</DestinationName>
+    <DestinationStr>Tabuaeran(TNV)-Kiribati</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TOA</code>
+    <DestinationName>Torrance</DestinationName>
+    <DestinationStr>Torrance(TOA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TOB</code>
+    <DestinationName>Tobruk Arpt</DestinationName>
+    <DestinationStr>Tobruk Arpt(TOB)-Libyan Arab Jamahiriya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TOB</code>
+    <DestinationName>Tobruk</DestinationName>
+    <DestinationStr>Tobruk(TOB)-Libyan Arab Jamahiriya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TOC</code>
+    <DestinationName>Toccoa</DestinationName>
+    <DestinationStr>Toccoa(TOC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TOD</code>
+    <DestinationName>Tioman Arpt</DestinationName>
+    <DestinationStr>Tioman Arpt(TOD)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TOD</code>
+    <DestinationName>Tioman</DestinationName>
+    <DestinationStr>Tioman(TOD)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TOE</code>
+    <DestinationName>Tozeur Arpt</DestinationName>
+    <DestinationStr>Tozeur Arpt(TOE)-Tunisia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TOE</code>
+    <DestinationName>Tozeur</DestinationName>
+    <DestinationStr>Tozeur(TOE)-Tunisia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TOF</code>
+    <DestinationName>Tomsk Arpt</DestinationName>
+    <DestinationStr>Tomsk Arpt(TOF)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TOF</code>
+    <DestinationName>Tomsk</DestinationName>
+    <DestinationStr>Tomsk(TOF)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TOG</code>
+    <DestinationName>Togiak Village Arpt</DestinationName>
+    <DestinationStr>Togiak Village Arpt(TOG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TOG</code>
+    <DestinationName>Togiak</DestinationName>
+    <DestinationStr>Togiak(TOG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TOH</code>
+    <DestinationName>Torres Airstrip</DestinationName>
+    <DestinationStr>Torres Airstrip(TOH)-Vanuatu</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TOH</code>
+    <DestinationName>Torres</DestinationName>
+    <DestinationStr>Torres(TOH)-Vanuatu</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TOI</code>
+    <DestinationName>Troy Municipal</DestinationName>
+    <DestinationStr>Troy Municipal(TOI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TOI</code>
+    <DestinationName>Troy</DestinationName>
+    <DestinationStr>Troy(TOI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TOJ</code>
+    <DestinationName>Torrejon AFB</DestinationName>
+    <DestinationStr>Torrejon AFB(TOJ)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TOK</code>
+    <DestinationName>Torokina</DestinationName>
+    <DestinationStr>Torokina(TOK)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TOL</code>
+    <DestinationName>Toledo Express Arpt</DestinationName>
+    <DestinationStr>Toledo Express Arpt(TOL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TOL</code>
+    <DestinationName>Toledo</DestinationName>
+    <DestinationStr>Toledo(TOL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TOM</code>
+    <DestinationName>Tombouctou</DestinationName>
+    <DestinationStr>Tombouctou(TOM)-Mali</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TON</code>
+    <DestinationName>Tonu</DestinationName>
+    <DestinationStr>Tonu(TON)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TOP</code>
+    <DestinationName>Phillip Billard Arpt</DestinationName>
+    <DestinationStr>Phillip Billard Arpt(TOP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TOP</code>
+    <DestinationName>Topeka</DestinationName>
+    <DestinationStr>Topeka(TOP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TOR</code>
+    <DestinationName>Torrington Minicipal Arpt</DestinationName>
+    <DestinationStr>Torrington Minicipal Arpt(TOR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TOR</code>
+    <DestinationName>Torrington</DestinationName>
+    <DestinationStr>Torrington(TOR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TOS</code>
+    <DestinationName>Tromso Langnes Arpt</DestinationName>
+    <DestinationStr>Tromso Langnes Arpt(TOS)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TOS</code>
+    <DestinationName>Tromso</DestinationName>
+    <DestinationStr>Tromso(TOS)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TOU</code>
+    <DestinationName>Touho</DestinationName>
+    <DestinationStr>Touho(TOU)-New Caledonia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TOV</code>
+    <DestinationName>Tortola British Virgin Isles</DestinationName>
+    <DestinationStr>Tortola British Virgin Isles(TOV)-British Virgin Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TOV</code>
+    <DestinationName>Tortola</DestinationName>
+    <DestinationStr>Tortola(TOV)-British Virgin Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TOW</code>
+    <DestinationName>Toledo Arpt</DestinationName>
+    <DestinationStr>Toledo Arpt(TOW)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TOW</code>
+    <DestinationName>Toledo</DestinationName>
+    <DestinationStr>Toledo(TOW)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TOX</code>
+    <DestinationName>Tobolsk Arpt</DestinationName>
+    <DestinationStr>Tobolsk Arpt(TOX)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TOX</code>
+    <DestinationName>Tobolsk</DestinationName>
+    <DestinationStr>Tobolsk(TOX)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TOY</code>
+    <DestinationName>Toyama Arpt</DestinationName>
+    <DestinationStr>Toyama Arpt(TOY)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TOY</code>
+    <DestinationName>Toyama</DestinationName>
+    <DestinationStr>Toyama(TOY)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TOZ</code>
+    <DestinationName>Touba</DestinationName>
+    <DestinationStr>Touba(TOZ)-Ivory Coast</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TPA</code>
+    <DestinationName>Tampa Intl</DestinationName>
+    <DestinationStr>Tampa Intl(TPA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TPA</code>
+    <DestinationName>Tampa</DestinationName>
+    <DestinationStr>Tampa(TPA)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>TPC</code>
+    <DestinationName>Tarapoa</DestinationName>
+    <DestinationStr>Tarapoa(TPC)-Ecuador</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TPE</code>
+    <DestinationName>Taipei</DestinationName>
+    <DestinationStr>Taipei(TPE)-Taiwan, Province of China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TPE</code>
+    <DestinationName>Taiwan Taoyuan Intl Arpt</DestinationName>
+    <DestinationStr>Taiwan Taoyuan Intl Arpt(TPE)-Taiwan, Province of China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TPF</code>
+    <DestinationName>Peter O Knight Arpt</DestinationName>
+    <DestinationStr>Peter O Knight Arpt(TPF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TPH</code>
+    <DestinationName>Tonopah Arpt</DestinationName>
+    <DestinationStr>Tonopah Arpt(TPH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TPH</code>
+    <DestinationName>Tonopah</DestinationName>
+    <DestinationStr>Tonopah(TPH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TPI</code>
+    <DestinationName>Tapini</DestinationName>
+    <DestinationStr>Tapini(TPI)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TPL</code>
+    <DestinationName>Temple Arpt</DestinationName>
+    <DestinationStr>Temple Arpt(TPL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TPL</code>
+    <DestinationName>Temple</DestinationName>
+    <DestinationStr>Temple(TPL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TPO</code>
+    <DestinationName>Tanalian Point Arpt</DestinationName>
+    <DestinationStr>Tanalian Point Arpt(TPO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TPO</code>
+    <DestinationName>Tanalian Point</DestinationName>
+    <DestinationStr>Tanalian Point(TPO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TPP</code>
+    <DestinationName>G Del Castillo Paredes</DestinationName>
+    <DestinationStr>G Del Castillo Paredes(TPP)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TPP</code>
+    <DestinationName>Tarapoto</DestinationName>
+    <DestinationStr>Tarapoto(TPP)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TPQ</code>
+    <DestinationName>Amado Nervo</DestinationName>
+    <DestinationStr>Amado Nervo(TPQ)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TPQ</code>
+    <DestinationName>Tepic</DestinationName>
+    <DestinationStr>Tepic(TPQ)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TPR</code>
+    <DestinationName>Tom Price</DestinationName>
+    <DestinationStr>Tom Price(TPR)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TPS</code>
+    <DestinationName>Birgi Arpt</DestinationName>
+    <DestinationStr>Birgi Arpt(TPS)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TPS</code>
+    <DestinationName>Trapani</DestinationName>
+    <DestinationStr>Trapani(TPS)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TQL</code>
+    <DestinationName>Tarko Sale Airport</DestinationName>
+    <DestinationStr>Tarko Sale Airport(TQL)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TQL</code>
+    <DestinationName>Tarko Sale</DestinationName>
+    <DestinationStr>Tarko Sale(TQL)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TQR</code>
+    <DestinationName>San Domino Island Arpt</DestinationName>
+    <DestinationStr>San Domino Island Arpt(TQR)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TQR</code>
+    <DestinationName>San Domino Island</DestinationName>
+    <DestinationStr>San Domino Island(TQR)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TRA</code>
+    <DestinationName>Taramajima</DestinationName>
+    <DestinationStr>Taramajima(TRA)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TRB</code>
+    <DestinationName>Gonzalo Mejia Arpt</DestinationName>
+    <DestinationStr>Gonzalo Mejia Arpt(TRB)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TRB</code>
+    <DestinationName>Turbo</DestinationName>
+    <DestinationStr>Turbo(TRB)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TRC</code>
+    <DestinationName>Francisco Sarabia Intl</DestinationName>
+    <DestinationStr>Francisco Sarabia Intl(TRC)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TRC</code>
+    <DestinationName>Torreon</DestinationName>
+    <DestinationStr>Torreon(TRC)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TRD</code>
+    <DestinationName>Trondheim Vaernes Arpt</DestinationName>
+    <DestinationStr>Trondheim Vaernes Arpt(TRD)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TRD</code>
+    <DestinationName>Trondheim</DestinationName>
+    <DestinationStr>Trondheim(TRD)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TRE</code>
+    <DestinationName>Tiree Arpt</DestinationName>
+    <DestinationStr>Tiree Arpt(TRE)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TRE</code>
+    <DestinationName>Tiree</DestinationName>
+    <DestinationStr>Tiree(TRE)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TRF</code>
+    <DestinationName>Sandefjord Arpt</DestinationName>
+    <DestinationStr>Sandefjord Arpt(TRF)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TRG</code>
+    <DestinationName>Tauranga Arpt</DestinationName>
+    <DestinationStr>Tauranga Arpt(TRG)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TRG</code>
+    <DestinationName>Tauranga</DestinationName>
+    <DestinationStr>Tauranga(TRG)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TRH</code>
+    <DestinationName>Trona Arpt</DestinationName>
+    <DestinationStr>Trona Arpt(TRH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TRH</code>
+    <DestinationName>Trona</DestinationName>
+    <DestinationStr>Trona(TRH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TRI</code>
+    <DestinationName>Bristol</DestinationName>
+    <DestinationStr>Bristol(TRI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TRI</code>
+    <DestinationName>Tri Cities</DestinationName>
+    <DestinationStr>Tri Cities(TRI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TRI</code>
+    <DestinationName>Tri City Regional Arpt</DestinationName>
+    <DestinationStr>Tri City Regional Arpt(TRI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TRK</code>
+    <DestinationName>Tarakan Arpt</DestinationName>
+    <DestinationStr>Tarakan Arpt(TRK)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TRK</code>
+    <DestinationName>Tarakan</DestinationName>
+    <DestinationStr>Tarakan(TRK)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TRL</code>
+    <DestinationName>Terrell Field Arpt</DestinationName>
+    <DestinationStr>Terrell Field Arpt(TRL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TRL</code>
+    <DestinationName>Terrell</DestinationName>
+    <DestinationStr>Terrell(TRL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TRM</code>
+    <DestinationName>Thermal Airport</DestinationName>
+    <DestinationStr>Thermal Airport(TRM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TRM</code>
+    <DestinationName>Thermal</DestinationName>
+    <DestinationStr>Thermal(TRM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TRN</code>
+    <DestinationName>Torino Caselle Arpt</DestinationName>
+    <DestinationStr>Torino Caselle Arpt(TRN)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TRN</code>
+    <DestinationName>Torino</DestinationName>
+    <DestinationStr>Torino(TRN)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TRN</code>
+    <DestinationName>Turin</DestinationName>
+    <DestinationStr>Turin(TRN)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TRO</code>
+    <DestinationName>Taree Arpt</DestinationName>
+    <DestinationStr>Taree Arpt(TRO)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TRO</code>
+    <DestinationName>Taree</DestinationName>
+    <DestinationStr>Taree(TRO)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TRR</code>
+    <DestinationName>Trincomalee</DestinationName>
+    <DestinationStr>Trincomalee(TRR)-Sri Lanka</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TRS</code>
+    <DestinationName>Ronchi Dei Legionari Arpt</DestinationName>
+    <DestinationStr>Ronchi Dei Legionari Arpt(TRS)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TRS</code>
+    <DestinationName>Trieste</DestinationName>
+    <DestinationStr>Trieste(TRS)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TRT</code>
+    <DestinationName>Tremonton</DestinationName>
+    <DestinationStr>Tremonton(TRT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TRU</code>
+    <DestinationName>C Martinez de Pinillos Arpt</DestinationName>
+    <DestinationStr>C Martinez de Pinillos Arpt(TRU)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TRU</code>
+    <DestinationName>Trujillo</DestinationName>
+    <DestinationStr>Trujillo(TRU)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TRV</code>
+    <DestinationName>Thiruvananthapuram Arpt</DestinationName>
+    <DestinationStr>Thiruvananthapuram Arpt(TRV)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TRV</code>
+    <DestinationName>Thiruvananthapuram</DestinationName>
+    <DestinationStr>Thiruvananthapuram(TRV)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TRV</code>
+    <DestinationName>TRIVANDRUM</DestinationName>
+    <DestinationStr>TRIVANDRUM(TRV)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TRW</code>
+    <DestinationName>Bonriki Arpt</DestinationName>
+    <DestinationStr>Bonriki Arpt(TRW)-Kiribati</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TRW</code>
+    <DestinationName>Tarawa</DestinationName>
+    <DestinationStr>Tarawa(TRW)-Kiribati</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TRZ</code>
+    <DestinationName>Tiruchirapally Civil Arpt</DestinationName>
+    <DestinationStr>Tiruchirapally Civil Arpt(TRZ)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TRZ</code>
+    <DestinationName>TIRUCHIRAPALLY</DestinationName>
+    <DestinationStr>TIRUCHIRAPALLY(TRZ)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TRZ</code>
+    <DestinationName>Tiruchirappali</DestinationName>
+    <DestinationStr>Tiruchirappali(TRZ)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TSA</code>
+    <DestinationName>Taipei Songshan Arpt</DestinationName>
+    <DestinationStr>Taipei Songshan Arpt(TSA)-Taiwan, Province of China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TSB</code>
+    <DestinationName>Tsumeb</DestinationName>
+    <DestinationStr>Tsumeb(TSB)-Namibia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TSE</code>
+    <DestinationName>Astana Arpt</DestinationName>
+    <DestinationStr>Astana Arpt(TSE)-Kazakstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TSE</code>
+    <DestinationName>Astana</DestinationName>
+    <DestinationStr>Astana(TSE)-Kazakstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TSF</code>
+    <DestinationName>Treviso Arpt</DestinationName>
+    <DestinationStr>Treviso Arpt(TSF)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TSF</code>
+    <DestinationName>Treviso</DestinationName>
+    <DestinationStr>Treviso(TSF)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TSG</code>
+    <DestinationName>Tanacross</DestinationName>
+    <DestinationStr>Tanacross(TSG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TSH</code>
+    <DestinationName>Tshikapa</DestinationName>
+    <DestinationStr>Tshikapa(TSH)-Congo Democratic Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TSJ</code>
+    <DestinationName>Tsushima Arpt</DestinationName>
+    <DestinationStr>Tsushima Arpt(TSJ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TSJ</code>
+    <DestinationName>Tsushima</DestinationName>
+    <DestinationStr>Tsushima(TSJ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TSM</code>
+    <DestinationName>Taos Airport</DestinationName>
+    <DestinationStr>Taos Airport(TSM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TSM</code>
+    <DestinationName>Taos</DestinationName>
+    <DestinationStr>Taos(TSM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TSN</code>
+    <DestinationName>Tianjin Airport</DestinationName>
+    <DestinationStr>Tianjin Airport(TSN)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TSN</code>
+    <DestinationName>Tianjin</DestinationName>
+    <DestinationStr>Tianjin(TSN)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TSO</code>
+    <DestinationName>Tresco Arpt</DestinationName>
+    <DestinationStr>Tresco Arpt(TSO)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TSP</code>
+    <DestinationName>Tehachapi</DestinationName>
+    <DestinationStr>Tehachapi(TSP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TSQ</code>
+    <DestinationName>Torres</DestinationName>
+    <DestinationStr>Torres(TSQ)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TSR</code>
+    <DestinationName>Timisoara Arpt</DestinationName>
+    <DestinationStr>Timisoara Arpt(TSR)-Romania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TSR</code>
+    <DestinationName>Timisoara</DestinationName>
+    <DestinationStr>Timisoara(TSR)-Romania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TSS</code>
+    <DestinationName>East 34th St Hlpt</DestinationName>
+    <DestinationStr>East 34th St Hlpt(TSS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TST</code>
+    <DestinationName>Trang Arpt</DestinationName>
+    <DestinationStr>Trang Arpt(TST)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TST</code>
+    <DestinationName>Trang</DestinationName>
+    <DestinationStr>Trang(TST)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TSU</code>
+    <DestinationName>Tabiteuea South</DestinationName>
+    <DestinationStr>Tabiteuea South(TSU)-Kiribati</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TSV</code>
+    <DestinationName>Townsville Arpt</DestinationName>
+    <DestinationStr>Townsville Arpt(TSV)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TSV</code>
+    <DestinationName>Townsville</DestinationName>
+    <DestinationStr>Townsville(TSV)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TTA</code>
+    <DestinationName>Tan Tan</DestinationName>
+    <DestinationStr>Tan Tan(TTA)-Morocco</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TTB</code>
+    <DestinationName>Arbatax Arpt</DestinationName>
+    <DestinationStr>Arbatax Arpt(TTB)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TTB</code>
+    <DestinationName>Tortoli</DestinationName>
+    <DestinationStr>Tortoli(TTB)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TTD</code>
+    <DestinationName>Troutdale Arpt</DestinationName>
+    <DestinationStr>Troutdale Arpt(TTD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TTD</code>
+    <DestinationName>Troutdale</DestinationName>
+    <DestinationStr>Troutdale(TTD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TTE</code>
+    <DestinationName>Babullah Airport</DestinationName>
+    <DestinationStr>Babullah Airport(TTE)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TTE</code>
+    <DestinationName>Ternate</DestinationName>
+    <DestinationStr>Ternate(TTE)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TTJ</code>
+    <DestinationName>Tottori Arpt</DestinationName>
+    <DestinationStr>Tottori Arpt(TTJ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TTJ</code>
+    <DestinationName>Tottori</DestinationName>
+    <DestinationStr>Tottori(TTJ)-Japan</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>TTK</code>
+    <DestinationName>Tottenham</DestinationName>
+    <DestinationStr>Tottenham(TTK)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TTL</code>
+    <DestinationName>Turtle Island</DestinationName>
+    <DestinationStr>Turtle Island(TTL)-Fiji Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TTN</code>
+    <DestinationName>Trenton Mercer Arpt</DestinationName>
+    <DestinationStr>Trenton Mercer Arpt(TTN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TTN</code>
+    <DestinationName>Trenton</DestinationName>
+    <DestinationStr>Trenton(TTN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TTQ</code>
+    <DestinationName>Tortuguero Arpt</DestinationName>
+    <DestinationStr>Tortuguero Arpt(TTQ)-Costa Rica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TTQ</code>
+    <DestinationName>Tortuguero</DestinationName>
+    <DestinationStr>Tortuguero(TTQ)-Costa Rica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TTR</code>
+    <DestinationName>Tana Toraja</DestinationName>
+    <DestinationStr>Tana Toraja(TTR)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TTS</code>
+    <DestinationName>Tsaratanana</DestinationName>
+    <DestinationStr>Tsaratanana(TTS)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TTT</code>
+    <DestinationName>Taitung Fongnian Arpt</DestinationName>
+    <DestinationStr>Taitung Fongnian Arpt(TTT)-Taiwan, Province of China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TTT</code>
+    <DestinationName>Taitung</DestinationName>
+    <DestinationStr>Taitung(TTT)-Taiwan, Province of China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TTU</code>
+    <DestinationName>Sania Ramel</DestinationName>
+    <DestinationStr>Sania Ramel(TTU)-Morocco</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TTU</code>
+    <DestinationName>Tetuan</DestinationName>
+    <DestinationStr>Tetuan(TTU)-Morocco</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>TTV</code>
+    <DestinationName>Tieling</DestinationName>
+    <DestinationStr>Tieling(TTV)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TTX</code>
+    <DestinationName>Truscott Mungalalu Airport</DestinationName>
+    <DestinationStr>Truscott Mungalalu Airport(TTX)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TTX</code>
+    <DestinationName>Truscott Mungalalu</DestinationName>
+    <DestinationStr>Truscott Mungalalu(TTX)-Australia</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>TUA</code>
+    <DestinationName>Luis A mantilla intl</DestinationName>
+    <DestinationStr>Luis A mantilla intl(TUA)-Ecuador</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TUA</code>
+    <DestinationName>Tulcan</DestinationName>
+    <DestinationStr>Tulcan(TUA)-Ecuador</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TUB</code>
+    <DestinationName>Tubuai Island</DestinationName>
+    <DestinationStr>Tubuai Island(TUB)-French Polynesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TUC</code>
+    <DestinationName>Benjamin Matienzo Airport</DestinationName>
+    <DestinationStr>Benjamin Matienzo Airport(TUC)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TUC</code>
+    <DestinationName>Tucuman</DestinationName>
+    <DestinationStr>Tucuman(TUC)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TUD</code>
+    <DestinationName>Tambacounda</DestinationName>
+    <DestinationStr>Tambacounda(TUD)-Senegal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TUF</code>
+    <DestinationName>Saint Symphorien Arpt</DestinationName>
+    <DestinationStr>Saint Symphorien Arpt(TUF)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TUF</code>
+    <DestinationName>St Symphorien Arpt</DestinationName>
+    <DestinationStr>St Symphorien Arpt(TUF)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TUF</code>
+    <DestinationName>Tours</DestinationName>
+    <DestinationStr>Tours(TUF)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TUG</code>
+    <DestinationName>Tuguegarao Arpt</DestinationName>
+    <DestinationStr>Tuguegarao Arpt(TUG)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TUG</code>
+    <DestinationName>Tuguegarao</DestinationName>
+    <DestinationStr>Tuguegarao(TUG)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TUH</code>
+    <DestinationName>Arnold AFS</DestinationName>
+    <DestinationStr>Arnold AFS(TUH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TUI</code>
+    <DestinationName>Turaif Arpt</DestinationName>
+    <DestinationStr>Turaif Arpt(TUI)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TUI</code>
+    <DestinationName>Turaif</DestinationName>
+    <DestinationStr>Turaif(TUI)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TUK</code>
+    <DestinationName>Turbat Arpt</DestinationName>
+    <DestinationStr>Turbat Arpt(TUK)-Pakistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TUK</code>
+    <DestinationName>Turbat</DestinationName>
+    <DestinationStr>Turbat(TUK)-Pakistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TUL</code>
+    <DestinationName>Tulsa Intl</DestinationName>
+    <DestinationStr>Tulsa Intl(TUL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TUL</code>
+    <DestinationName>Tulsa</DestinationName>
+    <DestinationStr>Tulsa(TUL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TUM</code>
+    <DestinationName>Tumut</DestinationName>
+    <DestinationStr>Tumut(TUM)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TUN</code>
+    <DestinationName>Carthage Arpt</DestinationName>
+    <DestinationStr>Carthage Arpt(TUN)-Tunisia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TUN</code>
+    <DestinationName>Tunis</DestinationName>
+    <DestinationStr>Tunis(TUN)-Tunisia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TUO</code>
+    <DestinationName>Taupo Arpt</DestinationName>
+    <DestinationStr>Taupo Arpt(TUO)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TUO</code>
+    <DestinationName>Taupo</DestinationName>
+    <DestinationStr>Taupo(TUO)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TUP</code>
+    <DestinationName>C D Lemons Municipal Arpt</DestinationName>
+    <DestinationStr>C D Lemons Municipal Arpt(TUP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TUP</code>
+    <DestinationName>Tupelo</DestinationName>
+    <DestinationStr>Tupelo(TUP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TUR</code>
+    <DestinationName>Tucurui Arpt</DestinationName>
+    <DestinationStr>Tucurui Arpt(TUR)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TUR</code>
+    <DestinationName>Tucurui</DestinationName>
+    <DestinationStr>Tucurui(TUR)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TUS</code>
+    <DestinationName>Tucson Intl Arpt</DestinationName>
+    <DestinationStr>Tucson Intl Arpt(TUS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TUS</code>
+    <DestinationName>Tucson</DestinationName>
+    <DestinationStr>Tucson(TUS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TUU</code>
+    <DestinationName>Tabuk Arpt</DestinationName>
+    <DestinationStr>Tabuk Arpt(TUU)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TUU</code>
+    <DestinationName>Tabuk</DestinationName>
+    <DestinationStr>Tabuk(TUU)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TUV</code>
+    <DestinationName>Tucupita</DestinationName>
+    <DestinationStr>Tucupita(TUV)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TUX</code>
+    <DestinationName>Tumbler Ridge</DestinationName>
+    <DestinationStr>Tumbler Ridge(TUX)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TUY</code>
+    <DestinationName>Tulum Arpt</DestinationName>
+    <DestinationStr>Tulum Arpt(TUY)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TUY</code>
+    <DestinationName>Tulum</DestinationName>
+    <DestinationStr>Tulum(TUY)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TUZ</code>
+    <DestinationName>Tucuma</DestinationName>
+    <DestinationStr>Tucuma(TUZ)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TVA</code>
+    <DestinationName>Morafenobe</DestinationName>
+    <DestinationStr>Morafenobe(TVA)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TVC</code>
+    <DestinationName>Cherry Capital Arpt</DestinationName>
+    <DestinationStr>Cherry Capital Arpt(TVC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TVC</code>
+    <DestinationName>Traverse City</DestinationName>
+    <DestinationStr>Traverse City(TVC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TVF</code>
+    <DestinationName>Thief River Falls Numicipal</DestinationName>
+    <DestinationStr>Thief River Falls Numicipal(TVF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TVF</code>
+    <DestinationName>Thief River Falls</DestinationName>
+    <DestinationStr>Thief River Falls(TVF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TVI</code>
+    <DestinationName>Thomasville</DestinationName>
+    <DestinationStr>Thomasville(TVI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TVL</code>
+    <DestinationName>Lake Tahoe Arpt</DestinationName>
+    <DestinationStr>Lake Tahoe Arpt(TVL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TVL</code>
+    <DestinationName>Lake Tahoe</DestinationName>
+    <DestinationStr>Lake Tahoe(TVL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TVS</code>
+    <DestinationName>Sannuhe Arpt</DestinationName>
+    <DestinationStr>Sannuhe Arpt(TVS)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TVS</code>
+    <DestinationName>Tangshan</DestinationName>
+    <DestinationStr>Tangshan(TVS)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TVU</code>
+    <DestinationName>Matei Arpt</DestinationName>
+    <DestinationStr>Matei Arpt(TVU)-Fiji Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TVU</code>
+    <DestinationName>Taveuni</DestinationName>
+    <DestinationStr>Taveuni(TVU)-Fiji Islands</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>TVX</code>
+    <DestinationName>Tongxiang</DestinationName>
+    <DestinationStr>Tongxiang(TVX)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TVY</code>
+    <DestinationName>Tavoy</DestinationName>
+    <DestinationStr>Tavoy(TVY)-Myanmar</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TWA</code>
+    <DestinationName>Twin Hills Arpt</DestinationName>
+    <DestinationStr>Twin Hills Arpt(TWA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TWA</code>
+    <DestinationName>Twin Hills</DestinationName>
+    <DestinationStr>Twin Hills(TWA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TWB</code>
+    <DestinationName>Toowoomba Arpt</DestinationName>
+    <DestinationStr>Toowoomba Arpt(TWB)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TWB</code>
+    <DestinationName>Toowoomba</DestinationName>
+    <DestinationStr>Toowoomba(TWB)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TWD</code>
+    <DestinationName>Port Townsend</DestinationName>
+    <DestinationStr>Port Townsend(TWD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TWE</code>
+    <DestinationName>Taylor Arpt</DestinationName>
+    <DestinationStr>Taylor Arpt(TWE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TWE</code>
+    <DestinationName>Taylor</DestinationName>
+    <DestinationStr>Taylor(TWE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TWF</code>
+    <DestinationName>Magic Valley Regional Arpt</DestinationName>
+    <DestinationStr>Magic Valley Regional Arpt(TWF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TWF</code>
+    <DestinationName>Twin Falls City County Arpt</DestinationName>
+    <DestinationStr>Twin Falls City County Arpt(TWF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TWF</code>
+    <DestinationName>Twin Falls</DestinationName>
+    <DestinationStr>Twin Falls(TWF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TWH</code>
+    <DestinationName>Two Harbors Amphibious Terminal</DestinationName>
+    <DestinationStr>Two Harbors Amphibious Terminal(TWH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TWU</code>
+    <DestinationName>Tawau Arpt</DestinationName>
+    <DestinationStr>Tawau Arpt(TWU)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TWU</code>
+    <DestinationName>Tawau</DestinationName>
+    <DestinationStr>Tawau(TWU)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TWZ</code>
+    <DestinationName>Pukaki Twizelarpt</DestinationName>
+    <DestinationStr>Pukaki Twizelarpt(TWZ)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TXF</code>
+    <DestinationName>Teixeira De Freitas</DestinationName>
+    <DestinationStr>Teixeira De Freitas(TXF)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TXG</code>
+    <DestinationName>Taichung Shuinan Arpt</DestinationName>
+    <DestinationStr>Taichung Shuinan Arpt(TXG)-Taiwan, Province of China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TXG</code>
+    <DestinationName>Taichung</DestinationName>
+    <DestinationStr>Taichung(TXG)-Taiwan, Province of China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TXK</code>
+    <DestinationName>Texarkana Municipal</DestinationName>
+    <DestinationStr>Texarkana Municipal(TXK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TXK</code>
+    <DestinationName>Texarkana</DestinationName>
+    <DestinationStr>Texarkana(TXK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TXL</code>
+    <DestinationName>Tegel Airport</DestinationName>
+    <DestinationStr>Tegel Airport(TXL)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TXM</code>
+    <DestinationName>Teminabuan</DestinationName>
+    <DestinationStr>Teminabuan(TXM)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TXN</code>
+    <DestinationName>Tunxi Arpt</DestinationName>
+    <DestinationStr>Tunxi Arpt(TXN)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TXN</code>
+    <DestinationName>Tunxi</DestinationName>
+    <DestinationStr>Tunxi(TXN)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TXU</code>
+    <DestinationName>Tabou</DestinationName>
+    <DestinationStr>Tabou(TXU)-Ivory Coast</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TYA</code>
+    <DestinationName>Tula</DestinationName>
+    <DestinationStr>Tula(TYA)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TYE</code>
+    <DestinationName>Tyonek Arpt</DestinationName>
+    <DestinationStr>Tyonek Arpt(TYE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TYE</code>
+    <DestinationName>Tyonek</DestinationName>
+    <DestinationStr>Tyonek(TYE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TYF</code>
+    <DestinationName>Torsby Airport</DestinationName>
+    <DestinationStr>Torsby Airport(TYF)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TYF</code>
+    <DestinationName>Torsby</DestinationName>
+    <DestinationStr>Torsby(TYF)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TYL</code>
+    <DestinationName>Talara</DestinationName>
+    <DestinationStr>Talara(TYL)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TYL</code>
+    <DestinationName>Victor Monteas Arias Arpt</DestinationName>
+    <DestinationStr>Victor Monteas Arias Arpt(TYL)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TYN</code>
+    <DestinationName>Taiyuan Arpt</DestinationName>
+    <DestinationStr>Taiyuan Arpt(TYN)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TYN</code>
+    <DestinationName>Taiyuan</DestinationName>
+    <DestinationStr>Taiyuan(TYN)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TYO</code>
+    <DestinationName>Tokyo</DestinationName>
+    <DestinationStr>Tokyo(TYO)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TYR</code>
+    <DestinationName>Pounds Field</DestinationName>
+    <DestinationStr>Pounds Field(TYR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TYR</code>
+    <DestinationName>Tyler</DestinationName>
+    <DestinationStr>Tyler(TYR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TYS</code>
+    <DestinationName>Knoxville</DestinationName>
+    <DestinationStr>Knoxville(TYS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TYS</code>
+    <DestinationName>McGhee Tyson Arpt</DestinationName>
+    <DestinationStr>McGhee Tyson Arpt(TYS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TYZ</code>
+    <DestinationName>Taylor Airport</DestinationName>
+    <DestinationStr>Taylor Airport(TYZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TYZ</code>
+    <DestinationName>Taylor</DestinationName>
+    <DestinationStr>Taylor(TYZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TZA</code>
+    <DestinationName>Belize City Municipal</DestinationName>
+    <DestinationStr>Belize City Municipal(TZA)-Belize</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TZL</code>
+    <DestinationName>Tuzla Intl Arpt</DestinationName>
+    <DestinationStr>Tuzla Intl Arpt(TZL)-Bosnia Herzegovina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TZL</code>
+    <DestinationName>Tuzla</DestinationName>
+    <DestinationStr>Tuzla(TZL)-Bosnia Herzegovina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TZM</code>
+    <DestinationName>Cupul Airport</DestinationName>
+    <DestinationStr>Cupul Airport(TZM)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TZM</code>
+    <DestinationName>TIZIMIN</DestinationName>
+    <DestinationStr>TIZIMIN(TZM)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TZN</code>
+    <DestinationName>South Andros Arpt</DestinationName>
+    <DestinationStr>South Andros Arpt(TZN)-Bahamas</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TZN</code>
+    <DestinationName>South Andros</DestinationName>
+    <DestinationStr>South Andros(TZN)-Bahamas</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TZX</code>
+    <DestinationName>Trabzon Arpt</DestinationName>
+    <DestinationStr>Trabzon Arpt(TZX)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TZX</code>
+    <DestinationName>Trabzon</DestinationName>
+    <DestinationStr>Trabzon(TZX)-Turkey</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>UTL</code>
+    <DestinationName>Torremolinos</DestinationName>
+    <DestinationStr>Torremolinos(UTL)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UTM</code>
+    <DestinationName>Tunica Municipal Arpt</DestinationName>
+    <DestinationStr>Tunica Municipal Arpt(UTM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UTM</code>
+    <DestinationName>Tunica</DestinationName>
+    <DestinationStr>Tunica(UTM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VCL</code>
+    <DestinationName>Tamky</DestinationName>
+    <DestinationStr>Tamky(VCL)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VVZ</code>
+    <DestinationName>Takhamalt Arpt</DestinationName>
+    <DestinationStr>Takhamalt Arpt(VVZ)-Algeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WTA</code>
+    <DestinationName>Tambohorano</DestinationName>
+    <DestinationStr>Tambohorano(WTA)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WTL</code>
+    <DestinationName>Tuntatuliak</DestinationName>
+    <DestinationStr>Tuntatuliak(WTL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WTS</code>
+    <DestinationName>Tsiroanomandidy</DestinationName>
+    <DestinationStr>Tsiroanomandidy(WTS)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XEI</code>
+    <DestinationName>Tsukuba</DestinationName>
+    <DestinationStr>Tsukuba(XEI)-Japan</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XFO</code>
+    <DestinationName>Taschereau</DestinationName>
+    <DestinationStr>Taschereau(XFO)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XFU</code>
+    <DestinationName>Tierp</DestinationName>
+    <DestinationStr>Tierp(XFU)-Sweden</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XKW</code>
+    <DestinationName>Tonsberg</DestinationName>
+    <DestinationStr>Tonsberg(XKW)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XLZ</code>
+    <DestinationName>Truro</DestinationName>
+    <DestinationStr>Truro(XLZ)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XSD</code>
+    <DestinationName>Test Range</DestinationName>
+    <DestinationStr>Test Range(XSD)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XTB</code>
+    <DestinationName>Tarbes</DestinationName>
+    <DestinationStr>Tarbes(XTB)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XTG</code>
+    <DestinationName>Thargomindah Arpt</DestinationName>
+    <DestinationStr>Thargomindah Arpt(XTG)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XTG</code>
+    <DestinationName>Thargomindah</DestinationName>
+    <DestinationStr>Thargomindah(XTG)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XTH</code>
+    <DestinationName>Thionville</DestinationName>
+    <DestinationStr>Thionville(XTH)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XTJ</code>
+    <DestinationName>Toledo</DestinationName>
+    <DestinationStr>Toledo(XTJ)-Spain</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XTK</code>
+    <DestinationName>Thirsk</DestinationName>
+    <DestinationStr>Thirsk(XTK)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XTL</code>
+    <DestinationName>Tadoule Lake</DestinationName>
+    <DestinationStr>Tadoule Lake(XTL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XTU</code>
+    <DestinationName>Tulle</DestinationName>
+    <DestinationStr>Tulle(XTU)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>YAZ</code>
+    <DestinationName>Tofino Arpt</DestinationName>
+    <DestinationStr>Tofino Arpt(YAZ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YAZ</code>
+    <DestinationName>Tofino</DestinationName>
+    <DestinationStr>Tofino(YAZ)-Canada</DestinationStr>
+  </Destination>    
+  <Destination>
+    <code>YQD</code>
+    <DestinationName>The Pas Municipal Arpt</DestinationName>
+    <DestinationStr>The Pas Municipal Arpt(YQD)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQD</code>
+    <DestinationName>The Pas</DestinationName>
+    <DestinationStr>The Pas(YQD)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQT</code>
+    <DestinationName>Thunder Bay International Arpt</DestinationName>
+    <DestinationStr>Thunder Bay International Arpt(YQT)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQT</code>
+    <DestinationName>Thunder Bay</DestinationName>
+    <DestinationStr>Thunder Bay(YQT)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YRQ</code>
+    <DestinationName>Three Rivers Arpt</DestinationName>
+    <DestinationStr>Three Rivers Arpt(YRQ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YRQ</code>
+    <DestinationName>Trois Rivieres</DestinationName>
+    <DestinationStr>Trois Rivieres(YRQ)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>YTD</code>
+    <DestinationName>Thicket Portage</DestinationName>
+    <DestinationStr>Thicket Portage(YTD)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YTH</code>
+    <DestinationName>Thompson Arpt</DestinationName>
+    <DestinationStr>Thompson Arpt(YTH)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YTH</code>
+    <DestinationName>Thompson</DestinationName>
+    <DestinationStr>Thompson(YTH)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YTJ</code>
+    <DestinationName>Terrace Bay Municipal Arpt</DestinationName>
+    <DestinationStr>Terrace Bay Municipal Arpt(YTJ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YTJ</code>
+    <DestinationName>Terrace Bay</DestinationName>
+    <DestinationStr>Terrace Bay(YTJ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YTO</code>
+    <DestinationName>Toronto</DestinationName>
+    <DestinationStr>Toronto(YTO)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YTP</code>
+    <DestinationName>Tofino Sea Plane Base</DestinationName>
+    <DestinationStr>Tofino Sea Plane Base(YTP)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YTQ</code>
+    <DestinationName>Tasiujaq Arpt</DestinationName>
+    <DestinationStr>Tasiujaq Arpt(YTQ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YTQ</code>
+    <DestinationName>Tasiujaq</DestinationName>
+    <DestinationStr>Tasiujaq(YTQ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YTQ</code>
+    <DestinationName>Tasiujuaq</DestinationName>
+    <DestinationStr>Tasiujuaq(YTQ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YTR</code>
+    <DestinationName>Trenton Municipal Arpt</DestinationName>
+    <DestinationStr>Trenton Municipal Arpt(YTR)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YTR</code>
+    <DestinationName>Trenton</DestinationName>
+    <DestinationStr>Trenton(YTR)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YTS</code>
+    <DestinationName>Timmins Victor M Power Airport</DestinationName>
+    <DestinationStr>Timmins Victor M Power Airport(YTS)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YTS</code>
+    <DestinationName>Timmins</DestinationName>
+    <DestinationStr>Timmins(YTS)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YTZ</code>
+    <DestinationName>Toronto Bishop Billy City Arpt</DestinationName>
+    <DestinationStr>Toronto Bishop Billy City Arpt(YTZ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YUB</code>
+    <DestinationName>Tuktoyaktuk Airport</DestinationName>
+    <DestinationStr>Tuktoyaktuk Airport(YUB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YUB</code>
+    <DestinationName>Tuktoyaktuk</DestinationName>
+    <DestinationStr>Tuktoyaktuk(YUB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXT</code>
+    <DestinationName>Terrace Municipal Arpt</DestinationName>
+    <DestinationStr>Terrace Municipal Arpt(YXT)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXT</code>
+    <DestinationName>Terrace</DestinationName>
+    <DestinationStr>Terrace(YXT)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYH</code>
+    <DestinationName>Taloyoak Arpt</DestinationName>
+    <DestinationStr>Taloyoak Arpt(YYH)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYH</code>
+    <DestinationName>Taloyoak</DestinationName>
+    <DestinationStr>Taloyoak(YYH)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YZZ</code>
+    <DestinationName>Trail Arpt</DestinationName>
+    <DestinationStr>Trail Arpt(YZZ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YZZ</code>
+    <DestinationName>Trail</DestinationName>
+    <DestinationStr>Trail(YZZ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZCO</code>
+    <DestinationName>Temuco</DestinationName>
+    <DestinationStr>Temuco(ZCO)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZGQ</code>
+    <DestinationName>Tournai</DestinationName>
+    <DestinationStr>Tournai(ZGQ)-Belgium</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZHX</code>
+    <DestinationName>Tubarao</DestinationName>
+    <DestinationStr>Tubarao(ZHX)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZIA</code>
+    <DestinationName>Trento</DestinationName>
+    <DestinationStr>Trento(ZIA)-Italy</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZKV</code>
+    <DestinationName>Thalwil</DestinationName>
+    <DestinationStr>Thalwil(ZKV)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZMX</code>
+    <DestinationName>Tynset</DestinationName>
+    <DestinationStr>Tynset(ZMX)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZQF</code>
+    <DestinationName>Trier Arpt</DestinationName>
+    <DestinationStr>Trier Arpt(ZQF)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZQF</code>
+    <DestinationName>Trier</DestinationName>
+    <DestinationStr>Trier(ZQF)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZQH</code>
+    <DestinationName>Tuebingen</DestinationName>
+    <DestinationStr>Tuebingen(ZQH)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZTB</code>
+    <DestinationName>Tete A La Baleine Arpt</DestinationName>
+    <DestinationStr>Tete A La Baleine Arpt(ZTB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZTB</code>
+    <DestinationName>Tete A La Baleine</DestinationName>
+    <DestinationStr>Tete A La Baleine(ZTB)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZTK</code>
+    <DestinationName>THUN</DestinationName>
+    <DestinationStr>THUN(ZTK)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZTW</code>
+    <DestinationName>Tsuen Wan</DestinationName>
+    <DestinationStr>Tsuen Wan(ZTW)-Hong Kong</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>IKA</code>
+    <DestinationName>Tehran Imam Khomeini</DestinationName>
+    <DestinationStr>Tehran Imam Khomeini International(IKA)-Iran</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>THR</code>
+    <DestinationName>Tehran Mehrabad</DestinationName>
+    <DestinationStr>Tehran Mehrabad International Airport(THR)-Iran</DestinationStr>
+  </Destination>
+</DestinationRoot>

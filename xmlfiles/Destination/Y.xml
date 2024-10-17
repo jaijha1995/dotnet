@@ -1,0 +1,3412 @@
+﻿<DestinationRoot>
+  <Destination>
+    <code>NORESULT</code>
+    <DestinationName>NORESULT</DestinationName>
+    <DestinationStr>No Result Found</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ADE</code>
+    <DestinationName>Yemen Intl Arpt</DestinationName>
+    <DestinationStr>Yemen Intl Arpt(ADE)-Yemen, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ADE</code>
+    <DestinationName>Yemen</DestinationName>
+    <DestinationStr>Yemen(ADE)-Yemen, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ASK</code>
+    <DestinationName>Yamoussoukro Arpt</DestinationName>
+    <DestinationStr>Yamoussoukro Arpt(ASK)-Ivory Coast</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ASK</code>
+    <DestinationName>Yamoussouro</DestinationName>
+    <DestinationStr>Yamoussouro(ASK)-Ivory Coast</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AZD</code>
+    <DestinationName>Yazd Arpt</DestinationName>
+    <DestinationStr>Yazd Arpt(AZD)-Iran</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AZD</code>
+    <DestinationName>Yazd</DestinationName>
+    <DestinationStr>Yazd(AZD)-Iran</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BJL</code>
+    <DestinationName>Yundum Intl Arpt</DestinationName>
+    <DestinationStr>Yundum Intl Arpt(BJL)-Gambia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BYC</code>
+    <DestinationName>Yacuiba</DestinationName>
+    <DestinationStr>Yacuiba(BYC)-Bolivia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CIF</code>
+    <DestinationName>Yulong Arpt</DestinationName>
+    <DestinationStr>Yulong Arpt(CIF)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>COD</code>
+    <DestinationName>Yellowstone Regional Arpt</DestinationName>
+    <DestinationStr>Yellowstone Regional Arpt(COD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CRW</code>
+    <DestinationName>Yeager Arpt</DestinationName>
+    <DestinationStr>Yeager Arpt(CRW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DEE</code>
+    <DestinationName>Yuzhno Kurilsk</DestinationName>
+    <DestinationStr>Yuzhno Kurilsk(DEE)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EIK</code>
+    <DestinationName>Yeysk</DestinationName>
+    <DestinationStr>Yeysk(EIK)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EJA</code>
+    <DestinationName>Yariguies Arpt</DestinationName>
+    <DestinationStr>Yariguies Arpt(EJA)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ELY</code>
+    <DestinationName>Yelland Field</DestinationName>
+    <DestinationStr>Yelland Field(ELY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ENY</code>
+    <DestinationName>Yanan Arpt</DestinationName>
+    <DestinationStr>Yanan Arpt(ENY)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ENY</code>
+    <DestinationName>Yanan</DestinationName>
+    <DestinationStr>Yanan(ENY)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EVN</code>
+    <DestinationName>Yerevan Arpt</DestinationName>
+    <DestinationStr>Yerevan Arpt(EVN)-Armenia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EVN</code>
+    <DestinationName>Yerevan</DestinationName>
+    <DestinationStr>Yerevan(EVN)-Armenia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GAJ</code>
+    <DestinationName>Yamagata Airport</DestinationName>
+    <DestinationStr>Yamagata Airport(GAJ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GAJ</code>
+    <DestinationName>Yamagata</DestinationName>
+    <DestinationStr>Yamagata(GAJ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IAR</code>
+    <DestinationName>Yaroslavl Arpt</DestinationName>
+    <DestinationStr>Yaroslavl Arpt(IAR)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IAR</code>
+    <DestinationName>Yaroslavl</DestinationName>
+    <DestinationStr>Yaroslavl(IAR)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>INC</code>
+    <DestinationName>Yinchuan Arpt</DestinationName>
+    <DestinationStr>Yinchuan Arpt(INC)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>INC</code>
+    <DestinationName>Yinchuan</DestinationName>
+    <DestinationStr>Yinchuan(INC)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JOG</code>
+    <DestinationName>Yogyakarta</DestinationName>
+    <DestinationStr>Yogyakarta(JOG)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JOK</code>
+    <DestinationName>Yoshkar Ola Arpt</DestinationName>
+    <DestinationStr>Yoshkar Ola Arpt(JOK)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JOK</code>
+    <DestinationName>YOSHKAR OLA</DestinationName>
+    <DestinationStr>YOSHKAR OLA(JOK)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JOS</code>
+    <DestinationName>Yakubu Gowon Arpt</DestinationName>
+    <DestinationStr>Yakubu Gowon Arpt(JOS)-Nigeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JYQ</code>
+    <DestinationName>Yingkou</DestinationName>
+    <DestinationStr>Yingkou(JYQ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KGH</code>
+    <DestinationName>Yongai</DestinationName>
+    <DestinationStr>Yongai(KGH)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KUM</code>
+    <DestinationName>Yakushima</DestinationName>
+    <DestinationStr>Yakushima(KUM)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KYX</code>
+    <DestinationName>Yalumet</DestinationName>
+    <DestinationStr>Yalumet(KYX)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LDS</code>
+    <DestinationName>Yichun Lindu Airport</DestinationName>
+    <DestinationStr>Yichun Lindu Airport(LDS)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LDS</code>
+    <DestinationName>Yichun Shi</DestinationName>
+    <DestinationStr>Yichun Shi(LDS)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MYV</code>
+    <DestinationName>Yuba County Arpt</DestinationName>
+    <DestinationStr>Yuba County Arpt(MYV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NGA</code>
+    <DestinationName>Young Arpt</DestinationName>
+    <DestinationStr>Young Arpt(NGA)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NGA</code>
+    <DestinationName>Young</DestinationName>
+    <DestinationStr>Young(NGA)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OGN</code>
+    <DestinationName>Yonaguni Jima Airport</DestinationName>
+    <DestinationStr>Yonaguni Jima Airport(OGN)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OGN</code>
+    <DestinationName>Yonaguni</DestinationName>
+    <DestinationStr>Yonaguni(OGN)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OKO</code>
+    <DestinationName>Yokota AFB</DestinationName>
+    <DestinationStr>Yokota AFB(OKO)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OKR</code>
+    <DestinationName>Yorke Island</DestinationName>
+    <DestinationStr>Yorke Island(OKR)-Australia</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QQY</code>
+    <DestinationName>York</DestinationName>
+    <DestinationStr>York(QQY)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RGN</code>
+    <DestinationName>Yangon International</DestinationName>
+    <DestinationStr>Yangon International(RGN)-Myanmar</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RGN</code>
+    <DestinationName>Yangon</DestinationName>
+    <DestinationStr>Yangon(RGN)-Myanmar</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RKC</code>
+    <DestinationName>Yreka Arpt</DestinationName>
+    <DestinationStr>Yreka Arpt(RKC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RKC</code>
+    <DestinationName>Yreka</DestinationName>
+    <DestinationStr>Yreka(RKC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RKU</code>
+    <DestinationName>Yule Island</DestinationName>
+    <DestinationStr>Yule Island(RKU)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RNJ</code>
+    <DestinationName>Yoronjima</DestinationName>
+    <DestinationStr>Yoronjima(RNJ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RSU</code>
+    <DestinationName>Yeosu Arpt</DestinationName>
+    <DestinationStr>Yeosu Arpt(RSU)-Korea, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RSU</code>
+    <DestinationName>Yeosu</DestinationName>
+    <DestinationStr>Yeosu(RSU)-Korea, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RSU</code>
+    <DestinationName>Yosu</DestinationName>
+    <DestinationStr>Yosu(RSU)-Korea, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SIY</code>
+    <DestinationName>Yreka Rohrer Field</DestinationName>
+    <DestinationStr>Yreka Rohrer Field(SIY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAS</code>
+    <DestinationName>Yuzhny Arpt</DestinationName>
+    <DestinationStr>Yuzhny Arpt(TAS)-Uzbekistan Sum</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>THV</code>
+    <DestinationName>York Arpt</DestinationName>
+    <DestinationStr>York Arpt(THV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>THV</code>
+    <DestinationName>York</DestinationName>
+    <DestinationStr>York(THV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UUS</code>
+    <DestinationName>Yuzhno Sakhalinsk Arpt</DestinationName>
+    <DestinationStr>Yuzhno Sakhalinsk Arpt(UUS)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UUS</code>
+    <DestinationName>Yuzhno Sakhalinsk</DestinationName>
+    <DestinationStr>Yuzhno Sakhalinsk(UUS)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UYN</code>
+    <DestinationName>Yulin Airport</DestinationName>
+    <DestinationStr>Yulin Airport(UYN)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UYN</code>
+    <DestinationName>Yulin</DestinationName>
+    <DestinationStr>Yulin(UYN)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WYB</code>
+    <DestinationName>Yes Bay</DestinationName>
+    <DestinationStr>Yes Bay(WYB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XMY</code>
+    <DestinationName>Yam Island Arpt</DestinationName>
+    <DestinationStr>Yam Island Arpt(XMY)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XMY</code>
+    <DestinationName>Yam Island</DestinationName>
+    <DestinationStr>Yam Island(XMY)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XYA</code>
+    <DestinationName>Yandina</DestinationName>
+    <DestinationStr>Yandina(XYA)-Solomon Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YAG</code>
+    <DestinationName>Fort Frances Municipal</DestinationName>
+    <DestinationStr>Fort Frances Municipal(YAG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YAG</code>
+    <DestinationName>Fort Frances</DestinationName>
+    <DestinationStr>Fort Frances(YAG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YAG</code>
+    <DestinationName>Ft Frances Municipal</DestinationName>
+    <DestinationStr>Ft Frances Municipal(YAG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YAG</code>
+    <DestinationName>Ft Frances</DestinationName>
+    <DestinationStr>Ft Frances(YAG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YAI</code>
+    <DestinationName>Chillan</DestinationName>
+    <DestinationStr>Chillan(YAI)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YAK</code>
+    <DestinationName>Yakutat Arpt</DestinationName>
+    <DestinationStr>Yakutat Arpt(YAK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YAK</code>
+    <DestinationName>Yakutat</DestinationName>
+    <DestinationStr>Yakutat(YAK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YAL</code>
+    <DestinationName>Alert Bay</DestinationName>
+    <DestinationStr>Alert Bay(YAL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YAM</code>
+    <DestinationName>Sault Ste Marie Arpt</DestinationName>
+    <DestinationStr>Sault Ste Marie Arpt(YAM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YAM</code>
+    <DestinationName>Sault Ste Marie</DestinationName>
+    <DestinationStr>Sault Ste Marie(YAM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YAO</code>
+    <DestinationName>Yaounde Airport</DestinationName>
+    <DestinationStr>Yaounde Airport(YAO)-Cameroon, United Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YAO</code>
+    <DestinationName>Yaounde</DestinationName>
+    <DestinationStr>Yaounde(YAO)-Cameroon, United Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YAP</code>
+    <DestinationName>Yap Fm</DestinationName>
+    <DestinationStr>Yap Fm(YAP)-Micronesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YAP</code>
+    <DestinationName>Yap International</DestinationName>
+    <DestinationStr>Yap International(YAP)-Micronesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YAT</code>
+    <DestinationName>Attawapiskat Arpt</DestinationName>
+    <DestinationStr>Attawapiskat Arpt(YAT)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YAT</code>
+    <DestinationName>Attawapiskat</DestinationName>
+    <DestinationStr>Attawapiskat(YAT)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YAV</code>
+    <DestinationName>Miners Bay Airport</DestinationName>
+    <DestinationStr>Miners Bay Airport(YAV)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YAV</code>
+    <DestinationName>Miners Bay</DestinationName>
+    <DestinationStr>Miners Bay(YAV)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YAW</code>
+    <DestinationName>Canadian Force Base Shearwater</DestinationName>
+    <DestinationStr>Canadian Force Base Shearwater(YAW)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YAY</code>
+    <DestinationName>Saint Anthony Arpt</DestinationName>
+    <DestinationStr>Saint Anthony Arpt(YAY)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YAY</code>
+    <DestinationName>Saint Anthony</DestinationName>
+    <DestinationStr>Saint Anthony(YAY)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YAY</code>
+    <DestinationName>St Anthony Arpt</DestinationName>
+    <DestinationStr>St Anthony Arpt(YAY)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YAY</code>
+    <DestinationName>St Anthony</DestinationName>
+    <DestinationStr>St Anthony(YAY)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YAZ</code>
+    <DestinationName>Tofino Arpt</DestinationName>
+    <DestinationStr>Tofino Arpt(YAZ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YAZ</code>
+    <DestinationName>Tofino</DestinationName>
+    <DestinationStr>Tofino(YAZ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YBA</code>
+    <DestinationName>Banff Arpt</DestinationName>
+    <DestinationStr>Banff Arpt(YBA)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YBA</code>
+    <DestinationName>Banff</DestinationName>
+    <DestinationStr>Banff(YBA)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YBB</code>
+    <DestinationName>Kugaaruk Arpt</DestinationName>
+    <DestinationStr>Kugaaruk Arpt(YBB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YBB</code>
+    <DestinationName>Pelly Bay</DestinationName>
+    <DestinationStr>Pelly Bay(YBB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YBC</code>
+    <DestinationName>Baie Comeau Arpt</DestinationName>
+    <DestinationStr>Baie Comeau Arpt(YBC)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YBC</code>
+    <DestinationName>Baie Comeau</DestinationName>
+    <DestinationStr>Baie Comeau(YBC)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>YBD</code>
+    <DestinationName>New Westminster</DestinationName>
+    <DestinationStr>New Westminster(YBD)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YBE</code>
+    <DestinationName>Uranium City</DestinationName>
+    <DestinationStr>Uranium City(YBE)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YBG</code>
+    <DestinationName>Bagotville Arpt</DestinationName>
+    <DestinationStr>Bagotville Arpt(YBG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YBG</code>
+    <DestinationName>Bagotville</DestinationName>
+    <DestinationStr>Bagotville(YBG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YBJ</code>
+    <DestinationName>Baie Johan Beetz</DestinationName>
+    <DestinationStr>Baie Johan Beetz(YBJ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YBK</code>
+    <DestinationName>Baker Lake Arpt</DestinationName>
+    <DestinationStr>Baker Lake Arpt(YBK)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YBK</code>
+    <DestinationName>Baker Lake</DestinationName>
+    <DestinationStr>Baker Lake(YBK)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YBL</code>
+    <DestinationName>Campbell River Municipal</DestinationName>
+    <DestinationStr>Campbell River Municipal(YBL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YBL</code>
+    <DestinationName>Campbell River</DestinationName>
+    <DestinationStr>Campbell River(YBL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YBP</code>
+    <DestinationName>Yibin Airport</DestinationName>
+    <DestinationStr>Yibin Airport(YBP)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YBP</code>
+    <DestinationName>Yibin</DestinationName>
+    <DestinationStr>Yibin(YBP)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YBR</code>
+    <DestinationName>Brandon Municipal Arpt</DestinationName>
+    <DestinationStr>Brandon Municipal Arpt(YBR)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YBR</code>
+    <DestinationName>Brandon</DestinationName>
+    <DestinationStr>Brandon(YBR)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YBW</code>
+    <DestinationName>Bedwell Harbor Arpt</DestinationName>
+    <DestinationStr>Bedwell Harbor Arpt(YBW)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YBW</code>
+    <DestinationName>Bedwell Harbor</DestinationName>
+    <DestinationStr>Bedwell Harbor(YBW)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YBW</code>
+    <DestinationName>Bedwell Harbour Arpt</DestinationName>
+    <DestinationStr>Bedwell Harbour Arpt(YBW)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YBW</code>
+    <DestinationName>Bedwell Harbour</DestinationName>
+    <DestinationStr>Bedwell Harbour(YBW)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YBX</code>
+    <DestinationName>Blanc Sablon Arpt</DestinationName>
+    <DestinationStr>Blanc Sablon Arpt(YBX)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YBX</code>
+    <DestinationName>Blanc Sablon</DestinationName>
+    <DestinationStr>Blanc Sablon(YBX)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YBY</code>
+    <DestinationName>Bonnyville</DestinationName>
+    <DestinationStr>Bonnyville(YBY)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>YCA</code>
+    <DestinationName>Courtenay</DestinationName>
+    <DestinationStr>Courtenay(YCA)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCB</code>
+    <DestinationName>Cambridge Bay Arpt</DestinationName>
+    <DestinationStr>Cambridge Bay Arpt(YCB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCB</code>
+    <DestinationName>Cambridge Bay</DestinationName>
+    <DestinationStr>Cambridge Bay(YCB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCC</code>
+    <DestinationName>Cornwall Regional Arpt</DestinationName>
+    <DestinationStr>Cornwall Regional Arpt(YCC)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCC</code>
+    <DestinationName>Cornwall</DestinationName>
+    <DestinationStr>Cornwall(YCC)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCD</code>
+    <DestinationName>Nanaimo Arpt</DestinationName>
+    <DestinationStr>Nanaimo Arpt(YCD)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCD</code>
+    <DestinationName>Nanaimo</DestinationName>
+    <DestinationStr>Nanaimo(YCD)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCF</code>
+    <DestinationName>Cortes Bay Airport</DestinationName>
+    <DestinationStr>Cortes Bay Airport(YCF)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCF</code>
+    <DestinationName>Cortes Bay</DestinationName>
+    <DestinationStr>Cortes Bay(YCF)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCG</code>
+    <DestinationName>Castlegar</DestinationName>
+    <DestinationStr>Castlegar(YCG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCG</code>
+    <DestinationName>Ralph West Arpt</DestinationName>
+    <DestinationStr>Ralph West Arpt(YCG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCH</code>
+    <DestinationName>Miramichi Arpt</DestinationName>
+    <DestinationStr>Miramichi Arpt(YCH)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCH</code>
+    <DestinationName>Miramichi</DestinationName>
+    <DestinationStr>Miramichi(YCH)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCK</code>
+    <DestinationName>Colville Municipal</DestinationName>
+    <DestinationStr>Colville Municipal(YCK)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCK</code>
+    <DestinationName>Colville</DestinationName>
+    <DestinationStr>Colville(YCK)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCL</code>
+    <DestinationName>Charlo Municipal Arpt</DestinationName>
+    <DestinationStr>Charlo Municipal Arpt(YCL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCL</code>
+    <DestinationName>Charlo</DestinationName>
+    <DestinationStr>Charlo(YCL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCM</code>
+    <DestinationName>St Catherines</DestinationName>
+    <DestinationStr>St Catherines(YCM)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>YCN</code>
+    <DestinationName>Cochrane</DestinationName>
+    <DestinationStr>Cochrane(YCN)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCO</code>
+    <DestinationName>Kugluktuk Arpt</DestinationName>
+    <DestinationStr>Kugluktuk Arpt(YCO)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCO</code>
+    <DestinationName>Kugluktuk Coppermine</DestinationName>
+    <DestinationStr>Kugluktuk Coppermine(YCO)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCQ</code>
+    <DestinationName>Chetwynd</DestinationName>
+    <DestinationStr>Chetwynd(YCQ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCS</code>
+    <DestinationName>Chesterfield Inlet Arpt</DestinationName>
+    <DestinationStr>Chesterfield Inlet Arpt(YCS)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCS</code>
+    <DestinationName>Chesterfield Inlet</DestinationName>
+    <DestinationStr>Chesterfield Inlet(YCS)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCU</code>
+    <DestinationName>Yun Cheng Arpt</DestinationName>
+    <DestinationStr>Yun Cheng Arpt(YCU)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCU</code>
+    <DestinationName>Yun Cheng</DestinationName>
+    <DestinationStr>Yun Cheng(YCU)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCW</code>
+    <DestinationName>Chilliwack Arpt</DestinationName>
+    <DestinationStr>Chilliwack Arpt(YCW)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCW</code>
+    <DestinationName>Chilliwack</DestinationName>
+    <DestinationStr>Chilliwack(YCW)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCY</code>
+    <DestinationName>Clyde River</DestinationName>
+    <DestinationStr>Clyde River(YCY)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCZ</code>
+    <DestinationName>Fairmont Springs Arpt</DestinationName>
+    <DestinationStr>Fairmont Springs Arpt(YCZ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCZ</code>
+    <DestinationName>Fairmont Springs</DestinationName>
+    <DestinationStr>Fairmont Springs(YCZ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YDA</code>
+    <DestinationName>Dawson City Arpt</DestinationName>
+    <DestinationStr>Dawson City Arpt(YDA)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YDA</code>
+    <DestinationName>Dawson City</DestinationName>
+    <DestinationStr>Dawson City(YDA)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YDC</code>
+    <DestinationName>Drayton Valley</DestinationName>
+    <DestinationStr>Drayton Valley(YDC)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YDF</code>
+    <DestinationName>Deer Lake Municipal</DestinationName>
+    <DestinationStr>Deer Lake Municipal(YDF)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YDF</code>
+    <DestinationName>Deer Lake</DestinationName>
+    <DestinationStr>Deer Lake(YDF)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YDG</code>
+    <DestinationName>Digby</DestinationName>
+    <DestinationStr>Digby(YDG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YDL</code>
+    <DestinationName>Dease Lake Arpt</DestinationName>
+    <DestinationStr>Dease Lake Arpt(YDL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YDL</code>
+    <DestinationName>Dease Lake</DestinationName>
+    <DestinationStr>Dease Lake(YDL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YDN</code>
+    <DestinationName>Dauphin Airport</DestinationName>
+    <DestinationStr>Dauphin Airport(YDN)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YDN</code>
+    <DestinationName>Dauphin</DestinationName>
+    <DestinationStr>Dauphin(YDN)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YDN</code>
+    <DestinationName>Lt W G (Billiy) Barker Airport</DestinationName>
+    <DestinationStr>Lt W G (Billiy) Barker Airport(YDN)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YDO</code>
+    <DestinationName>Dolbeau</DestinationName>
+    <DestinationStr>Dolbeau(YDO)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YDP</code>
+    <DestinationName>Nain Arpt</DestinationName>
+    <DestinationStr>Nain Arpt(YDP)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YDP</code>
+    <DestinationName>Nain</DestinationName>
+    <DestinationStr>Nain(YDP)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YDQ</code>
+    <DestinationName>Dawson Creek Arpt</DestinationName>
+    <DestinationStr>Dawson Creek Arpt(YDQ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YDQ</code>
+    <DestinationName>Dawson Creek</DestinationName>
+    <DestinationStr>Dawson Creek(YDQ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YDT</code>
+    <DestinationName>Boundary Bay Arpt</DestinationName>
+    <DestinationStr>Boundary Bay Arpt(YDT)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YEA</code>
+    <DestinationName>Edmonton</DestinationName>
+    <DestinationStr>Edmonton(YEA)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YEB</code>
+    <DestinationName>Bar River Arpt</DestinationName>
+    <DestinationStr>Bar River Arpt(YEB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YEB</code>
+    <DestinationName>Bar River</DestinationName>
+    <DestinationStr>Bar River(YEB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YEC</code>
+    <DestinationName>Yechon</DestinationName>
+    <DestinationStr>Yechon(YEC)-Korea, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YED</code>
+    <DestinationName>CFB Namao Heliport</DestinationName>
+    <DestinationStr>CFB Namao Heliport(YED)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YEG</code>
+    <DestinationName>Edmonton Intl Arpt</DestinationName>
+    <DestinationStr>Edmonton Intl Arpt(YEG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YEH</code>
+    <DestinationName>Asaloyeh Arpt</DestinationName>
+    <DestinationStr>Asaloyeh Arpt(YEH)-Iran</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YEH</code>
+    <DestinationName>Asaloyeh</DestinationName>
+    <DestinationStr>Asaloyeh(YEH)-Iran</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YEI</code>
+    <DestinationName>Bursa</DestinationName>
+    <DestinationStr>Bursa(YEI)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YEI</code>
+    <DestinationName>Yenisehir Arpt</DestinationName>
+    <DestinationStr>Yenisehir Arpt(YEI)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YEK</code>
+    <DestinationName>Arviat Arpt</DestinationName>
+    <DestinationStr>Arviat Arpt(YEK)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YEK</code>
+    <DestinationName>Arviat</DestinationName>
+    <DestinationStr>Arviat(YEK)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YEL</code>
+    <DestinationName>Elliot Lake Municipal Airport</DestinationName>
+    <DestinationStr>Elliot Lake Municipal Airport(YEL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YEL</code>
+    <DestinationName>Elliot Lake</DestinationName>
+    <DestinationStr>Elliot Lake(YEL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YEN</code>
+    <DestinationName>Estevan Regional Airport</DestinationName>
+    <DestinationStr>Estevan Regional Airport(YEN)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YEN</code>
+    <DestinationName>Estevan</DestinationName>
+    <DestinationStr>Estevan(YEN)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YEO</code>
+    <DestinationName>Yeovilton Arpt</DestinationName>
+    <DestinationStr>Yeovilton Arpt(YEO)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YEO</code>
+    <DestinationName>Yeovilton</DestinationName>
+    <DestinationStr>Yeovilton(YEO)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YER</code>
+    <DestinationName>Fort Severn Arpt</DestinationName>
+    <DestinationStr>Fort Severn Arpt(YER)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YER</code>
+    <DestinationName>Fort Severn</DestinationName>
+    <DestinationStr>Fort Severn(YER)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YET</code>
+    <DestinationName>Edson Arpt</DestinationName>
+    <DestinationStr>Edson Arpt(YET)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YET</code>
+    <DestinationName>Edson</DestinationName>
+    <DestinationStr>Edson(YET)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YEV</code>
+    <DestinationName>Inuvik Mike Zubko Arpt</DestinationName>
+    <DestinationStr>Inuvik Mike Zubko Arpt(YEV)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YEV</code>
+    <DestinationName>Inuvik</DestinationName>
+    <DestinationStr>Inuvik(YEV)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>YEY</code>
+    <DestinationName>Amos</DestinationName>
+    <DestinationStr>Amos(YEY)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YFB</code>
+    <DestinationName>Iqaluit Arpt</DestinationName>
+    <DestinationStr>Iqaluit Arpt(YFB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YFB</code>
+    <DestinationName>Iqaluit</DestinationName>
+    <DestinationStr>Iqaluit(YFB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YFC</code>
+    <DestinationName>Fredericton Municipal</DestinationName>
+    <DestinationStr>Fredericton Municipal(YFC)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YFC</code>
+    <DestinationName>Fredericton</DestinationName>
+    <DestinationStr>Fredericton(YFC)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YFH</code>
+    <DestinationName>Fort Hope</DestinationName>
+    <DestinationStr>Fort Hope(YFH)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YFO</code>
+    <DestinationName>Flin Flon Municipal Arpt</DestinationName>
+    <DestinationStr>Flin Flon Municipal Arpt(YFO)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YFO</code>
+    <DestinationName>Flin Flon</DestinationName>
+    <DestinationStr>Flin Flon(YFO)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YFS</code>
+    <DestinationName>Fort Simpson</DestinationName>
+    <DestinationStr>Fort Simpson(YFS)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YFX</code>
+    <DestinationName>Fox Harbour Arpt</DestinationName>
+    <DestinationStr>Fox Harbour Arpt(YFX)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YFX</code>
+    <DestinationName>Fox Harbour</DestinationName>
+    <DestinationStr>Fox Harbour(YFX)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YGJ</code>
+    <DestinationName>Miho Arpt</DestinationName>
+    <DestinationStr>Miho Arpt(YGJ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YGJ</code>
+    <DestinationName>Yonago</DestinationName>
+    <DestinationStr>Yonago(YGJ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YGK</code>
+    <DestinationName>Kingston</DestinationName>
+    <DestinationStr>Kingston(YGK)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YGK</code>
+    <DestinationName>Norman Rodgers Arpt</DestinationName>
+    <DestinationStr>Norman Rodgers Arpt(YGK)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YGL</code>
+    <DestinationName>La Grande Municipal Arpt</DestinationName>
+    <DestinationStr>La Grande Municipal Arpt(YGL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YGL</code>
+    <DestinationName>La Grande</DestinationName>
+    <DestinationStr>La Grande(YGL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YGP</code>
+    <DestinationName>Gaspe Municipal Arpt</DestinationName>
+    <DestinationStr>Gaspe Municipal Arpt(YGP)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YGP</code>
+    <DestinationName>Gaspe</DestinationName>
+    <DestinationStr>Gaspe(YGP)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YGQ</code>
+    <DestinationName>Geraldton</DestinationName>
+    <DestinationStr>Geraldton(YGQ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YGQ</code>
+    <DestinationName>Greenstone Regional Airport</DestinationName>
+    <DestinationStr>Greenstone Regional Airport(YGQ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YGR</code>
+    <DestinationName>House Harbour Arpt</DestinationName>
+    <DestinationStr>House Harbour Arpt(YGR)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YGR</code>
+    <DestinationName>Iles De Madeleine</DestinationName>
+    <DestinationStr>Iles De Madeleine(YGR)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YGT</code>
+    <DestinationName>Igloolik Arpt</DestinationName>
+    <DestinationStr>Igloolik Arpt(YGT)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YGT</code>
+    <DestinationName>Igloolik</DestinationName>
+    <DestinationStr>Igloolik(YGT)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YGV</code>
+    <DestinationName>Havre St Pierre Municipal Arpt</DestinationName>
+    <DestinationStr>Havre St Pierre Municipal Arpt(YGV)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YGV</code>
+    <DestinationName>Havre St Pierre</DestinationName>
+    <DestinationStr>Havre St Pierre(YGV)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YGW</code>
+    <DestinationName>Kuujjuaraapik Arpt</DestinationName>
+    <DestinationStr>Kuujjuaraapik Arpt(YGW)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YGW</code>
+    <DestinationName>kuujjuaraapik</DestinationName>
+    <DestinationStr>kuujjuaraapik(YGW)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YGW</code>
+    <DestinationName>Poste De La Baleine</DestinationName>
+    <DestinationStr>Poste De La Baleine(YGW)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>YGX</code>
+    <DestinationName>Gillam</DestinationName>
+    <DestinationStr>Gillam(YGX)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHA</code>
+    <DestinationName>Port Hope Simpson Arpt</DestinationName>
+    <DestinationStr>Port Hope Simpson Arpt(YHA)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHA</code>
+    <DestinationName>Port Hope Simpson</DestinationName>
+    <DestinationStr>Port Hope Simpson(YHA)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>YHB</code>
+    <DestinationName>Hudson Bay</DestinationName>
+    <DestinationStr>Hudson Bay(YHB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHD</code>
+    <DestinationName>Dryden Regional Airport</DestinationName>
+    <DestinationStr>Dryden Regional Airport(YHD)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHD</code>
+    <DestinationName>Dryden</DestinationName>
+    <DestinationStr>Dryden(YHD)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHE</code>
+    <DestinationName>Hope Arpt</DestinationName>
+    <DestinationStr>Hope Arpt(YHE)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHE</code>
+    <DestinationName>Hope</DestinationName>
+    <DestinationStr>Hope(YHE)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHF</code>
+    <DestinationName>Hearst Municipal Arpt</DestinationName>
+    <DestinationStr>Hearst Municipal Arpt(YHF)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHF</code>
+    <DestinationName>Hearst</DestinationName>
+    <DestinationStr>Hearst(YHF)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHF</code>
+    <DestinationName>Rene Fountaine Municipal Arpt</DestinationName>
+    <DestinationStr>Rene Fountaine Municipal Arpt(YHF)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHG</code>
+    <DestinationName>Charlottetown Municipal Arpt</DestinationName>
+    <DestinationStr>Charlottetown Municipal Arpt(YHG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHG</code>
+    <DestinationName>Charlottetown</DestinationName>
+    <DestinationStr>Charlottetown(YHG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHH</code>
+    <DestinationName>Harbor Airport</DestinationName>
+    <DestinationStr>Harbor Airport(YHH)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHI</code>
+    <DestinationName>Holman Island</DestinationName>
+    <DestinationStr>Holman Island(YHI)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHK</code>
+    <DestinationName>Gjoa Haven Arpt</DestinationName>
+    <DestinationStr>Gjoa Haven Arpt(YHK)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHK</code>
+    <DestinationName>Gjoa Haven</DestinationName>
+    <DestinationStr>Gjoa Haven(YHK)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHM</code>
+    <DestinationName>Civic Airport</DestinationName>
+    <DestinationStr>Civic Airport(YHM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHM</code>
+    <DestinationName>Hamilton</DestinationName>
+    <DestinationStr>Hamilton(YHM)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>YHN</code>
+    <DestinationName>Hornepayne</DestinationName>
+    <DestinationStr>Hornepayne(YHN)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHO</code>
+    <DestinationName>Hopedale Arpt</DestinationName>
+    <DestinationStr>Hopedale Arpt(YHO)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHO</code>
+    <DestinationName>Hopedale</DestinationName>
+    <DestinationStr>Hopedale(YHO)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHR</code>
+    <DestinationName>Chevery Arpt</DestinationName>
+    <DestinationStr>Chevery Arpt(YHR)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHR</code>
+    <DestinationName>Chevery</DestinationName>
+    <DestinationStr>Chevery(YHR)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHS</code>
+    <DestinationName>Sechelt Arpt</DestinationName>
+    <DestinationStr>Sechelt Arpt(YHS)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHS</code>
+    <DestinationName>Sechelt</DestinationName>
+    <DestinationStr>Sechelt(YHS)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHU</code>
+    <DestinationName>Saint Hubert Arpt</DestinationName>
+    <DestinationStr>Saint Hubert Arpt(YHU)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHU</code>
+    <DestinationName>St Hubert Arpt</DestinationName>
+    <DestinationStr>St Hubert Arpt(YHU)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHY</code>
+    <DestinationName>Hay River Municipal Arpt</DestinationName>
+    <DestinationStr>Hay River Municipal Arpt(YHY)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHY</code>
+    <DestinationName>Hay River</DestinationName>
+    <DestinationStr>Hay River(YHY)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHZ</code>
+    <DestinationName>Halifax Intl</DestinationName>
+    <DestinationStr>Halifax Intl(YHZ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHZ</code>
+    <DestinationName>Halifax</DestinationName>
+    <DestinationStr>Halifax(YHZ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YIB</code>
+    <DestinationName>Atikokan Municipal Arpt</DestinationName>
+    <DestinationStr>Atikokan Municipal Arpt(YIB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YIB</code>
+    <DestinationName>Atikokan</DestinationName>
+    <DestinationStr>Atikokan(YIB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YIC</code>
+    <DestinationName>Mingyueshan Airport</DestinationName>
+    <DestinationStr>Mingyueshan Airport(YIC)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YIC</code>
+    <DestinationName>Yichun</DestinationName>
+    <DestinationStr>Yichun(YIC)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YIF</code>
+    <DestinationName>Pakuashipi Arpt</DestinationName>
+    <DestinationStr>Pakuashipi Arpt(YIF)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YIF</code>
+    <DestinationName>Pakuashipi</DestinationName>
+    <DestinationStr>Pakuashipi(YIF)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YIH</code>
+    <DestinationName>Yichang Arpt</DestinationName>
+    <DestinationStr>Yichang Arpt(YIH)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YIH</code>
+    <DestinationName>Yichang</DestinationName>
+    <DestinationStr>Yichang(YIH)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YIK</code>
+    <DestinationName>Ivujivik Arpt</DestinationName>
+    <DestinationStr>Ivujivik Arpt(YIK)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YIK</code>
+    <DestinationName>Ivujivik</DestinationName>
+    <DestinationStr>Ivujivik(YIK)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YIN</code>
+    <DestinationName>Yining Arpt</DestinationName>
+    <DestinationStr>Yining Arpt(YIN)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YIN</code>
+    <DestinationName>Yining</DestinationName>
+    <DestinationStr>Yining(YIN)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YIO</code>
+    <DestinationName>Pond Inlet Arpt</DestinationName>
+    <DestinationStr>Pond Inlet Arpt(YIO)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YIO</code>
+    <DestinationName>Pond Inlet</DestinationName>
+    <DestinationStr>Pond Inlet(YIO)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YIP</code>
+    <DestinationName>Willow Run Arpt</DestinationName>
+    <DestinationStr>Willow Run Arpt(YIP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YIW</code>
+    <DestinationName>Yiwu Arpt</DestinationName>
+    <DestinationStr>Yiwu Arpt(YIW)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YIW</code>
+    <DestinationName>Yiwu</DestinationName>
+    <DestinationStr>Yiwu(YIW)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YJA</code>
+    <DestinationName>Jasper Airport</DestinationName>
+    <DestinationStr>Jasper Airport(YJA)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YJA</code>
+    <DestinationName>Jasper</DestinationName>
+    <DestinationStr>Jasper(YJA)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>YJT</code>
+    <DestinationName>Stephenville Municipal</DestinationName>
+    <DestinationStr>Stephenville Municipal(YJT)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YJT</code>
+    <DestinationName>Stephenville</DestinationName>
+    <DestinationStr>Stephenville(YJT)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>YKA</code>
+    <DestinationName>Davie Fulton Arpt</DestinationName>
+    <DestinationStr>Davie Fulton Arpt(YKA)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YKA</code>
+    <DestinationName>Kamloops</DestinationName>
+    <DestinationStr>Kamloops(YKA)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YKD</code>
+    <DestinationName>Kincardine Airport</DestinationName>
+    <DestinationStr>Kincardine Airport(YKD)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YKD</code>
+    <DestinationName>Kincardine</DestinationName>
+    <DestinationStr>Kincardine(YKD)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YKF</code>
+    <DestinationName>Kitchener</DestinationName>
+    <DestinationStr>Kitchener(YKF)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YKF</code>
+    <DestinationName>Toronto Region of Waterloo Intl</DestinationName>
+    <DestinationStr>Toronto Region of Waterloo Intl(YKF)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YKG</code>
+    <DestinationName>Kangirsuk Arpt</DestinationName>
+    <DestinationStr>Kangirsuk Arpt(YKG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YKG</code>
+    <DestinationName>Kangirsuk</DestinationName>
+    <DestinationStr>Kangirsuk(YKG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YKI</code>
+    <DestinationName>Kennosao Lake</DestinationName>
+    <DestinationStr>Kennosao Lake(YKI)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YKL</code>
+    <DestinationName>Schefferville Arpt</DestinationName>
+    <DestinationStr>Schefferville Arpt(YKL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YKL</code>
+    <DestinationName>Schefferville</DestinationName>
+    <DestinationStr>Schefferville(YKL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YKM</code>
+    <DestinationName>Yakima Terminal Arpt</DestinationName>
+    <DestinationStr>Yakima Terminal Arpt(YKM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YKM</code>
+    <DestinationName>Yakima</DestinationName>
+    <DestinationStr>Yakima(YKM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YKN</code>
+    <DestinationName>Chan Gurney Municipal</DestinationName>
+    <DestinationStr>Chan Gurney Municipal(YKN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YKN</code>
+    <DestinationName>Yankton</DestinationName>
+    <DestinationStr>Yankton(YKN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YKQ</code>
+    <DestinationName>Waskaganish Arpt</DestinationName>
+    <DestinationStr>Waskaganish Arpt(YKQ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YKQ</code>
+    <DestinationName>Waskaganish</DestinationName>
+    <DestinationStr>Waskaganish(YKQ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YKS</code>
+    <DestinationName>Yakutsk Arpt</DestinationName>
+    <DestinationStr>Yakutsk Arpt(YKS)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YKS</code>
+    <DestinationName>Yakutsk</DestinationName>
+    <DestinationStr>Yakutsk(YKS)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YKU</code>
+    <DestinationName>Chisasibi Arpt</DestinationName>
+    <DestinationStr>Chisasibi Arpt(YKU)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YKU</code>
+    <DestinationName>Chisasibi</DestinationName>
+    <DestinationStr>Chisasibi(YKU)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YKX</code>
+    <DestinationName>Kirkland Lake Municipal Arpt</DestinationName>
+    <DestinationStr>Kirkland Lake Municipal Arpt(YKX)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YKX</code>
+    <DestinationName>Kirkland</DestinationName>
+    <DestinationStr>Kirkland(YKX)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YKY</code>
+    <DestinationName>Kindersley Regional Airport</DestinationName>
+    <DestinationStr>Kindersley Regional Airport(YKY)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YKY</code>
+    <DestinationName>Kindersley</DestinationName>
+    <DestinationStr>Kindersley(YKY)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YKZ</code>
+    <DestinationName>Buttonville Municipal Airport</DestinationName>
+    <DestinationStr>Buttonville Municipal Airport(YKZ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YLC</code>
+    <DestinationName>Kimmirut Lake Harbour Arpt</DestinationName>
+    <DestinationStr>Kimmirut Lake Harbour Arpt(YLC)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YLC</code>
+    <DestinationName>Kimmirut Lake Harbour</DestinationName>
+    <DestinationStr>Kimmirut Lake Harbour(YLC)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>YLD</code>
+    <DestinationName>Chapleau</DestinationName>
+    <DestinationStr>Chapleau(YLD)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YLH</code>
+    <DestinationName>Lansdowne</DestinationName>
+    <DestinationStr>Lansdowne(YLH)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YLI</code>
+    <DestinationName>Ylivieska Arpt</DestinationName>
+    <DestinationStr>Ylivieska Arpt(YLI)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YLI</code>
+    <DestinationName>Ylivieska</DestinationName>
+    <DestinationStr>Ylivieska(YLI)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YLJ</code>
+    <DestinationName>Meadow Lake Arpt</DestinationName>
+    <DestinationStr>Meadow Lake Arpt(YLJ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YLJ</code>
+    <DestinationName>Meadow Lake</DestinationName>
+    <DestinationStr>Meadow Lake(YLJ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YLL</code>
+    <DestinationName>Lloydminster Arpt</DestinationName>
+    <DestinationStr>Lloydminster Arpt(YLL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YLL</code>
+    <DestinationName>Lloydminster</DestinationName>
+    <DestinationStr>Lloydminster(YLL)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>YLQ</code>
+    <DestinationName>La Tuque</DestinationName>
+    <DestinationStr>La Tuque(YLQ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YLV</code>
+    <DestinationName>Yevlakh</DestinationName>
+    <DestinationStr>Yevlakh(YLV)-Azerbaijan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YLW</code>
+    <DestinationName>Kelowna International Airport</DestinationName>
+    <DestinationStr>Kelowna International Airport(YLW)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YLW</code>
+    <DestinationName>Kelowna</DestinationName>
+    <DestinationStr>Kelowna(YLW)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YLY</code>
+    <DestinationName>Langley Regional Arpt</DestinationName>
+    <DestinationStr>Langley Regional Arpt(YLY)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YLY</code>
+    <DestinationName>Langley</DestinationName>
+    <DestinationStr>Langley(YLY)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YMA</code>
+    <DestinationName>Mayo</DestinationName>
+    <DestinationStr>Mayo(YMA)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YMB</code>
+    <DestinationName>Merritt Arpt</DestinationName>
+    <DestinationStr>Merritt Arpt(YMB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YMB</code>
+    <DestinationName>Merritt</DestinationName>
+    <DestinationStr>Merritt(YMB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YME</code>
+    <DestinationName>Matane Airport</DestinationName>
+    <DestinationStr>Matane Airport(YME)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YME</code>
+    <DestinationName>Matane</DestinationName>
+    <DestinationStr>Matane(YME)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YMG</code>
+    <DestinationName>Manitouwadge Municipal Arpt</DestinationName>
+    <DestinationStr>Manitouwadge Municipal Arpt(YMG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YMG</code>
+    <DestinationName>Manitouwadge</DestinationName>
+    <DestinationStr>Manitouwadge(YMG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YMH</code>
+    <DestinationName>Marys Harbour Arpt</DestinationName>
+    <DestinationStr>Marys Harbour Arpt(YMH)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YMH</code>
+    <DestinationName>Marys Harbour</DestinationName>
+    <DestinationStr>Marys Harbour(YMH)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>YMI</code>
+    <DestinationName>Minaki</DestinationName>
+    <DestinationStr>Minaki(YMI)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YMJ</code>
+    <DestinationName>Moose Jaw Arpt</DestinationName>
+    <DestinationStr>Moose Jaw Arpt(YMJ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YMJ</code>
+    <DestinationName>Moose Jaw</DestinationName>
+    <DestinationStr>Moose Jaw(YMJ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YMK</code>
+    <DestinationName>Mys Kamenny Airport</DestinationName>
+    <DestinationStr>Mys Kamenny Airport(YMK)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YMK</code>
+    <DestinationName>Mys Kamenny</DestinationName>
+    <DestinationStr>Mys Kamenny(YMK)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YML</code>
+    <DestinationName>La Malbaie</DestinationName>
+    <DestinationStr>La Malbaie(YML)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YMM</code>
+    <DestinationName>Fort McMurray Municipal Arpt</DestinationName>
+    <DestinationStr>Fort McMurray Municipal Arpt(YMM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YMM</code>
+    <DestinationName>Fort McMurray</DestinationName>
+    <DestinationStr>Fort McMurray(YMM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YMM</code>
+    <DestinationName>Ft McMurray Municipal Arpt</DestinationName>
+    <DestinationStr>Ft McMurray Municipal Arpt(YMM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YMM</code>
+    <DestinationName>Ft McMurray</DestinationName>
+    <DestinationStr>Ft McMurray(YMM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YMN</code>
+    <DestinationName>Makkovik Arpt</DestinationName>
+    <DestinationStr>Makkovik Arpt(YMN)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YMN</code>
+    <DestinationName>Makkovik</DestinationName>
+    <DestinationStr>Makkovik(YMN)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YMO</code>
+    <DestinationName>Moosonee Arpt</DestinationName>
+    <DestinationStr>Moosonee Arpt(YMO)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YMO</code>
+    <DestinationName>Moosonee</DestinationName>
+    <DestinationStr>Moosonee(YMO)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YMQ</code>
+    <DestinationName>Montreal</DestinationName>
+    <DestinationStr>Montreal(YMQ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YMS</code>
+    <DestinationName>Yurimaguas</DestinationName>
+    <DestinationStr>Yurimaguas(YMS)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YMT</code>
+    <DestinationName>Chibougamau Arpt</DestinationName>
+    <DestinationStr>Chibougamau Arpt(YMT)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YMT</code>
+    <DestinationName>Chibougamau</DestinationName>
+    <DestinationStr>Chibougamau(YMT)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YMX</code>
+    <DestinationName>Mirabel Intl Arpt</DestinationName>
+    <DestinationStr>Mirabel Intl Arpt(YMX)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>YNA</code>
+    <DestinationName>Natashquan Arpt</DestinationName>
+    <DestinationStr>Natashquan Arpt(YNA)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YNA</code>
+    <DestinationName>Natashquan</DestinationName>
+    <DestinationStr>Natashquan(YNA)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YNB</code>
+    <DestinationName>Yanbo Arpt</DestinationName>
+    <DestinationStr>Yanbo Arpt(YNB)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YNB</code>
+    <DestinationName>Yanbo</DestinationName>
+    <DestinationStr>Yanbo(YNB)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YND</code>
+    <DestinationName>Gatineau Hull Municipal Arpt</DestinationName>
+    <DestinationStr>Gatineau Hull Municipal Arpt(YND)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YND</code>
+    <DestinationName>Gatineau Hull</DestinationName>
+    <DestinationStr>Gatineau Hull(YND)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YNG</code>
+    <DestinationName>Youngstown Municipal</DestinationName>
+    <DestinationStr>Youngstown Municipal(YNG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YNG</code>
+    <DestinationName>Youngstown</DestinationName>
+    <DestinationStr>Youngstown(YNG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YNJ</code>
+    <DestinationName>Yanji Arpt</DestinationName>
+    <DestinationStr>Yanji Arpt(YNJ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YNJ</code>
+    <DestinationName>Yanji</DestinationName>
+    <DestinationStr>Yanji(YNJ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YNM</code>
+    <DestinationName>Matagami</DestinationName>
+    <DestinationStr>Matagami(YNM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YNN</code>
+    <DestinationName>Yandi Arpt</DestinationName>
+    <DestinationStr>Yandi Arpt(YNN)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YNN</code>
+    <DestinationName>Yandicoogina</DestinationName>
+    <DestinationStr>Yandicoogina(YNN)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YNP</code>
+    <DestinationName>Natuashish Arpt</DestinationName>
+    <DestinationStr>Natuashish Arpt(YNP)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YNP</code>
+    <DestinationName>Natuashish</DestinationName>
+    <DestinationStr>Natuashish(YNP)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YNT</code>
+    <DestinationName>Laishan Arpt</DestinationName>
+    <DestinationStr>Laishan Arpt(YNT)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YNT</code>
+    <DestinationName>Yantai</DestinationName>
+    <DestinationStr>Yantai(YNT)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YNZ</code>
+    <DestinationName>Yancheng Arpt</DestinationName>
+    <DestinationStr>Yancheng Arpt(YNZ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YNZ</code>
+    <DestinationName>Yancheng</DestinationName>
+    <DestinationStr>Yancheng(YNZ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YOC</code>
+    <DestinationName>Old Crow</DestinationName>
+    <DestinationStr>Old Crow(YOC)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YOD</code>
+    <DestinationName>Cold Lake Arpt</DestinationName>
+    <DestinationStr>Cold Lake Arpt(YOD)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YOD</code>
+    <DestinationName>Cold Lake</DestinationName>
+    <DestinationStr>Cold Lake(YOD)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YOJ</code>
+    <DestinationName>High Level Arpt</DestinationName>
+    <DestinationStr>High Level Arpt(YOJ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YOJ</code>
+    <DestinationName>High Level</DestinationName>
+    <DestinationStr>High Level(YOJ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YOK</code>
+    <DestinationName>Yokohama Airport</DestinationName>
+    <DestinationStr>Yokohama Airport(YOK)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YOK</code>
+    <DestinationName>Yokohama</DestinationName>
+    <DestinationStr>Yokohama(YOK)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YOL</code>
+    <DestinationName>Yola</DestinationName>
+    <DestinationStr>Yola(YOL)-Nigeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YOO</code>
+    <DestinationName>Oshawa Municipal Arpt</DestinationName>
+    <DestinationStr>Oshawa Municipal Arpt(YOO)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YOO</code>
+    <DestinationName>Oshawa</DestinationName>
+    <DestinationStr>Oshawa(YOO)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YOP</code>
+    <DestinationName>Rainbow Lake Arpt</DestinationName>
+    <DestinationStr>Rainbow Lake Arpt(YOP)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YOP</code>
+    <DestinationName>Rainbow Lake</DestinationName>
+    <DestinationStr>Rainbow Lake(YOP)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YOS</code>
+    <DestinationName>Billy Bishop Regional Arpt</DestinationName>
+    <DestinationStr>Billy Bishop Regional Arpt(YOS)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YOS</code>
+    <DestinationName>Owen Sound</DestinationName>
+    <DestinationStr>Owen Sound(YOS)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YOT</code>
+    <DestinationName>Yotvata Arpt</DestinationName>
+    <DestinationStr>Yotvata Arpt(YOT)-Israel</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YOT</code>
+    <DestinationName>Yotvata</DestinationName>
+    <DestinationStr>Yotvata(YOT)-Israel</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YOW</code>
+    <DestinationName>McDonald Cartier Intl Airport</DestinationName>
+    <DestinationStr>McDonald Cartier Intl Airport(YOW)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YOW</code>
+    <DestinationName>Ottawa McDonald Cartier Intl</DestinationName>
+    <DestinationStr>Ottawa McDonald Cartier Intl(YOW)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YOW</code>
+    <DestinationName>Ottawa</DestinationName>
+    <DestinationStr>Ottawa(YOW)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPA</code>
+    <DestinationName>Prince Albert Glass Field Arpt</DestinationName>
+    <DestinationStr>Prince Albert Glass Field Arpt(YPA)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPA</code>
+    <DestinationName>Prince Albert</DestinationName>
+    <DestinationStr>Prince Albert(YPA)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPB</code>
+    <DestinationName>Port Alberni Arpt</DestinationName>
+    <DestinationStr>Port Alberni Arpt(YPB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPB</code>
+    <DestinationName>Port Alberni</DestinationName>
+    <DestinationStr>Port Alberni(YPB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPD</code>
+    <DestinationName>Parry Sound Municipal Arpt</DestinationName>
+    <DestinationStr>Parry Sound Municipal Arpt(YPD)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPD</code>
+    <DestinationName>Parry Sound</DestinationName>
+    <DestinationStr>Parry Sound(YPD)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPE</code>
+    <DestinationName>Municipal Peace River</DestinationName>
+    <DestinationStr>Municipal Peace River(YPE)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPE</code>
+    <DestinationName>Peace River</DestinationName>
+    <DestinationStr>Peace River(YPE)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>YPF</code>
+    <DestinationName>Esquimalt</DestinationName>
+    <DestinationStr>Esquimalt(YPF)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>YPG</code>
+    <DestinationName>Portage La Prairie</DestinationName>
+    <DestinationStr>Portage La Prairie(YPG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPH</code>
+    <DestinationName>Inukjuak Arpt</DestinationName>
+    <DestinationStr>Inukjuak Arpt(YPH)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPH</code>
+    <DestinationName>Inukjuak</DestinationName>
+    <DestinationStr>Inukjuak(YPH)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPJ</code>
+    <DestinationName>Aupaluk Arpt</DestinationName>
+    <DestinationStr>Aupaluk Arpt(YPJ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPJ</code>
+    <DestinationName>Aupaluk</DestinationName>
+    <DestinationStr>Aupaluk(YPJ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPL</code>
+    <DestinationName>Pickle Lake Arpt</DestinationName>
+    <DestinationStr>Pickle Lake Arpt(YPL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPL</code>
+    <DestinationName>Pickle Lake</DestinationName>
+    <DestinationStr>Pickle Lake(YPL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPM</code>
+    <DestinationName>Pikangikum Arpt</DestinationName>
+    <DestinationStr>Pikangikum Arpt(YPM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPM</code>
+    <DestinationName>Saint Pierre</DestinationName>
+    <DestinationStr>Saint Pierre(YPM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPM</code>
+    <DestinationName>St Pierre</DestinationName>
+    <DestinationStr>St Pierre(YPM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPN</code>
+    <DestinationName>Port Menier Arpt</DestinationName>
+    <DestinationStr>Port Menier Arpt(YPN)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPN</code>
+    <DestinationName>Port Menier</DestinationName>
+    <DestinationStr>Port Menier(YPN)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPQ</code>
+    <DestinationName>Peterborough Arpt</DestinationName>
+    <DestinationStr>Peterborough Arpt(YPQ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPQ</code>
+    <DestinationName>Peterborough</DestinationName>
+    <DestinationStr>Peterborough(YPQ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPR</code>
+    <DestinationName>Digby Island Arpt</DestinationName>
+    <DestinationStr>Digby Island Arpt(YPR)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPR</code>
+    <DestinationName>Prince Rupert</DestinationName>
+    <DestinationStr>Prince Rupert(YPR)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPS</code>
+    <DestinationName>Port Hawkesbury Arpt</DestinationName>
+    <DestinationStr>Port Hawkesbury Arpt(YPS)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPS</code>
+    <DestinationName>Port Hawkesbury</DestinationName>
+    <DestinationStr>Port Hawkesbury(YPS)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPW</code>
+    <DestinationName>Powell River</DestinationName>
+    <DestinationStr>Powell River(YPW)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPW</code>
+    <DestinationName>Westview Arpt</DestinationName>
+    <DestinationStr>Westview Arpt(YPW)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPX</code>
+    <DestinationName>Povungnituk Arpt</DestinationName>
+    <DestinationStr>Povungnituk Arpt(YPX)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPX</code>
+    <DestinationName>Puvirnituq</DestinationName>
+    <DestinationStr>Puvirnituq(YPX)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>YPZ</code>
+    <DestinationName>Burns Lake</DestinationName>
+    <DestinationStr>Burns Lake(YPZ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQA</code>
+    <DestinationName>Muskoka Arpt</DestinationName>
+    <DestinationStr>Muskoka Arpt(YQA)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQA</code>
+    <DestinationName>Muskoka</DestinationName>
+    <DestinationStr>Muskoka(YQA)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQB</code>
+    <DestinationName>Quebec Intl</DestinationName>
+    <DestinationStr>Quebec Intl(YQB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQB</code>
+    <DestinationName>Quebec</DestinationName>
+    <DestinationStr>Quebec(YQB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQC</code>
+    <DestinationName>Koartac</DestinationName>
+    <DestinationStr>Koartac(YQC)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQC</code>
+    <DestinationName>Quaqtaq Arpt</DestinationName>
+    <DestinationStr>Quaqtaq Arpt(YQC)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQC</code>
+    <DestinationName>Quaqtaq</DestinationName>
+    <DestinationStr>Quaqtaq(YQC)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQD</code>
+    <DestinationName>The Pas Municipal Arpt</DestinationName>
+    <DestinationStr>The Pas Municipal Arpt(YQD)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQD</code>
+    <DestinationName>The Pas</DestinationName>
+    <DestinationStr>The Pas(YQD)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQE</code>
+    <DestinationName>Kimberley</DestinationName>
+    <DestinationStr>Kimberley(YQE)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQF</code>
+    <DestinationName>Red Deer Regional Airport</DestinationName>
+    <DestinationStr>Red Deer Regional Airport(YQF)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQF</code>
+    <DestinationName>Red Deer</DestinationName>
+    <DestinationStr>Red Deer(YQF)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQG</code>
+    <DestinationName>Windsor Airport</DestinationName>
+    <DestinationStr>Windsor Airport(YQG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQG</code>
+    <DestinationName>Windsor</DestinationName>
+    <DestinationStr>Windsor(YQG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQH</code>
+    <DestinationName>Watson Lake Arpt</DestinationName>
+    <DestinationStr>Watson Lake Arpt(YQH)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQH</code>
+    <DestinationName>Watson Lake</DestinationName>
+    <DestinationStr>Watson Lake(YQH)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQI</code>
+    <DestinationName>Municipal Yarmouth</DestinationName>
+    <DestinationStr>Municipal Yarmouth(YQI)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQI</code>
+    <DestinationName>Yarmouth</DestinationName>
+    <DestinationStr>Yarmouth(YQI)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQK</code>
+    <DestinationName>Kenora Arpt</DestinationName>
+    <DestinationStr>Kenora Arpt(YQK)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQK</code>
+    <DestinationName>Kenora</DestinationName>
+    <DestinationStr>Kenora(YQK)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQL</code>
+    <DestinationName>Lethbridge County Airport</DestinationName>
+    <DestinationStr>Lethbridge County Airport(YQL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQL</code>
+    <DestinationName>Lethbridge</DestinationName>
+    <DestinationStr>Lethbridge(YQL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQM</code>
+    <DestinationName>Moncton Municipal</DestinationName>
+    <DestinationStr>Moncton Municipal(YQM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQM</code>
+    <DestinationName>Moncton</DestinationName>
+    <DestinationStr>Moncton(YQM)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>YQN</code>
+    <DestinationName>Nakina</DestinationName>
+    <DestinationStr>Nakina(YQN)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQQ</code>
+    <DestinationName>Comox Airport</DestinationName>
+    <DestinationStr>Comox Airport(YQQ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQQ</code>
+    <DestinationName>Comox</DestinationName>
+    <DestinationStr>Comox(YQQ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQQ</code>
+    <DestinationName>Royal Canadian Air Force Station</DestinationName>
+    <DestinationStr>Royal Canadian Air Force Station(YQQ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQR</code>
+    <DestinationName>Regina International Airport</DestinationName>
+    <DestinationStr>Regina International Airport(YQR)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQR</code>
+    <DestinationName>Regina</DestinationName>
+    <DestinationStr>Regina(YQR)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQS</code>
+    <DestinationName>Saint Thomas</DestinationName>
+    <DestinationStr>Saint Thomas(YQS)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQS</code>
+    <DestinationName>St Thomas Municipal Airport</DestinationName>
+    <DestinationStr>St Thomas Municipal Airport(YQS)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQS</code>
+    <DestinationName>St Thomas</DestinationName>
+    <DestinationStr>St Thomas(YQS)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQT</code>
+    <DestinationName>Thunder Bay International Arpt</DestinationName>
+    <DestinationStr>Thunder Bay International Arpt(YQT)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQT</code>
+    <DestinationName>Thunder Bay</DestinationName>
+    <DestinationStr>Thunder Bay(YQT)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQU</code>
+    <DestinationName>Grande Prairie Arpt</DestinationName>
+    <DestinationStr>Grande Prairie Arpt(YQU)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQU</code>
+    <DestinationName>Grande Prairie</DestinationName>
+    <DestinationStr>Grande Prairie(YQU)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQV</code>
+    <DestinationName>Yorkton Municipal Airport</DestinationName>
+    <DestinationStr>Yorkton Municipal Airport(YQV)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQV</code>
+    <DestinationName>Yorkton</DestinationName>
+    <DestinationStr>Yorkton(YQV)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQW</code>
+    <DestinationName>North Battleford Arpt</DestinationName>
+    <DestinationStr>North Battleford Arpt(YQW)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQW</code>
+    <DestinationName>North Battleford</DestinationName>
+    <DestinationStr>North Battleford(YQW)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQX</code>
+    <DestinationName>Gander International</DestinationName>
+    <DestinationStr>Gander International(YQX)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQX</code>
+    <DestinationName>Gander</DestinationName>
+    <DestinationStr>Gander(YQX)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQY</code>
+    <DestinationName>Sydney Airport</DestinationName>
+    <DestinationStr>Sydney Airport(YQY)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQY</code>
+    <DestinationName>Sydney</DestinationName>
+    <DestinationStr>Sydney(YQY)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQZ</code>
+    <DestinationName>Quesnel Arpt</DestinationName>
+    <DestinationStr>Quesnel Arpt(YQZ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQZ</code>
+    <DestinationName>Quesnel</DestinationName>
+    <DestinationStr>Quesnel(YQZ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YRB</code>
+    <DestinationName>Resolute Bay Airport</DestinationName>
+    <DestinationStr>Resolute Bay Airport(YRB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YRB</code>
+    <DestinationName>Resolute</DestinationName>
+    <DestinationStr>Resolute(YRB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YRF</code>
+    <DestinationName>Cartwright Arpt</DestinationName>
+    <DestinationStr>Cartwright Arpt(YRF)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YRF</code>
+    <DestinationName>Cartwright</DestinationName>
+    <DestinationStr>Cartwright(YRF)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YRG</code>
+    <DestinationName>Rigolet Arpt</DestinationName>
+    <DestinationStr>Rigolet Arpt(YRG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YRG</code>
+    <DestinationName>Rigolet</DestinationName>
+    <DestinationStr>Rigolet(YRG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YRI</code>
+    <DestinationName>Riviere Du Loup Arpt</DestinationName>
+    <DestinationStr>Riviere Du Loup Arpt(YRI)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YRI</code>
+    <DestinationName>Riviere Du Loup</DestinationName>
+    <DestinationStr>Riviere Du Loup(YRI)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YRJ</code>
+    <DestinationName>Roberval Airport</DestinationName>
+    <DestinationStr>Roberval Airport(YRJ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YRJ</code>
+    <DestinationName>Roberval</DestinationName>
+    <DestinationStr>Roberval(YRJ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YRL</code>
+    <DestinationName>Federal Red Lake</DestinationName>
+    <DestinationStr>Federal Red Lake(YRL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YRL</code>
+    <DestinationName>Red Lake</DestinationName>
+    <DestinationStr>Red Lake(YRL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YRM</code>
+    <DestinationName>Rocky Mountain House</DestinationName>
+    <DestinationStr>Rocky Mountain House(YRM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YRO</code>
+    <DestinationName>Rockcliffe St Arpt</DestinationName>
+    <DestinationStr>Rockcliffe St Arpt(YRO)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YRQ</code>
+    <DestinationName>Three Rivers Arpt</DestinationName>
+    <DestinationStr>Three Rivers Arpt(YRQ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YRQ</code>
+    <DestinationName>Trois Rivieres</DestinationName>
+    <DestinationStr>Trois Rivieres(YRQ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YRT</code>
+    <DestinationName>Rankin Inlet Arpt</DestinationName>
+    <DestinationStr>Rankin Inlet Arpt(YRT)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YRT</code>
+    <DestinationName>Rankin Inlet</DestinationName>
+    <DestinationStr>Rankin Inlet(YRT)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YRV</code>
+    <DestinationName>Revelstoke</DestinationName>
+    <DestinationStr>Revelstoke(YRV)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YSB</code>
+    <DestinationName>Sudbury Municipal Arpt</DestinationName>
+    <DestinationStr>Sudbury Municipal Arpt(YSB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YSB</code>
+    <DestinationName>Sudbury</DestinationName>
+    <DestinationStr>Sudbury(YSB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YSC</code>
+    <DestinationName>Sherbrooke Airport</DestinationName>
+    <DestinationStr>Sherbrooke Airport(YSC)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YSC</code>
+    <DestinationName>Sherbrooke</DestinationName>
+    <DestinationStr>Sherbrooke(YSC)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>YSH</code>
+    <DestinationName>Smith Falls</DestinationName>
+    <DestinationStr>Smith Falls(YSH)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YSJ</code>
+    <DestinationName>Saint John Municipal</DestinationName>
+    <DestinationStr>Saint John Municipal(YSJ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YSJ</code>
+    <DestinationName>Saint John</DestinationName>
+    <DestinationStr>Saint John(YSJ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YSJ</code>
+    <DestinationName>St John Municipal</DestinationName>
+    <DestinationStr>St John Municipal(YSJ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YSJ</code>
+    <DestinationName>St John</DestinationName>
+    <DestinationStr>St John(YSJ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YSK</code>
+    <DestinationName>Sanikiluaq Arpt</DestinationName>
+    <DestinationStr>Sanikiluaq Arpt(YSK)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YSK</code>
+    <DestinationName>Sanikiluaq</DestinationName>
+    <DestinationStr>Sanikiluaq(YSK)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YSL</code>
+    <DestinationName>Edmunston Arpt</DestinationName>
+    <DestinationStr>Edmunston Arpt(YSL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YSL</code>
+    <DestinationName>Saint Leonard</DestinationName>
+    <DestinationStr>Saint Leonard(YSL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YSL</code>
+    <DestinationName>St Leonard</DestinationName>
+    <DestinationStr>St Leonard(YSL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YSM</code>
+    <DestinationName>Fort Smith Municipal Arpt</DestinationName>
+    <DestinationStr>Fort Smith Municipal Arpt(YSM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YSM</code>
+    <DestinationName>Fort Smith</DestinationName>
+    <DestinationStr>Fort Smith(YSM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YSM</code>
+    <DestinationName>Ft Smith Municipal Arpt</DestinationName>
+    <DestinationStr>Ft Smith Municipal Arpt(YSM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YSM</code>
+    <DestinationName>Ft Smith</DestinationName>
+    <DestinationStr>Ft Smith(YSM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YSN</code>
+    <DestinationName>Salmon Arm Municipal</DestinationName>
+    <DestinationStr>Salmon Arm Municipal(YSN)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YSN</code>
+    <DestinationName>Salmon Arm</DestinationName>
+    <DestinationStr>Salmon Arm(YSN)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YSO</code>
+    <DestinationName>Postville Arpt</DestinationName>
+    <DestinationStr>Postville Arpt(YSO)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YSO</code>
+    <DestinationName>Postville</DestinationName>
+    <DestinationStr>Postville(YSO)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YSP</code>
+    <DestinationName>Marathon Municipal Arpt</DestinationName>
+    <DestinationStr>Marathon Municipal Arpt(YSP)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YSP</code>
+    <DestinationName>Marathon</DestinationName>
+    <DestinationStr>Marathon(YSP)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YSR</code>
+    <DestinationName>Nanisivik</DestinationName>
+    <DestinationStr>Nanisivik(YSR)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YST</code>
+    <DestinationName>Saint Therese Pt Municipal</DestinationName>
+    <DestinationStr>Saint Therese Pt Municipal(YST)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YST</code>
+    <DestinationName>Saint Theris Point</DestinationName>
+    <DestinationStr>Saint Theris Point(YST)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YST</code>
+    <DestinationName>St Therese Pt Municipal</DestinationName>
+    <DestinationStr>St Therese Pt Municipal(YST)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YST</code>
+    <DestinationName>St Theris Point</DestinationName>
+    <DestinationStr>St Theris Point(YST)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YSU</code>
+    <DestinationName>Summerside</DestinationName>
+    <DestinationStr>Summerside(YSU)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YTA</code>
+    <DestinationName>Pembroke Airport</DestinationName>
+    <DestinationStr>Pembroke Airport(YTA)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YTA</code>
+    <DestinationName>Pembroke</DestinationName>
+    <DestinationStr>Pembroke(YTA)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>YTD</code>
+    <DestinationName>Thicket Portage</DestinationName>
+    <DestinationStr>Thicket Portage(YTD)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YTE</code>
+    <DestinationName>Cape Dorset Arpt</DestinationName>
+    <DestinationStr>Cape Dorset Arpt(YTE)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YTE</code>
+    <DestinationName>Cape Dorset</DestinationName>
+    <DestinationStr>Cape Dorset(YTE)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YTF</code>
+    <DestinationName>Alma Municipal Arpt</DestinationName>
+    <DestinationStr>Alma Municipal Arpt(YTF)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YTF</code>
+    <DestinationName>Alma</DestinationName>
+    <DestinationStr>Alma(YTF)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YTH</code>
+    <DestinationName>Thompson Arpt</DestinationName>
+    <DestinationStr>Thompson Arpt(YTH)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YTH</code>
+    <DestinationName>Thompson</DestinationName>
+    <DestinationStr>Thompson(YTH)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YTJ</code>
+    <DestinationName>Terrace Bay Municipal Arpt</DestinationName>
+    <DestinationStr>Terrace Bay Municipal Arpt(YTJ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YTJ</code>
+    <DestinationName>Terrace Bay</DestinationName>
+    <DestinationStr>Terrace Bay(YTJ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YTL</code>
+    <DestinationName>Big Trout Arpt</DestinationName>
+    <DestinationStr>Big Trout Arpt(YTL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YTL</code>
+    <DestinationName>Big Trout</DestinationName>
+    <DestinationStr>Big Trout(YTL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YTM</code>
+    <DestinationName>International Airport</DestinationName>
+    <DestinationStr>International Airport(YTM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YTM</code>
+    <DestinationName>Mont Tremblant</DestinationName>
+    <DestinationStr>Mont Tremblant(YTM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YTO</code>
+    <DestinationName>Toronto</DestinationName>
+    <DestinationStr>Toronto(YTO)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YTP</code>
+    <DestinationName>Tofino Sea Plane Base</DestinationName>
+    <DestinationStr>Tofino Sea Plane Base(YTP)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YTQ</code>
+    <DestinationName>Tasiujaq Arpt</DestinationName>
+    <DestinationStr>Tasiujaq Arpt(YTQ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YTQ</code>
+    <DestinationName>Tasiujaq</DestinationName>
+    <DestinationStr>Tasiujaq(YTQ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YTQ</code>
+    <DestinationName>Tasiujuaq</DestinationName>
+    <DestinationStr>Tasiujuaq(YTQ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YTR</code>
+    <DestinationName>Trenton Municipal Arpt</DestinationName>
+    <DestinationStr>Trenton Municipal Arpt(YTR)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YTR</code>
+    <DestinationName>Trenton</DestinationName>
+    <DestinationStr>Trenton(YTR)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YTS</code>
+    <DestinationName>Timmins Victor M Power Airport</DestinationName>
+    <DestinationStr>Timmins Victor M Power Airport(YTS)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YTS</code>
+    <DestinationName>Timmins</DestinationName>
+    <DestinationStr>Timmins(YTS)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YTY</code>
+    <DestinationName>Yangzhou Taizhou Arpt</DestinationName>
+    <DestinationStr>Yangzhou Taizhou Arpt(YTY)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YTY</code>
+    <DestinationName>Yangzhou</DestinationName>
+    <DestinationStr>Yangzhou(YTY)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YTZ</code>
+    <DestinationName>Toronto Bishop Billy City Arpt</DestinationName>
+    <DestinationStr>Toronto Bishop Billy City Arpt(YTZ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YUB</code>
+    <DestinationName>Tuktoyaktuk Airport</DestinationName>
+    <DestinationStr>Tuktoyaktuk Airport(YUB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YUB</code>
+    <DestinationName>Tuktoyaktuk</DestinationName>
+    <DestinationStr>Tuktoyaktuk(YUB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YUD</code>
+    <DestinationName>Umiujaq Arpt</DestinationName>
+    <DestinationStr>Umiujaq Arpt(YUD)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YUD</code>
+    <DestinationName>Umiujaq</DestinationName>
+    <DestinationStr>Umiujaq(YUD)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>YUG</code>
+    <DestinationName>Yueyanng</DestinationName>
+    <DestinationStr>Yueyanng(YUG)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YUL</code>
+    <DestinationName>Pierre Elliott Trudeau Intl Arpt</DestinationName>
+    <DestinationStr>Pierre Elliott Trudeau Intl Arpt(YUL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YUM</code>
+    <DestinationName>Yuma Intl</DestinationName>
+    <DestinationStr>Yuma Intl(YUM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YUM</code>
+    <DestinationName>Yuma</DestinationName>
+    <DestinationStr>Yuma(YUM)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>YUX</code>
+    <DestinationName>Hall Beach Arpt</DestinationName>
+    <DestinationStr>Hall Beach Arpt(YUX)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YUX</code>
+    <DestinationName>Hall Beach</DestinationName>
+    <DestinationStr>Hall Beach(YUX)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YUY</code>
+    <DestinationName>Rouyn Noranda Arpt</DestinationName>
+    <DestinationStr>Rouyn Noranda Arpt(YUY)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YUY</code>
+    <DestinationName>Rouyn Noranda</DestinationName>
+    <DestinationStr>Rouyn Noranda(YUY)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YVA</code>
+    <DestinationName>Comoros</DestinationName>
+    <DestinationStr>Comoros(YVA)-Comoros</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YVA</code>
+    <DestinationName>Iconi Arpt</DestinationName>
+    <DestinationStr>Iconi Arpt(YVA)-Comoros</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YVA</code>
+    <DestinationName>Moroni</DestinationName>
+    <DestinationStr>Moroni(YVA)-Comoros</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YVB</code>
+    <DestinationName>Bonaventure</DestinationName>
+    <DestinationStr>Bonaventure(YVB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YVB</code>
+    <DestinationName>Municipal Bonaventure</DestinationName>
+    <DestinationStr>Municipal Bonaventure(YVB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YVC</code>
+    <DestinationName>Lac La Ronge</DestinationName>
+    <DestinationStr>Lac La Ronge(YVC)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YVE</code>
+    <DestinationName>Vernon Municipal Arpt</DestinationName>
+    <DestinationStr>Vernon Municipal Arpt(YVE)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YVE</code>
+    <DestinationName>Vernon</DestinationName>
+    <DestinationStr>Vernon(YVE)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YVG</code>
+    <DestinationName>Vermilion Arpt</DestinationName>
+    <DestinationStr>Vermilion Arpt(YVG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YVG</code>
+    <DestinationName>Vermilion</DestinationName>
+    <DestinationStr>Vermilion(YVG)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>YVH</code>
+    <DestinationName>Hjerkinn</DestinationName>
+    <DestinationStr>Hjerkinn(YVH)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YVK</code>
+    <DestinationName>Koppang</DestinationName>
+    <DestinationStr>Koppang(YVK)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YVM</code>
+    <DestinationName>Qikiqtarjuaq Arpt</DestinationName>
+    <DestinationStr>Qikiqtarjuaq Arpt(YVM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YVM</code>
+    <DestinationName>Qikiqtarjuaq</DestinationName>
+    <DestinationStr>Qikiqtarjuaq(YVM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YVO</code>
+    <DestinationName>Val d Or Municipal Arpt</DestinationName>
+    <DestinationStr>Val d Or Municipal Arpt(YVO)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YVO</code>
+    <DestinationName>Val D Or</DestinationName>
+    <DestinationStr>Val D Or(YVO)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YVP</code>
+    <DestinationName>Kuujjuaq Arpt</DestinationName>
+    <DestinationStr>Kuujjuaq Arpt(YVP)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YVP</code>
+    <DestinationName>Kuujjuaq</DestinationName>
+    <DestinationStr>Kuujjuaq(YVP)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YVQ</code>
+    <DestinationName>Norman Wells Municipal Arpt</DestinationName>
+    <DestinationStr>Norman Wells Municipal Arpt(YVQ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YVQ</code>
+    <DestinationName>Norman Wells</DestinationName>
+    <DestinationStr>Norman Wells(YVQ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YVR</code>
+    <DestinationName>Vancouver Intl Arpt</DestinationName>
+    <DestinationStr>Vancouver Intl Arpt(YVR)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YVR</code>
+    <DestinationName>Vancouver</DestinationName>
+    <DestinationStr>Vancouver(YVR)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YVS</code>
+    <DestinationName>Ski Norway</DestinationName>
+    <DestinationStr>Ski Norway(YVS)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>YVZ</code>
+    <DestinationName>Deer Lake Arpt</DestinationName>
+    <DestinationStr>Deer Lake Arpt(YVZ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YVZ</code>
+    <DestinationName>Deer Lake</DestinationName>
+    <DestinationStr>Deer Lake(YVZ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YWA</code>
+    <DestinationName>Petawawa</DestinationName>
+    <DestinationStr>Petawawa(YWA)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YWB</code>
+    <DestinationName>Kangiqsujuaq Arpt</DestinationName>
+    <DestinationStr>Kangiqsujuaq Arpt(YWB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YWB</code>
+    <DestinationName>Kangiqsujuaq</DestinationName>
+    <DestinationStr>Kangiqsujuaq(YWB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YWF</code>
+    <DestinationName>Dwtown Waterfront Heliport</DestinationName>
+    <DestinationStr>Dwtown Waterfront Heliport(YWF)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YWG</code>
+    <DestinationName>J A Richardson Intl Arpt</DestinationName>
+    <DestinationStr>J A Richardson Intl Arpt(YWG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YWG</code>
+    <DestinationName>Winnipeg Intl Arpt</DestinationName>
+    <DestinationStr>Winnipeg Intl Arpt(YWG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YWG</code>
+    <DestinationName>Winnipeg</DestinationName>
+    <DestinationStr>Winnipeg(YWG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YWH</code>
+    <DestinationName>Inner Harbor Sea Plane Arpt</DestinationName>
+    <DestinationStr>Inner Harbor Sea Plane Arpt(YWH)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YWH</code>
+    <DestinationName>Victoria Harbour</DestinationName>
+    <DestinationStr>Victoria Harbour(YWH)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YWK</code>
+    <DestinationName>Wabush Arpt</DestinationName>
+    <DestinationStr>Wabush Arpt(YWK)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YWK</code>
+    <DestinationName>Wabush</DestinationName>
+    <DestinationStr>Wabush(YWK)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YWL</code>
+    <DestinationName>Williams Lake Municipal</DestinationName>
+    <DestinationStr>Williams Lake Municipal(YWL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YWL</code>
+    <DestinationName>Williams Lake</DestinationName>
+    <DestinationStr>Williams Lake(YWL)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>YWR</code>
+    <DestinationName>White River</DestinationName>
+    <DestinationStr>White River(YWR)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YWS</code>
+    <DestinationName>Whistler Arpt</DestinationName>
+    <DestinationStr>Whistler Arpt(YWS)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YWS</code>
+    <DestinationName>Whistler</DestinationName>
+    <DestinationStr>Whistler(YWS)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXC</code>
+    <DestinationName>Cranbrook Municipal</DestinationName>
+    <DestinationStr>Cranbrook Municipal(YXC)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXC</code>
+    <DestinationName>Cranbrook</DestinationName>
+    <DestinationStr>Cranbrook(YXC)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXD</code>
+    <DestinationName>Edmonton City Centre Airport</DestinationName>
+    <DestinationStr>Edmonton City Centre Airport(YXD)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXE</code>
+    <DestinationName>J G Diefenbaker Intl</DestinationName>
+    <DestinationStr>J G Diefenbaker Intl(YXE)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXE</code>
+    <DestinationName>Saskatoon International Airport</DestinationName>
+    <DestinationStr>Saskatoon International Airport(YXE)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXE</code>
+    <DestinationName>Saskatoon</DestinationName>
+    <DestinationStr>Saskatoon(YXE)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXH</code>
+    <DestinationName>Medicine Hat Airport</DestinationName>
+    <DestinationStr>Medicine Hat Airport(YXH)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXH</code>
+    <DestinationName>Medicine Hat</DestinationName>
+    <DestinationStr>Medicine Hat(YXH)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXJ</code>
+    <DestinationName>Fort St John Municipal Arpt</DestinationName>
+    <DestinationStr>Fort St John Municipal Arpt(YXJ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXJ</code>
+    <DestinationName>Fort St John</DestinationName>
+    <DestinationStr>Fort St John(YXJ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXJ</code>
+    <DestinationName>Ft St John Municipal Arpt</DestinationName>
+    <DestinationStr>Ft St John Municipal Arpt(YXJ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXJ</code>
+    <DestinationName>Ft St John</DestinationName>
+    <DestinationStr>Ft St John(YXJ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXK</code>
+    <DestinationName>Rimouski Municipal Arpt</DestinationName>
+    <DestinationStr>Rimouski Municipal Arpt(YXK)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXK</code>
+    <DestinationName>Rimouski</DestinationName>
+    <DestinationStr>Rimouski(YXK)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXL</code>
+    <DestinationName>Sioux Lookout Arpt</DestinationName>
+    <DestinationStr>Sioux Lookout Arpt(YXL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXL</code>
+    <DestinationName>Sioux Lookout</DestinationName>
+    <DestinationStr>Sioux Lookout(YXL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXN</code>
+    <DestinationName>Whale Cove Arpt</DestinationName>
+    <DestinationStr>Whale Cove Arpt(YXN)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXN</code>
+    <DestinationName>Whale Cove</DestinationName>
+    <DestinationStr>Whale Cove(YXN)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXP</code>
+    <DestinationName>Pangnirtung Arpt</DestinationName>
+    <DestinationStr>Pangnirtung Arpt(YXP)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXP</code>
+    <DestinationName>Pangnirtung</DestinationName>
+    <DestinationStr>Pangnirtung(YXP)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXQ</code>
+    <DestinationName>Beaver Creek</DestinationName>
+    <DestinationStr>Beaver Creek(YXQ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXR</code>
+    <DestinationName>Earlton</DestinationName>
+    <DestinationStr>Earlton(YXR)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXS</code>
+    <DestinationName>Prince George Municipal</DestinationName>
+    <DestinationStr>Prince George Municipal(YXS)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXS</code>
+    <DestinationName>Prince George</DestinationName>
+    <DestinationStr>Prince George(YXS)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXT</code>
+    <DestinationName>Terrace Municipal Arpt</DestinationName>
+    <DestinationStr>Terrace Municipal Arpt(YXT)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXT</code>
+    <DestinationName>Terrace</DestinationName>
+    <DestinationStr>Terrace(YXT)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXU</code>
+    <DestinationName>London International</DestinationName>
+    <DestinationStr>London International(YXU)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXU</code>
+    <DestinationName>London</DestinationName>
+    <DestinationStr>London(YXU)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXX</code>
+    <DestinationName>Abbotsford Arpt</DestinationName>
+    <DestinationStr>Abbotsford Arpt(YXX)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXX</code>
+    <DestinationName>Abbotsford</DestinationName>
+    <DestinationStr>Abbotsford(YXX)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXY</code>
+    <DestinationName>Whitehorse Arpt</DestinationName>
+    <DestinationStr>Whitehorse Arpt(YXY)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXY</code>
+    <DestinationName>Whitehorse</DestinationName>
+    <DestinationStr>Whitehorse(YXY)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXZ</code>
+    <DestinationName>Municipal Wawa</DestinationName>
+    <DestinationStr>Municipal Wawa(YXZ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXZ</code>
+    <DestinationName>Wawa</DestinationName>
+    <DestinationStr>Wawa(YXZ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYB</code>
+    <DestinationName>North Bay Municipal</DestinationName>
+    <DestinationStr>North Bay Municipal(YYB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYB</code>
+    <DestinationName>North Bay</DestinationName>
+    <DestinationStr>North Bay(YYB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYC</code>
+    <DestinationName>Calgary Intl Arpt</DestinationName>
+    <DestinationStr>Calgary Intl Arpt(YYC)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYC</code>
+    <DestinationName>Calgary</DestinationName>
+    <DestinationStr>Calgary(YYC)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYD</code>
+    <DestinationName>Smithers Municipal</DestinationName>
+    <DestinationStr>Smithers Municipal(YYD)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYD</code>
+    <DestinationName>Smithers</DestinationName>
+    <DestinationStr>Smithers(YYD)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYE</code>
+    <DestinationName>Fort Nelson Municipal Arpt</DestinationName>
+    <DestinationStr>Fort Nelson Municipal Arpt(YYE)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYE</code>
+    <DestinationName>Fort Nelson</DestinationName>
+    <DestinationStr>Fort Nelson(YYE)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYE</code>
+    <DestinationName>Ft Nelson Municipal Arpt</DestinationName>
+    <DestinationStr>Ft Nelson Municipal Arpt(YYE)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYE</code>
+    <DestinationName>Ft Nelson</DestinationName>
+    <DestinationStr>Ft Nelson(YYE)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYF</code>
+    <DestinationName>Penticton Municipal Arpt</DestinationName>
+    <DestinationStr>Penticton Municipal Arpt(YYF)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYF</code>
+    <DestinationName>Penticton</DestinationName>
+    <DestinationStr>Penticton(YYF)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYG</code>
+    <DestinationName>Charlottetown Municipal</DestinationName>
+    <DestinationStr>Charlottetown Municipal(YYG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYG</code>
+    <DestinationName>Charlottetown</DestinationName>
+    <DestinationStr>Charlottetown(YYG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYH</code>
+    <DestinationName>Taloyoak Arpt</DestinationName>
+    <DestinationStr>Taloyoak Arpt(YYH)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYH</code>
+    <DestinationName>Taloyoak</DestinationName>
+    <DestinationStr>Taloyoak(YYH)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>YYI</code>
+    <DestinationName>Rivers</DestinationName>
+    <DestinationStr>Rivers(YYI)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYJ</code>
+    <DestinationName>Victoria Intl Arpt</DestinationName>
+    <DestinationStr>Victoria Intl Arpt(YYJ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYJ</code>
+    <DestinationName>Victoria</DestinationName>
+    <DestinationStr>Victoria(YYJ)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>YYL</code>
+    <DestinationName>Lynn Lake</DestinationName>
+    <DestinationStr>Lynn Lake(YYL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYM</code>
+    <DestinationName>Cowley</DestinationName>
+    <DestinationStr>Cowley(YYM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYN</code>
+    <DestinationName>Swift Current Arpt</DestinationName>
+    <DestinationStr>Swift Current Arpt(YYN)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYN</code>
+    <DestinationName>Swift Current</DestinationName>
+    <DestinationStr>Swift Current(YYN)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYQ</code>
+    <DestinationName>Churchill Airport</DestinationName>
+    <DestinationStr>Churchill Airport(YYQ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYQ</code>
+    <DestinationName>Churchill</DestinationName>
+    <DestinationStr>Churchill(YYQ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYR</code>
+    <DestinationName>Goose Bay</DestinationName>
+    <DestinationStr>Goose Bay(YYR)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYR</code>
+    <DestinationName>Municipal Goose Bay</DestinationName>
+    <DestinationStr>Municipal Goose Bay(YYR)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYT</code>
+    <DestinationName>Saint Johns Arpt</DestinationName>
+    <DestinationStr>Saint Johns Arpt(YYT)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYT</code>
+    <DestinationName>Saint Johns</DestinationName>
+    <DestinationStr>Saint Johns(YYT)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYT</code>
+    <DestinationName>St Johns Arpt</DestinationName>
+    <DestinationStr>St Johns Arpt(YYT)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYT</code>
+    <DestinationName>St Johns</DestinationName>
+    <DestinationStr>St Johns(YYT)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYU</code>
+    <DestinationName>Kapuskasing Municipal Arpt</DestinationName>
+    <DestinationStr>Kapuskasing Municipal Arpt(YYU)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYU</code>
+    <DestinationName>Kapuskasing</DestinationName>
+    <DestinationStr>Kapuskasing(YYU)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYW</code>
+    <DestinationName>Armstromg</DestinationName>
+    <DestinationStr>Armstromg(YYW)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>YYY</code>
+    <DestinationName>Mont Joli Arpt</DestinationName>
+    <DestinationStr>Mont Joli Arpt(YYY)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYY</code>
+    <DestinationName>Mont Joli</DestinationName>
+    <DestinationStr>Mont Joli(YYY)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYZ</code>
+    <DestinationName>Lester B Pearson Intl</DestinationName>
+    <DestinationStr>Lester B Pearson Intl(YYZ)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>YZA</code>
+    <DestinationName>Ashcroft</DestinationName>
+    <DestinationStr>Ashcroft(YZA)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YZE</code>
+    <DestinationName>Gore Bay</DestinationName>
+    <DestinationStr>Gore Bay(YZE)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YZF</code>
+    <DestinationName>Yellowknife Arpt</DestinationName>
+    <DestinationStr>Yellowknife Arpt(YZF)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YZF</code>
+    <DestinationName>Yellowknife</DestinationName>
+    <DestinationStr>Yellowknife(YZF)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YZG</code>
+    <DestinationName>Salluit Arpt</DestinationName>
+    <DestinationStr>Salluit Arpt(YZG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YZG</code>
+    <DestinationName>Salluit</DestinationName>
+    <DestinationStr>Salluit(YZG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YZH</code>
+    <DestinationName>Slave Lake</DestinationName>
+    <DestinationStr>Slave Lake(YZH)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YZP</code>
+    <DestinationName>Federal Airport</DestinationName>
+    <DestinationStr>Federal Airport(YZP)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YZP</code>
+    <DestinationName>Sandspit</DestinationName>
+    <DestinationStr>Sandspit(YZP)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YZR</code>
+    <DestinationName>Sarnia Chris Hadfield Airport</DestinationName>
+    <DestinationStr>Sarnia Chris Hadfield Airport(YZR)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YZR</code>
+    <DestinationName>Sarnia</DestinationName>
+    <DestinationStr>Sarnia(YZR)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YZS</code>
+    <DestinationName>Coral Harbour Arpt</DestinationName>
+    <DestinationStr>Coral Harbour Arpt(YZS)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YZS</code>
+    <DestinationName>Coral Harbour</DestinationName>
+    <DestinationStr>Coral Harbour(YZS)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YZT</code>
+    <DestinationName>Port Hardy Municipal</DestinationName>
+    <DestinationStr>Port Hardy Municipal(YZT)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YZT</code>
+    <DestinationName>Port Hardy</DestinationName>
+    <DestinationStr>Port Hardy(YZT)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YZU</code>
+    <DestinationName>Whitecourt</DestinationName>
+    <DestinationStr>Whitecourt(YZU)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YZV</code>
+    <DestinationName>Sept Iles Municipal Arpt</DestinationName>
+    <DestinationStr>Sept Iles Municipal Arpt(YZV)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YZV</code>
+    <DestinationName>Sept Iles</DestinationName>
+    <DestinationStr>Sept Iles(YZV)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YZX</code>
+    <DestinationName>Greenwood Arpt</DestinationName>
+    <DestinationStr>Greenwood Arpt(YZX)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YZX</code>
+    <DestinationName>Greenwood</DestinationName>
+    <DestinationStr>Greenwood(YZX)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YZZ</code>
+    <DestinationName>Trail Arpt</DestinationName>
+    <DestinationStr>Trail Arpt(YZZ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YZZ</code>
+    <DestinationName>Trail</DestinationName>
+    <DestinationStr>Trail(YZZ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZLJ</code>
+    <DestinationName>Yverdon Les Bains</DestinationName>
+    <DestinationStr>Yverdon Les Bains(ZLJ)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZLJ</code>
+    <DestinationName>Yverdon</DestinationName>
+    <DestinationStr>Yverdon(ZLJ)-Switzerland</DestinationStr>
+  </Destination>  
+</DestinationRoot>

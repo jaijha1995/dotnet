@@ -1,0 +1,2817 @@
+﻿<DestinationRoot>
+  <Destination>
+    <code>NORESULT</code>
+    <DestinationName>NORESULT</DestinationName>
+    <DestinationStr>No Result Found</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AQP</code>
+    <DestinationName>Rodriguez Ballon Intl</DestinationName>
+    <DestinationStr>Rodriguez Ballon Intl(AQP)-Peru</DestinationStr>
+  </Destination>
+  <!--<Destination>
+    <code>ATQ</code>
+    <DestinationName>Raja Sansi Arpt</DestinationName>
+    <DestinationStr>Raja Sansi Arpt(ATQ)-India</DestinationStr>
+  </Destination>-->
+  <Destination>
+    <code>AUA</code>
+    <DestinationName>Reina Beatrix Arpt</DestinationName>
+    <DestinationStr>Reina Beatrix Arpt(AUA)-Aruba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BEH</code>
+    <DestinationName>Ross Field</DestinationName>
+    <DestinationStr>Ross Field(BEH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BEK</code>
+    <DestinationName>Rae Bareli</DestinationName>
+    <DestinationStr>Rae Bareli(BEK)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BHJ</code>
+    <DestinationName>Rudra Mata Arpt</DestinationName>
+    <DestinationStr>Rudra Mata Arpt(BHJ)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BHO</code>
+    <DestinationName>Raja Bhoj Arpt</DestinationName>
+    <DestinationStr>Raja Bhoj Arpt(BHO)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BHS</code>
+    <DestinationName>Raglan Airport</DestinationName>
+    <DestinationStr>Raglan Airport(BHS)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BKW</code>
+    <DestinationName>Raleigh Cty Memorial</DestinationName>
+    <DestinationStr>Raleigh Cty Memorial(BKW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BQN</code>
+    <DestinationName>Rafael Hernandez Arpt</DestinationName>
+    <DestinationStr>Rafael Hernandez Arpt(BQN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BTR</code>
+    <DestinationName>Ryan Airport</DestinationName>
+    <DestinationStr>Ryan Airport(BTR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BVC</code>
+    <DestinationName>Rabil Arpt</DestinationName>
+    <DestinationStr>Rabil Arpt(BVC)-Cape Verde, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CRX</code>
+    <DestinationName>Roscoe Turner Arpt</DestinationName>
+    <DestinationStr>Roscoe Turner Arpt(CRX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CTG</code>
+    <DestinationName>Rafael Nunez Arpt</DestinationName>
+    <DestinationStr>Rafael Nunez Arpt(CTG)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DCA</code>
+    <DestinationName>Ronald Reagan National Arpt</DestinationName>
+    <DestinationStr>Ronald Reagan National Arpt(DCA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DCF</code>
+    <DestinationName>Roseau</DestinationName>
+    <DestinationStr>Roseau(DCF)-Dominica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DND</code>
+    <DestinationName>Riverside Park Arpt</DestinationName>
+    <DestinationStr>Riverside Park Arpt(DND)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>EGC</code>
+    <DestinationName>Roumaniere Arpt</DestinationName>
+    <DestinationStr>Roumaniere Arpt(EGC)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EHT</code>
+    <DestinationName>Rentschler Arpt</DestinationName>
+    <DestinationStr>Rentschler Arpt(EHT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EKN</code>
+    <DestinationName>Randolph County Arpt</DestinationName>
+    <DestinationStr>Randolph County Arpt(EKN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FRG</code>
+    <DestinationName>Republic Arpt</DestinationName>
+    <DestinationStr>Republic Arpt(FRG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FSD</code>
+    <DestinationName>Regional Joe Foss Field</DestinationName>
+    <DestinationStr>Regional Joe Foss Field(FSD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GDN</code>
+    <DestinationName>Rebiechowo</DestinationName>
+    <DestinationStr>Rebiechowo(GDN)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GER</code>
+    <DestinationName>Rafael Cabrera Arpt</DestinationName>
+    <DestinationStr>Rafael Cabrera Arpt(GER)-Cuba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GIG</code>
+    <DestinationName>Rio Internacional</DestinationName>
+    <DestinationStr>Rio Internacional(GIG)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HCS</code>
+    <DestinationName>Randburg Heliport</DestinationName>
+    <DestinationStr>Randburg Heliport(HCS)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HRL</code>
+    <DestinationName>Rio Grande Valley Intl Arpt</DestinationName>
+    <DestinationStr>Rio Grande Valley Intl Arpt(HRL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HUA</code>
+    <DestinationName>Redstone AAF</DestinationName>
+    <DestinationStr>Redstone AAF(HUA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HYD</code>
+    <DestinationName>Rajiv Gandhi Intl</DestinationName>
+    <DestinationStr>Rajiv Gandhi Intl(HYD)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IES</code>
+    <DestinationName>Riesa</DestinationName>
+    <DestinationStr>Riesa(IES)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IOM</code>
+    <DestinationName>Ronaldsway Arpt</DestinationName>
+    <DestinationStr>Ronaldsway Arpt(IOM)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>IXR</code>
+    <DestinationName>Ranchi</DestinationName>
+    <DestinationStr>Ranchi(IXR)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IZA</code>
+    <DestinationName>Reg Da Zona da Mata Arpt</DestinationName>
+    <DestinationStr>Reg Da Zona da Mata Arpt(IZA)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JDO</code>
+    <DestinationName>Regional Do Cariri Arpt</DestinationName>
+    <DestinationStr>Regional Do Cariri Arpt(JDO)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JRC</code>
+    <DestinationName>Rochester Charlton Building Heliport</DestinationName>
+    <DestinationStr>Rochester Charlton Building Heliport(JRC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JRH</code>
+    <DestinationName>Rowriah Arpt</DestinationName>
+    <DestinationStr>Rowriah Arpt(JRH)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JVL</code>
+    <DestinationName>Rock County Arpt</DestinationName>
+    <DestinationStr>Rock County Arpt(JVL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KEF</code>
+    <DestinationName>Reykjavik Keflavik Intl Arpt</DestinationName>
+    <DestinationStr>Reykjavik Keflavik Intl Arpt(KEF)-Iceland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KGL</code>
+    <DestinationName>Rwanda</DestinationName>
+    <DestinationStr>Rwanda(KGL)-Rwanda</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KRH</code>
+    <DestinationName>Redhill</DestinationName>
+    <DestinationStr>Redhill(KRH)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LCF</code>
+    <DestinationName>Rio Dulce</DestinationName>
+    <DestinationStr>Rio Dulce(LCF)-Guatemala</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LCK</code>
+    <DestinationName>Rickenbacker Intl Arpt</DestinationName>
+    <DestinationStr>Rickenbacker Intl Arpt(LCK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MGF</code>
+    <DestinationName>Regional De Maringa Arpt</DestinationName>
+    <DestinationStr>Regional De Maringa Arpt(MGF)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MKW</code>
+    <DestinationName>Rendani Arpt</DestinationName>
+    <DestinationStr>Rendani Arpt(MKW)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MQN</code>
+    <DestinationName>Rossvoll</DestinationName>
+    <DestinationStr>Rossvoll(MQN)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MSS</code>
+    <DestinationName>Richards Field</DestinationName>
+    <DestinationStr>Richards Field(MSS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MXL</code>
+    <DestinationName>R Sachez Taboada International</DestinationName>
+    <DestinationStr>R Sachez Taboada International(MXL)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MZT</code>
+    <DestinationName>Rafael Buelina International</DestinationName>
+    <DestinationStr>Rafael Buelina International(MZT)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NDU</code>
+    <DestinationName>Rundu Airport</DestinationName>
+    <DestinationStr>Rundu Airport(NDU)-Namibia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NDU</code>
+    <DestinationName>Rundu</DestinationName>
+    <DestinationStr>Rundu(NDU)-Namibia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NQU</code>
+    <DestinationName>Reyes Murillo Arpt</DestinationName>
+    <DestinationStr>Reyes Murillo Arpt(NQU)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OHA</code>
+    <DestinationName>Royal Air Force Base Airport</DestinationName>
+    <DestinationStr>Royal Air Force Base Airport(OHA)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OTZ</code>
+    <DestinationName>Ralph Wien Memorial</DestinationName>
+    <DestinationStr>Ralph Wien Memorial(OTZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PIO</code>
+    <DestinationName>Renan Elias Olivera arpt</DestinationName>
+    <DestinationStr>Renan Elias Olivera arpt(PIO)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PLH</code>
+    <DestinationName>Roborough Arpt</DestinationName>
+    <DestinationStr>Roborough Arpt(PLH)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PRG</code>
+    <DestinationName>Ruzyne Arpt</DestinationName>
+    <DestinationStr>Ruzyne Arpt(PRG)-Czech Republic</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PUT</code>
+    <DestinationName>RAE BARELI</DestinationName>
+    <DestinationStr>RAE BARELI(PUT)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QIQ</code>
+    <DestinationName>Rio Claro</DestinationName>
+    <DestinationStr>Rio Claro(QIQ)-Brazil</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QQR</code>
+    <DestinationName>Ramsgate</DestinationName>
+    <DestinationStr>Ramsgate(QQR)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QRA</code>
+    <DestinationName>Randgermiston Arpt</DestinationName>
+    <DestinationStr>Randgermiston Arpt(QRA)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QRB</code>
+    <DestinationName>Ravensburg</DestinationName>
+    <DestinationStr>Ravensburg(QRB)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QRC</code>
+    <DestinationName>Rancagua</DestinationName>
+    <DestinationStr>Rancagua(QRC)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QRG</code>
+    <DestinationName>Ragusa</DestinationName>
+    <DestinationStr>Ragusa(QRG)-Italy</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QRI</code>
+    <DestinationName>Rize</DestinationName>
+    <DestinationStr>Rize(QRI)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QRT</code>
+    <DestinationName>Rieti</DestinationName>
+    <DestinationStr>Rieti(QRT)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QTK</code>
+    <DestinationName>Rothenburg</DestinationName>
+    <DestinationStr>Rothenburg(QTK)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QXR</code>
+    <DestinationName>Radom</DestinationName>
+    <DestinationStr>Radom(QXR)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QZU</code>
+    <DestinationName>Rauma</DestinationName>
+    <DestinationStr>Rauma(QZU)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RAB</code>
+    <DestinationName>Rabaul</DestinationName>
+    <DestinationStr>Rabaul(RAB)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RAB</code>
+    <DestinationName>Tokua Arpt</DestinationName>
+    <DestinationStr>Tokua Arpt(RAB)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RAC</code>
+    <DestinationName>Horlick Arpt</DestinationName>
+    <DestinationStr>Horlick Arpt(RAC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RAC</code>
+    <DestinationName>Racine</DestinationName>
+    <DestinationStr>Racine(RAC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RAD</code>
+    <DestinationName>Tortola Road Town SPB</DestinationName>
+    <DestinationStr>Tortola Road Town SPB(RAD)-British Virgin Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RAE</code>
+    <DestinationName>Arar Airport</DestinationName>
+    <DestinationStr>Arar Airport(RAE)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RAE</code>
+    <DestinationName>Arar</DestinationName>
+    <DestinationStr>Arar(RAE)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RAH</code>
+    <DestinationName>Rafha</DestinationName>
+    <DestinationStr>Rafha(RAH)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RAI</code>
+    <DestinationName>Francisco Mendes</DestinationName>
+    <DestinationStr>Francisco Mendes(RAI)-Cape Verde, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RAI</code>
+    <DestinationName>Praia</DestinationName>
+    <DestinationStr>Praia(RAI)-Cape Verde, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RAJ</code>
+    <DestinationName>Rajkot Civil Arpt</DestinationName>
+    <DestinationStr>Rajkot Civil Arpt(RAJ)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RAJ</code>
+    <DestinationName>Rajkot</DestinationName>
+    <DestinationStr>Rajkot(RAJ)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RAK</code>
+    <DestinationName>Marrakech</DestinationName>
+    <DestinationStr>Marrakech(RAK)-Morocco</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RAK</code>
+    <DestinationName>Menara Airport</DestinationName>
+    <DestinationStr>Menara Airport(RAK)-Morocco</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RAL</code>
+    <DestinationName>Riverside Municipal</DestinationName>
+    <DestinationStr>Riverside Municipal(RAL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RAL</code>
+    <DestinationName>Riverside</DestinationName>
+    <DestinationStr>Riverside(RAL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RAM</code>
+    <DestinationName>Ramingining</DestinationName>
+    <DestinationStr>Ramingining(RAM)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RAN</code>
+    <DestinationName>Ravenna</DestinationName>
+    <DestinationStr>Ravenna(RAN)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RAO</code>
+    <DestinationName>Leite Lopes</DestinationName>
+    <DestinationStr>Leite Lopes(RAO)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RAO</code>
+    <DestinationName>Ribeirao Preto</DestinationName>
+    <DestinationStr>Ribeirao Preto(RAO)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RAP</code>
+    <DestinationName>Rapid City Regional Arpt</DestinationName>
+    <DestinationStr>Rapid City Regional Arpt(RAP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RAP</code>
+    <DestinationName>Rapid City</DestinationName>
+    <DestinationStr>Rapid City(RAP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RAQ</code>
+    <DestinationName>Raha</DestinationName>
+    <DestinationStr>Raha(RAQ)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RAR</code>
+    <DestinationName>Rarotonga Arpt</DestinationName>
+    <DestinationStr>Rarotonga Arpt(RAR)-Cook Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RAR</code>
+    <DestinationName>Rarotonga</DestinationName>
+    <DestinationStr>Rarotonga(RAR)-Cook Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RAS</code>
+    <DestinationName>Rasht</DestinationName>
+    <DestinationStr>Rasht(RAS)-Iran</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RAW</code>
+    <DestinationName>Arawa</DestinationName>
+    <DestinationStr>Arawa(RAW)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RAY</code>
+    <DestinationName>Rothesay Heliport</DestinationName>
+    <DestinationStr>Rothesay Heliport(RAY)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RAY</code>
+    <DestinationName>Rothesay</DestinationName>
+    <DestinationStr>Rothesay(RAY)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RBA</code>
+    <DestinationName>Rabat</DestinationName>
+    <DestinationStr>Rabat(RBA)-Morocco</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RBA</code>
+    <DestinationName>Sale Airport</DestinationName>
+    <DestinationStr>Sale Airport(RBA)-Morocco</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RBD</code>
+    <DestinationName>Redbirdarpt</DestinationName>
+    <DestinationStr>Redbirdarpt(RBD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RBF</code>
+    <DestinationName>Big Bear City Arpt</DestinationName>
+    <DestinationStr>Big Bear City Arpt(RBF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RBF</code>
+    <DestinationName>Big Bear City</DestinationName>
+    <DestinationStr>Big Bear City(RBF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RBG</code>
+    <DestinationName>Roseburg Municipal</DestinationName>
+    <DestinationStr>Roseburg Municipal(RBG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RBG</code>
+    <DestinationName>Roseburg</DestinationName>
+    <DestinationStr>Roseburg(RBG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RBI</code>
+    <DestinationName>Rabi</DestinationName>
+    <DestinationStr>Rabi(RBI)-Fiji Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RBJ</code>
+    <DestinationName>Rebun</DestinationName>
+    <DestinationStr>Rebun(RBJ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RBK</code>
+    <DestinationName>French Valley</DestinationName>
+    <DestinationStr>French Valley(RBK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RBL</code>
+    <DestinationName>Flight Service Station</DestinationName>
+    <DestinationStr>Flight Service Station(RBL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RBM</code>
+    <DestinationName>Straubing</DestinationName>
+    <DestinationStr>Straubing(RBM)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RBM</code>
+    <DestinationName>Wallmuhle</DestinationName>
+    <DestinationStr>Wallmuhle(RBM)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RBP</code>
+    <DestinationName>Rabaraba</DestinationName>
+    <DestinationStr>Rabaraba(RBP)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RBQ</code>
+    <DestinationName>Rurrenabaque</DestinationName>
+    <DestinationStr>Rurrenabaque(RBQ)-Bolivia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RBR</code>
+    <DestinationName>Pres Medici Arpt</DestinationName>
+    <DestinationStr>Pres Medici Arpt(RBR)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RBR</code>
+    <DestinationName>Rio Branco</DestinationName>
+    <DestinationStr>Rio Branco(RBR)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RBW</code>
+    <DestinationName>Walterboro Municipal Arpt</DestinationName>
+    <DestinationStr>Walterboro Municipal Arpt(RBW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RBW</code>
+    <DestinationName>Walterboro</DestinationName>
+    <DestinationStr>Walterboro(RBW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RBY</code>
+    <DestinationName>Ruby</DestinationName>
+    <DestinationStr>Ruby(RBY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RCA</code>
+    <DestinationName>Ellsworth Airforce Base</DestinationName>
+    <DestinationStr>Ellsworth Airforce Base(RCA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RCB</code>
+    <DestinationName>Richards Bay Arpt</DestinationName>
+    <DestinationStr>Richards Bay Arpt(RCB)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RCB</code>
+    <DestinationName>Richards Bay</DestinationName>
+    <DestinationStr>Richards Bay(RCB)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RCE</code>
+    <DestinationName>Roche Harbor Arpt</DestinationName>
+    <DestinationStr>Roche Harbor Arpt(RCE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RCE</code>
+    <DestinationName>Roche Harbor</DestinationName>
+    <DestinationStr>Roche Harbor(RCE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RCH</code>
+    <DestinationName>Aimirante Padilla Arpt</DestinationName>
+    <DestinationStr>Aimirante Padilla Arpt(RCH)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RCH</code>
+    <DestinationName>Riohacha</DestinationName>
+    <DestinationStr>Riohacha(RCH)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RCM</code>
+    <DestinationName>Richmond Arpt</DestinationName>
+    <DestinationStr>Richmond Arpt(RCM)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RCM</code>
+    <DestinationName>Richmond</DestinationName>
+    <DestinationStr>Richmond(RCM)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RCO</code>
+    <DestinationName>Rochefort</DestinationName>
+    <DestinationStr>Rochefort(RCO)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RCO</code>
+    <DestinationName>Saint Agnant Arpt</DestinationName>
+    <DestinationStr>Saint Agnant Arpt(RCO)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RCO</code>
+    <DestinationName>St Agnant Arpt</DestinationName>
+    <DestinationStr>St Agnant Arpt(RCO)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RCQ</code>
+    <DestinationName>Reconquista</DestinationName>
+    <DestinationStr>Reconquista(RCQ)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RCR</code>
+    <DestinationName>Rochester</DestinationName>
+    <DestinationStr>Rochester(RCR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RCS</code>
+    <DestinationName>Rochester Airport</DestinationName>
+    <DestinationStr>Rochester Airport(RCS)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RCS</code>
+    <DestinationName>Rochester</DestinationName>
+    <DestinationStr>Rochester(RCS)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RCU</code>
+    <DestinationName>Rio Cuarto Arpt</DestinationName>
+    <DestinationStr>Rio Cuarto Arpt(RCU)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RCU</code>
+    <DestinationName>Rio Cuarto</DestinationName>
+    <DestinationStr>Rio Cuarto(RCU)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RCY</code>
+    <DestinationName>Port Nelson Arpt</DestinationName>
+    <DestinationStr>Port Nelson Arpt(RCY)-Bahamas</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RCY</code>
+    <DestinationName>Rum Cay</DestinationName>
+    <DestinationStr>Rum Cay(RCY)-Bahamas</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RDC</code>
+    <DestinationName>Redencao</DestinationName>
+    <DestinationStr>Redencao(RDC)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RDD</code>
+    <DestinationName>Redding Municipal Arpt</DestinationName>
+    <DestinationStr>Redding Municipal Arpt(RDD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RDD</code>
+    <DestinationName>Redding</DestinationName>
+    <DestinationStr>Redding(RDD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RDG</code>
+    <DestinationName>Reading Municipal</DestinationName>
+    <DestinationStr>Reading Municipal(RDG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RDG</code>
+    <DestinationName>Reading</DestinationName>
+    <DestinationStr>Reading(RDG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RDM</code>
+    <DestinationName>Redmond</DestinationName>
+    <DestinationStr>Redmond(RDM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RDM</code>
+    <DestinationName>Roberts Field</DestinationName>
+    <DestinationStr>Roberts Field(RDM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RDN</code>
+    <DestinationName>Lts Pulau Redang Arpt</DestinationName>
+    <DestinationStr>Lts Pulau Redang Arpt(RDN)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RDN</code>
+    <DestinationName>Redang</DestinationName>
+    <DestinationStr>Redang(RDN)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RDT</code>
+    <DestinationName>Richard Toll</DestinationName>
+    <DestinationStr>Richard Toll(RDT)-Senegal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RDU</code>
+    <DestinationName>Raleigh Durham Intl Arpt</DestinationName>
+    <DestinationStr>Raleigh Durham Intl Arpt(RDU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RDU</code>
+    <DestinationName>Raleigh</DestinationName>
+    <DestinationStr>Raleigh(RDU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RDV</code>
+    <DestinationName>Red Devil</DestinationName>
+    <DestinationStr>Red Devil(RDV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RDZ</code>
+    <DestinationName>Marcillac</DestinationName>
+    <DestinationStr>Marcillac(RDZ)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RDZ</code>
+    <DestinationName>Rodez</DestinationName>
+    <DestinationStr>Rodez(RDZ)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>REA</code>
+    <DestinationName>Reao</DestinationName>
+    <DestinationStr>Reao(REA)-French Polynesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>REC</code>
+    <DestinationName>Recife Airport</DestinationName>
+    <DestinationStr>Recife Airport(REC)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>REC</code>
+    <DestinationName>Recife</DestinationName>
+    <DestinationStr>Recife(REC)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>REE</code>
+    <DestinationName>Reese Airforce Base</DestinationName>
+    <DestinationStr>Reese Airforce Base(REE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>REG</code>
+    <DestinationName>Reggio Calabria</DestinationName>
+    <DestinationStr>Reggio Calabria(REG)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>REG</code>
+    <DestinationName>Tito Menniti Arpt</DestinationName>
+    <DestinationStr>Tito Menniti Arpt(REG)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>REH</code>
+    <DestinationName>Rehoboth Beach</DestinationName>
+    <DestinationStr>Rehoboth Beach(REH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>REK</code>
+    <DestinationName>Reykjavik</DestinationName>
+    <DestinationStr>Reykjavik(REK)-Iceland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>REL</code>
+    <DestinationName>Trelew Arpt</DestinationName>
+    <DestinationStr>Trelew Arpt(REL)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>REL</code>
+    <DestinationName>Trelew</DestinationName>
+    <DestinationStr>Trelew(REL)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>REN</code>
+    <DestinationName>Orenburg Arpt</DestinationName>
+    <DestinationStr>Orenburg Arpt(REN)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>REN</code>
+    <DestinationName>Orenburg</DestinationName>
+    <DestinationStr>Orenburg(REN)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>REP</code>
+    <DestinationName>Siem Reap Arpt</DestinationName>
+    <DestinationStr>Siem Reap Arpt(REP)-Cambodia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>REP</code>
+    <DestinationName>Siem Reap</DestinationName>
+    <DestinationStr>Siem Reap(REP)-Cambodia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RER</code>
+    <DestinationName>Retalhuleu Airport</DestinationName>
+    <DestinationStr>Retalhuleu Airport(RER)-Guatemala</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RER</code>
+    <DestinationName>Retalhuleu</DestinationName>
+    <DestinationStr>Retalhuleu(RER)-Guatemala</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RES</code>
+    <DestinationName>Resistencia Arpt</DestinationName>
+    <DestinationStr>Resistencia Arpt(RES)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RES</code>
+    <DestinationName>Resistencia</DestinationName>
+    <DestinationStr>Resistencia(RES)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RET</code>
+    <DestinationName>Rost</DestinationName>
+    <DestinationStr>Rost(RET)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>REU</code>
+    <DestinationName>Reus Arpt</DestinationName>
+    <DestinationStr>Reus Arpt(REU)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>REU</code>
+    <DestinationName>Reus</DestinationName>
+    <DestinationStr>Reus(REU)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>REW</code>
+    <DestinationName>REWA</DestinationName>
+    <DestinationStr>REWA(REW)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>REX</code>
+    <DestinationName>Lucio Blanco International</DestinationName>
+    <DestinationStr>Lucio Blanco International(REX)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>REX</code>
+    <DestinationName>Reynosa</DestinationName>
+    <DestinationStr>Reynosa(REX)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>REZ</code>
+    <DestinationName>Resende Airport</DestinationName>
+    <DestinationStr>Resende Airport(REZ)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>REZ</code>
+    <DestinationName>Resende</DestinationName>
+    <DestinationStr>Resende(REZ)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RFD</code>
+    <DestinationName>Chicago Rockford Arpt</DestinationName>
+    <DestinationStr>Chicago Rockford Arpt(RFD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RFD</code>
+    <DestinationName>Rockford Arpt</DestinationName>
+    <DestinationStr>Rockford Arpt(RFD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RFD</code>
+    <DestinationName>Rockford</DestinationName>
+    <DestinationStr>Rockford(RFD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RFG</code>
+    <DestinationName>REFUGIO</DestinationName>
+    <DestinationStr>REFUGIO(RFG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RFG</code>
+    <DestinationName>Rooke Fieldarpt</DestinationName>
+    <DestinationStr>Rooke Fieldarpt(RFG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RFN</code>
+    <DestinationName>Raufarhofn</DestinationName>
+    <DestinationStr>Raufarhofn(RFN)-Iceland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RFP</code>
+    <DestinationName>Raiatea Arpt</DestinationName>
+    <DestinationStr>Raiatea Arpt(RFP)-French Polynesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RFP</code>
+    <DestinationName>Raiatea</DestinationName>
+    <DestinationStr>Raiatea(RFP)-French Polynesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RFR</code>
+    <DestinationName>Rio Frio Arpt</DestinationName>
+    <DestinationStr>Rio Frio Arpt(RFR)-Costa Rica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RFR</code>
+    <DestinationName>Rio Frio</DestinationName>
+    <DestinationStr>Rio Frio(RFR)-Costa Rica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RGA</code>
+    <DestinationName>Rio Grande Arpt</DestinationName>
+    <DestinationStr>Rio Grande Arpt(RGA)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RGA</code>
+    <DestinationName>Rio Grande</DestinationName>
+    <DestinationStr>Rio Grande(RGA)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RGE</code>
+    <DestinationName>Porgera</DestinationName>
+    <DestinationStr>Porgera(RGE)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RGH</code>
+    <DestinationName>Balurghat Airport</DestinationName>
+    <DestinationStr>Balurghat Airport(RGH)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RGH</code>
+    <DestinationName>Balurghat</DestinationName>
+    <DestinationStr>Balurghat(RGH)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RGI</code>
+    <DestinationName>Rangiroa Arpt</DestinationName>
+    <DestinationStr>Rangiroa Arpt(RGI)-French Polynesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RGI</code>
+    <DestinationName>Rangiroa Island</DestinationName>
+    <DestinationStr>Rangiroa Island(RGI)-French Polynesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RGK</code>
+    <DestinationName>Gorno Altaysk Airport</DestinationName>
+    <DestinationStr>Gorno Altaysk Airport(RGK)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RGK</code>
+    <DestinationName>Gorno Altaysk</DestinationName>
+    <DestinationStr>Gorno Altaysk(RGK)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RGL</code>
+    <DestinationName>Rio Gallegos Internacional Arpt</DestinationName>
+    <DestinationStr>Rio Gallegos Internacional Arpt(RGL)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RGL</code>
+    <DestinationName>Rio Gallegos</DestinationName>
+    <DestinationStr>Rio Gallegos(RGL)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RGN</code>
+    <DestinationName>Rangoon</DestinationName>
+    <DestinationStr>Rangoon(RGN)-Myanmar</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RGN</code>
+    <DestinationName>Yangon International</DestinationName>
+    <DestinationStr>Yangon International(RGN)-Myanmar</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RGN</code>
+    <DestinationName>Yangon</DestinationName>
+    <DestinationStr>Yangon(RGN)-Myanmar</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RGR</code>
+    <DestinationName>Ranger Municipal Arpt</DestinationName>
+    <DestinationStr>Ranger Municipal Arpt(RGR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RGR</code>
+    <DestinationName>Ranger</DestinationName>
+    <DestinationStr>Ranger(RGR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RGS</code>
+    <DestinationName>Burgos Arpt</DestinationName>
+    <DestinationStr>Burgos Arpt(RGS)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RGS</code>
+    <DestinationName>Burgos</DestinationName>
+    <DestinationStr>Burgos(RGS)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RGT</code>
+    <DestinationName>Rengat</DestinationName>
+    <DestinationStr>Rengat(RGT)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RHA</code>
+    <DestinationName>Reykholar</DestinationName>
+    <DestinationStr>Reykholar(RHA)-Iceland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RHE</code>
+    <DestinationName>Champagne Arpt</DestinationName>
+    <DestinationStr>Champagne Arpt(RHE)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RHE</code>
+    <DestinationName>Reims</DestinationName>
+    <DestinationStr>Reims(RHE)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RHI</code>
+    <DestinationName>Oneida County</DestinationName>
+    <DestinationStr>Oneida County(RHI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RHI</code>
+    <DestinationName>Rhinelander</DestinationName>
+    <DestinationStr>Rhinelander(RHI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RHN</code>
+    <DestinationName>Rosh Pina Airport</DestinationName>
+    <DestinationStr>Rosh Pina Airport(RHN)-Namibia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RHN</code>
+    <DestinationName>Rosh Pina</DestinationName>
+    <DestinationStr>Rosh Pina(RHN)-Namibia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RHO</code>
+    <DestinationName>Diagoras Arpt</DestinationName>
+    <DestinationStr>Diagoras Arpt(RHO)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RHO</code>
+    <DestinationName>Rhodes</DestinationName>
+    <DestinationStr>Rhodes(RHO)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RHT</code>
+    <DestinationName>Alxa Right Banner Arpt</DestinationName>
+    <DestinationStr>Alxa Right Banner Arpt(RHT)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RHT</code>
+    <DestinationName>Alxa Right Banner</DestinationName>
+    <DestinationStr>Alxa Right Banner(RHT)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RHV</code>
+    <DestinationName>Reid Hillview Of Santa Clara County</DestinationName>
+    <DestinationStr>Reid Hillview Of Santa Clara County(RHV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RIA</code>
+    <DestinationName>Base Aerea Arpt</DestinationName>
+    <DestinationStr>Base Aerea Arpt(RIA)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RIA</code>
+    <DestinationName>Santa Maria</DestinationName>
+    <DestinationStr>Santa Maria(RIA)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RIB</code>
+    <DestinationName>Riberalta Arpt</DestinationName>
+    <DestinationStr>Riberalta Arpt(RIB)-Bolivia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RIB</code>
+    <DestinationName>Riberalta</DestinationName>
+    <DestinationStr>Riberalta(RIB)-Bolivia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RIC</code>
+    <DestinationName>Byrd Field</DestinationName>
+    <DestinationStr>Byrd Field(RIC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RIC</code>
+    <DestinationName>Richmond Intl Arpt</DestinationName>
+    <DestinationStr>Richmond Intl Arpt(RIC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RIC</code>
+    <DestinationName>Richmond</DestinationName>
+    <DestinationStr>Richmond(RIC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RID</code>
+    <DestinationName>Richmond</DestinationName>
+    <DestinationStr>Richmond(RID)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RIF</code>
+    <DestinationName>Reynolds Municipal Arpt</DestinationName>
+    <DestinationStr>Reynolds Municipal Arpt(RIF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RIF</code>
+    <DestinationName>Richfield</DestinationName>
+    <DestinationStr>Richfield(RIF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RIG</code>
+    <DestinationName>Rio Grande Airport</DestinationName>
+    <DestinationStr>Rio Grande Airport(RIG)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RIG</code>
+    <DestinationName>Rio Grande</DestinationName>
+    <DestinationStr>Rio Grande(RIG)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RIH</code>
+    <DestinationName>Rio Hato</DestinationName>
+    <DestinationStr>Rio Hato(RIH)-Panama</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>RIJ</code>
+    <DestinationName>Rioja</DestinationName>
+    <DestinationStr>Rioja(RIJ)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RIL</code>
+    <DestinationName>Garfield Cty Arpt</DestinationName>
+    <DestinationStr>Garfield Cty Arpt(RIL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RIL</code>
+    <DestinationName>Rifle</DestinationName>
+    <DestinationStr>Rifle(RIL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RIO</code>
+    <DestinationName>Rio De Janeiro</DestinationName>
+    <DestinationStr>Rio De Janeiro(RIO)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RIS</code>
+    <DestinationName>Rishiri</DestinationName>
+    <DestinationStr>Rishiri(RIS)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RIW</code>
+    <DestinationName>Riverton Municipal</DestinationName>
+    <DestinationStr>Riverton Municipal(RIW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RIW</code>
+    <DestinationName>Riverton</DestinationName>
+    <DestinationStr>Riverton(RIW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RIX</code>
+    <DestinationName>Riga Arpt</DestinationName>
+    <DestinationStr>Riga Arpt(RIX)-Latvia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RIX</code>
+    <DestinationName>Riga</DestinationName>
+    <DestinationStr>Riga(RIX)-Latvia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RIY</code>
+    <DestinationName>Riyan Mukalla Arpt</DestinationName>
+    <DestinationStr>Riyan Mukalla Arpt(RIY)-Yemen, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RIY</code>
+    <DestinationName>Riyan Mukalla</DestinationName>
+    <DestinationStr>Riyan Mukalla(RIY)-Yemen, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RIY</code>
+    <DestinationName>Riyan</DestinationName>
+    <DestinationStr>Riyan(RIY)-Yemen, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RJA</code>
+    <DestinationName>Rajahmundry Arpt</DestinationName>
+    <DestinationStr>Rajahmundry Arpt(RJA)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RJA</code>
+    <DestinationName>Rajahmundry</DestinationName>
+    <DestinationStr>Rajahmundry(RJA)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RJI</code>
+    <DestinationName>RAJOURI</DestinationName>
+    <DestinationStr>RAJOURI(RJI)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RJK</code>
+    <DestinationName>Rijeka Arpt</DestinationName>
+    <DestinationStr>Rijeka Arpt(RJK)-Croatia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RJK</code>
+    <DestinationName>Rijeka</DestinationName>
+    <DestinationStr>Rijeka(RJK)-Croatia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RJL</code>
+    <DestinationName>Agoncillo Arpt</DestinationName>
+    <DestinationStr>Agoncillo Arpt(RJL)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RJL</code>
+    <DestinationName>Logrono</DestinationName>
+    <DestinationStr>Logrono(RJL)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RKC</code>
+    <DestinationName>Yreka Arpt</DestinationName>
+    <DestinationStr>Yreka Arpt(RKC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RKC</code>
+    <DestinationName>Yreka</DestinationName>
+    <DestinationStr>Yreka(RKC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RKD</code>
+    <DestinationName>Rockland Arpt</DestinationName>
+    <DestinationStr>Rockland Arpt(RKD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RKD</code>
+    <DestinationName>Rockland</DestinationName>
+    <DestinationStr>Rockland(RKD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RKE</code>
+    <DestinationName>Roskilde Arpt</DestinationName>
+    <DestinationStr>Roskilde Arpt(RKE)-Denmark</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RKE</code>
+    <DestinationName>Roskilde</DestinationName>
+    <DestinationStr>Roskilde(RKE)-Denmark</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RKH</code>
+    <DestinationName>Rock Hill York County Arpt</DestinationName>
+    <DestinationStr>Rock Hill York County Arpt(RKH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RKH</code>
+    <DestinationName>Rock Hill</DestinationName>
+    <DestinationStr>Rock Hill(RKH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RKP</code>
+    <DestinationName>Aransas County Arpt</DestinationName>
+    <DestinationStr>Aransas County Arpt(RKP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RKP</code>
+    <DestinationName>Rockport</DestinationName>
+    <DestinationStr>Rockport(RKP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RKS</code>
+    <DestinationName>Rock Springs Municipal</DestinationName>
+    <DestinationStr>Rock Springs Municipal(RKS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RKS</code>
+    <DestinationName>Rock Springs</DestinationName>
+    <DestinationStr>Rock Springs(RKS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RKT</code>
+    <DestinationName>Ras Al Khaimah Arpt</DestinationName>
+    <DestinationStr>Ras Al Khaimah Arpt(RKT)-United Arab Emirates</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RKT</code>
+    <DestinationName>Ras Al Khaimah</DestinationName>
+    <DestinationStr>Ras Al Khaimah(RKT)-United Arab Emirates</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RKU</code>
+    <DestinationName>Yule Island</DestinationName>
+    <DestinationStr>Yule Island(RKU)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RKV</code>
+    <DestinationName>Reykjavik Domestic Arpt</DestinationName>
+    <DestinationStr>Reykjavik Domestic Arpt(RKV)-Iceland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RKW</code>
+    <DestinationName>Rockwood Municipal Arpt</DestinationName>
+    <DestinationStr>Rockwood Municipal Arpt(RKW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RKW</code>
+    <DestinationName>Rockwood</DestinationName>
+    <DestinationStr>Rockwood(RKW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RKZ</code>
+    <DestinationName>He Ping Airport</DestinationName>
+    <DestinationStr>He Ping Airport(RKZ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RKZ</code>
+    <DestinationName>Rikaze</DestinationName>
+    <DestinationStr>Rikaze(RKZ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RLA</code>
+    <DestinationName>National Arpt</DestinationName>
+    <DestinationStr>National Arpt(RLA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RLA</code>
+    <DestinationName>Rolla</DestinationName>
+    <DestinationStr>Rolla(RLA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RLD</code>
+    <DestinationName>Richland Arpt</DestinationName>
+    <DestinationStr>Richland Arpt(RLD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RLD</code>
+    <DestinationName>Richland</DestinationName>
+    <DestinationStr>Richland(RLD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RLG</code>
+    <DestinationName>Laage Arpt</DestinationName>
+    <DestinationStr>Laage Arpt(RLG)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RLG</code>
+    <DestinationName>Rostock Laage</DestinationName>
+    <DestinationStr>Rostock Laage(RLG)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RLI</code>
+    <DestinationName>Reilly Ahp</DestinationName>
+    <DestinationStr>Reilly Ahp(RLI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RLK</code>
+    <DestinationName>Bayannur Airport</DestinationName>
+    <DestinationStr>Bayannur Airport(RLK)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RLK</code>
+    <DestinationName>Bayannur</DestinationName>
+    <DestinationStr>Bayannur(RLK)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RLU</code>
+    <DestinationName>Bornite Upper Arpt</DestinationName>
+    <DestinationStr>Bornite Upper Arpt(RLU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RLU</code>
+    <DestinationName>Bornite</DestinationName>
+    <DestinationStr>Bornite(RLU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RMA</code>
+    <DestinationName>Roma Arpt</DestinationName>
+    <DestinationStr>Roma Arpt(RMA)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RMA</code>
+    <DestinationName>Roma</DestinationName>
+    <DestinationStr>Roma(RMA)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RMD</code>
+    <DestinationName>RAMAGUNDAM</DestinationName>
+    <DestinationStr>RAMAGUNDAM(RMD)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RME</code>
+    <DestinationName>Griffiss Air Force Base</DestinationName>
+    <DestinationStr>Griffiss Air Force Base(RME)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RME</code>
+    <DestinationName>Rome</DestinationName>
+    <DestinationStr>Rome(RME)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RMF</code>
+    <DestinationName>Marsa Alam Arpt</DestinationName>
+    <DestinationStr>Marsa Alam Arpt(RMF)-Egypt</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RMF</code>
+    <DestinationName>Marsa Alam</DestinationName>
+    <DestinationStr>Marsa Alam(RMF)-Egypt</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RMG</code>
+    <DestinationName>Richard B Russell Arpt</DestinationName>
+    <DestinationStr>Richard B Russell Arpt(RMG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RMG</code>
+    <DestinationName>Rome</DestinationName>
+    <DestinationStr>Rome(RMG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RMI</code>
+    <DestinationName>Miramare Airport</DestinationName>
+    <DestinationStr>Miramare Airport(RMI)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RMI</code>
+    <DestinationName>Rimini</DestinationName>
+    <DestinationStr>Rimini(RMI)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RMK</code>
+    <DestinationName>Renmark Airport</DestinationName>
+    <DestinationStr>Renmark Airport(RMK)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RMK</code>
+    <DestinationName>Renmark</DestinationName>
+    <DestinationStr>Renmark(RMK)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RML</code>
+    <DestinationName>Ratmalana Airport</DestinationName>
+    <DestinationStr>Ratmalana Airport(RML)-Sri Lanka</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RMP</code>
+    <DestinationName>Rampart</DestinationName>
+    <DestinationStr>Rampart(RMP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RMQ</code>
+    <DestinationName>Taichung Cingcyuangang</DestinationName>
+    <DestinationStr>Taichung Cingcyuangang(RMQ)-Taiwan, Province of China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RMS</code>
+    <DestinationName>Ramsteim Arpt</DestinationName>
+    <DestinationStr>Ramsteim Arpt(RMS)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RMS</code>
+    <DestinationName>Ramstein</DestinationName>
+    <DestinationStr>Ramstein(RMS)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RMT</code>
+    <DestinationName>Rimatara Airport</DestinationName>
+    <DestinationStr>Rimatara Airport(RMT)-French Polynesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RMT</code>
+    <DestinationName>Rimatara</DestinationName>
+    <DestinationStr>Rimatara(RMT)-French Polynesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RMY</code>
+    <DestinationName>Mariposa Yosemite Arpt</DestinationName>
+    <DestinationStr>Mariposa Yosemite Arpt(RMY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RMY</code>
+    <DestinationName>Mariposa</DestinationName>
+    <DestinationStr>Mariposa(RMY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RNB</code>
+    <DestinationName>Kallinge Arpt</DestinationName>
+    <DestinationStr>Kallinge Arpt(RNB)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RNB</code>
+    <DestinationName>Ronneby</DestinationName>
+    <DestinationStr>Ronneby(RNB)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RND</code>
+    <DestinationName>Randolph Airfoce Base</DestinationName>
+    <DestinationStr>Randolph Airfoce Base(RND)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RNE</code>
+    <DestinationName>Renaison Arpt</DestinationName>
+    <DestinationStr>Renaison Arpt(RNE)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RNE</code>
+    <DestinationName>Roanne</DestinationName>
+    <DestinationStr>Roanne(RNE)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RNG</code>
+    <DestinationName>Rangely</DestinationName>
+    <DestinationStr>Rangely(RNG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RNH</code>
+    <DestinationName>New Richmond Municipal</DestinationName>
+    <DestinationStr>New Richmond Municipal(RNH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RNH</code>
+    <DestinationName>New Richmond</DestinationName>
+    <DestinationStr>New Richmond(RNH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RNJ</code>
+    <DestinationName>Yoronjima</DestinationName>
+    <DestinationStr>Yoronjima(RNJ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RNL</code>
+    <DestinationName>Rennell</DestinationName>
+    <DestinationStr>Rennell(RNL)-Solomon Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RNN</code>
+    <DestinationName>Bornholm Arpt</DestinationName>
+    <DestinationStr>Bornholm Arpt(RNN)-Denmark</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RNN</code>
+    <DestinationName>Bornholm</DestinationName>
+    <DestinationStr>Bornholm(RNN)-Denmark</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RNO</code>
+    <DestinationName>Reno Tahoe Intl Arpt</DestinationName>
+    <DestinationStr>Reno Tahoe Intl Arpt(RNO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RNO</code>
+    <DestinationName>Reno</DestinationName>
+    <DestinationStr>Reno(RNO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RNR</code>
+    <DestinationName>Robinson River</DestinationName>
+    <DestinationStr>Robinson River(RNR)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RNS</code>
+    <DestinationName>Rennes</DestinationName>
+    <DestinationStr>Rennes(RNS)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RNS</code>
+    <DestinationName>Saint Jacques Arpt</DestinationName>
+    <DestinationStr>Saint Jacques Arpt(RNS)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RNS</code>
+    <DestinationName>St Jacques Arpt</DestinationName>
+    <DestinationStr>St Jacques Arpt(RNS)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RNT</code>
+    <DestinationName>Renton</DestinationName>
+    <DestinationStr>Renton(RNT)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>RNX</code>
+    <DestinationName>Shaoxing</DestinationName>
+    <DestinationStr>Shaoxing(RNX)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RNZ</code>
+    <DestinationName>Rensselaer</DestinationName>
+    <DestinationStr>Rensselaer(RNZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ROA</code>
+    <DestinationName>Roanoke Regional Arpt</DestinationName>
+    <DestinationStr>Roanoke Regional Arpt(ROA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ROA</code>
+    <DestinationName>Roanoke</DestinationName>
+    <DestinationStr>Roanoke(ROA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ROB</code>
+    <DestinationName>Roberts Intl</DestinationName>
+    <DestinationStr>Roberts Intl(ROB)-Liberia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ROC</code>
+    <DestinationName>Monroe Cty Arpt New York</DestinationName>
+    <DestinationStr>Monroe Cty Arpt New York(ROC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ROC</code>
+    <DestinationName>Rochester</DestinationName>
+    <DestinationStr>Rochester(ROC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ROG</code>
+    <DestinationName>Rogers Arpt</DestinationName>
+    <DestinationStr>Rogers Arpt(ROG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ROG</code>
+    <DestinationName>Rogers</DestinationName>
+    <DestinationStr>Rogers(ROG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ROH</code>
+    <DestinationName>Robinhood</DestinationName>
+    <DestinationStr>Robinhood(ROH)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ROI</code>
+    <DestinationName>Roi Et Arpt</DestinationName>
+    <DestinationStr>Roi Et Arpt(ROI)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ROI</code>
+    <DestinationName>Roi Et</DestinationName>
+    <DestinationStr>Roi Et(ROI)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ROK</code>
+    <DestinationName>Rockhampton Arpt</DestinationName>
+    <DestinationStr>Rockhampton Arpt(ROK)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ROK</code>
+    <DestinationName>Rockhampton</DestinationName>
+    <DestinationStr>Rockhampton(ROK)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ROL</code>
+    <DestinationName>Roosevelt</DestinationName>
+    <DestinationStr>Roosevelt(ROL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ROM</code>
+    <DestinationName>Roma</DestinationName>
+    <DestinationStr>Roma(ROM)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ROM</code>
+    <DestinationName>Rome</DestinationName>
+    <DestinationStr>Rome(ROM)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RON</code>
+    <DestinationName>Juan Jose Rondon Arpt</DestinationName>
+    <DestinationStr>Juan Jose Rondon Arpt(RON)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RON</code>
+    <DestinationName>Rondon</DestinationName>
+    <DestinationStr>Rondon(RON)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ROO</code>
+    <DestinationName>Rondonopolis Arpt</DestinationName>
+    <DestinationStr>Rondonopolis Arpt(ROO)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ROO</code>
+    <DestinationName>Rondonopolis</DestinationName>
+    <DestinationStr>Rondonopolis(ROO)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ROP</code>
+    <DestinationName>Rota Arpt</DestinationName>
+    <DestinationStr>Rota Arpt(ROP)-Marianna Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ROP</code>
+    <DestinationName>Rota</DestinationName>
+    <DestinationStr>Rota(ROP)-Marianna Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ROR</code>
+    <DestinationName>Airai Airport</DestinationName>
+    <DestinationStr>Airai Airport(ROR)-Palau</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ROR</code>
+    <DestinationName>Koror</DestinationName>
+    <DestinationStr>Koror(ROR)-Palau</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ROR</code>
+    <DestinationName>Palau</DestinationName>
+    <DestinationStr>Palau(ROR)-Palau</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ROS</code>
+    <DestinationName>Fisherton Airport</DestinationName>
+    <DestinationStr>Fisherton Airport(ROS)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ROS</code>
+    <DestinationName>Rosario</DestinationName>
+    <DestinationStr>Rosario(ROS)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ROT</code>
+    <DestinationName>Rotorua Arpt</DestinationName>
+    <DestinationStr>Rotorua Arpt(ROT)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ROT</code>
+    <DestinationName>Rotorua</DestinationName>
+    <DestinationStr>Rotorua(ROT)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ROU</code>
+    <DestinationName>Ruse Shtrukevo Airport</DestinationName>
+    <DestinationStr>Ruse Shtrukevo Airport(ROU)-Bulgaria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ROU</code>
+    <DestinationName>Ruse</DestinationName>
+    <DestinationStr>Ruse(ROU)-Bulgaria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ROV</code>
+    <DestinationName>Rostov Arpt</DestinationName>
+    <DestinationStr>Rostov Arpt(ROV)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ROV</code>
+    <DestinationName>Rostov</DestinationName>
+    <DestinationStr>Rostov(ROV)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ROW</code>
+    <DestinationName>Industrial Aircenter</DestinationName>
+    <DestinationStr>Industrial Aircenter(ROW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ROW</code>
+    <DestinationName>Roswell</DestinationName>
+    <DestinationStr>Roswell(ROW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ROY</code>
+    <DestinationName>Rio Mayo</DestinationName>
+    <DestinationStr>Rio Mayo(ROY)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ROZ</code>
+    <DestinationName>Rota Naval Station Arpt</DestinationName>
+    <DestinationStr>Rota Naval Station Arpt(ROZ)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ROZ</code>
+    <DestinationName>Rota</DestinationName>
+    <DestinationStr>Rota(ROZ)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RPN</code>
+    <DestinationName>Rosh Pina Arpt</DestinationName>
+    <DestinationStr>Rosh Pina Arpt(RPN)-Israel</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RPN</code>
+    <DestinationName>Rosh Pina</DestinationName>
+    <DestinationStr>Rosh Pina(RPN)-Israel</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RPR</code>
+    <DestinationName>Raipur Arpt</DestinationName>
+    <DestinationStr>Raipur Arpt(RPR)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RPR</code>
+    <DestinationName>Raipur</DestinationName>
+    <DestinationStr>Raipur(RPR)-India</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>RRA</code>
+    <DestinationName>Ronda</DestinationName>
+    <DestinationStr>Ronda(RRA)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RRG</code>
+    <DestinationName>Rodrigues Island Arpt</DestinationName>
+    <DestinationStr>Rodrigues Island Arpt(RRG)-Mauritius</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RRG</code>
+    <DestinationName>Rodrigues Island</DestinationName>
+    <DestinationStr>Rodrigues Island(RRG)-Mauritius</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RRK</code>
+    <DestinationName>Rourkela Airport</DestinationName>
+    <DestinationStr>Rourkela Airport(RRK)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RRK</code>
+    <DestinationName>Rourkela</DestinationName>
+    <DestinationStr>Rourkela(RRK)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RRO</code>
+    <DestinationName>Sorrento Arpt</DestinationName>
+    <DestinationStr>Sorrento Arpt(RRO)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RRO</code>
+    <DestinationName>Sorrento</DestinationName>
+    <DestinationStr>Sorrento(RRO)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RRS</code>
+    <DestinationName>Roros Arpt</DestinationName>
+    <DestinationStr>Roros Arpt(RRS)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RRS</code>
+    <DestinationName>Roros</DestinationName>
+    <DestinationStr>Roros(RRS)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RSA</code>
+    <DestinationName>Santa Rosa Arpt</DestinationName>
+    <DestinationStr>Santa Rosa Arpt(RSA)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RSA</code>
+    <DestinationName>Santa Rosa</DestinationName>
+    <DestinationStr>Santa Rosa(RSA)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RSB</code>
+    <DestinationName>Roseberth</DestinationName>
+    <DestinationStr>Roseberth(RSB)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RSD</code>
+    <DestinationName>Rock Sound International</DestinationName>
+    <DestinationStr>Rock Sound International(RSD)-Bahamas</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RSD</code>
+    <DestinationName>Rock Sound</DestinationName>
+    <DestinationStr>Rock Sound(RSD)-Bahamas</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RSE</code>
+    <DestinationName>Au Rose Bay Arpt</DestinationName>
+    <DestinationStr>Au Rose Bay Arpt(RSE)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RSG</code>
+    <DestinationName>Serra Pelada</DestinationName>
+    <DestinationStr>Serra Pelada(RSG)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RSH</code>
+    <DestinationName>Russian Mission</DestinationName>
+    <DestinationStr>Russian Mission(RSH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RSH</code>
+    <DestinationName>Russian Seaplane Base</DestinationName>
+    <DestinationStr>Russian Seaplane Base(RSH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RSJ</code>
+    <DestinationName>Rosario Seaplane Base</DestinationName>
+    <DestinationStr>Rosario Seaplane Base(RSJ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RSK</code>
+    <DestinationName>Ransiki</DestinationName>
+    <DestinationStr>Ransiki(RSK)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RSL</code>
+    <DestinationName>Russell</DestinationName>
+    <DestinationStr>Russell(RSL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RSM</code>
+    <DestinationName>Serravalle</DestinationName>
+    <DestinationStr>Serravalle(RSM)-San Marino</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RSN</code>
+    <DestinationName>Ruston Regional Arpt</DestinationName>
+    <DestinationStr>Ruston Regional Arpt(RSN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RSN</code>
+    <DestinationName>Ruston</DestinationName>
+    <DestinationStr>Ruston(RSN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RSP</code>
+    <DestinationName>Raspberry Strait Arpt</DestinationName>
+    <DestinationStr>Raspberry Strait Arpt(RSP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RSP</code>
+    <DestinationName>Raspberry Strait</DestinationName>
+    <DestinationStr>Raspberry Strait(RSP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RST</code>
+    <DestinationName>Rochester Municipal</DestinationName>
+    <DestinationStr>Rochester Municipal(RST)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RST</code>
+    <DestinationName>Rochester</DestinationName>
+    <DestinationStr>Rochester(RST)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RSU</code>
+    <DestinationName>Yeosu Arpt</DestinationName>
+    <DestinationStr>Yeosu Arpt(RSU)-Korea, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RSU</code>
+    <DestinationName>Yeosu</DestinationName>
+    <DestinationStr>Yeosu(RSU)-Korea, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RSU</code>
+    <DestinationName>Yosu</DestinationName>
+    <DestinationStr>Yosu(RSU)-Korea, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RSW</code>
+    <DestinationName>Regional Southwest Arpt</DestinationName>
+    <DestinationStr>Regional Southwest Arpt(RSW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RTA</code>
+    <DestinationName>Rotuma Island</DestinationName>
+    <DestinationStr>Rotuma Island(RTA)-Fiji Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RTB</code>
+    <DestinationName>Juan Manuel Galvez Arpt</DestinationName>
+    <DestinationStr>Juan Manuel Galvez Arpt(RTB)-Honduras</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RTB</code>
+    <DestinationName>Roatan</DestinationName>
+    <DestinationStr>Roatan(RTB)-Honduras</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RTC</code>
+    <DestinationName>Ratnagiri Airport</DestinationName>
+    <DestinationStr>Ratnagiri Airport(RTC)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RTC</code>
+    <DestinationName>Ratnagiri</DestinationName>
+    <DestinationStr>Ratnagiri(RTC)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RTE</code>
+    <DestinationName>Clover Pass</DestinationName>
+    <DestinationStr>Clover Pass(RTE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RTE</code>
+    <DestinationName>Marguerite Bay Arpt</DestinationName>
+    <DestinationStr>Marguerite Bay Arpt(RTE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RTG</code>
+    <DestinationName>Ruteng</DestinationName>
+    <DestinationStr>Ruteng(RTG)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RTI</code>
+    <DestinationName>Roti</DestinationName>
+    <DestinationStr>Roti(RTI)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RTL</code>
+    <DestinationName>Spirit Lake</DestinationName>
+    <DestinationStr>Spirit Lake(RTL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RTM</code>
+    <DestinationName>Rotterdam Arpt</DestinationName>
+    <DestinationStr>Rotterdam Arpt(RTM)-Netherlands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RTM</code>
+    <DestinationName>Rotterdam</DestinationName>
+    <DestinationStr>Rotterdam(RTM)-Netherlands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RTN</code>
+    <DestinationName>Crews Fld</DestinationName>
+    <DestinationStr>Crews Fld(RTN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RTN</code>
+    <DestinationName>Raton</DestinationName>
+    <DestinationStr>Raton(RTN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RTP</code>
+    <DestinationName>Rutland Plains</DestinationName>
+    <DestinationStr>Rutland Plains(RTP)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RTS</code>
+    <DestinationName>Rottnest Island Arpt</DestinationName>
+    <DestinationStr>Rottnest Island Arpt(RTS)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RTS</code>
+    <DestinationName>Rottnest</DestinationName>
+    <DestinationStr>Rottnest(RTS)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RTW</code>
+    <DestinationName>Saratov Arpt</DestinationName>
+    <DestinationStr>Saratov Arpt(RTW)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RTW</code>
+    <DestinationName>Saratov</DestinationName>
+    <DestinationStr>Saratov(RTW)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RTY</code>
+    <DestinationName>Merty</DestinationName>
+    <DestinationStr>Merty(RTY)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RUA</code>
+    <DestinationName>Arua</DestinationName>
+    <DestinationStr>Arua(RUA)-Uganda</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RUH</code>
+    <DestinationName>Ar Riyad</DestinationName>
+    <DestinationStr>Ar Riyad(RUH)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RUH</code>
+    <DestinationName>King Khaled Intl</DestinationName>
+    <DestinationStr>King Khaled Intl(RUH)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RUH</code>
+    <DestinationName>Riyadh</DestinationName>
+    <DestinationStr>Riyadh(RUH)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RUI</code>
+    <DestinationName>Ruidoso Municipal Arpt</DestinationName>
+    <DestinationStr>Ruidoso Municipal Arpt(RUI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RUI</code>
+    <DestinationName>Ruidoso</DestinationName>
+    <DestinationStr>Ruidoso(RUI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RUN</code>
+    <DestinationName>Reunion Island</DestinationName>
+    <DestinationStr>Reunion Island(RUN)-Reunion</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RUN</code>
+    <DestinationName>St Denis Roland Garros Arpt</DestinationName>
+    <DestinationStr>St Denis Roland Garros Arpt(RUN)-Reunion</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RUP</code>
+    <DestinationName>Rupsi Airport</DestinationName>
+    <DestinationStr>Rupsi Airport(RUP)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RUP</code>
+    <DestinationName>Rupsi</DestinationName>
+    <DestinationStr>Rupsi(RUP)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RUR</code>
+    <DestinationName>Rurutu</DestinationName>
+    <DestinationStr>Rurutu(RUR)-French Polynesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RUS</code>
+    <DestinationName>Marau Island</DestinationName>
+    <DestinationStr>Marau Island(RUS)-Solomon Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RUT</code>
+    <DestinationName>Rutland Arpt</DestinationName>
+    <DestinationStr>Rutland Arpt(RUT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RUT</code>
+    <DestinationName>Rutland</DestinationName>
+    <DestinationStr>Rutland(RUT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RUY</code>
+    <DestinationName>Copan</DestinationName>
+    <DestinationStr>Copan(RUY)-Honduras</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RUY</code>
+    <DestinationName>Ruinas de Copan Arpt</DestinationName>
+    <DestinationStr>Ruinas de Copan Arpt(RUY)-Honduras</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RVA</code>
+    <DestinationName>Farafangana</DestinationName>
+    <DestinationStr>Farafangana(RVA)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RVD</code>
+    <DestinationName>Rio Verde Airport</DestinationName>
+    <DestinationStr>Rio Verde Airport(RVD)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RVD</code>
+    <DestinationName>Rio Verde</DestinationName>
+    <DestinationStr>Rio Verde(RVD)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RVE</code>
+    <DestinationName>Los Colonizadores Arpt</DestinationName>
+    <DestinationStr>Los Colonizadores Arpt(RVE)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RVE</code>
+    <DestinationName>Saravena</DestinationName>
+    <DestinationStr>Saravena(RVE)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RVH</code>
+    <DestinationName>Rzhevka Arpt</DestinationName>
+    <DestinationStr>Rzhevka Arpt(RVH)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RVK</code>
+    <DestinationName>Roervik</DestinationName>
+    <DestinationStr>Roervik(RVK)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RVK</code>
+    <DestinationName>Ryumsjoen Arpt</DestinationName>
+    <DestinationStr>Ryumsjoen Arpt(RVK)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RVN</code>
+    <DestinationName>Rovaniemi Arpt</DestinationName>
+    <DestinationStr>Rovaniemi Arpt(RVN)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RVN</code>
+    <DestinationName>Rovaniemi</DestinationName>
+    <DestinationStr>Rovaniemi(RVN)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RVR</code>
+    <DestinationName>Green River Arpt</DestinationName>
+    <DestinationStr>Green River Arpt(RVR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RVR</code>
+    <DestinationName>Green River</DestinationName>
+    <DestinationStr>Green River(RVR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RVS</code>
+    <DestinationName>Richard Lloyd Jones Jr Riverside Arpt</DestinationName>
+    <DestinationStr>Richard Lloyd Jones Jr Riverside Arpt(RVS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RVT</code>
+    <DestinationName>Ravensthorpe Arpt</DestinationName>
+    <DestinationStr>Ravensthorpe Arpt(RVT)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RVT</code>
+    <DestinationName>Ravensthorpe</DestinationName>
+    <DestinationStr>Ravensthorpe(RVT)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RVY</code>
+    <DestinationName>Rivera</DestinationName>
+    <DestinationStr>Rivera(RVY)-Uruguay</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RWB</code>
+    <DestinationName>Rowan Bay Arpt</DestinationName>
+    <DestinationStr>Rowan Bay Arpt(RWB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RWB</code>
+    <DestinationName>Rowan Bay</DestinationName>
+    <DestinationStr>Rowan Bay(RWB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RWI</code>
+    <DestinationName>Rocky Mount</DestinationName>
+    <DestinationStr>Rocky Mount(RWI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RWI</code>
+    <DestinationName>Wilson Arpt</DestinationName>
+    <DestinationStr>Wilson Arpt(RWI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RWL</code>
+    <DestinationName>Rawlins Municipal</DestinationName>
+    <DestinationStr>Rawlins Municipal(RWL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RWL</code>
+    <DestinationName>Rawlins</DestinationName>
+    <DestinationStr>Rawlins(RWL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RWN</code>
+    <DestinationName>Rovno Arpt</DestinationName>
+    <DestinationStr>Rovno Arpt(RWN)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RWN</code>
+    <DestinationName>Rovno</DestinationName>
+    <DestinationStr>Rovno(RWN)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RWP</code>
+    <DestinationName>Rawalpindi</DestinationName>
+    <DestinationStr>Rawalpindi(RWP)-Pakistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RWS</code>
+    <DestinationName>Sumare Arpt</DestinationName>
+    <DestinationStr>Sumare Arpt(RWS)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RWS</code>
+    <DestinationName>Sumare</DestinationName>
+    <DestinationStr>Sumare(RWS)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RXE</code>
+    <DestinationName>Rexburg</DestinationName>
+    <DestinationStr>Rexburg(RXE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RXS</code>
+    <DestinationName>Roxas City Arpt</DestinationName>
+    <DestinationStr>Roxas City Arpt(RXS)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RXS</code>
+    <DestinationName>Roxas City</DestinationName>
+    <DestinationStr>Roxas City(RXS)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RYB</code>
+    <DestinationName>Rybinsk</DestinationName>
+    <DestinationStr>Rybinsk(RYB)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RYB</code>
+    <DestinationName>Staroselye Airport</DestinationName>
+    <DestinationStr>Staroselye Airport(RYB)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RYG</code>
+    <DestinationName>Moss City</DestinationName>
+    <DestinationStr>Moss City(RYG)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RYG</code>
+    <DestinationName>Moss Rygge Arpt</DestinationName>
+    <DestinationStr>Moss Rygge Arpt(RYG)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RYK</code>
+    <DestinationName>Rahim Yar  Khan</DestinationName>
+    <DestinationStr>Rahim Yar  Khan(RYK)-Pakistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RYK</code>
+    <DestinationName>Rahim Yar Khan airport</DestinationName>
+    <DestinationStr>Rahim Yar Khan airport(RYK)-Pakistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RYL</code>
+    <DestinationName>Lower Zambezi Nat Park</DestinationName>
+    <DestinationStr>Lower Zambezi Nat Park(RYL)-Zambia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RYL</code>
+    <DestinationName>Royal Airport</DestinationName>
+    <DestinationStr>Royal Airport(RYL)-Zambia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RYN</code>
+    <DestinationName>Royan</DestinationName>
+    <DestinationStr>Royan(RYN)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RYO</code>
+    <DestinationName>Rio Turbio</DestinationName>
+    <DestinationStr>Rio Turbio(RYO)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RZA</code>
+    <DestinationName>Santa Cruz</DestinationName>
+    <DestinationStr>Santa Cruz(RZA)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RZE</code>
+    <DestinationName>Jasionka Arpt</DestinationName>
+    <DestinationStr>Jasionka Arpt(RZE)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RZE</code>
+    <DestinationName>Rzeszow</DestinationName>
+    <DestinationStr>Rzeszow(RZE)-Poland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>RZH</code>
+    <DestinationName>Quartz Hill Arpt</DestinationName>
+    <DestinationStr>Quartz Hill Arpt(RZH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RZN</code>
+    <DestinationName>Ryazan Arpt</DestinationName>
+    <DestinationStr>Ryazan Arpt(RZN)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RZN</code>
+    <DestinationName>Ryazan</DestinationName>
+    <DestinationStr>Ryazan(RZN)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RZZ</code>
+    <DestinationName>Halifax Cty Arpt</DestinationName>
+    <DestinationStr>Halifax Cty Arpt(RZZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RZZ</code>
+    <DestinationName>Roanoke Rapids</DestinationName>
+    <DestinationStr>Roanoke Rapids(RZZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SAP</code>
+    <DestinationName>Ramon V Morales Intl Arpt</DestinationName>
+    <DestinationStr>Ramon V Morales Intl Arpt(SAP)-Honduras</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SKB</code>
+    <DestinationName>Robert L Bradshaw Intl</DestinationName>
+    <DestinationStr>Robert L Bradshaw Intl(SKB)-St. Kitts - Nevis</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SNI</code>
+    <DestinationName>R E Murray Arpt</DestinationName>
+    <DestinationStr>R E Murray Arpt(SNI)-Liberia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>STJ</code>
+    <DestinationName>Rosecrans Memorial Arpt</DestinationName>
+    <DestinationStr>Rosecrans Memorial Arpt(STJ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SUW</code>
+    <DestinationName>Richard I Bong Arpt</DestinationName>
+    <DestinationStr>Richard I Bong Arpt(SUW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SYL</code>
+    <DestinationName>Roberts Aaf</DestinationName>
+    <DestinationStr>Roberts Aaf(SYL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAL</code>
+    <DestinationName>Ralph Calhoun Arpt</DestinationName>
+    <DestinationStr>Ralph Calhoun Arpt(TAL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TCP</code>
+    <DestinationName>Ras An Naqb Arpt</DestinationName>
+    <DestinationStr>Ras An Naqb Arpt(TCP)-Egypt</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TFS</code>
+    <DestinationName>Reina Sofia Arpt</DestinationName>
+    <DestinationStr>Reina Sofia Arpt(TFS)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TIA</code>
+    <DestinationName>Rinas Arpt</DestinationName>
+    <DestinationStr>Rinas Arpt(TIA)-Albania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TJM</code>
+    <DestinationName>Roshchino Tyumen Intl Arpt</DestinationName>
+    <DestinationStr>Roshchino Tyumen Intl Arpt(TJM)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TRS</code>
+    <DestinationName>Ronchi Dei Legionari Arpt</DestinationName>
+    <DestinationStr>Ronchi Dei Legionari Arpt(TRS)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UNN</code>
+    <DestinationName>Ranong Arpt</DestinationName>
+    <DestinationStr>Ranong Arpt(UNN)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UNN</code>
+    <DestinationName>Ranong</DestinationName>
+    <DestinationStr>Ranong(UNN)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>URG</code>
+    <DestinationName>Ruben Berta Arpt</DestinationName>
+    <DestinationStr>Ruben Berta Arpt(URG)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>URO</code>
+    <DestinationName>Rouen</DestinationName>
+    <DestinationStr>Rouen(URO)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UTP</code>
+    <DestinationName>Rayong Pattaya International</DestinationName>
+    <DestinationStr>Rayong Pattaya International(UTP)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VKG</code>
+    <DestinationName>Rach Gia Arpt</DestinationName>
+    <DestinationStr>Rach Gia Arpt(VKG)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VKG</code>
+    <DestinationName>Rach Gia</DestinationName>
+    <DestinationStr>Rach Gia(VKG)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WRB</code>
+    <DestinationName>Robins Airforce Base</DestinationName>
+    <DestinationStr>Robins Airforce Base(WRB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WVB</code>
+    <DestinationName>Rooikop Arpt</DestinationName>
+    <DestinationStr>Rooikop Arpt(WVB)-Namibia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WVL</code>
+    <DestinationName>Robert La Fleur Arpt</DestinationName>
+    <DestinationStr>Robert La Fleur Arpt(WVL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XIZ</code>
+    <DestinationName>Reims Champagne Ardenne</DestinationName>
+    <DestinationStr>Reims Champagne Ardenne(XIZ)-France</DestinationStr>
+  </Destination>    
+  <Destination>
+    <code>XKE</code>
+    <DestinationName>Rena</DestinationName>
+    <DestinationStr>Rena(XKE)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XRC</code>
+    <DestinationName>Runcorn</DestinationName>
+    <DestinationStr>Runcorn(XRC)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XRE</code>
+    <DestinationName>Reading</DestinationName>
+    <DestinationStr>Reading(XRE)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XRG</code>
+    <DestinationName>Rugeley</DestinationName>
+    <DestinationStr>Rugeley(XRG)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XRN</code>
+    <DestinationName>Redon</DestinationName>
+    <DestinationStr>Redon(XRN)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XRP</code>
+    <DestinationName>Riviere A Pierre</DestinationName>
+    <DestinationStr>Riviere A Pierre(XRP)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XRT</code>
+    <DestinationName>Rambouillet</DestinationName>
+    <DestinationStr>Rambouillet(XRT)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XRU</code>
+    <DestinationName>Rugby</DestinationName>
+    <DestinationStr>Rugby(XRU)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XUQ</code>
+    <DestinationName>Ringebu</DestinationName>
+    <DestinationStr>Ringebu(XUQ)-Norway</DestinationStr>
+  </Destination>    
+  <Destination>
+    <code>YCG</code>
+    <DestinationName>Ralph West Arpt</DestinationName>
+    <DestinationStr>Ralph West Arpt(YCG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHF</code>
+    <DestinationName>Rene Fountaine Municipal Arpt</DestinationName>
+    <DestinationStr>Rene Fountaine Municipal Arpt(YHF)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YOP</code>
+    <DestinationName>Rainbow Lake Arpt</DestinationName>
+    <DestinationStr>Rainbow Lake Arpt(YOP)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YOP</code>
+    <DestinationName>Rainbow Lake</DestinationName>
+    <DestinationStr>Rainbow Lake(YOP)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQF</code>
+    <DestinationName>Red Deer Regional Airport</DestinationName>
+    <DestinationStr>Red Deer Regional Airport(YQF)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQF</code>
+    <DestinationName>Red Deer</DestinationName>
+    <DestinationStr>Red Deer(YQF)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQQ</code>
+    <DestinationName>Royal Canadian Air Force Station</DestinationName>
+    <DestinationStr>Royal Canadian Air Force Station(YQQ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQR</code>
+    <DestinationName>Regina International Airport</DestinationName>
+    <DestinationStr>Regina International Airport(YQR)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQR</code>
+    <DestinationName>Regina</DestinationName>
+    <DestinationStr>Regina(YQR)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YRB</code>
+    <DestinationName>Resolute Bay Airport</DestinationName>
+    <DestinationStr>Resolute Bay Airport(YRB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YRB</code>
+    <DestinationName>Resolute</DestinationName>
+    <DestinationStr>Resolute(YRB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YRG</code>
+    <DestinationName>Rigolet Arpt</DestinationName>
+    <DestinationStr>Rigolet Arpt(YRG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YRG</code>
+    <DestinationName>Rigolet</DestinationName>
+    <DestinationStr>Rigolet(YRG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YRI</code>
+    <DestinationName>Riviere Du Loup Arpt</DestinationName>
+    <DestinationStr>Riviere Du Loup Arpt(YRI)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YRI</code>
+    <DestinationName>Riviere Du Loup</DestinationName>
+    <DestinationStr>Riviere Du Loup(YRI)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YRJ</code>
+    <DestinationName>Roberval Airport</DestinationName>
+    <DestinationStr>Roberval Airport(YRJ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YRJ</code>
+    <DestinationName>Roberval</DestinationName>
+    <DestinationStr>Roberval(YRJ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YRL</code>
+    <DestinationName>Red Lake</DestinationName>
+    <DestinationStr>Red Lake(YRL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YRM</code>
+    <DestinationName>Rocky Mountain House</DestinationName>
+    <DestinationStr>Rocky Mountain House(YRM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YRO</code>
+    <DestinationName>Rockcliffe St Arpt</DestinationName>
+    <DestinationStr>Rockcliffe St Arpt(YRO)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YRT</code>
+    <DestinationName>Rankin Inlet Arpt</DestinationName>
+    <DestinationStr>Rankin Inlet Arpt(YRT)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YRT</code>
+    <DestinationName>Rankin Inlet</DestinationName>
+    <DestinationStr>Rankin Inlet(YRT)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YRV</code>
+    <DestinationName>Revelstoke</DestinationName>
+    <DestinationStr>Revelstoke(YRV)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YUY</code>
+    <DestinationName>Rouyn Noranda Arpt</DestinationName>
+    <DestinationStr>Rouyn Noranda Arpt(YUY)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YUY</code>
+    <DestinationName>Rouyn Noranda</DestinationName>
+    <DestinationStr>Rouyn Noranda(YUY)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXK</code>
+    <DestinationName>Rimouski Municipal Arpt</DestinationName>
+    <DestinationStr>Rimouski Municipal Arpt(YXK)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXK</code>
+    <DestinationName>Rimouski</DestinationName>
+    <DestinationStr>Rimouski(YXK)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>YYI</code>
+    <DestinationName>Rivers</DestinationName>
+    <DestinationStr>Rivers(YYI)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZIR</code>
+    <DestinationName>Randers</DestinationName>
+    <DestinationStr>Randers(ZIR)-Denmark</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZJW</code>
+    <DestinationName>Rapperswil</DestinationName>
+    <DestinationStr>Rapperswil(ZJW)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZJZ</code>
+    <DestinationName>Rorschach</DestinationName>
+    <DestinationStr>Rorschach(ZJZ)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZMQ</code>
+    <DestinationName>Raufoss</DestinationName>
+    <DestinationStr>Raufoss(ZMQ)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZPJ</code>
+    <DestinationName>Ratingen</DestinationName>
+    <DestinationStr>Ratingen(ZPJ)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZPL</code>
+    <DestinationName>Recklinghausen</DestinationName>
+    <DestinationStr>Recklinghausen(ZPL)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZPM</code>
+    <DestinationName>Regensburg</DestinationName>
+    <DestinationStr>Regensburg(ZPM)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZPN</code>
+    <DestinationName>Remscheid</DestinationName>
+    <DestinationStr>Remscheid(ZPN)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZPP</code>
+    <DestinationName>Reutlingen</DestinationName>
+    <DestinationStr>Reutlingen(ZPP)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZPQ</code>
+    <DestinationName>Rheine</DestinationName>
+    <DestinationStr>Rheine(ZPQ)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZPR</code>
+    <DestinationName>Rosenheim</DestinationName>
+    <DestinationStr>Rosenheim(ZPR)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZPS</code>
+    <DestinationName>Ruesselsheim</DestinationName>
+    <DestinationStr>Ruesselsheim(ZPS)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZRE</code>
+    <DestinationName>Rethymnon</DestinationName>
+    <DestinationStr>Rethymnon(ZRE)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZRO</code>
+    <DestinationName>Reggio Nellemilia</DestinationName>
+    <DestinationStr>Reggio Nellemilia(ZRO)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZRW</code>
+    <DestinationName>Rastatt</DestinationName>
+    <DestinationStr>Rastatt(ZRW)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZRX</code>
+    <DestinationName>Riesa DE</DestinationName>
+    <DestinationStr>Riesa DE(ZRX)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZXM</code>
+    <DestinationName>Rognan</DestinationName>
+    <DestinationStr>Rognan(ZXM)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZXU</code>
+    <DestinationName>Rygge</DestinationName>
+    <DestinationStr>Rygge(ZXU)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZXX</code>
+    <DestinationName>Rade</DestinationName>
+    <DestinationStr>Rade(ZXX)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZYO</code>
+    <DestinationName>Roosendaal</DestinationName>
+    <DestinationStr>Roosendaal(ZYO)-Netherlands</DestinationStr>
+  </Destination>
+</DestinationRoot>

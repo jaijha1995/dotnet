@@ -1,0 +1,1912 @@
+﻿<DestinationRoot>
+  <Destination>
+    <code>NORESULT</code>
+    <DestinationName>NORESULT</DestinationName>
+    <DestinationStr>No Result Found</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AEP</code>
+    <DestinationName>Jorge Newbery</DestinationName>
+    <DestinationStr>Jorge Newbery(AEP)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AJF</code>
+    <DestinationName>Jouf Airport</DestinationName>
+    <DestinationStr>Jouf Airport(AJF)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BJC</code>
+    <DestinationName>Jeffco Arpt</DestinationName>
+    <DestinationStr>Jeffco Arpt(BJC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BPT</code>
+    <DestinationName>Jefferson Cty Arpt</DestinationName>
+    <DestinationStr>Jefferson Cty Arpt(BPT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BRM</code>
+    <DestinationName>Jacinto Lara International</DestinationName>
+    <DestinationStr>Jacinto Lara International(BRM)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BSC</code>
+    <DestinationName>Jose Celestino Mutis Arpt</DestinationName>
+    <DestinationStr>Jose Celestino Mutis Arpt(BSC)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAQ</code>
+    <DestinationName>Juan H White Arpt</DestinationName>
+    <DestinationStr>Juan H White Arpt(CAQ)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CBB</code>
+    <DestinationName>Jorge Wilsterman Intl</DestinationName>
+    <DestinationStr>Jorge Wilsterman Intl(CBB)-Bolivia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CCC</code>
+    <DestinationName>Jardines Del Rey Arpt</DestinationName>
+    <DestinationStr>Jardines Del Rey Arpt(CCC)-Cuba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CFG</code>
+    <DestinationName>Jamie Gonzalez Arpt</DestinationName>
+    <DestinationStr>Jamie Gonzalez Arpt(CFG)-Cuba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CHW</code>
+    <DestinationName>Jiuquan Arpt</DestinationName>
+    <DestinationStr>Jiuquan Arpt(CHW)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CHW</code>
+    <DestinationName>Jiuquan</DestinationName>
+    <DestinationStr>Jiuquan(CHW)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CIX</code>
+    <DestinationName>J A Quinones Gonzales Arpt</DestinationName>
+    <DestinationStr>J A Quinones Gonzales Arpt(CIX)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CJU</code>
+    <DestinationName>Jeju City</DestinationName>
+    <DestinationStr>Jeju City(CJU)-Korea, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CJU</code>
+    <DestinationName>Jeju Intl Arpt</DestinationName>
+    <DestinationStr>Jeju Intl Arpt(CJU)-Korea, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CNW</code>
+    <DestinationName>James Connall Arpt</DestinationName>
+    <DestinationStr>James Connall Arpt(CNW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CPV</code>
+    <DestinationName>Joao Suassuana Arpt</DestinationName>
+    <DestinationStr>Joao Suassuana Arpt(CPV)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CZE</code>
+    <DestinationName>Jose leonardo Chirinos Arpt</DestinationName>
+    <DestinationStr>Jose leonardo Chirinos Arpt(CZE)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DED</code>
+    <DestinationName>Jolly Grant Airport</DestinationName>
+    <DestinationStr>Jolly Grant Airport(DED)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DJB</code>
+    <DestinationName>Jambi</DestinationName>
+    <DestinationStr>Jambi(DJB)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DJJ</code>
+    <DestinationName>Jayapura</DestinationName>
+    <DestinationStr>Jayapura(DJJ)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EKO</code>
+    <DestinationName>J C Harris Field</DestinationName>
+    <DestinationStr>J C Harris Field(EKO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GDT</code>
+    <DestinationName>J A G S McCartney Intl</DestinationName>
+    <DestinationStr>J A G S McCartney Intl(GDT)-Turks And Caicos Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GIZ</code>
+    <DestinationName>Jazan SA</DestinationName>
+    <DestinationStr>Jazan SA(GIZ)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GIZ</code>
+    <DestinationName>Jizan SA</DestinationName>
+    <DestinationStr>Jizan SA(GIZ)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GJL</code>
+    <DestinationName>Jijel</DestinationName>
+    <DestinationStr>Jijel(GJL)-Algeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GPI</code>
+    <DestinationName>Juan Casiano Arpt</DestinationName>
+    <DestinationStr>Juan Casiano Arpt(GPI)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GYE</code>
+    <DestinationName>Jose Joaquin de Olmedo Airport</DestinationName>
+    <DestinationStr>Jose Joaquin de Olmedo Airport(GYE)-Ecuador</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GYM</code>
+    <DestinationName>Jose Maria Yanez Intl Arpt</DestinationName>
+    <DestinationStr>Jose Maria Yanez Intl Arpt(GYM)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HAV</code>
+    <DestinationName>Jose Marti Intl Arpt</DestinationName>
+    <DestinationStr>Jose Marti Intl Arpt(HAV)-Cuba</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>HGT</code>
+    <DestinationName>Jolon</DestinationName>
+    <DestinationStr>Jolon(HGT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IGO</code>
+    <DestinationName>Jaime Ortis Betancur Arpt</DestinationName>
+    <DestinationStr>Jaime Ortis Betancur Arpt(IGO)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IJX</code>
+    <DestinationName>Jacksonville Municipal Arpt</DestinationName>
+    <DestinationStr>Jacksonville Municipal Arpt(IJX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IJX</code>
+    <DestinationName>Jacksonville</DestinationName>
+    <DestinationStr>Jacksonville(IJX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IXJ</code>
+    <DestinationName>Jammu</DestinationName>
+    <DestinationStr>Jammu(IXJ)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IXW</code>
+    <DestinationName>Jamshedpur</DestinationName>
+    <DestinationStr>Jamshedpur(IXW)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JAB</code>
+    <DestinationName>Jabiru Arpt</DestinationName>
+    <DestinationStr>Jabiru Arpt(JAB)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JAB</code>
+    <DestinationName>Jabiru</DestinationName>
+    <DestinationStr>Jabiru(JAB)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JAC</code>
+    <DestinationName>Jackson Hole Arpt</DestinationName>
+    <DestinationStr>Jackson Hole Arpt(JAC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JAC</code>
+    <DestinationName>Jackson</DestinationName>
+    <DestinationStr>Jackson(JAC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JAD</code>
+    <DestinationName>Jandakot</DestinationName>
+    <DestinationStr>Jandakot(JAD)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JAE</code>
+    <DestinationName>Technology Park Arpt</DestinationName>
+    <DestinationStr>Technology Park Arpt(JAE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JAG</code>
+    <DestinationName>Jacobabad</DestinationName>
+    <DestinationStr>Jacobabad(JAG)-Pakistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JAH</code>
+    <DestinationName>Aubagne</DestinationName>
+    <DestinationStr>Aubagne(JAH)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JAI</code>
+    <DestinationName>Jaipur</DestinationName>
+    <DestinationStr>Jaipur(JAI)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JAI</code>
+    <DestinationName>Sanganeer Arpt</DestinationName>
+    <DestinationStr>Sanganeer Arpt(JAI)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JAJ</code>
+    <DestinationName>Perimeter Hlpt</DestinationName>
+    <DestinationStr>Perimeter Hlpt(JAJ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JAL</code>
+    <DestinationName>El Lencero Arpt</DestinationName>
+    <DestinationStr>El Lencero Arpt(JAL)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JAL</code>
+    <DestinationName>Jalapa</DestinationName>
+    <DestinationStr>Jalapa(JAL)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JAN</code>
+    <DestinationName>Jackson Evers Intl Arpt</DestinationName>
+    <DestinationStr>Jackson Evers Intl Arpt(JAN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JAN</code>
+    <DestinationName>Jackson</DestinationName>
+    <DestinationStr>Jackson(JAN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JAO</code>
+    <DestinationName>Beaver Ruin Helpt</DestinationName>
+    <DestinationStr>Beaver Ruin Helpt(JAO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JAP</code>
+    <DestinationName>Punta Renes</DestinationName>
+    <DestinationStr>Punta Renes(JAP)-Costa Rica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JAP</code>
+    <DestinationName>Puntarenes Chacarita Arpt</DestinationName>
+    <DestinationStr>Puntarenes Chacarita Arpt(JAP)-Costa Rica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JAQ</code>
+    <DestinationName>Jacquinot</DestinationName>
+    <DestinationStr>Jacquinot(JAQ)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JAU</code>
+    <DestinationName>Jauja</DestinationName>
+    <DestinationStr>Jauja(JAU)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JAV</code>
+    <DestinationName>Ilulissat Arpt</DestinationName>
+    <DestinationStr>Ilulissat Arpt(JAV)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JAV</code>
+    <DestinationName>Ilulissat</DestinationName>
+    <DestinationStr>Ilulissat(JAV)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JAX</code>
+    <DestinationName>Jacksonville Intl Arpt</DestinationName>
+    <DestinationStr>Jacksonville Intl Arpt(JAX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JAX</code>
+    <DestinationName>Jacksonville</DestinationName>
+    <DestinationStr>Jacksonville(JAX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JBB</code>
+    <DestinationName>Jember</DestinationName>
+    <DestinationStr>Jember(JBB)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JBB</code>
+    <DestinationName>Noto Hadinegoro Arpt</DestinationName>
+    <DestinationStr>Noto Hadinegoro Arpt(JBB)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JBC</code>
+    <DestinationName>Boston City Heliport</DestinationName>
+    <DestinationStr>Boston City Heliport(JBC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JBK</code>
+    <DestinationName>Berkeley</DestinationName>
+    <DestinationStr>Berkeley(JBK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JBQ</code>
+    <DestinationName>Dr Joaquin Balaguer</DestinationName>
+    <DestinationStr>Dr Joaquin Balaguer(JBQ)-Dominican Republic</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JBQ</code>
+    <DestinationName>Higuero</DestinationName>
+    <DestinationStr>Higuero(JBQ)-Dominican Republic</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JBR</code>
+    <DestinationName>Jonesboro Municipal</DestinationName>
+    <DestinationStr>Jonesboro Municipal(JBR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JBR</code>
+    <DestinationName>Jonesboro</DestinationName>
+    <DestinationStr>Jonesboro(JBR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JBS</code>
+    <DestinationName>Hacienda Business Park Hlpt</DestinationName>
+    <DestinationStr>Hacienda Business Park Hlpt(JBS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JBS</code>
+    <DestinationName>Pleasanton</DestinationName>
+    <DestinationStr>Pleasanton(JBS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JBT</code>
+    <DestinationName>Bethal Alaska Airport</DestinationName>
+    <DestinationStr>Bethal Alaska Airport(JBT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JCA</code>
+    <DestinationName>Croisette Heliport</DestinationName>
+    <DestinationStr>Croisette Heliport(JCA)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JCB</code>
+    <DestinationName>Joacaba Arpt</DestinationName>
+    <DestinationStr>Joacaba Arpt(JCB)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JCB</code>
+    <DestinationName>Joacaba</DestinationName>
+    <DestinationStr>Joacaba(JCB)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JCC</code>
+    <DestinationName>China Basin Hlpt</DestinationName>
+    <DestinationStr>China Basin Hlpt(JCC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JCD</code>
+    <DestinationName>Downtown Hp</DestinationName>
+    <DestinationStr>Downtown Hp(JCD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JCE</code>
+    <DestinationName>Oakland Conv Ctr Hlpt</DestinationName>
+    <DestinationStr>Oakland Conv Ctr Hlpt(JCE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JCH</code>
+    <DestinationName>Qasigiannguit</DestinationName>
+    <DestinationStr>Qasigiannguit(JCH)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JCI</code>
+    <DestinationName>Johnson Industrial Arpt</DestinationName>
+    <DestinationStr>Johnson Industrial Arpt(JCI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JCJ</code>
+    <DestinationName>Chuja Heliport</DestinationName>
+    <DestinationStr>Chuja Heliport(JCJ)-Korea, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JCK</code>
+    <DestinationName>Julia Creek Arpt</DestinationName>
+    <DestinationStr>Julia Creek Arpt(JCK)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JCK</code>
+    <DestinationName>Julia Creek</DestinationName>
+    <DestinationStr>Julia Creek(JCK)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JCN</code>
+    <DestinationName>Incheon</DestinationName>
+    <DestinationStr>Incheon(JCN)-Korea, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JCU</code>
+    <DestinationName>Ceuta</DestinationName>
+    <DestinationStr>Ceuta(JCU)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JDB</code>
+    <DestinationName>Downtown Heliport</DestinationName>
+    <DestinationStr>Downtown Heliport(JDB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JDF</code>
+    <DestinationName>Francisco De Assis Arpt</DestinationName>
+    <DestinationStr>Francisco De Assis Arpt(JDF)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JDF</code>
+    <DestinationName>Juiz De Fora</DestinationName>
+    <DestinationStr>Juiz De Fora(JDF)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JDH</code>
+    <DestinationName>Jodhpur Arpt</DestinationName>
+    <DestinationStr>Jodhpur Arpt(JDH)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JDH</code>
+    <DestinationName>Jodhpur</DestinationName>
+    <DestinationStr>Jodhpur(JDH)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JDM</code>
+    <DestinationName>Downtown Hlt</DestinationName>
+    <DestinationStr>Downtown Hlt(JDM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JDO</code>
+    <DestinationName>Juazeiro Do Norte</DestinationName>
+    <DestinationStr>Juazeiro Do Norte(JDO)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JDO</code>
+    <DestinationName>Regional Do Cariri Arpt</DestinationName>
+    <DestinationStr>Regional Do Cariri Arpt(JDO)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JDP</code>
+    <DestinationName>Issy Les Moulineaux Arpt</DestinationName>
+    <DestinationStr>Issy Les Moulineaux Arpt(JDP)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JDR</code>
+    <DestinationName>Sao Joao Del Rei Arpt</DestinationName>
+    <DestinationStr>Sao Joao Del Rei Arpt(JDR)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JDT</code>
+    <DestinationName>Minneapolis Downtown Heliport</DestinationName>
+    <DestinationStr>Minneapolis Downtown Heliport(JDT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JDX</code>
+    <DestinationName>Central Bus District Heliport</DestinationName>
+    <DestinationStr>Central Bus District Heliport(JDX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JDY</code>
+    <DestinationName>Downey</DestinationName>
+    <DestinationStr>Downey(JDY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JDZ</code>
+    <DestinationName>Jingdezhen Arpt</DestinationName>
+    <DestinationStr>Jingdezhen Arpt(JDZ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JDZ</code>
+    <DestinationName>Jingdezhen</DestinationName>
+    <DestinationStr>Jingdezhen(JDZ)-China</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>JEA</code>
+    <DestinationName>Jaen</DestinationName>
+    <DestinationStr>Jaen(JEA)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JED</code>
+    <DestinationName>Jeddah Intl</DestinationName>
+    <DestinationStr>Jeddah Intl(JED)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JED</code>
+    <DestinationName>Jeddah</DestinationName>
+    <DestinationStr>Jeddah(JED)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JEF</code>
+    <DestinationName>Jefferson City Memorial</DestinationName>
+    <DestinationStr>Jefferson City Memorial(JEF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JEF</code>
+    <DestinationName>Jefferson City</DestinationName>
+    <DestinationStr>Jefferson City(JEF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JEG</code>
+    <DestinationName>Aasiaat Arpt</DestinationName>
+    <DestinationStr>Aasiaat Arpt(JEG)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JEG</code>
+    <DestinationName>Aasiaat</DestinationName>
+    <DestinationStr>Aasiaat(JEG)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JEK</code>
+    <DestinationName>Jeki Airport</DestinationName>
+    <DestinationStr>Jeki Airport(JEK)-Zambia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JEM</code>
+    <DestinationName>Emeryville</DestinationName>
+    <DestinationStr>Emeryville(JEM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JEM</code>
+    <DestinationName>Hlpt</DestinationName>
+    <DestinationStr>Hlpt(JEM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JER</code>
+    <DestinationName>Jersey</DestinationName>
+    <DestinationStr>Jersey(JER)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JER</code>
+    <DestinationName>States Airport</DestinationName>
+    <DestinationStr>States Airport(JER)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JEV</code>
+    <DestinationName>Evry</DestinationName>
+    <DestinationStr>Evry(JEV)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JFK</code>
+    <DestinationName>John F Kennedy Intl</DestinationName>
+    <DestinationStr>John F Kennedy Intl(JFK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JFM</code>
+    <DestinationName>Fremantle Heliport</DestinationName>
+    <DestinationStr>Fremantle Heliport(JFM)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JFM</code>
+    <DestinationName>Fremantle</DestinationName>
+    <DestinationStr>Fremantle(JFM)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JFR</code>
+    <DestinationName>Paamiut</DestinationName>
+    <DestinationStr>Paamiut(JFR)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JGA</code>
+    <DestinationName>Govardhanpur Arpt</DestinationName>
+    <DestinationStr>Govardhanpur Arpt(JGA)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JGA</code>
+    <DestinationName>Jamnagar</DestinationName>
+    <DestinationStr>Jamnagar(JGA)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JGB</code>
+    <DestinationName>Jagdalpur Airport</DestinationName>
+    <DestinationStr>Jagdalpur Airport(JGB)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JGB</code>
+    <DestinationName>Jagdalpur</DestinationName>
+    <DestinationStr>Jagdalpur(JGB)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JGC</code>
+    <DestinationName>Grand Canyon Heliport</DestinationName>
+    <DestinationStr>Grand Canyon Heliport(JGC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JGD</code>
+    <DestinationName>Jia Ge Da Qi Airport</DestinationName>
+    <DestinationStr>Jia Ge Da Qi Airport(JGD)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JGD</code>
+    <DestinationName>Jia Ge Da Qi</DestinationName>
+    <DestinationStr>Jia Ge Da Qi(JGD)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JGL</code>
+    <DestinationName>Galleria Arpt</DestinationName>
+    <DestinationStr>Galleria Arpt(JGL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JGN</code>
+    <DestinationName>Jiayuguan Arpt</DestinationName>
+    <DestinationStr>Jiayuguan Arpt(JGN)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JGN</code>
+    <DestinationName>Jiayuguan</DestinationName>
+    <DestinationStr>Jiayuguan(JGN)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JGO</code>
+    <DestinationName>Qeqertarsuaq</DestinationName>
+    <DestinationStr>Qeqertarsuaq(JGO)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JGP</code>
+    <DestinationName>Greenway Plaza Heliport</DestinationName>
+    <DestinationStr>Greenway Plaza Heliport(JGP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JGQ</code>
+    <DestinationName>Transco Twr Galleria</DestinationName>
+    <DestinationStr>Transco Twr Galleria(JGQ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JGR</code>
+    <DestinationName>Groennedal Heliport</DestinationName>
+    <DestinationStr>Groennedal Heliport(JGR)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JGR</code>
+    <DestinationName>Groennedal</DestinationName>
+    <DestinationStr>Groennedal(JGR)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JGS</code>
+    <DestinationName>Jian</DestinationName>
+    <DestinationStr>Jian(JGS)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JGS</code>
+    <DestinationName>Jing Gang Shan Arpt</DestinationName>
+    <DestinationStr>Jing Gang Shan Arpt(JGS)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JGX</code>
+    <DestinationName>Glendale Heliport</DestinationName>
+    <DestinationStr>Glendale Heliport(JGX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JGX</code>
+    <DestinationName>Glendale</DestinationName>
+    <DestinationStr>Glendale(JGX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JHB</code>
+    <DestinationName>Johor Bahru</DestinationName>
+    <DestinationStr>Johor Bahru(JHB)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JHB</code>
+    <DestinationName>Sultan Ismail Intl Arpt</DestinationName>
+    <DestinationStr>Sultan Ismail Intl Arpt(JHB)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JHC</code>
+    <DestinationName>Garden City</DestinationName>
+    <DestinationStr>Garden City(JHC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JHE</code>
+    <DestinationName>Helsingborg Heliport</DestinationName>
+    <DestinationStr>Helsingborg Heliport(JHE)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JHE</code>
+    <DestinationName>Helsingborg</DestinationName>
+    <DestinationStr>Helsingborg(JHE)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JHG</code>
+    <DestinationName>Jinghong Arpt</DestinationName>
+    <DestinationStr>Jinghong Arpt(JHG)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JHG</code>
+    <DestinationName>Jinghong</DestinationName>
+    <DestinationStr>Jinghong(JHG)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JHM</code>
+    <DestinationName>Kapalua Arpt</DestinationName>
+    <DestinationStr>Kapalua Arpt(JHM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JHM</code>
+    <DestinationName>Kapalua</DestinationName>
+    <DestinationStr>Kapalua(JHM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JHQ</code>
+    <DestinationName>Shute Harbour Heliport</DestinationName>
+    <DestinationStr>Shute Harbour Heliport(JHQ)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JHQ</code>
+    <DestinationName>Shute Hrb</DestinationName>
+    <DestinationStr>Shute Hrb(JHQ)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JHS</code>
+    <DestinationName>Sisimiut Arpt</DestinationName>
+    <DestinationStr>Sisimiut Arpt(JHS)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JHS</code>
+    <DestinationName>Sisimiut</DestinationName>
+    <DestinationStr>Sisimiut(JHS)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JHW</code>
+    <DestinationName>Chautauqua Cty Arpt</DestinationName>
+    <DestinationStr>Chautauqua Cty Arpt(JHW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JHW</code>
+    <DestinationName>Jamestown</DestinationName>
+    <DestinationStr>Jamestown(JHW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JIB</code>
+    <DestinationName>Ambouli Airport</DestinationName>
+    <DestinationStr>Ambouli Airport(JIB)-Djibouti</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JIB</code>
+    <DestinationName>Djibouti</DestinationName>
+    <DestinationStr>Djibouti(JIB)-Djibouti</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JIJ</code>
+    <DestinationName>Jijiga Airport</DestinationName>
+    <DestinationStr>Jijiga Airport(JIJ)-Ethiopia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JIJ</code>
+    <DestinationName>Jijiga</DestinationName>
+    <DestinationStr>Jijiga(JIJ)-Ethiopia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JIK</code>
+    <DestinationName>Ikaria Arpt</DestinationName>
+    <DestinationStr>Ikaria Arpt(JIK)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JIK</code>
+    <DestinationName>Ikaria Island</DestinationName>
+    <DestinationStr>Ikaria Island(JIK)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JIL</code>
+    <DestinationName>Jilin Arpt</DestinationName>
+    <DestinationStr>Jilin Arpt(JIL)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JIL</code>
+    <DestinationName>Jilin</DestinationName>
+    <DestinationStr>Jilin(JIL)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JIM</code>
+    <DestinationName>Jimma Arpt</DestinationName>
+    <DestinationStr>Jimma Arpt(JIM)-Ethiopia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JIM</code>
+    <DestinationName>Jimma</DestinationName>
+    <DestinationStr>Jimma(JIM)-Ethiopia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JIO</code>
+    <DestinationName>International Heliport</DestinationName>
+    <DestinationStr>International Heliport(JIO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JIQ</code>
+    <DestinationName>Qianjiang Wulingshan Arpt</DestinationName>
+    <DestinationStr>Qianjiang Wulingshan Arpt(JIQ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JIQ</code>
+    <DestinationName>Qianjiang</DestinationName>
+    <DestinationStr>Qianjiang(JIQ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JIU</code>
+    <DestinationName>Jiujiang Airport</DestinationName>
+    <DestinationStr>Jiujiang Airport(JIU)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JIU</code>
+    <DestinationName>Jiujiang</DestinationName>
+    <DestinationStr>Jiujiang(JIU)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JIW</code>
+    <DestinationName>Jiwani</DestinationName>
+    <DestinationStr>Jiwani(JIW)-Pakistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JJI</code>
+    <DestinationName>Juanjui</DestinationName>
+    <DestinationStr>Juanjui(JJI)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JJM</code>
+    <DestinationName>Meru Kinna</DestinationName>
+    <DestinationStr>Meru Kinna(JJM)-Kenya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JJN</code>
+    <DestinationName>Jinjiang Arpt</DestinationName>
+    <DestinationStr>Jinjiang Arpt(JJN)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JJN</code>
+    <DestinationName>Jinjiang</DestinationName>
+    <DestinationStr>Jinjiang(JJN)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JJU</code>
+    <DestinationName>Julianehaab</DestinationName>
+    <DestinationStr>Julianehaab(JJU)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JJU</code>
+    <DestinationName>Qaqortoq Arpt</DestinationName>
+    <DestinationStr>Qaqortoq Arpt(JJU)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JJU</code>
+    <DestinationName>Qaqortoq</DestinationName>
+    <DestinationStr>Qaqortoq(JJU)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JKG</code>
+    <DestinationName>Axamo Airport</DestinationName>
+    <DestinationStr>Axamo Airport(JKG)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JKG</code>
+    <DestinationName>Jonkoping</DestinationName>
+    <DestinationStr>Jonkoping(JKG)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JKH</code>
+    <DestinationName>Chios Arpt</DestinationName>
+    <DestinationStr>Chios Arpt(JKH)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JKH</code>
+    <DestinationName>Chios</DestinationName>
+    <DestinationStr>Chios(JKH)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JKL</code>
+    <DestinationName>Kalymnos Arpt</DestinationName>
+    <DestinationStr>Kalymnos Arpt(JKL)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JKL</code>
+    <DestinationName>Kalymnos Island</DestinationName>
+    <DestinationStr>Kalymnos Island(JKL)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JKT</code>
+    <DestinationName>Jakarta</DestinationName>
+    <DestinationStr>Jakarta(JKT)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JKV</code>
+    <DestinationName>Cherokee County Arpt</DestinationName>
+    <DestinationStr>Cherokee County Arpt(JKV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JKV</code>
+    <DestinationName>Jacksonville</DestinationName>
+    <DestinationStr>Jacksonville(JKV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JLD</code>
+    <DestinationName>Landskrona Heliport</DestinationName>
+    <DestinationStr>Landskrona Heliport(JLD)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JLD</code>
+    <DestinationName>Landskrona</DestinationName>
+    <DestinationStr>Landskrona(JLD)-Sweden</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>JLN</code>
+    <DestinationName>Joplin Municipal Arpt</DestinationName>
+    <DestinationStr>Joplin Municipal Arpt(JLN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JLN</code>
+    <DestinationName>Joplin</DestinationName>
+    <DestinationStr>Joplin(JLN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JLO</code>
+    <DestinationName>Jesolo</DestinationName>
+    <DestinationStr>Jesolo(JLO)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JLP</code>
+    <DestinationName>Juan Les Pins</DestinationName>
+    <DestinationStr>Juan Les Pins(JLP)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JLR</code>
+    <DestinationName>Jabalpur Airport</DestinationName>
+    <DestinationStr>Jabalpur Airport(JLR)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JLR</code>
+    <DestinationName>Jabalpur</DestinationName>
+    <DestinationStr>Jabalpur(JLR)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JLX</code>
+    <DestinationName>Union Station Heliport</DestinationName>
+    <DestinationStr>Union Station Heliport(JLX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JMA</code>
+    <DestinationName>Marriot Astrodome Arpt</DestinationName>
+    <DestinationStr>Marriot Astrodome Arpt(JMA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JMC</code>
+    <DestinationName>Sausalito</DestinationName>
+    <DestinationStr>Sausalito(JMC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JMD</code>
+    <DestinationName>Market Centre Heliport</DestinationName>
+    <DestinationStr>Market Centre Heliport(JMD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JMH</code>
+    <DestinationName>Marriott Heliport</DestinationName>
+    <DestinationStr>Marriott Heliport(JMH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JMH</code>
+    <DestinationName>Schaumburg</DestinationName>
+    <DestinationStr>Schaumburg(JMH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JMK</code>
+    <DestinationName>Mykonos Greece Arpt</DestinationName>
+    <DestinationStr>Mykonos Greece Arpt(JMK)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JMK</code>
+    <DestinationName>Mykonos</DestinationName>
+    <DestinationStr>Mykonos(JMK)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JMM</code>
+    <DestinationName>Malmo Harbour Heliport</DestinationName>
+    <DestinationStr>Malmo Harbour Heliport(JMM)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JMN</code>
+    <DestinationName>Municipal Heliport</DestinationName>
+    <DestinationStr>Municipal Heliport(JMN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JMS</code>
+    <DestinationName>Jamestown Arpt</DestinationName>
+    <DestinationStr>Jamestown Arpt(JMS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JMS</code>
+    <DestinationName>Jamestown</DestinationName>
+    <DestinationStr>Jamestown(JMS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JMU</code>
+    <DestinationName>Jiamusi</DestinationName>
+    <DestinationStr>Jiamusi(JMU)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JMY</code>
+    <DestinationName>Mammy Yoko Heliport</DestinationName>
+    <DestinationStr>Mammy Yoko Heliport(JMY)-Sierra Leone</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JNB</code>
+    <DestinationName>Johannesburg</DestinationName>
+    <DestinationStr>Johannesburg(JNB)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JNB</code>
+    <DestinationName>O R Tambo International Arpt</DestinationName>
+    <DestinationStr>O R Tambo International Arpt(JNB)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JNG</code>
+    <DestinationName>Jining Airport</DestinationName>
+    <DestinationStr>Jining Airport(JNG)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JNG</code>
+    <DestinationName>JINING</DestinationName>
+    <DestinationStr>JINING(JNG)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JNH</code>
+    <DestinationName>North Park Inn Heliport</DestinationName>
+    <DestinationStr>North Park Inn Heliport(JNH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JNJ</code>
+    <DestinationName>Duqm</DestinationName>
+    <DestinationStr>Duqm(JNJ)-Oman Sultanate Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JNJ</code>
+    <DestinationName>Jaaluni Airport</DestinationName>
+    <DestinationStr>Jaaluni Airport(JNJ)-Oman Sultanate Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JNN</code>
+    <DestinationName>Nanortalik Arpt</DestinationName>
+    <DestinationStr>Nanortalik Arpt(JNN)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JNN</code>
+    <DestinationName>Nanortalik</DestinationName>
+    <DestinationStr>Nanortalik(JNN)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JNP</code>
+    <DestinationName>Newport Beach Heliport</DestinationName>
+    <DestinationStr>Newport Beach Heliport(JNP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JNS</code>
+    <DestinationName>Narsaq Heleport</DestinationName>
+    <DestinationStr>Narsaq Heleport(JNS)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JNS</code>
+    <DestinationName>Narsaq</DestinationName>
+    <DestinationStr>Narsaq(JNS)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JNU</code>
+    <DestinationName>Juneau Arpt</DestinationName>
+    <DestinationStr>Juneau Arpt(JNU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JNU</code>
+    <DestinationName>Juneau</DestinationName>
+    <DestinationStr>Juneau(JNU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JNX</code>
+    <DestinationName>Naxos Arpt</DestinationName>
+    <DestinationStr>Naxos Arpt(JNX)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JNX</code>
+    <DestinationName>Naxos</DestinationName>
+    <DestinationStr>Naxos(JNX)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JNZ</code>
+    <DestinationName>Jinzhou Arpt</DestinationName>
+    <DestinationStr>Jinzhou Arpt(JNZ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JNZ</code>
+    <DestinationName>Jinzhou</DestinationName>
+    <DestinationStr>Jinzhou(JNZ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JOE</code>
+    <DestinationName>Joensuu Arpt</DestinationName>
+    <DestinationStr>Joensuu Arpt(JOE)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JOE</code>
+    <DestinationName>Joensuu</DestinationName>
+    <DestinationStr>Joensuu(JOE)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JOG</code>
+    <DestinationName>Adisutjipto Arpt</DestinationName>
+    <DestinationStr>Adisutjipto Arpt(JOG)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JOG</code>
+    <DestinationName>Yogyakarta</DestinationName>
+    <DestinationStr>Yogyakarta(JOG)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JOI</code>
+    <DestinationName>Cubatao Arpt</DestinationName>
+    <DestinationStr>Cubatao Arpt(JOI)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JOI</code>
+    <DestinationName>Joinville</DestinationName>
+    <DestinationStr>Joinville(JOI)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JOK</code>
+    <DestinationName>Yoshkar Ola Arpt</DestinationName>
+    <DestinationStr>Yoshkar Ola Arpt(JOK)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JOK</code>
+    <DestinationName>YOSHKAR OLA</DestinationName>
+    <DestinationStr>YOSHKAR OLA(JOK)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JOL</code>
+    <DestinationName>Jolo Airport</DestinationName>
+    <DestinationStr>Jolo Airport(JOL)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JOL</code>
+    <DestinationName>Jolo</DestinationName>
+    <DestinationStr>Jolo(JOL)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JON</code>
+    <DestinationName>Johnston Island</DestinationName>
+    <DestinationStr>Johnston Island(JON)-United States Minor Outlying Islnds</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JOS</code>
+    <DestinationName>Jos NG</DestinationName>
+    <DestinationStr>Jos NG(JOS)-Nigeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JOS</code>
+    <DestinationName>Yakubu Gowon Arpt</DestinationName>
+    <DestinationStr>Yakubu Gowon Arpt(JOS)-Nigeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JOT</code>
+    <DestinationName>Joliet Park District Arpt</DestinationName>
+    <DestinationStr>Joliet Park District Arpt(JOT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JOT</code>
+    <DestinationName>Joliet</DestinationName>
+    <DestinationStr>Joliet(JOT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JPA</code>
+    <DestinationName>Castro Pinto Arpt</DestinationName>
+    <DestinationStr>Castro Pinto Arpt(JPA)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JPA</code>
+    <DestinationName>Joao Pessoa</DestinationName>
+    <DestinationStr>Joao Pessoa(JPA)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JPD</code>
+    <DestinationName>Burbank Heliport</DestinationName>
+    <DestinationStr>Burbank Heliport(JPD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JPD</code>
+    <DestinationName>Pasadena</DestinationName>
+    <DestinationStr>Pasadena(JPD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JPR</code>
+    <DestinationName>Ji Parana Arpt</DestinationName>
+    <DestinationStr>Ji Parana Arpt(JPR)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JPR</code>
+    <DestinationName>Ji Parana</DestinationName>
+    <DestinationStr>Ji Parana(JPR)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JPR</code>
+    <DestinationName>Jiparana</DestinationName>
+    <DestinationStr>Jiparana(JPR)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JPT</code>
+    <DestinationName>Park Ten Heliport</DestinationName>
+    <DestinationStr>Park Ten Heliport(JPT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JQA</code>
+    <DestinationName>Qaarsut Arpt</DestinationName>
+    <DestinationStr>Qaarsut Arpt(JQA)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JQA</code>
+    <DestinationName>Qaarsut</DestinationName>
+    <DestinationStr>Qaarsut(JQA)-Greenland</DestinationStr>
+  </Destination>     
+  <Destination>
+    <code>JRA</code>
+    <DestinationName>West 30Th St Heliport</DestinationName>
+    <DestinationStr>West 30Th St Heliport(JRA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JRB</code>
+    <DestinationName>Downtown Manhattan Heliport</DestinationName>
+    <DestinationStr>Downtown Manhattan Heliport(JRB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JRC</code>
+    <DestinationName>Rochester Charlton Building Heliport</DestinationName>
+    <DestinationStr>Rochester Charlton Building Heliport(JRC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JRE</code>
+    <DestinationName>East 60th St Hlpt</DestinationName>
+    <DestinationStr>East 60th St Hlpt(JRE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JRF</code>
+    <DestinationName>Kalaeloa Arpt</DestinationName>
+    <DestinationStr>Kalaeloa Arpt(JRF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JRF</code>
+    <DestinationName>Kapolei</DestinationName>
+    <DestinationStr>Kapolei(JRF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JRH</code>
+    <DestinationName>Jorhat</DestinationName>
+    <DestinationStr>Jorhat(JRH)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JRH</code>
+    <DestinationName>Rowriah Arpt</DestinationName>
+    <DestinationStr>Rowriah Arpt(JRH)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JRO</code>
+    <DestinationName>Kilimanjaro Arpt</DestinationName>
+    <DestinationStr>Kilimanjaro Arpt(JRO)-Tanzania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JRO</code>
+    <DestinationName>Kilimanjaro</DestinationName>
+    <DestinationStr>Kilimanjaro(JRO)-Tanzania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JRS</code>
+    <DestinationName>Atarot Airport</DestinationName>
+    <DestinationStr>Atarot Airport(JRS)-Israel</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JRS</code>
+    <DestinationName>Jerusalem</DestinationName>
+    <DestinationStr>Jerusalem(JRS)-Israel</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JSA</code>
+    <DestinationName>Jaisalmer Arpt</DestinationName>
+    <DestinationStr>Jaisalmer Arpt(JSA)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JSA</code>
+    <DestinationName>Jaisalmer</DestinationName>
+    <DestinationStr>Jaisalmer(JSA)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JSG</code>
+    <DestinationName>San Rafael Heliport</DestinationName>
+    <DestinationStr>San Rafael Heliport(JSG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JSH</code>
+    <DestinationName>Sitia Municipal Airport</DestinationName>
+    <DestinationStr>Sitia Municipal Airport(JSH)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JSH</code>
+    <DestinationName>Sitia</DestinationName>
+    <DestinationStr>Sitia(JSH)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JSI</code>
+    <DestinationName>Skiathos Arpt</DestinationName>
+    <DestinationStr>Skiathos Arpt(JSI)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JSI</code>
+    <DestinationName>Skiathos</DestinationName>
+    <DestinationStr>Skiathos(JSI)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JSK</code>
+    <DestinationName>Municipal Hpt</DestinationName>
+    <DestinationStr>Municipal Hpt(JSK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JSL</code>
+    <DestinationName>Steel Pier Hlpt</DestinationName>
+    <DestinationStr>Steel Pier Hlpt(JSL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JSM</code>
+    <DestinationName>Jose De San Martin</DestinationName>
+    <DestinationStr>Jose De San Martin(JSM)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JSN</code>
+    <DestinationName>Sherman Oaks Heliport</DestinationName>
+    <DestinationStr>Sherman Oaks Heliport(JSN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JSO</code>
+    <DestinationName>Sodertalje Heliport</DestinationName>
+    <DestinationStr>Sodertalje Heliport(JSO)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JSO</code>
+    <DestinationName>Sodertalje</DestinationName>
+    <DestinationStr>Sodertalje(JSO)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JSP</code>
+    <DestinationName>Seogwipo Heliport</DestinationName>
+    <DestinationStr>Seogwipo Heliport(JSP)-Korea, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JSR</code>
+    <DestinationName>Jessore</DestinationName>
+    <DestinationStr>Jessore(JSR)-Bangladesh</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JSS</code>
+    <DestinationName>Spetsai Island</DestinationName>
+    <DestinationStr>Spetsai Island(JSS)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JST</code>
+    <DestinationName>Johnstown Cambria Arpt</DestinationName>
+    <DestinationStr>Johnstown Cambria Arpt(JST)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JST</code>
+    <DestinationName>Johnstown</DestinationName>
+    <DestinationStr>Johnstown(JST)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JSU</code>
+    <DestinationName>Maniitsoq Heleport</DestinationName>
+    <DestinationStr>Maniitsoq Heleport(JSU)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JSU</code>
+    <DestinationName>Maniitsoq</DestinationName>
+    <DestinationStr>Maniitsoq(JSU)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JSY</code>
+    <DestinationName>Syros Island Arpt</DestinationName>
+    <DestinationStr>Syros Island Arpt(JSY)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JSY</code>
+    <DestinationName>Syros Island</DestinationName>
+    <DestinationStr>Syros Island(JSY)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JSZ</code>
+    <DestinationName>Saint Tropez Hlpt</DestinationName>
+    <DestinationStr>Saint Tropez Hlpt(JSZ)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JSZ</code>
+    <DestinationName>St Tropez Hlpt</DestinationName>
+    <DestinationStr>St Tropez Hlpt(JSZ)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JTC</code>
+    <DestinationName>Arealva Airport</DestinationName>
+    <DestinationStr>Arealva Airport(JTC)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JTC</code>
+    <DestinationName>Bauru</DestinationName>
+    <DestinationStr>Bauru(JTC)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JTO</code>
+    <DestinationName>Thousand Oaks Hlpt</DestinationName>
+    <DestinationStr>Thousand Oaks Hlpt(JTO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JTR</code>
+    <DestinationName>Santorini Arpt</DestinationName>
+    <DestinationStr>Santorini Arpt(JTR)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JTR</code>
+    <DestinationName>Thira Island</DestinationName>
+    <DestinationStr>Thira Island(JTR)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JTY</code>
+    <DestinationName>Astipalaia</DestinationName>
+    <DestinationStr>Astipalaia(JTY)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JTY</code>
+    <DestinationName>Astypalaia Arpt</DestinationName>
+    <DestinationStr>Astypalaia Arpt(JTY)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JTY</code>
+    <DestinationName>Astypalaia Island</DestinationName>
+    <DestinationStr>Astypalaia Island(JTY)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JTY</code>
+    <DestinationName>Astypalaia</DestinationName>
+    <DestinationStr>Astypalaia(JTY)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JUB</code>
+    <DestinationName>Juba Arpt</DestinationName>
+    <DestinationStr>Juba Arpt(JUB)-South Sudan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JUB</code>
+    <DestinationName>Juba</DestinationName>
+    <DestinationStr>Juba(JUB)-South Sudan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JUH</code>
+    <DestinationName>Chizhou</DestinationName>
+    <DestinationStr>Chizhou(JUH)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JUH</code>
+    <DestinationName>Jiuhuashan Arpt</DestinationName>
+    <DestinationStr>Jiuhuashan Arpt(JUH)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JUI</code>
+    <DestinationName>Juist Arpt</DestinationName>
+    <DestinationStr>Juist Arpt(JUI)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JUI</code>
+    <DestinationName>Juist</DestinationName>
+    <DestinationStr>Juist(JUI)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JUJ</code>
+    <DestinationName>El Cadillal Airport</DestinationName>
+    <DestinationStr>El Cadillal Airport(JUJ)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JUJ</code>
+    <DestinationName>Jujuy</DestinationName>
+    <DestinationStr>Jujuy(JUJ)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JUL</code>
+    <DestinationName>Inco Manco Capac Intl</DestinationName>
+    <DestinationStr>Inco Manco Capac Intl(JUL)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JUL</code>
+    <DestinationName>Juliaca</DestinationName>
+    <DestinationStr>Juliaca(JUL)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JUO</code>
+    <DestinationName>Jurado Arpt</DestinationName>
+    <DestinationStr>Jurado Arpt(JUO)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JUO</code>
+    <DestinationName>Jurado</DestinationName>
+    <DestinationStr>Jurado(JUO)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JUP</code>
+    <DestinationName>Cable Heliport</DestinationName>
+    <DestinationStr>Cable Heliport(JUP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JUV</code>
+    <DestinationName>Upernavik</DestinationName>
+    <DestinationStr>Upernavik(JUV)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JUW</code>
+    <DestinationName>Juchitan</DestinationName>
+    <DestinationStr>Juchitan(JUW)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JUZ</code>
+    <DestinationName>Juzhou Arpt</DestinationName>
+    <DestinationStr>Juzhou Arpt(JUZ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JUZ</code>
+    <DestinationName>Juzhou</DestinationName>
+    <DestinationStr>Juzhou(JUZ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JVA</code>
+    <DestinationName>Ankavandra</DestinationName>
+    <DestinationStr>Ankavandra(JVA)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JVL</code>
+    <DestinationName>Beloit</DestinationName>
+    <DestinationStr>Beloit(JVL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JVL</code>
+    <DestinationName>Janesville</DestinationName>
+    <DestinationStr>Janesville(JVL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JVL</code>
+    <DestinationName>Rock County Arpt</DestinationName>
+    <DestinationStr>Rock County Arpt(JVL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JWA</code>
+    <DestinationName>Jwaneng</DestinationName>
+    <DestinationStr>Jwaneng(JWA)-Botswana</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JWC</code>
+    <DestinationName>Warner Cntr Bus Plaza</DestinationName>
+    <DestinationStr>Warner Cntr Bus Plaza(JWC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JWH</code>
+    <DestinationName>Westchase Hilton Heliport</DestinationName>
+    <DestinationStr>Westchase Hilton Heliport(JWH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JWL</code>
+    <DestinationName>Woodlawns Airport</DestinationName>
+    <DestinationStr>Woodlawns Airport(JWL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JWN</code>
+    <DestinationName>Zanjan Arpt</DestinationName>
+    <DestinationStr>Zanjan Arpt(JWN)-Iran</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JWN</code>
+    <DestinationName>Zanjan</DestinationName>
+    <DestinationStr>Zanjan(JWN)-Iran</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JXA</code>
+    <DestinationName>Jixi</DestinationName>
+    <DestinationStr>Jixi(JXA)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JXA</code>
+    <DestinationName>Xingkaihu Airport</DestinationName>
+    <DestinationStr>Xingkaihu Airport(JXA)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JXN</code>
+    <DestinationName>Jackson Reynolds Municipal</DestinationName>
+    <DestinationStr>Jackson Reynolds Municipal(JXN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JXN</code>
+    <DestinationName>Jackson</DestinationName>
+    <DestinationStr>Jackson(JXN)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>JXS</code>
+    <DestinationName>Jiaxing</DestinationName>
+    <DestinationStr>Jiaxing(JXS)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JYQ</code>
+    <DestinationName>Yingkou</DestinationName>
+    <DestinationStr>Yingkou(JYQ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JYV</code>
+    <DestinationName>Jyvaskyla Arpt</DestinationName>
+    <DestinationStr>Jyvaskyla Arpt(JYV)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JYV</code>
+    <DestinationName>Jyvaskyla</DestinationName>
+    <DestinationStr>Jyvaskyla(JYV)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JZH</code>
+    <DestinationName>Jiu Zhai Huang Long Arpt</DestinationName>
+    <DestinationStr>Jiu Zhai Huang Long Arpt(JZH)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JZH</code>
+    <DestinationName>Songpan</DestinationName>
+    <DestinationStr>Songpan(JZH)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KPT</code>
+    <DestinationName>Jackpot</DestinationName>
+    <DestinationStr>Jackpot(KPT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KRK</code>
+    <DestinationName>John Paul II International</DestinationName>
+    <DestinationStr>John Paul II International(KRK)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LIM</code>
+    <DestinationName>Jorge Chavez International Arpt</DestinationName>
+    <DestinationStr>Jorge Chavez International Arpt(LIM)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LRF</code>
+    <DestinationName>Jacksonville</DestinationName>
+    <DestinationStr>Jacksonville(LRF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LSP</code>
+    <DestinationName>Josefa Camejo iNTL</DestinationName>
+    <DestinationStr>Josefa Camejo iNTL(LSP)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LXN</code>
+    <DestinationName>Jim Kelley Field</DestinationName>
+    <DestinationStr>Jim Kelley Field(LXN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MDE</code>
+    <DestinationName>Jose Marie Cordova</DestinationName>
+    <DestinationStr>Jose Marie Cordova(MDE)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MIE</code>
+    <DestinationName>Johnson Field</DestinationName>
+    <DestinationStr>Johnson Field(MIE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MKL</code>
+    <DestinationName>Jackson</DestinationName>
+    <DestinationStr>Jackson(MKL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MNI</code>
+    <DestinationName>John A Osbourne Arpt</DestinationName>
+    <DestinationStr>John A Osbourne Arpt(MNI)-Dominica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MUN</code>
+    <DestinationName>Jose T Monagas Intl</DestinationName>
+    <DestinationStr>Jose T Monagas Intl(MUN)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NBO</code>
+    <DestinationName>Jomo Kenyatta Intl</DestinationName>
+    <DestinationStr>Jomo Kenyatta Intl(NBO)-Kenya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NIP</code>
+    <DestinationName>Jacksonville Nas</DestinationName>
+    <DestinationStr>Jacksonville Nas(NIP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OAJ</code>
+    <DestinationName>Jacksonville</DestinationName>
+    <DestinationStr>Jacksonville(OAJ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OJC</code>
+    <DestinationName>Johnson Executive Arpt</DestinationName>
+    <DestinationStr>Johnson Executive Arpt(OJC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ORU</code>
+    <DestinationName>Juan Mendoza Arpt</DestinationName>
+    <DestinationStr>Juan Mendoza Arpt(ORU)-Bolivia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PAT</code>
+    <DestinationName>Jai Prakash Narayan Arpt</DestinationName>
+    <DestinationStr>Jai Prakash Narayan Arpt(PAT)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PGL</code>
+    <DestinationName>Jackson Cnty</DestinationName>
+    <DestinationStr>Jackson Cnty(PGL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POM</code>
+    <DestinationName>Jackson Field</DestinationName>
+    <DestinationStr>Jackson Field(POM)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PYB</code>
+    <DestinationName>JEYPORE</DestinationName>
+    <DestinationStr>JEYPORE(PYB)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QDV</code>
+    <DestinationName>Jundiai</DestinationName>
+    <DestinationStr>Jundiai(QDV)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QJA</code>
+    <DestinationName>Jaragua Do Sul</DestinationName>
+    <DestinationStr>Jaragua Do Sul(QJA)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QJB</code>
+    <DestinationName>Jubail</DestinationName>
+    <DestinationStr>Jubail(QJB)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QJN</code>
+    <DestinationName>Jounieh</DestinationName>
+    <DestinationStr>Jounieh(QJN)-Lebanon</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QJU</code>
+    <DestinationName>Jalandhar</DestinationName>
+    <DestinationStr>Jalandhar(QJU)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RON</code>
+    <DestinationName>Juan Jose Rondon Arpt</DestinationName>
+    <DestinationStr>Juan Jose Rondon Arpt(RON)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RTB</code>
+    <DestinationName>Juan Manuel Galvez Arpt</DestinationName>
+    <DestinationStr>Juan Manuel Galvez Arpt(RTB)-Honduras</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RZE</code>
+    <DestinationName>Jasionka Arpt</DestinationName>
+    <DestinationStr>Jasionka Arpt(RZE)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SAB</code>
+    <DestinationName>Juancho E Yrausquin</DestinationName>
+    <DestinationStr>Juancho E Yrausquin(SAB)-Bonaire</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SJE</code>
+    <DestinationName>Jorge E Gonzalez T Arpt</DestinationName>
+    <DestinationStr>Jorge E Gonzalez T Arpt(SJE)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SJO</code>
+    <DestinationName>Juan Santa Maria Intl</DestinationName>
+    <DestinationStr>Juan Santa Maria Intl(SJO)-Costa Rica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SNA</code>
+    <DestinationName>John Wayne Arpt</DestinationName>
+    <DestinationStr>John Wayne Arpt(SNA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SOQ</code>
+    <DestinationName>Jefman Arpt</DestinationName>
+    <DestinationStr>Jefman Arpt(SOQ)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SRE</code>
+    <DestinationName>J Azurduy De Padilla Arpt</DestinationName>
+    <DestinationStr>J Azurduy De Padilla Arpt(SRE)-Bolivia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SUB</code>
+    <DestinationName>Juanda Arpt</DestinationName>
+    <DestinationStr>Juanda Arpt(SUB)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SVZ</code>
+    <DestinationName>Juan V Gomez Intl</DestinationName>
+    <DestinationStr>Juan V Gomez Intl(SVZ)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TDD</code>
+    <DestinationName>Jorge Henrich Arauz Arpt</DestinationName>
+    <DestinationStr>Jorge Henrich Arauz Arpt(TDD)-Bolivia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TNA</code>
+    <DestinationName>Jinan Arpt</DestinationName>
+    <DestinationStr>Jinan Arpt(TNA)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TNA</code>
+    <DestinationName>Jinan</DestinationName>
+    <DestinationStr>Jinan(TNA)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VIG</code>
+    <DestinationName>Juan P Perez Alfonso Arpt</DestinationName>
+    <DestinationStr>Juan P Perez Alfonso Arpt(VIG)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VLE</code>
+    <DestinationName>J T Robidoux</DestinationName>
+    <DestinationStr>J T Robidoux(VLE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VRA</code>
+    <DestinationName>Juan G Gomez International</DestinationName>
+    <DestinationStr>Juan G Gomez International(VRA)-Cuba</DestinationStr>
+  </Destination>    
+  <Destination>
+    <code>XJL</code>
+    <DestinationName>Joliette</DestinationName>
+    <DestinationStr>Joliette(XJL)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XJQ</code>
+    <DestinationName>Jonquiere</DestinationName>
+    <DestinationStr>Jonquiere(XJQ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XRY</code>
+    <DestinationName>Jerez De La Frontera</DestinationName>
+    <DestinationStr>Jerez De La Frontera(XRY)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YJA</code>
+    <DestinationName>Jasper Airport</DestinationName>
+    <DestinationStr>Jasper Airport(YJA)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YJA</code>
+    <DestinationName>Jasper</DestinationName>
+    <DestinationStr>Jasper(YJA)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>YWG</code>
+    <DestinationName>J A Richardson Intl Arpt</DestinationName>
+    <DestinationStr>J A Richardson Intl Arpt(YWG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXE</code>
+    <DestinationName>J G Diefenbaker Intl</DestinationName>
+    <DestinationStr>J G Diefenbaker Intl(YXE)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZBD</code>
+    <DestinationName>Jiang Men Ferry</DestinationName>
+    <DestinationStr>Jiang Men Ferry(ZBD)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZBD</code>
+    <DestinationName>Jiang Men</DestinationName>
+    <DestinationStr>Jiang Men(ZBD)-China</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZJS</code>
+    <DestinationName>Jena</DestinationName>
+    <DestinationStr>Jena(ZJS)-Germany</DestinationStr>
+  </Destination>
+</DestinationRoot>

@@ -1,0 +1,5187 @@
+﻿<DestinationRoot>
+  <Destination>
+    <code>NORESULT</code>
+    <DestinationName>NORESULT</DestinationName>
+    <DestinationStr>No Result Found</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BLR</code>
+    <DestinationName>BANGALORE</DestinationName>
+    <DestinationStr>BANGALORE(BLR)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BFP</code>
+    <DestinationName>Beaver Falls</DestinationName>
+    <DestinationStr>Beaver Falls(BFP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BGJ</code>
+    <DestinationName>Borgarfjordur</DestinationName>
+    <DestinationStr>Borgarfjordur(BGJ)-Iceland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BKI</code>
+    <DestinationName>Kota Kinabalu</DestinationName>
+    <DestinationStr>Kota Kinabalu(BKI)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BSU</code>
+    <DestinationName>Basankusu</DestinationName>
+    <DestinationStr>Basankusu(BSU)-Congo Democratic Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BUR</code>
+    <DestinationName>Burbank Glendale Pasadena Arpt</DestinationName>
+    <DestinationStr>Burbank Glendale Pasadena Arpt(BUR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XBN</code>
+    <DestinationName>Biniguni</DestinationName>
+    <DestinationStr>Biniguni(XBN)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YBR</code>
+    <DestinationName>Brandon</DestinationName>
+    <DestinationStr>Brandon(YBR)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZCJ</code>
+    <DestinationName>Bottrop</DestinationName>
+    <DestinationStr>Bottrop(ZCJ)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BAK</code>
+    <DestinationName>Baku Airport</DestinationName>
+    <DestinationStr>Baku Airport(BAK)-Azerbaijan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BLV</code>
+    <DestinationName>Belleville</DestinationName>
+    <DestinationStr>Belleville(BLV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BRO</code>
+    <DestinationName>Brownsville</DestinationName>
+    <DestinationStr>Brownsville(BRO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BYF</code>
+    <DestinationName>Meaulte</DestinationName>
+    <DestinationStr>Meaulte(BYF)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BBR</code>
+    <DestinationName>Baillif Arpt</DestinationName>
+    <DestinationStr>Baillif Arpt(BBR)-Guadeloupe</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BEZ</code>
+    <DestinationName>Beru Arpt</DestinationName>
+    <DestinationStr>Beru Arpt(BEZ)-Kiribati</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BOM</code>
+    <DestinationName>Chhatrapati Shivaji</DestinationName>
+    <DestinationStr>Chhatrapati Shivaji(BOM)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BRE</code>
+    <DestinationName>Bremen</DestinationName>
+    <DestinationStr>Bremen(BRE)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BXN</code>
+    <DestinationName>Bodrum</DestinationName>
+    <DestinationStr>Bodrum(BXN)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XBV</code>
+    <DestinationName>Beaune</DestinationName>
+    <DestinationStr>Beaune(XBV)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BCN</code>
+    <DestinationName>Barcelona</DestinationName>
+    <DestinationStr>Barcelona(BCN)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BHX</code>
+    <DestinationName>Birmingham Intl Arpt</DestinationName>
+    <DestinationStr>Birmingham Intl Arpt(BHX)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BJD</code>
+    <DestinationName>Bakkafjordur</DestinationName>
+    <DestinationStr>Bakkafjordur(BJD)-Iceland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BMI</code>
+    <DestinationName>Normal Airport</DestinationName>
+    <DestinationStr>Normal Airport(BMI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZCK</code>
+    <DestinationName>Bruehl</DestinationName>
+    <DestinationStr>Bruehl(ZCK)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BAO</code>
+    <DestinationName>Ban Mak Khaen</DestinationName>
+    <DestinationStr>Ban Mak Khaen(BAO)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BMG</code>
+    <DestinationName>Monroe Cty Arpt Indiana</DestinationName>
+    <DestinationStr>Monroe Cty Arpt Indiana(BMG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BOJ</code>
+    <DestinationName>Bourgas Arpt</DestinationName>
+    <DestinationStr>Bourgas Arpt(BOJ)-Bulgaria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ULN</code>
+    <DestinationName>Buyant Uhaa Airport</DestinationName>
+    <DestinationStr>Buyant Uhaa Airport(ULN)-Mongolia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BDO</code>
+    <DestinationName>Bandung</DestinationName>
+    <DestinationStr>Bandung(BDO)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BPI</code>
+    <DestinationName>Big Piney</DestinationName>
+    <DestinationStr>Big Piney(BPI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BWT</code>
+    <DestinationName>Burnie</DestinationName>
+    <DestinationStr>Burnie(BWT)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BZE</code>
+    <DestinationName>Belize Intl Arpt</DestinationName>
+    <DestinationStr>Belize Intl Arpt(BZE)-Belize</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EIS</code>
+    <DestinationName>Beef Island Arpt</DestinationName>
+    <DestinationStr>Beef Island Arpt(EIS)-British Virgin Islands</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>BAA</code>
+    <DestinationName>Bialla</DestinationName>
+    <DestinationStr>Bialla(BAA)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BLO</code>
+    <DestinationName>Blonduos</DestinationName>
+    <DestinationStr>Blonduos(BLO)-Iceland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BLR</code>
+    <DestinationName>Kempegowda Intl Arpt</DestinationName>
+    <DestinationStr>Kempegowda Intl Arpt(BLR)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YBK</code>
+    <DestinationName>Baker Lake</DestinationName>
+    <DestinationStr>Baker Lake(YBK)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BBG</code>
+    <DestinationName>Butaritari</DestinationName>
+    <DestinationStr>Butaritari(BBG)-Kiribati</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BHE</code>
+    <DestinationName>Blenheim</DestinationName>
+    <DestinationStr>Blenheim(BHE)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BKE</code>
+    <DestinationName>Baker</DestinationName>
+    <DestinationStr>Baker(BKE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BWX</code>
+    <DestinationName>Banyuwangi</DestinationName>
+    <DestinationStr>Banyuwangi(BWX)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BYF</code>
+    <DestinationName>Albert Arpt</DestinationName>
+    <DestinationStr>Albert Arpt(BYF)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GBO</code>
+    <DestinationName>Baltimore Greenbelt Arpt</DestinationName>
+    <DestinationStr>Baltimore Greenbelt Arpt(GBO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IXG</code>
+    <DestinationName>Belgaum</DestinationName>
+    <DestinationStr>Belgaum(IXG)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QKB</code>
+    <DestinationName>Breckenridge Van Service</DestinationName>
+    <DestinationStr>Breckenridge Van Service(QKB)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>BFI</code>
+    <DestinationName>Seattle Boeing Field</DestinationName>
+    <DestinationStr>Seattle Boeing Field(BFI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BGG</code>
+    <DestinationName>Bingol Arpt</DestinationName>
+    <DestinationStr>Bingol Arpt(BGG)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BIR</code>
+    <DestinationName>Biratnagar</DestinationName>
+    <DestinationStr>Biratnagar(BIR)-Nepal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NVA</code>
+    <DestinationName>Benito Sales Arpt</DestinationName>
+    <DestinationStr>Benito Sales Arpt(NVA)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BRI</code>
+    <DestinationName>Bari</DestinationName>
+    <DestinationStr>Bari(BRI)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DUG</code>
+    <DestinationName>Bisbee Douglas Intl</DestinationName>
+    <DestinationStr>Bisbee Douglas Intl(DUG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NSB</code>
+    <DestinationName>Bimini North Seaplane Base</DestinationName>
+    <DestinationStr>Bimini North Seaplane Base(NSB)-Bahamas</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WSH</code>
+    <DestinationName>Brookhaven Airport</DestinationName>
+    <DestinationStr>Brookhaven Airport(WSH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BBA</code>
+    <DestinationName>Balmaceda</DestinationName>
+    <DestinationStr>Balmaceda(BBA)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BDS</code>
+    <DestinationName>Brindisi Papola Casale Arpt</DestinationName>
+    <DestinationStr>Brindisi Papola Casale Arpt(BDS)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BHH</code>
+    <DestinationName>Bisha Airport</DestinationName>
+    <DestinationStr>Bisha Airport(BHH)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BKM</code>
+    <DestinationName>Bakalalan Arpt</DestinationName>
+    <DestinationStr>Bakalalan Arpt(BKM)-Malaysia</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>BCD</code>
+    <DestinationName>Bacolod</DestinationName>
+    <DestinationStr>Bacolod(BCD)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BFO</code>
+    <DestinationName>Buffalo Range</DestinationName>
+    <DestinationStr>Buffalo Range(BFO)-Zimbabwe</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BKL</code>
+    <DestinationName>Burke Lakefront Arpt</DestinationName>
+    <DestinationStr>Burke Lakefront Arpt(BKL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BAS</code>
+    <DestinationName>Balalae</DestinationName>
+    <DestinationStr>Balalae(BAS)-Solomon Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BEB</code>
+    <DestinationName>Benbecula</DestinationName>
+    <DestinationStr>Benbecula(BEB)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BYI</code>
+    <DestinationName>Burley Arpt</DestinationName>
+    <DestinationStr>Burley Arpt(BYI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BBJ</code>
+    <DestinationName>Bitburg</DestinationName>
+    <DestinationStr>Bitburg(BBJ)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BYB</code>
+    <DestinationName>Dibaa</DestinationName>
+    <DestinationStr>Dibaa(BYB)-Oman Sultanate Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VBS</code>
+    <DestinationName>Brescia Montichiari Arpt</DestinationName>
+    <DestinationStr>Brescia Montichiari Arpt(VBS)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BEV</code>
+    <DestinationName>Beersheba</DestinationName>
+    <DestinationStr>Beersheba(BEV)-Israel</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BGY</code>
+    <DestinationName>Bergamo</DestinationName>
+    <DestinationStr>Bergamo(BGY)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BLT</code>
+    <DestinationName>Blackwater Arpt</DestinationName>
+    <DestinationStr>Blackwater Arpt(BLT)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BOC</code>
+    <DestinationName>Isla Colon International</DestinationName>
+    <DestinationStr>Isla Colon International(BOC)-Panama</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BPN</code>
+    <DestinationName>Sepingan Arpt</DestinationName>
+    <DestinationStr>Sepingan Arpt(BPN)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QBC</code>
+    <DestinationName>Bella Coola</DestinationName>
+    <DestinationStr>Bella Coola(QBC)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QKB</code>
+    <DestinationName>Breckenridge</DestinationName>
+    <DestinationStr>Breckenridge(QKB)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>WBI</code>
+    <DestinationName>Broker Inn</DestinationName>
+    <DestinationStr>Broker Inn(WBI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XQG</code>
+    <DestinationName>Berwick Upon Tweed</DestinationName>
+    <DestinationStr>Berwick Upon Tweed(XQG)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YEB</code>
+    <DestinationName>Bar River</DestinationName>
+    <DestinationStr>Bar River(YEB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BOO</code>
+    <DestinationName>Bodo</DestinationName>
+    <DestinationStr>Bodo(BOO)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BXI</code>
+    <DestinationName>Boundiali</DestinationName>
+    <DestinationStr>Boundiali(BXI)-Ivory Coast</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXQ</code>
+    <DestinationName>Beaver Creek</DestinationName>
+    <DestinationStr>Beaver Creek(YXQ)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>BDG</code>
+    <DestinationName>Blanding</DestinationName>
+    <DestinationStr>Blanding(BDG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BUE</code>
+    <DestinationName>Buenos Aires</DestinationName>
+    <DestinationStr>Buenos Aires(BUE)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BZN</code>
+    <DestinationName>Gallatin Field</DestinationName>
+    <DestinationStr>Gallatin Field(BZN)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>BLT</code>
+    <DestinationName>Blackwater</DestinationName>
+    <DestinationStr>Blackwater(BLT)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BOE</code>
+    <DestinationName>Boundji</DestinationName>
+    <DestinationStr>Boundji(BOE)-Congo</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BUA</code>
+    <DestinationName>Buka Airport</DestinationName>
+    <DestinationStr>Buka Airport(BUA)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TRW</code>
+    <DestinationName>Bonriki Arpt</DestinationName>
+    <DestinationStr>Bonriki Arpt(TRW)-Kiribati</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TTE</code>
+    <DestinationName>Babullah Airport</DestinationName>
+    <DestinationStr>Babullah Airport(TTE)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YBA</code>
+    <DestinationName>Banff Arpt</DestinationName>
+    <DestinationStr>Banff Arpt(YBA)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPZ</code>
+    <DestinationName>Burns Lake</DestinationName>
+    <DestinationStr>Burns Lake(YPZ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BAJ</code>
+    <DestinationName>Bali</DestinationName>
+    <DestinationStr>Bali(BAJ)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BOK</code>
+    <DestinationName>Brookings State Arpt</DestinationName>
+    <DestinationStr>Brookings State Arpt(BOK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BSJ</code>
+    <DestinationName>Bairnsdale Airport</DestinationName>
+    <DestinationStr>Bairnsdale Airport(BSJ)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IVG</code>
+    <DestinationName>Berane</DestinationName>
+    <DestinationStr>Berane(IVG)-Montenegro</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BDK</code>
+    <DestinationName>Bondoukou</DestinationName>
+    <DestinationStr>Bondoukou(BDK)-Ivory Coast</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BML</code>
+    <DestinationName>Berlin Arpt</DestinationName>
+    <DestinationStr>Berlin Arpt(BML)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BNF</code>
+    <DestinationName>Baranof</DestinationName>
+    <DestinationStr>Baranof(BNF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BRN</code>
+    <DestinationName>Belp Airport</DestinationName>
+    <DestinationStr>Belp Airport(BRN)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BWU</code>
+    <DestinationName>Bankstown</DestinationName>
+    <DestinationStr>Bankstown(BWU)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BXU</code>
+    <DestinationName>Butuan Bancasi Arpt</DestinationName>
+    <DestinationStr>Butuan Bancasi Arpt(BXU)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KTS</code>
+    <DestinationName>Brevig Mission</DestinationName>
+    <DestinationStr>Brevig Mission(KTS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LBC</code>
+    <DestinationName>Blankensee Arpt</DestinationName>
+    <DestinationStr>Blankensee Arpt(LBC)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BJR</code>
+    <DestinationName>Bahar Dar</DestinationName>
+    <DestinationStr>Bahar Dar(BJR)-Ethiopia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BOJ</code>
+    <DestinationName>Bourgas</DestinationName>
+    <DestinationStr>Bourgas(BOJ)-Bulgaria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BQN</code>
+    <DestinationName>Aguadilla</DestinationName>
+    <DestinationStr>Aguadilla(BQN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BGI</code>
+    <DestinationName>Barbados</DestinationName>
+    <DestinationStr>Barbados(BGI)-Barbados</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BKB</code>
+    <DestinationName>Bikaner Arpt</DestinationName>
+    <DestinationStr>Bikaner Arpt(BKB)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BVA</code>
+    <DestinationName>Beauvais Tille Arpt</DestinationName>
+    <DestinationStr>Beauvais Tille Arpt(BVA)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>BHY</code>
+    <DestinationName>Beihai Airport</DestinationName>
+    <DestinationStr>Beihai Airport(BHY)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BSJ</code>
+    <DestinationName>Bairnsdale</DestinationName>
+    <DestinationStr>Bairnsdale(BSJ)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BYH</code>
+    <DestinationName>Blytheville Air Force Base</DestinationName>
+    <DestinationStr>Blytheville Air Force Base(BYH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RLU</code>
+    <DestinationName>Bornite</DestinationName>
+    <DestinationStr>Bornite(RLU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BQB</code>
+    <DestinationName>Busselton Arpt</DestinationName>
+    <DestinationStr>Busselton Arpt(BQB)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BRD</code>
+    <DestinationName>Crowwing Cty Arpt</DestinationName>
+    <DestinationStr>Crowwing Cty Arpt(BRD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HBE</code>
+    <DestinationName>Borg El Arab</DestinationName>
+    <DestinationStr>Borg El Arab(HBE)-Egypt</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QYN</code>
+    <DestinationName>Byron Bay</DestinationName>
+    <DestinationStr>Byron Bay(QYN)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XBD</code>
+    <DestinationName>Bar Le Duc</DestinationName>
+    <DestinationStr>Bar Le Duc(XBD)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>BEM</code>
+    <DestinationName>Beni Mellal</DestinationName>
+    <DestinationStr>Beni Mellal(BEM)-Morocco</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BJS</code>
+    <DestinationName>Beijing</DestinationName>
+    <DestinationStr>Beijing(BJS)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BYO</code>
+    <DestinationName>Bonito Airport</DestinationName>
+    <DestinationStr>Bonito Airport(BYO)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YBC</code>
+    <DestinationName>Baie Comeau Arpt</DestinationName>
+    <DestinationStr>Baie Comeau Arpt(YBC)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BCH</code>
+    <DestinationName>Baucau</DestinationName>
+    <DestinationStr>Baucau(BCH)-Timor Leste</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>BUY</code>
+    <DestinationName>Bunbury</DestinationName>
+    <DestinationStr>Bunbury(BUY)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BDJ</code>
+    <DestinationName>Sjamsudin Noor Arpt</DestinationName>
+    <DestinationStr>Sjamsudin Noor Arpt(BDJ)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BHI</code>
+    <DestinationName>Bahia Blanca</DestinationName>
+    <DestinationStr>Bahia Blanca(BHI)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BQO</code>
+    <DestinationName>Bouna</DestinationName>
+    <DestinationStr>Bouna(BQO)-Ivory Coast</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BUH</code>
+    <DestinationName>Bucharest</DestinationName>
+    <DestinationStr>Bucharest(BUH)-Romania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CBH</code>
+    <DestinationName>Bechar</DestinationName>
+    <DestinationStr>Bechar(CBH)-Algeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BCT</code>
+    <DestinationName>Boca Raton</DestinationName>
+    <DestinationStr>Boca Raton(BCT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BVB</code>
+    <DestinationName>Boa Vista</DestinationName>
+    <DestinationStr>Boa Vista(BVB)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BVX</code>
+    <DestinationName>Batesville Municipal</DestinationName>
+    <DestinationStr>Batesville Municipal(BVX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BYI</code>
+    <DestinationName>Burley</DestinationName>
+    <DestinationStr>Burley(BYI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAN</code>
+    <DestinationName>Baiyun International Airport</DestinationName>
+    <DestinationStr>Baiyun International Airport(CAN)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LYN</code>
+    <DestinationName>Bron Arpt</DestinationName>
+    <DestinationStr>Bron Arpt(LYN)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>BFC</code>
+    <DestinationName>Bloomfield River</DestinationName>
+    <DestinationStr>Bloomfield River(BFC)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BFS</code>
+    <DestinationName>Belfast Intl Arpt</DestinationName>
+    <DestinationStr>Belfast Intl Arpt(BFS)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BGE</code>
+    <DestinationName>Bainbridge</DestinationName>
+    <DestinationStr>Bainbridge(BGE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BJY</code>
+    <DestinationName>Batajnica Arpt</DestinationName>
+    <DestinationStr>Batajnica Arpt(BJY)-Serbia</DestinationStr>
+  </Destination>    
+  <Destination>
+    <code>BFD</code>
+    <DestinationName>Bradford</DestinationName>
+    <DestinationStr>Bradford(BFD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IXD</code>
+    <DestinationName>Bamrauli Arpt</DestinationName>
+    <DestinationStr>Bamrauli Arpt(IXD)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QCJ</code>
+    <DestinationName>Botucatu</DestinationName>
+    <DestinationStr>Botucatu(QCJ)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WBU</code>
+    <DestinationName>Boulder Municipal Arpt</DestinationName>
+    <DestinationStr>Boulder Municipal Arpt(WBU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BFE</code>
+    <DestinationName>Bielefeld</DestinationName>
+    <DestinationStr>Bielefeld(BFE)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TLS</code>
+    <DestinationName>Blagnac Arpt</DestinationName>
+    <DestinationStr>Blagnac Arpt(TLS)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZCG</code>
+    <DestinationName>Bergisch Gladbach</DestinationName>
+    <DestinationStr>Bergisch Gladbach(ZCG)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BKO</code>
+    <DestinationName>Bamako</DestinationName>
+    <DestinationStr>Bamako(BKO)-Mali</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BOY</code>
+    <DestinationName>Bobo Dioulasso</DestinationName>
+    <DestinationStr>Bobo Dioulasso(BOY)-Burkina Faso</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BTV</code>
+    <DestinationName>Burlington</DestinationName>
+    <DestinationStr>Burlington(BTV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BHK</code>
+    <DestinationName>Bukhara</DestinationName>
+    <DestinationStr>Bukhara(BHK)-Uzbekistan Sum</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BMY</code>
+    <DestinationName>Belep Island</DestinationName>
+    <DestinationStr>Belep Island(BMY)-New Caledonia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BWE</code>
+    <DestinationName>Braunschweig Arpt</DestinationName>
+    <DestinationStr>Braunschweig Arpt(BWE)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EZV</code>
+    <DestinationName>BEREZOVO</DestinationName>
+    <DestinationStr>BEREZOVO(EZV)-Russian Federation</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>BOR</code>
+    <DestinationName>Belfort</DestinationName>
+    <DestinationStr>Belfort(BOR)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BSI</code>
+    <DestinationName>Blairsville Arpt</DestinationName>
+    <DestinationStr>Blairsville Arpt(BSI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BVV</code>
+    <DestinationName>Iturup Island</DestinationName>
+    <DestinationStr>Iturup Island(BVV)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QBK</code>
+    <DestinationName>Betim</DestinationName>
+    <DestinationStr>Betim(QBK)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QYY</code>
+    <DestinationName>Bialystok</DestinationName>
+    <DestinationStr>Bialystok(QYY)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZVB</code>
+    <DestinationName>Brumunddal</DestinationName>
+    <DestinationStr>Brumunddal(ZVB)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BMB</code>
+    <DestinationName>Bumba</DestinationName>
+    <DestinationStr>Bumba(BMB)-Congo Democratic Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BMV</code>
+    <DestinationName>Phung Duc Arpt</DestinationName>
+    <DestinationStr>Phung Duc Arpt(BMV)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BOF</code>
+    <DestinationName>Bolling Airforce Base</DestinationName>
+    <DestinationStr>Bolling Airforce Base(BOF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BXD</code>
+    <DestinationName>Bade</DestinationName>
+    <DestinationStr>Bade(BXD)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>COO</code>
+    <DestinationName>Benin</DestinationName>
+    <DestinationStr>Benin(COO)-Benin</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HKA</code>
+    <DestinationName>Blytheville Municipal Arpt</DestinationName>
+    <DestinationStr>Blytheville Municipal Arpt(HKA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BEL</code>
+    <DestinationName>Val De Cans Arpt</DestinationName>
+    <DestinationStr>Val De Cans Arpt(BEL)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BME</code>
+    <DestinationName>Broome</DestinationName>
+    <DestinationStr>Broome(BME)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BOO</code>
+    <DestinationName>Bodo Arpt</DestinationName>
+    <DestinationStr>Bodo Arpt(BOO)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BRA</code>
+    <DestinationName>Barreiras Arpt</DestinationName>
+    <DestinationStr>Barreiras Arpt(BRA)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CCR</code>
+    <DestinationName>Buchanan Field</DestinationName>
+    <DestinationStr>Buchanan Field(CCR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EZV</code>
+    <DestinationName>Berezovo Airport</DestinationName>
+    <DestinationStr>Berezovo Airport(EZV)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HPY</code>
+    <DestinationName>Baytown</DestinationName>
+    <DestinationStr>Baytown(HPY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LIG</code>
+    <DestinationName>Bellegarde Arpt</DestinationName>
+    <DestinationStr>Bellegarde Arpt(LIG)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YBW</code>
+    <DestinationName>Bedwell Harbour Arpt</DestinationName>
+    <DestinationStr>Bedwell Harbour Arpt(YBW)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BAY</code>
+    <DestinationName>Baia Mare Arpt</DestinationName>
+    <DestinationStr>Baia Mare Arpt(BAY)-Romania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BGQ</code>
+    <DestinationName>Big Lake</DestinationName>
+    <DestinationStr>Big Lake(BGQ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RGS</code>
+    <DestinationName>Burgos Arpt</DestinationName>
+    <DestinationStr>Burgos Arpt(RGS)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XBM</code>
+    <DestinationName>Beaulieu Sur Mer</DestinationName>
+    <DestinationStr>Beaulieu Sur Mer(XBM)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BDD</code>
+    <DestinationName>Badu Island Arpt</DestinationName>
+    <DestinationStr>Badu Island Arpt(BDD)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BER</code>
+    <DestinationName>Berlin</DestinationName>
+    <DestinationStr>Berlin(BER)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BRS</code>
+    <DestinationName>Bristol Intl Arpt</DestinationName>
+    <DestinationStr>Bristol Intl Arpt(BRS)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BVI</code>
+    <DestinationName>Birdsville</DestinationName>
+    <DestinationStr>Birdsville(BVI)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BWD</code>
+    <DestinationName>Brownwood</DestinationName>
+    <DestinationStr>Brownwood(BWD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RNN</code>
+    <DestinationName>Bornholm Arpt</DestinationName>
+    <DestinationStr>Bornholm Arpt(RNN)-Denmark</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BJI</code>
+    <DestinationName>Bemidji</DestinationName>
+    <DestinationStr>Bemidji(BJI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BLZ</code>
+    <DestinationName>Blantyre</DestinationName>
+    <DestinationStr>Blantyre(BLZ)-Malawi</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KBP</code>
+    <DestinationName>Boryspil Arpt</DestinationName>
+    <DestinationStr>Boryspil Arpt(KBP)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QBQ</code>
+    <DestinationName>Besancon</DestinationName>
+    <DestinationStr>Besancon(QBQ)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BSD</code>
+    <DestinationName>Baoshan</DestinationName>
+    <DestinationStr>Baoshan(BSD)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LAQ</code>
+    <DestinationName>Beida</DestinationName>
+    <DestinationStr>Beida(LAQ)-Libyan Arab Jamahiriya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BID</code>
+    <DestinationName>Block Island Municipal</DestinationName>
+    <DestinationStr>Block Island Municipal(BID)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BII</code>
+    <DestinationName>Enyu Airfield</DestinationName>
+    <DestinationStr>Enyu Airfield(BII)-Marshall Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BKQ</code>
+    <DestinationName>Blackall Arpt</DestinationName>
+    <DestinationStr>Blackall Arpt(BKQ)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BVH</code>
+    <DestinationName>Vilhena</DestinationName>
+    <DestinationStr>Vilhena(BVH)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BOX</code>
+    <DestinationName>Borroloola Arpt</DestinationName>
+    <DestinationStr>Borroloola Arpt(BOX)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QBM</code>
+    <DestinationName>Bourg St Maurice</DestinationName>
+    <DestinationStr>Bourg St Maurice(QBM)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BBK</code>
+    <DestinationName>Kasane Arpt</DestinationName>
+    <DestinationStr>Kasane Arpt(BBK)-Botswana</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BII</code>
+    <DestinationName>Bikini Atoll</DestinationName>
+    <DestinationStr>Bikini Atoll(BII)-Marshall Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BPM</code>
+    <DestinationName>Begumpet Airport</DestinationName>
+    <DestinationStr>Begumpet Airport(BPM)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BVV</code>
+    <DestinationName>Burevestnik AFB</DestinationName>
+    <DestinationStr>Burevestnik AFB(BVV)-Russian Federation</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>BCB</code>
+    <DestinationName>Blacksburg</DestinationName>
+    <DestinationStr>Blacksburg(BCB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BHX</code>
+    <DestinationName>Birmingham</DestinationName>
+    <DestinationStr>Birmingham(BHX)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BLH</code>
+    <DestinationName>Blythe Airport</DestinationName>
+    <DestinationStr>Blythe Airport(BLH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BEW</code>
+    <DestinationName>Beira</DestinationName>
+    <DestinationStr>Beira(BEW)-Mozambique</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BIQ</code>
+    <DestinationName>Bayonne Anglet Arpt</DestinationName>
+    <DestinationStr>Bayonne Anglet Arpt(BIQ)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FDE</code>
+    <DestinationName>Bringeland Arpt</DestinationName>
+    <DestinationStr>Bringeland Arpt(FDE)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FDU</code>
+    <DestinationName>Bandundu</DestinationName>
+    <DestinationStr>Bandundu(FDU)-Congo Democratic Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XUB</code>
+    <DestinationName>Berkak</DestinationName>
+    <DestinationStr>Berkak(XUB)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BUN</code>
+    <DestinationName>Gerardo Tobar Lopez Arpt</DestinationName>
+    <DestinationStr>Gerardo Tobar Lopez Arpt(BUN)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CRL</code>
+    <DestinationName>Brussels South Charleroi Arpt</DestinationName>
+    <DestinationStr>Brussels South Charleroi Arpt(CRL)-Belgium</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZCF</code>
+    <DestinationName>Bergheim</DestinationName>
+    <DestinationStr>Bergheim(ZCF)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BCT</code>
+    <DestinationName>Boca Raton Public Arpt</DestinationName>
+    <DestinationStr>Boca Raton Public Arpt(BCT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BDB</code>
+    <DestinationName>Bundaberg</DestinationName>
+    <DestinationStr>Bundaberg(BDB)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BFQ</code>
+    <DestinationName>Bahia Pina</DestinationName>
+    <DestinationStr>Bahia Pina(BFQ)-Panama</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XBK</code>
+    <DestinationName>Bourg En Bresse</DestinationName>
+    <DestinationStr>Bourg En Bresse(XBK)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YBC</code>
+    <DestinationName>Baie Comeau</DestinationName>
+    <DestinationStr>Baie Comeau(YBC)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YBK</code>
+    <DestinationName>Baker Lake Arpt</DestinationName>
+    <DestinationStr>Baker Lake Arpt(YBK)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BCA</code>
+    <DestinationName>Gustavo Rizo</DestinationName>
+    <DestinationStr>Gustavo Rizo(BCA)-Cuba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BHQ</code>
+    <DestinationName>Broken Hill</DestinationName>
+    <DestinationStr>Broken Hill(BHQ)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BMG</code>
+    <DestinationName>Bloomington</DestinationName>
+    <DestinationStr>Bloomington(BMG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BTH</code>
+    <DestinationName>Hang Nadim Arpt</DestinationName>
+    <DestinationStr>Hang Nadim Arpt(BTH)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BZR</code>
+    <DestinationName>Beziers</DestinationName>
+    <DestinationStr>Beziers(BZR)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAW</code>
+    <DestinationName>Bartolomeu Lisandro Arpt</DestinationName>
+    <DestinationStr>Bartolomeu Lisandro Arpt(CAW)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BAK</code>
+    <DestinationName>Baku</DestinationName>
+    <DestinationStr>Baku(BAK)-Azerbaijan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BOD</code>
+    <DestinationName>Bordeaux</DestinationName>
+    <DestinationStr>Bordeaux(BOD)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BOY</code>
+    <DestinationName>Borgo Arpt</DestinationName>
+    <DestinationStr>Borgo Arpt(BOY)-Burkina Faso</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BRD</code>
+    <DestinationName>Brainerd</DestinationName>
+    <DestinationStr>Brainerd(BRD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BJW</code>
+    <DestinationName>Bajawa</DestinationName>
+    <DestinationStr>Bajawa(BJW)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BMU</code>
+    <DestinationName>Bima</DestinationName>
+    <DestinationStr>Bima(BMU)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BYU</code>
+    <DestinationName>Bayreuth</DestinationName>
+    <DestinationStr>Bayreuth(BYU)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BBX</code>
+    <DestinationName>Blue Bell</DestinationName>
+    <DestinationStr>Blue Bell(BBX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BDA</code>
+    <DestinationName>LF Wade International</DestinationName>
+    <DestinationStr>LF Wade International(BDA)-Bermuda</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BOH</code>
+    <DestinationName>Bournemouth</DestinationName>
+    <DestinationStr>Bournemouth(BOH)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BOV</code>
+    <DestinationName>Boang</DestinationName>
+    <DestinationStr>Boang(BOV)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BJR</code>
+    <DestinationName>Bahar Dar Arpt</DestinationName>
+    <DestinationStr>Bahar Dar Arpt(BJR)-Ethiopia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BSC</code>
+    <DestinationName>Bahia Solano</DestinationName>
+    <DestinationStr>Bahia Solano(BSC)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BNF</code>
+    <DestinationName>Baranof Arpt</DestinationName>
+    <DestinationStr>Baranof Arpt(BNF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BUS</code>
+    <DestinationName>Batumi</DestinationName>
+    <DestinationStr>Batumi(BUS)-Georgia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WOE</code>
+    <DestinationName>Bergen Op Zoom</DestinationName>
+    <DestinationStr>Bergen Op Zoom(WOE)-Netherlands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BRL</code>
+    <DestinationName>Burlington Municipal Arpt</DestinationName>
+    <DestinationStr>Burlington Municipal Arpt(BRL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BIK</code>
+    <DestinationName>Biak</DestinationName>
+    <DestinationStr>Biak(BIK)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BNA</code>
+    <DestinationName>Nashville</DestinationName>
+    <DestinationStr>Nashville(BNA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BRW</code>
+    <DestinationName>Barrow</DestinationName>
+    <DestinationStr>Barrow(BRW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BRW</code>
+    <DestinationName>Barrow Wiley Post/Will Rogers Memorial</DestinationName>
+    <DestinationStr>Barrow Wiley Post/Will Rogers Memorial(BRW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OPU</code>
+    <DestinationName>Balimo Airport</DestinationName>
+    <DestinationStr>Balimo Airport(OPU)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BBH</code>
+    <DestinationName>Barth</DestinationName>
+    <DestinationStr>Barth(BBH)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BED</code>
+    <DestinationName>Bedford Arpt</DestinationName>
+    <DestinationStr>Bedford Arpt(BED)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BRK</code>
+    <DestinationName>Bourke Airport</DestinationName>
+    <DestinationStr>Bourke Airport(BRK)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BRR</code>
+    <DestinationName>Barra</DestinationName>
+    <DestinationStr>Barra(BRR)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BRV</code>
+    <DestinationName>Bremerhaven Arpt</DestinationName>
+    <DestinationStr>Bremerhaven Arpt(BRV)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TJQ</code>
+    <DestinationName>Bulutumbang Arpt</DestinationName>
+    <DestinationStr>Bulutumbang Arpt(TJQ)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BFR</code>
+    <DestinationName>Virgil I Grissom Municipal</DestinationName>
+    <DestinationStr>Virgil I Grissom Municipal(BFR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BNK</code>
+    <DestinationName>Ballina Arpt</DestinationName>
+    <DestinationStr>Ballina Arpt(BNK)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BRA</code>
+    <DestinationName>Barreiras</DestinationName>
+    <DestinationStr>Barreiras(BRA)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BRO</code>
+    <DestinationName>South Padre Island Intl Arpt</DestinationName>
+    <DestinationStr>South Padre Island Intl Arpt(BRO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BRT</code>
+    <DestinationName>Bathurst Island Arpt</DestinationName>
+    <DestinationStr>Bathurst Island Arpt(BRT)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BUQ</code>
+    <DestinationName>Bulawayo</DestinationName>
+    <DestinationStr>Bulawayo(BUQ)-Zimbabwe</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BBO</code>
+    <DestinationName>Berbera Arpt</DestinationName>
+    <DestinationStr>Berbera Arpt(BBO)-Somalia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BCV</code>
+    <DestinationName>Belmopan</DestinationName>
+    <DestinationStr>Belmopan(BCV)-Belize</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BER</code>
+    <DestinationName>Berlin Brandenburg Airport</DestinationName>
+    <DestinationStr>Berlin Brandenburg Airport(BER)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BGY</code>
+    <DestinationName>Orio Al Serio Arpt</DestinationName>
+    <DestinationStr>Orio Al Serio Arpt(BGY)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BJL</code>
+    <DestinationName>Banjul</DestinationName>
+    <DestinationStr>Banjul(BJL)-Gambia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FNT</code>
+    <DestinationName>Bishop Intl Arpt</DestinationName>
+    <DestinationStr>Bishop Intl Arpt(FNT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QBI</code>
+    <DestinationName>Bitola</DestinationName>
+    <DestinationStr>Bitola(QBI)-Macedonia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BAL</code>
+    <DestinationName>Batman Arpt</DestinationName>
+    <DestinationStr>Batman Arpt(BAL)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OUR</code>
+    <DestinationName>Batouri</DestinationName>
+    <DestinationStr>Batouri(OUR)-Cameroon, United Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ASH</code>
+    <DestinationName>Boire Field Arpt</DestinationName>
+    <DestinationStr>Boire Field Arpt(ASH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BGW</code>
+    <DestinationName>Baghdad</DestinationName>
+    <DestinationStr>Baghdad(BGW)-Iraq</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BLK</code>
+    <DestinationName>Blackpool Airport</DestinationName>
+    <DestinationStr>Blackpool Airport(BLK)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BND</code>
+    <DestinationName>Bandar Abbas Intl Airport</DestinationName>
+    <DestinationStr>Bandar Abbas Intl Airport(BND)-Iran</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BZY</code>
+    <DestinationName>Balti</DestinationName>
+    <DestinationStr>Balti(BZY)-Moldova</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HFD</code>
+    <DestinationName>Brainard Arpt</DestinationName>
+    <DestinationStr>Brainard Arpt(HFD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BID</code>
+    <DestinationName>Block Island</DestinationName>
+    <DestinationStr>Block Island(BID)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BNI</code>
+    <DestinationName>Benin Airport</DestinationName>
+    <DestinationStr>Benin Airport(BNI)-Nigeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YTL</code>
+    <DestinationName>Big Trout Arpt</DestinationName>
+    <DestinationStr>Big Trout Arpt(YTL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BFM</code>
+    <DestinationName>Brookley Arpt</DestinationName>
+    <DestinationStr>Brookley Arpt(BFM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BHN</code>
+    <DestinationName>Beihan</DestinationName>
+    <DestinationStr>Beihan(BHN)-Yemen, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BJI</code>
+    <DestinationName>Bemidji Municipal Arpt</DestinationName>
+    <DestinationStr>Bemidji Municipal Arpt(BJI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YBW</code>
+    <DestinationName>Bedwell Harbor Arpt</DestinationName>
+    <DestinationStr>Bedwell Harbor Arpt(YBW)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZBO</code>
+    <DestinationName>Bowen</DestinationName>
+    <DestinationStr>Bowen(ZBO)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BDS</code>
+    <DestinationName>Papola Casale Arpt</DestinationName>
+    <DestinationStr>Papola Casale Arpt(BDS)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BGR</code>
+    <DestinationName>Bangor Intl Arpt</DestinationName>
+    <DestinationStr>Bangor Intl Arpt(BGR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BNO</code>
+    <DestinationName>Burns Municipal Arpt</DestinationName>
+    <DestinationStr>Burns Municipal Arpt(BNO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BZC</code>
+    <DestinationName>Buzios</DestinationName>
+    <DestinationStr>Buzios(BZC)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WXF</code>
+    <DestinationName>Braintree</DestinationName>
+    <DestinationStr>Braintree(WXF)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BFG</code>
+    <DestinationName>Bullfrog Basin Arpt</DestinationName>
+    <DestinationStr>Bullfrog Basin Arpt(BFG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BGK</code>
+    <DestinationName>Big Creek</DestinationName>
+    <DestinationStr>Big Creek(BGK)-Belize</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BPO</code>
+    <DestinationName>Boao</DestinationName>
+    <DestinationStr>Boao(BPO)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BSK</code>
+    <DestinationName>Biskra</DestinationName>
+    <DestinationStr>Biskra(BSK)-Algeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BVY</code>
+    <DestinationName>Beverly</DestinationName>
+    <DestinationStr>Beverly(BVY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CMB</code>
+    <DestinationName>Bandaranaike Intl Arpt</DestinationName>
+    <DestinationStr>Bandaranaike Intl Arpt(CMB)-Sri Lanka</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PWT</code>
+    <DestinationName>Bremerton</DestinationName>
+    <DestinationStr>Bremerton(PWT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YBY</code>
+    <DestinationName>Bonnyville</DestinationName>
+    <DestinationStr>Bonnyville(YBY)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BML</code>
+    <DestinationName>Berlin</DestinationName>
+    <DestinationStr>Berlin(BML)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EIS</code>
+    <DestinationName>Beef Island</DestinationName>
+    <DestinationStr>Beef Island(EIS)-British Virgin Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VMU</code>
+    <DestinationName>Baimuru Airport</DestinationName>
+    <DestinationStr>Baimuru Airport(VMU)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BBJ</code>
+    <DestinationName>Bitburg Air Base</DestinationName>
+    <DestinationStr>Bitburg Air Base(BBJ)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BEB</code>
+    <DestinationName>Benbecula Arpt</DestinationName>
+    <DestinationStr>Benbecula Arpt(BEB)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BGF</code>
+    <DestinationName>Bangui Airport</DestinationName>
+    <DestinationStr>Bangui Airport(BGF)-Central African Republic</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BLQ</code>
+    <DestinationName>Bologna</DestinationName>
+    <DestinationStr>Bologna(BLQ)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BTI</code>
+    <DestinationName>Barter Island</DestinationName>
+    <DestinationStr>Barter Island(BTI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BVY</code>
+    <DestinationName>Beverly Municipal Arpt</DestinationName>
+    <DestinationStr>Beverly Municipal Arpt(BVY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EJA</code>
+    <DestinationName>Barrancabermeja</DestinationName>
+    <DestinationStr>Barrancabermeja(EJA)-Colombia</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>BIG</code>
+    <DestinationName>Big Delta Arpt</DestinationName>
+    <DestinationStr>Big Delta Arpt(BIG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BZC</code>
+    <DestinationName>Buzios Arpt</DestinationName>
+    <DestinationStr>Buzios Arpt(BZC)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IFP</code>
+    <DestinationName>Bullhead City</DestinationName>
+    <DestinationStr>Bullhead City(IFP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YBG</code>
+    <DestinationName>Bagotville Arpt</DestinationName>
+    <DestinationStr>Bagotville Arpt(YBG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BAD</code>
+    <DestinationName>Barksdale Air Force Base</DestinationName>
+    <DestinationStr>Barksdale Air Force Base(BAD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BFN</code>
+    <DestinationName>Bloemfontein</DestinationName>
+    <DestinationStr>Bloemfontein(BFN)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BJX</code>
+    <DestinationName>Leon</DestinationName>
+    <DestinationStr>Leon(BJX)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BNA</code>
+    <DestinationName>Nashville International Arpt</DestinationName>
+    <DestinationStr>Nashville International Arpt(BNA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BJF</code>
+    <DestinationName>Batsfjord Arpt</DestinationName>
+    <DestinationStr>Batsfjord Arpt(BJF)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BOG</code>
+    <DestinationName>Bogota</DestinationName>
+    <DestinationStr>Bogota(BOG)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BXO</code>
+    <DestinationName>Buochs airport</DestinationName>
+    <DestinationStr>Buochs airport(BXO)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KTS</code>
+    <DestinationName>Brevig Mission Arpt</DestinationName>
+    <DestinationStr>Brevig Mission Arpt(KTS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QIZ</code>
+    <DestinationName>Bizerte</DestinationName>
+    <DestinationStr>Bizerte(QIZ)-Tunisia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VLI</code>
+    <DestinationName>Bauerfield Arpt</DestinationName>
+    <DestinationStr>Bauerfield Arpt(VLI)-Vanuatu</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AUS</code>
+    <DestinationName>Bergstrom Intl Arpt</DestinationName>
+    <DestinationStr>Bergstrom Intl Arpt(AUS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BRQ</code>
+    <DestinationName>Brno</DestinationName>
+    <DestinationStr>Brno(BRQ)-Czech Republic</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BTM</code>
+    <DestinationName>Bert Mooney Arpt</DestinationName>
+    <DestinationStr>Bert Mooney Arpt(BTM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GLZ</code>
+    <DestinationName>Breda</DestinationName>
+    <DestinationStr>Breda(GLZ)-Netherlands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PAB</code>
+    <DestinationName>Bilaspur</DestinationName>
+    <DestinationStr>Bilaspur(PAB)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BEA</code>
+    <DestinationName>Bereina</DestinationName>
+    <DestinationStr>Bereina(BEA)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BTM</code>
+    <DestinationName>Butte</DestinationName>
+    <DestinationStr>Butte(BTM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QBM</code>
+    <DestinationName>Bourg Saint Maurice</DestinationName>
+    <DestinationStr>Bourg Saint Maurice(QBM)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BHJ</code>
+    <DestinationName>Rudra Mata Arpt</DestinationName>
+    <DestinationStr>Rudra Mata Arpt(BHJ)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BPC</code>
+    <DestinationName>Bamenda</DestinationName>
+    <DestinationStr>Bamenda(BPC)-Cameroon, United Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BSQ</code>
+    <DestinationName>Bisbee Municipal Arpt</DestinationName>
+    <DestinationStr>Bisbee Municipal Arpt(BSQ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BTJ</code>
+    <DestinationName>Blang Bintang Arpt</DestinationName>
+    <DestinationStr>Blang Bintang Arpt(BTJ)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BWD</code>
+    <DestinationName>Brownwood Municipal Arpt</DestinationName>
+    <DestinationStr>Brownwood Municipal Arpt(BWD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PWT</code>
+    <DestinationName>Bremerton Municipal</DestinationName>
+    <DestinationStr>Bremerton Municipal(PWT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BBN</code>
+    <DestinationName>Bario Arpt</DestinationName>
+    <DestinationStr>Bario Arpt(BBN)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BGI</code>
+    <DestinationName>Grantley Adams Intl Arpt</DestinationName>
+    <DestinationStr>Grantley Adams Intl Arpt(BGI)-Barbados</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BOW</code>
+    <DestinationName>Bartow Arpt</DestinationName>
+    <DestinationStr>Bartow Arpt(BOW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WSH</code>
+    <DestinationName>Brookhaven</DestinationName>
+    <DestinationStr>Brookhaven(WSH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BFE</code>
+    <DestinationName>Bielefeld Arpt</DestinationName>
+    <DestinationStr>Bielefeld Arpt(BFE)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TKG</code>
+    <DestinationName>Branti Arpt</DestinationName>
+    <DestinationStr>Branti Arpt(TKG)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BBI</code>
+    <DestinationName>Biju Patnaik Arpt</DestinationName>
+    <DestinationStr>Biju Patnaik Arpt(BBI)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BCH</code>
+    <DestinationName>English Madeira Arpt</DestinationName>
+    <DestinationStr>English Madeira Arpt(BCH)-Timor Leste</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BGA</code>
+    <DestinationName>Palonegro International</DestinationName>
+    <DestinationStr>Palonegro International(BGA)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BJZ</code>
+    <DestinationName>Talaveral La Real Arpt</DestinationName>
+    <DestinationStr>Talaveral La Real Arpt(BJZ)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KSC</code>
+    <DestinationName>Barca Arpt</DestinationName>
+    <DestinationStr>Barca Arpt(KSC)-Slovakia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BHH</code>
+    <DestinationName>Bisha</DestinationName>
+    <DestinationStr>Bisha(BHH)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BRT</code>
+    <DestinationName>Bathurst Isl</DestinationName>
+    <DestinationStr>Bathurst Isl(BRT)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BWC</code>
+    <DestinationName>Brawley</DestinationName>
+    <DestinationStr>Brawley(BWC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BZR</code>
+    <DestinationName>Beziers Vias Arpt</DestinationName>
+    <DestinationStr>Beziers Vias Arpt(BZR)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JPD</code>
+    <DestinationName>Burbank Heliport</DestinationName>
+    <DestinationStr>Burbank Heliport(JPD)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>PEK</code>
+    <DestinationName>Beijing Capital Arpt</DestinationName>
+    <DestinationStr>Beijing Capital Arpt(PEK)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QDD</code>
+    <DestinationName>Botosani</DestinationName>
+    <DestinationStr>Botosani(QDD)-Romania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WBQ</code>
+    <DestinationName>Beaver</DestinationName>
+    <DestinationStr>Beaver(WBQ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BEZ</code>
+    <DestinationName>Beru</DestinationName>
+    <DestinationStr>Beru(BEZ)-Kiribati</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BUL</code>
+    <DestinationName>Bulolo</DestinationName>
+    <DestinationStr>Bulolo(BUL)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BTL</code>
+    <DestinationName>WK Kellogg Regional</DestinationName>
+    <DestinationStr>WK Kellogg Regional(BTL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BWE</code>
+    <DestinationName>Braunschweig</DestinationName>
+    <DestinationStr>Braunschweig(BWE)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DAG</code>
+    <DestinationName>Barstow Daggett  Airport</DestinationName>
+    <DestinationStr>Barstow Daggett  Airport(DAG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ESP</code>
+    <DestinationName>Birchwood Pocono Arpt</DestinationName>
+    <DestinationStr>Birchwood Pocono Arpt(ESP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HBE</code>
+    <DestinationName>Borg El Arab Arpt</DestinationName>
+    <DestinationStr>Borg El Arab Arpt(HBE)-Egypt</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OVA</code>
+    <DestinationName>Bekily</DestinationName>
+    <DestinationStr>Bekily(OVA)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UKS</code>
+    <DestinationName>Belbek Arpt</DestinationName>
+    <DestinationStr>Belbek Arpt(UKS)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BHL</code>
+    <DestinationName>Bahia De Los Angeles Arpt</DestinationName>
+    <DestinationStr>Bahia De Los Angeles Arpt(BHL)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BKM</code>
+    <DestinationName>Bakalalan</DestinationName>
+    <DestinationStr>Bakalalan(BKM)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BLF</code>
+    <DestinationName>Mercer County</DestinationName>
+    <DestinationStr>Mercer County(BLF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BLJ</code>
+    <DestinationName>Batna</DestinationName>
+    <DestinationStr>Batna(BLJ)-Algeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BPT</code>
+    <DestinationName>Jefferson Cty Arpt</DestinationName>
+    <DestinationStr>Jefferson Cty Arpt(BPT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BRI</code>
+    <DestinationName>Bari Airport</DestinationName>
+    <DestinationStr>Bari Airport(BRI)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CVT</code>
+    <DestinationName>Baginton Arpt</DestinationName>
+    <DestinationStr>Baginton Arpt(CVT)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ODO</code>
+    <DestinationName>Bodaybo</DestinationName>
+    <DestinationStr>Bodaybo(ODO)-Russian Federation</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>BBO</code>
+    <DestinationName>Berbera</DestinationName>
+    <DestinationStr>Berbera(BBO)-Somalia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POC</code>
+    <DestinationName>Brackett Field</DestinationName>
+    <DestinationStr>Brackett Field(POC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YBA</code>
+    <DestinationName>Banff</DestinationName>
+    <DestinationStr>Banff(YBA)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BGS</code>
+    <DestinationName>Webb Airforce Base</DestinationName>
+    <DestinationStr>Webb Airforce Base(BGS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BNX</code>
+    <DestinationName>Banja Luka</DestinationName>
+    <DestinationStr>Banja Luka(BNX)-Bosnia Herzegovina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BYW</code>
+    <DestinationName>Blakely Is Municipal</DestinationName>
+    <DestinationStr>Blakely Is Municipal(BYW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IXB</code>
+    <DestinationName>Bagdogra Arpt</DestinationName>
+    <DestinationStr>Bagdogra Arpt(IXB)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NVN</code>
+    <DestinationName>Beckwourth</DestinationName>
+    <DestinationStr>Beckwourth(NVN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RGH</code>
+    <DestinationName>Balurghat Airport</DestinationName>
+    <DestinationStr>Balurghat Airport(RGH)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UDD</code>
+    <DestinationName>Bermuda Dunes Arpt</DestinationName>
+    <DestinationStr>Bermuda Dunes Arpt(UDD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BFG</code>
+    <DestinationName>Bullfrog Basin</DestinationName>
+    <DestinationStr>Bullfrog Basin(BFG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BIQ</code>
+    <DestinationName>Biarritz</DestinationName>
+    <DestinationStr>Biarritz(BIQ)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BOB</code>
+    <DestinationName>Motu Mute Arpt</DestinationName>
+    <DestinationStr>Motu Mute Arpt(BOB)-French Polynesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BVH</code>
+    <DestinationName>Vilhena Arpt</DestinationName>
+    <DestinationStr>Vilhena Arpt(BVH)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XVV</code>
+    <DestinationName>Belleville</DestinationName>
+    <DestinationStr>Belleville(XVV)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AIY</code>
+    <DestinationName>Bader Field</DestinationName>
+    <DestinationStr>Bader Field(AIY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BAO</code>
+    <DestinationName>Udorn Arpt</DestinationName>
+    <DestinationStr>Udorn Arpt(BAO)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BBC</code>
+    <DestinationName>Bay City</DestinationName>
+    <DestinationStr>Bay City(BBC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BSL</code>
+    <DestinationName>Basel</DestinationName>
+    <DestinationStr>Basel(BSL)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TRI</code>
+    <DestinationName>Bristol</DestinationName>
+    <DestinationStr>Bristol(TRI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BFQ</code>
+    <DestinationName>Bahia Pina Airport</DestinationName>
+    <DestinationStr>Bahia Pina Airport(BFQ)-Panama</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BMP</code>
+    <DestinationName>Brampton Island Arpt</DestinationName>
+    <DestinationStr>Brampton Island Arpt(BMP)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BOM</code>
+    <DestinationName>Mumbai</DestinationName>
+    <DestinationStr>Mumbai(BOM)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BZO</code>
+    <DestinationName>Bolzano Arpt</DestinationName>
+    <DestinationStr>Bolzano Arpt(BZO)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BED</code>
+    <DestinationName>Bedford</DestinationName>
+    <DestinationStr>Bedford(BED)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BHV</code>
+    <DestinationName>Bahawalpur Arpt</DestinationName>
+    <DestinationStr>Bahawalpur Arpt(BHV)-Pakistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BXV</code>
+    <DestinationName>Breiddalsvik</DestinationName>
+    <DestinationStr>Breiddalsvik(BXV)-Iceland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XQD</code>
+    <DestinationName>Bedford</DestinationName>
+    <DestinationStr>Bedford(XQD)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZMF</code>
+    <DestinationName>Beverello Harbour</DestinationName>
+    <DestinationStr>Beverello Harbour(ZMF)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BCB</code>
+    <DestinationName>Virginia Tech Arpt</DestinationName>
+    <DestinationStr>Virginia Tech Arpt(BCB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BJP</code>
+    <DestinationName>Braganca Paulista</DestinationName>
+    <DestinationStr>Braganca Paulista(BJP)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BQK</code>
+    <DestinationName>Gylnco Jet Port</DestinationName>
+    <DestinationStr>Gylnco Jet Port(BQK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BUI</code>
+    <DestinationName>Bokondini</DestinationName>
+    <DestinationStr>Bokondini(BUI)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LEX</code>
+    <DestinationName>Blue Grass Field</DestinationName>
+    <DestinationStr>Blue Grass Field(LEX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BFJ</code>
+    <DestinationName>Bijie Airport</DestinationName>
+    <DestinationStr>Bijie Airport(BFJ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BHE</code>
+    <DestinationName>Woodbourne Arpt</DestinationName>
+    <DestinationStr>Woodbourne Arpt(BHE)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BHJ</code>
+    <DestinationName>Bhuj</DestinationName>
+    <DestinationStr>Bhuj(BHJ)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BWN</code>
+    <DestinationName>Bandar Seri Begawan</DestinationName>
+    <DestinationStr>Bandar Seri Begawan(BWN)-Brunei</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BEG</code>
+    <DestinationName>Belgrade Beograd Arpt</DestinationName>
+    <DestinationStr>Belgrade Beograd Arpt(BEG)-Serbia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BIF</code>
+    <DestinationName>Biggs Army Air Field</DestinationName>
+    <DestinationStr>Biggs Army Air Field(BIF)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>BTR</code>
+    <DestinationName>Baton Rouge</DestinationName>
+    <DestinationStr>Baton Rouge(BTR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BWF</code>
+    <DestinationName>Walney Island</DestinationName>
+    <DestinationStr>Walney Island(BWF)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XBX</code>
+    <DestinationName>BERNAY</DestinationName>
+    <DestinationStr>BERNAY(XBX)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BGF</code>
+    <DestinationName>Bangui</DestinationName>
+    <DestinationStr>Bangui(BGF)-Central African Republic</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BGM</code>
+    <DestinationName>Edwin A Link Field</DestinationName>
+    <DestinationStr>Edwin A Link Field(BGM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BGV</code>
+    <DestinationName>Bento Goncalves Arpt</DestinationName>
+    <DestinationStr>Bento Goncalves Arpt(BGV)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BKG</code>
+    <DestinationName>Branson</DestinationName>
+    <DestinationStr>Branson(BKG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BLI</code>
+    <DestinationName>Bellingham</DestinationName>
+    <DestinationStr>Bellingham(BLI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BRZ</code>
+    <DestinationName>Bresciaa</DestinationName>
+    <DestinationStr>Bresciaa(BRZ)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BUW</code>
+    <DestinationName>Baubau</DestinationName>
+    <DestinationStr>Baubau(BUW)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BWG</code>
+    <DestinationName>Warren Cty Arpt</DestinationName>
+    <DestinationStr>Warren Cty Arpt(BWG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BHS</code>
+    <DestinationName>Bathurst</DestinationName>
+    <DestinationStr>Bathurst(BHS)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BOH</code>
+    <DestinationName>Bournemouth Intl Arpt</DestinationName>
+    <DestinationStr>Bournemouth Intl Arpt(BOH)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BWQ</code>
+    <DestinationName>Brewarrina Arpt</DestinationName>
+    <DestinationStr>Brewarrina Arpt(BWQ)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BXK</code>
+    <DestinationName>Buckeye Arpt</DestinationName>
+    <DestinationStr>Buckeye Arpt(BXK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ANU</code>
+    <DestinationName>Barbuda</DestinationName>
+    <DestinationStr>Barbuda(ANU)-Antigua And Barbuda</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BEG</code>
+    <DestinationName>Belgrade</DestinationName>
+    <DestinationStr>Belgrade(BEG)-Serbia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PHM</code>
+    <DestinationName>Boeblingen</DestinationName>
+    <DestinationStr>Boeblingen(PHM)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>URO</code>
+    <DestinationName>Boos Airport</DestinationName>
+    <DestinationStr>Boos Airport(URO)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BCE</code>
+    <DestinationName>Bryce Arpt</DestinationName>
+    <DestinationStr>Bryce Arpt(BCE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BGM</code>
+    <DestinationName>Binghamton</DestinationName>
+    <DestinationStr>Binghamton(BGM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BKK</code>
+    <DestinationName>Bangkok</DestinationName>
+    <DestinationStr>Bangkok(BKK)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BKX</code>
+    <DestinationName>Brookings Municipal</DestinationName>
+    <DestinationStr>Brookings Municipal(BKX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BQS</code>
+    <DestinationName>Blagoveshchensk</DestinationName>
+    <DestinationStr>Blagoveshchensk(BQS)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BSH</code>
+    <DestinationName>Brighton</DestinationName>
+    <DestinationStr>Brighton(BSH)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BZI</code>
+    <DestinationName>Balikesir</DestinationName>
+    <DestinationStr>Balikesir(BZI)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NHZ</code>
+    <DestinationName>Brunswick</DestinationName>
+    <DestinationStr>Brunswick(NHZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QBC</code>
+    <DestinationName>Bella Colla Municipal</DestinationName>
+    <DestinationStr>Bella Colla Municipal(QBC)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XBR</code>
+    <DestinationName>Brockville</DestinationName>
+    <DestinationStr>Brockville(XBR)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BJT</code>
+    <DestinationName>Bentota River Airport</DestinationName>
+    <DestinationStr>Bentota River Airport(BJT)-Sri Lanka</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BMD</code>
+    <DestinationName>Belo</DestinationName>
+    <DestinationStr>Belo(BMD)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BQL</code>
+    <DestinationName>Boulia</DestinationName>
+    <DestinationStr>Boulia(BQL)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JBK</code>
+    <DestinationName>Berkeley</DestinationName>
+    <DestinationStr>Berkeley(JBK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZBV</code>
+    <DestinationName>Beaver Creek</DestinationName>
+    <DestinationStr>Beaver Creek(ZBV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZDG</code>
+    <DestinationName>Baden</DestinationName>
+    <DestinationStr>Baden(ZDG)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BPG</code>
+    <DestinationName>Barra Do Garcas</DestinationName>
+    <DestinationStr>Barra Do Garcas(BPG)-Brazil</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XBQ</code>
+    <DestinationName>Blois</DestinationName>
+    <DestinationStr>Blois(XBQ)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZDL</code>
+    <DestinationName>Brig</DestinationName>
+    <DestinationStr>Brig(ZDL)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BRP</code>
+    <DestinationName>Biaru</DestinationName>
+    <DestinationStr>Biaru(BRP)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BSK</code>
+    <DestinationName>Biskra Arpt</DestinationName>
+    <DestinationStr>Biskra Arpt(BSK)-Algeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BZT</code>
+    <DestinationName>Brazoria</DestinationName>
+    <DestinationStr>Brazoria(BZT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BMI</code>
+    <DestinationName>Bloomington</DestinationName>
+    <DestinationStr>Bloomington(BMI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BRS</code>
+    <DestinationName>Bristol</DestinationName>
+    <DestinationStr>Bristol(BRS)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BUR</code>
+    <DestinationName>Burbank</DestinationName>
+    <DestinationStr>Burbank(BUR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OXB</code>
+    <DestinationName>Bissau</DestinationName>
+    <DestinationStr>Bissau(OXB)-Guinea Bissau</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BHD</code>
+    <DestinationName>Belfast City Arpt</DestinationName>
+    <DestinationStr>Belfast City Arpt(BHD)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BLA</code>
+    <DestinationName>Barcelona</DestinationName>
+    <DestinationStr>Barcelona(BLA)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EGO</code>
+    <DestinationName>Belgorod</DestinationName>
+    <DestinationStr>Belgorod(EGO)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RGH</code>
+    <DestinationName>Balurghat</DestinationName>
+    <DestinationStr>Balurghat(RGH)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TKG</code>
+    <DestinationName>Bandar Lampung</DestinationName>
+    <DestinationStr>Bandar Lampung(TKG)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UNT</code>
+    <DestinationName>Baltasound Arpt</DestinationName>
+    <DestinationStr>Baltasound Arpt(UNT)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WBE</code>
+    <DestinationName>Bealanana</DestinationName>
+    <DestinationStr>Bealanana(WBE)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YVB</code>
+    <DestinationName>Bonaventure</DestinationName>
+    <DestinationStr>Bonaventure(YVB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZMZ</code>
+    <DestinationName>Bjerka</DestinationName>
+    <DestinationStr>Bjerka(ZMZ)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BEN</code>
+    <DestinationName>Benghazi</DestinationName>
+    <DestinationStr>Benghazi(BEN)-Libyan Arab Jamahiriya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BFD</code>
+    <DestinationName>Bradford Regional Arpt</DestinationName>
+    <DestinationStr>Bradford Regional Arpt(BFD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BNI</code>
+    <DestinationName>Benin City</DestinationName>
+    <DestinationStr>Benin City(BNI)-Nigeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BWI</code>
+    <DestinationName>Baltimore</DestinationName>
+    <DestinationStr>Baltimore(BWI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BZT</code>
+    <DestinationName>Brazoria County Arpt</DestinationName>
+    <DestinationStr>Brazoria County Arpt(BZT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MEN</code>
+    <DestinationName>Brenoux Airport</DestinationName>
+    <DestinationStr>Brenoux Airport(MEN)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>BNJ</code>
+    <DestinationName>Bonn</DestinationName>
+    <DestinationStr>Bonn(BNJ)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BQT</code>
+    <DestinationName>Brest</DestinationName>
+    <DestinationStr>Brest(BQT)-Belarus</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>BBM</code>
+    <DestinationName>Battambang</DestinationName>
+    <DestinationStr>Battambang(BBM)-Cambodia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BHV</code>
+    <DestinationName>Bahawalpur</DestinationName>
+    <DestinationStr>Bahawalpur(BHV)-Pakistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BRM</code>
+    <DestinationName>Jacinto Lara International</DestinationName>
+    <DestinationStr>Jacinto Lara International(BRM)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EGO</code>
+    <DestinationName>Belgorod Arpt</DestinationName>
+    <DestinationStr>Belgorod Arpt(EGO)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IEG</code>
+    <DestinationName>Babimost Arpt</DestinationName>
+    <DestinationStr>Babimost Arpt(IEG)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QBV</code>
+    <DestinationName>Benevento</DestinationName>
+    <DestinationStr>Benevento(QBV)-Italy</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>BEU</code>
+    <DestinationName>Bedourie</DestinationName>
+    <DestinationStr>Bedourie(BEU)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BIH</code>
+    <DestinationName>Bishop Airport</DestinationName>
+    <DestinationStr>Bishop Airport(BIH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BIS</code>
+    <DestinationName>Bismarck Municipal Arpt</DestinationName>
+    <DestinationStr>Bismarck Municipal Arpt(BIS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BRV</code>
+    <DestinationName>Bremerhaven</DestinationName>
+    <DestinationStr>Bremerhaven(BRV)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BAV</code>
+    <DestinationName>Baotou Arpt</DestinationName>
+    <DestinationStr>Baotou Arpt(BAV)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BBA</code>
+    <DestinationName>Teniente Vidal Airport</DestinationName>
+    <DestinationStr>Teniente Vidal Airport(BBA)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BIO</code>
+    <DestinationName>Bilbao Arpt</DestinationName>
+    <DestinationStr>Bilbao Arpt(BIO)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BNG</code>
+    <DestinationName>Banning Arpt</DestinationName>
+    <DestinationStr>Banning Arpt(BNG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BON</code>
+    <DestinationName>Bonaire</DestinationName>
+    <DestinationStr>Bonaire(BON)-Bonaire</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BOW</code>
+    <DestinationName>Bartow</DestinationName>
+    <DestinationStr>Bartow(BOW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BVC</code>
+    <DestinationName>Boa Vista</DestinationName>
+    <DestinationStr>Boa Vista(BVC)-Cape Verde, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RBF</code>
+    <DestinationName>Big Bear City</DestinationName>
+    <DestinationStr>Big Bear City(RBF)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZDI</code>
+    <DestinationName>Bellinzona</DestinationName>
+    <DestinationStr>Bellinzona(ZDI)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BSQ</code>
+    <DestinationName>Bisbee</DestinationName>
+    <DestinationStr>Bisbee(BSQ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GIC</code>
+    <DestinationName>Boigu Island</DestinationName>
+    <DestinationStr>Boigu Island(GIC)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BEY</code>
+    <DestinationName>Beirut Intl Arpt</DestinationName>
+    <DestinationStr>Beirut Intl Arpt(BEY)-Lebanon</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BLA</code>
+    <DestinationName>Gen J A Anzoategui Arpt</DestinationName>
+    <DestinationStr>Gen J A Anzoategui Arpt(BLA)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BSR</code>
+    <DestinationName>Basra</DestinationName>
+    <DestinationStr>Basra(BSR)-Iraq</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BUC</code>
+    <DestinationName>Burketown Arpt</DestinationName>
+    <DestinationStr>Burketown Arpt(BUC)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HPY</code>
+    <DestinationName>Baytown Arpt</DestinationName>
+    <DestinationStr>Baytown Arpt(HPY)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>BDR</code>
+    <DestinationName>Sikorsky Memorial Arpt</DestinationName>
+    <DestinationStr>Sikorsky Memorial Arpt(BDR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PIS</code>
+    <DestinationName>Biard Airport</DestinationName>
+    <DestinationStr>Biard Airport(PIS)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BGO</code>
+    <DestinationName>Flesland Airport</DestinationName>
+    <DestinationStr>Flesland Airport(BGO)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BPS</code>
+    <DestinationName>Porto Seguro Arpt</DestinationName>
+    <DestinationStr>Porto Seguro Arpt(BPS)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BWF</code>
+    <DestinationName>Barrow In Furness</DestinationName>
+    <DestinationStr>Barrow In Furness(BWF)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KUU</code>
+    <DestinationName>Bhuntar Arpt</DestinationName>
+    <DestinationStr>Bhuntar Arpt(KUU)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BIO</code>
+    <DestinationName>Bilbao</DestinationName>
+    <DestinationStr>Bilbao(BIO)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BLH</code>
+    <DestinationName>Blythe</DestinationName>
+    <DestinationStr>Blythe(BLH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YDT</code>
+    <DestinationName>Boundary Bay Arpt</DestinationName>
+    <DestinationStr>Boundary Bay Arpt(YDT)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BFL</code>
+    <DestinationName>Meadows Field</DestinationName>
+    <DestinationStr>Meadows Field(BFL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BPN</code>
+    <DestinationName>Balikpapan</DestinationName>
+    <DestinationStr>Balikpapan(BPN)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BWQ</code>
+    <DestinationName>Brewarrina</DestinationName>
+    <DestinationStr>Brewarrina(BWQ)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RLU</code>
+    <DestinationName>Bornite Upper Arpt</DestinationName>
+    <DestinationStr>Bornite Upper Arpt(RLU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BEL</code>
+    <DestinationName>Belem</DestinationName>
+    <DestinationStr>Belem(BEL)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BKI</code>
+    <DestinationName>Kota Kinabalu Arpt</DestinationName>
+    <DestinationStr>Kota Kinabalu Arpt(BKI)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BND</code>
+    <DestinationName>Bandar Abbas</DestinationName>
+    <DestinationStr>Bandar Abbas(BND)-Iran</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BSC</code>
+    <DestinationName>Jose Celestino Mutis Arpt</DestinationName>
+    <DestinationStr>Jose Celestino Mutis Arpt(BSC)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BIK</code>
+    <DestinationName>Mokmer Arpt</DestinationName>
+    <DestinationStr>Mokmer Arpt(BIK)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BXU</code>
+    <DestinationName>Butuan</DestinationName>
+    <DestinationStr>Butuan(BXU)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BDB</code>
+    <DestinationName>Bundaberg Arpt</DestinationName>
+    <DestinationStr>Bundaberg Arpt(BDB)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BYR</code>
+    <DestinationName>Laeso Airport</DestinationName>
+    <DestinationStr>Laeso Airport(BYR)-Denmark</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NYU</code>
+    <DestinationName>Bagan Nyaung U Arpt</DestinationName>
+    <DestinationStr>Bagan Nyaung U Arpt(NYU)-Myanmar</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YEB</code>
+    <DestinationName>Bar River Arpt</DestinationName>
+    <DestinationStr>Bar River Arpt(YEB)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>BFL</code>
+    <DestinationName>Bakersfield</DestinationName>
+    <DestinationStr>Bakersfield(BFL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BJM</code>
+    <DestinationName>Bujumbura</DestinationName>
+    <DestinationStr>Bujumbura(BJM)-Burundi</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BSG</code>
+    <DestinationName>Bata Airport</DestinationName>
+    <DestinationStr>Bata Airport(BSG)-Equatorial Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BDJ</code>
+    <DestinationName>Banjarmasin</DestinationName>
+    <DestinationStr>Banjarmasin(BDJ)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BEP</code>
+    <DestinationName>Bellary Airport</DestinationName>
+    <DestinationStr>Bellary Airport(BEP)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BHI</code>
+    <DestinationName>Commandante Airport</DestinationName>
+    <DestinationStr>Commandante Airport(BHI)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BJA</code>
+    <DestinationName>Bejaia</DestinationName>
+    <DestinationStr>Bejaia(BJA)-Algeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BRU</code>
+    <DestinationName>Brussels</DestinationName>
+    <DestinationStr>Brussels(BRU)-Belgium</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BZK</code>
+    <DestinationName>Bryansk</DestinationName>
+    <DestinationStr>Bryansk(BZK)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BGA</code>
+    <DestinationName>Bucaramanga</DestinationName>
+    <DestinationStr>Bucaramanga(BGA)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BOK</code>
+    <DestinationName>Brookings</DestinationName>
+    <DestinationStr>Brookings(BOK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XBZ</code>
+    <DestinationName>Bandol</DestinationName>
+    <DestinationStr>Bandol(XBZ)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BBI</code>
+    <DestinationName>Bhubaneswar</DestinationName>
+    <DestinationStr>Bhubaneswar(BBI)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BGT</code>
+    <DestinationName>Bagdad</DestinationName>
+    <DestinationStr>Bagdad(BGT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BMP</code>
+    <DestinationName>Brampton Island</DestinationName>
+    <DestinationStr>Brampton Island(BMP)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BSO</code>
+    <DestinationName>Basco</DestinationName>
+    <DestinationStr>Basco(BSO)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BDT</code>
+    <DestinationName>Bado Lite</DestinationName>
+    <DestinationStr>Bado Lite(BDT)-Congo Democratic Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BTP</code>
+    <DestinationName>Butler</DestinationName>
+    <DestinationStr>Butler(BTP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BYW</code>
+    <DestinationName>Blakely Island</DestinationName>
+    <DestinationStr>Blakely Island(BYW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HBG</code>
+    <DestinationName>Bobby L Chain Municipal</DestinationName>
+    <DestinationStr>Bobby L Chain Municipal(HBG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BBW</code>
+    <DestinationName>Broken Bow</DestinationName>
+    <DestinationStr>Broken Bow(BBW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BES</code>
+    <DestinationName>Brest</DestinationName>
+    <DestinationStr>Brest(BES)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BIM</code>
+    <DestinationName>Bimini</DestinationName>
+    <DestinationStr>Bimini(BIM)-Bahamas</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XFV</code>
+    <DestinationName>Brantford</DestinationName>
+    <DestinationStr>Brantford(XFV)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BLG</code>
+    <DestinationName>Belaga</DestinationName>
+    <DestinationStr>Belaga(BLG)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BQT</code>
+    <DestinationName>Brest Arpt</DestinationName>
+    <DestinationStr>Brest Arpt(BQT)-Belarus</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BQV</code>
+    <DestinationName>Bartlett Seaplane Base</DestinationName>
+    <DestinationStr>Bartlett Seaplane Base(BQV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BZH</code>
+    <DestinationName>Bumi Hills</DestinationName>
+    <DestinationStr>Bumi Hills(BZH)-Zimbabwe</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BEK</code>
+    <DestinationName>PUTTAPARTHI</DestinationName>
+    <DestinationStr>PUTTAPARTHI(BEK)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BJZ</code>
+    <DestinationName>Badajoz</DestinationName>
+    <DestinationStr>Badajoz(BJZ)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BLG</code>
+    <DestinationName>Belaga Arpt</DestinationName>
+    <DestinationStr>Belaga Arpt(BLG)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BQB</code>
+    <DestinationName>Busselton</DestinationName>
+    <DestinationStr>Busselton(BQB)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BSG</code>
+    <DestinationName>Bata</DestinationName>
+    <DestinationStr>Bata(BSG)-Equatorial Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BXB</code>
+    <DestinationName>Babo</DestinationName>
+    <DestinationStr>Babo(BXB)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EBR</code>
+    <DestinationName>Baton Rouge Downtown Arpt</DestinationName>
+    <DestinationStr>Baton Rouge Downtown Arpt(EBR)-United States</DestinationStr>
+  </Destination>   
+  <Destination>
+    <code>BAP</code>
+    <DestinationName>Baibara</DestinationName>
+    <DestinationStr>Baibara(BAP)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BFV</code>
+    <DestinationName>Buri Ram</DestinationName>
+    <DestinationStr>Buri Ram(BFV)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BYJ</code>
+    <DestinationName>Beja</DestinationName>
+    <DestinationStr>Beja(BYJ)-Portugal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GPS</code>
+    <DestinationName>Baltra Arpt</DestinationName>
+    <DestinationStr>Baltra Arpt(GPS)-Ecuador</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YBR</code>
+    <DestinationName>Brandon Municipal Arpt</DestinationName>
+    <DestinationStr>Brandon Municipal Arpt(YBR)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZBV</code>
+    <DestinationName>Beaver Creek Van Service</DestinationName>
+    <DestinationStr>Beaver Creek Van Service(ZBV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BJM</code>
+    <DestinationName>Burundi</DestinationName>
+    <DestinationStr>Burundi(BJM)-Burundi</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JTC</code>
+    <DestinationName>Bauru</DestinationName>
+    <DestinationStr>Bauru(JTC)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YBX</code>
+    <DestinationName>Blanc Sablon Arpt</DestinationName>
+    <DestinationStr>Blanc Sablon Arpt(YBX)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BCE</code>
+    <DestinationName>Bryce</DestinationName>
+    <DestinationStr>Bryce(BCE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BKK</code>
+    <DestinationName>Suvarnabhumi Intl Arpt</DestinationName>
+    <DestinationStr>Suvarnabhumi Intl Arpt(BKK)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BSC</code>
+    <DestinationName>Aeropuerto Jose Celestino Mutis</DestinationName>
+    <DestinationStr>Aeropuerto Jose Celestino Mutis(BSC)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BVU</code>
+    <DestinationName>Beluga</DestinationName>
+    <DestinationStr>Beluga(BVU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WBU</code>
+    <DestinationName>Boulder</DestinationName>
+    <DestinationStr>Boulder(WBU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BHB</code>
+    <DestinationName>Bar Harbor</DestinationName>
+    <DestinationStr>Bar Harbor(BHB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BKG</code>
+    <DestinationName>Branson Regional Arpt</DestinationName>
+    <DestinationStr>Branson Regional Arpt(BKG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QJM</code>
+    <DestinationName>Brusque</DestinationName>
+    <DestinationStr>Brusque(QJM)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BGR</code>
+    <DestinationName>Bangor</DestinationName>
+    <DestinationStr>Bangor(BGR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BRX</code>
+    <DestinationName>Maria Montez International</DestinationName>
+    <DestinationStr>Maria Montez International(BRX)-Dominican Republic</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BWI</code>
+    <DestinationName>Baltimore Washington Intl Arpt</DestinationName>
+    <DestinationStr>Baltimore Washington Intl Arpt(BWI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ADD</code>
+    <DestinationName>Bole Airport</DestinationName>
+    <DestinationStr>Bole Airport(ADD)-Ethiopia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BCA</code>
+    <DestinationName>Baracoa</DestinationName>
+    <DestinationStr>Baracoa(BCA)-Cuba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BJF</code>
+    <DestinationName>Batsfjord</DestinationName>
+    <DestinationStr>Batsfjord(BJF)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BOS</code>
+    <DestinationName>Boston</DestinationName>
+    <DestinationStr>Boston(BOS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UIZ</code>
+    <DestinationName>Berz Macomb Arpt</DestinationName>
+    <DestinationStr>Berz Macomb Arpt(UIZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BUQ</code>
+    <DestinationName>Bulawayo Arpt</DestinationName>
+    <DestinationStr>Bulawayo Arpt(BUQ)-Zimbabwe</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FRU</code>
+    <DestinationName>Bishkek</DestinationName>
+    <DestinationStr>Bishkek(FRU)-Kyrgyzstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JAO</code>
+    <DestinationName>Beaver Ruin Helpt</DestinationName>
+    <DestinationStr>Beaver Ruin Helpt(JAO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BDA</code>
+    <DestinationName>Bermuda</DestinationName>
+    <DestinationStr>Bermuda(BDA)-Bermuda</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BKE</code>
+    <DestinationName>Baker City Arpt</DestinationName>
+    <DestinationStr>Baker City Arpt(BKE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BNN</code>
+    <DestinationName>Bronnoysund</DestinationName>
+    <DestinationStr>Bronnoysund(BNN)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BTR</code>
+    <DestinationName>Ryan Airport</DestinationName>
+    <DestinationStr>Ryan Airport(BTR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BUX</code>
+    <DestinationName>Bunia</DestinationName>
+    <DestinationStr>Bunia(BUX)-Congo Democratic Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BYS</code>
+    <DestinationName>Fort Irwin</DestinationName>
+    <DestinationStr>Fort Irwin(BYS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BDU</code>
+    <DestinationName>Bardufoss</DestinationName>
+    <DestinationStr>Bardufoss(BDU)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BEU</code>
+    <DestinationName>Bedourie Arpt</DestinationName>
+    <DestinationStr>Bedourie Arpt(BEU)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BTK</code>
+    <DestinationName>Bratsk Arpt</DestinationName>
+    <DestinationStr>Bratsk Arpt(BTK)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BYR</code>
+    <DestinationName>Laeso Island</DestinationName>
+    <DestinationStr>Laeso Island(BYR)-Denmark</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GPT</code>
+    <DestinationName>Biloxi Regional Arpt</DestinationName>
+    <DestinationStr>Biloxi Regional Arpt(GPT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RIA</code>
+    <DestinationName>Base Aerea Arpt</DestinationName>
+    <DestinationStr>Base Aerea Arpt(RIA)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BKC</code>
+    <DestinationName>Buckland</DestinationName>
+    <DestinationStr>Buckland(BKC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BNP</code>
+    <DestinationName>Bannu</DestinationName>
+    <DestinationStr>Bannu(BNP)-Pakistan</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>BRX</code>
+    <DestinationName>Barahona</DestinationName>
+    <DestinationStr>Barahona(BRX)-Dominican Republic</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BVU</code>
+    <DestinationName>Beluga Arpt</DestinationName>
+    <DestinationStr>Beluga Arpt(BVU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WBO</code>
+    <DestinationName>Beroroha</DestinationName>
+    <DestinationStr>Beroroha(WBO)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BEP</code>
+    <DestinationName>Bellary</DestinationName>
+    <DestinationStr>Bellary(BEP)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BHZ</code>
+    <DestinationName>Belo Horizonte</DestinationName>
+    <DestinationStr>Belo Horizonte(BHZ)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BJC</code>
+    <DestinationName>Jeffco Arpt</DestinationName>
+    <DestinationStr>Jeffco Arpt(BJC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BNK</code>
+    <DestinationName>Ballina</DestinationName>
+    <DestinationStr>Ballina(BNK)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BMK</code>
+    <DestinationName>Borkum</DestinationName>
+    <DestinationStr>Borkum(BMK)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZCI</code>
+    <DestinationName>Bocholt</DestinationName>
+    <DestinationStr>Bocholt(ZCI)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BEC</code>
+    <DestinationName>Beech Arpt</DestinationName>
+    <DestinationStr>Beech Arpt(BEC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BJV</code>
+    <DestinationName>Milas Arpt</DestinationName>
+    <DestinationStr>Milas Arpt(BJV)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BUZ</code>
+    <DestinationName>Bushehr Arpt</DestinationName>
+    <DestinationStr>Bushehr Arpt(BUZ)-Iran</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>BGW</code>
+    <DestinationName>Baghdad International Arpt</DestinationName>
+    <DestinationStr>Baghdad International Arpt(BGW)-Iraq</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BLU</code>
+    <DestinationName>Blue Canyon Arpt</DestinationName>
+    <DestinationStr>Blue Canyon Arpt(BLU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BTS</code>
+    <DestinationName>Bratislava</DestinationName>
+    <DestinationStr>Bratislava(BTS)-Slovakia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BZG</code>
+    <DestinationName>Bydgoszcz Arpt</DestinationName>
+    <DestinationStr>Bydgoszcz Arpt(BZG)-Poland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QFF</code>
+    <DestinationName>BROOKLYN</DestinationName>
+    <DestinationStr>BROOKLYN(QFF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BAG</code>
+    <DestinationName>Loakan Arpt</DestinationName>
+    <DestinationStr>Loakan Arpt(BAG)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QAU</code>
+    <DestinationName>Bebedouro</DestinationName>
+    <DestinationStr>Bebedouro(QAU)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BEI</code>
+    <DestinationName>Beica</DestinationName>
+    <DestinationStr>Beica(BEI)-Ethiopia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BEK</code>
+    <DestinationName>Rae Bareli</DestinationName>
+    <DestinationStr>Rae Bareli(BEK)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BFF</code>
+    <DestinationName>Scottsbluff</DestinationName>
+    <DestinationStr>Scottsbluff(BFF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HRO</code>
+    <DestinationName>Boone County Arpt</DestinationName>
+    <DestinationStr>Boone County Arpt(HRO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LLY</code>
+    <DestinationName>Burlington Country Arpt</DestinationName>
+    <DestinationStr>Burlington Country Arpt(LLY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NIR</code>
+    <DestinationName>Beeville</DestinationName>
+    <DestinationStr>Beeville(NIR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BFH</code>
+    <DestinationName>Bacacheri Arpt</DestinationName>
+    <DestinationStr>Bacacheri Arpt(BFH)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BGC</code>
+    <DestinationName>Braganca</DestinationName>
+    <DestinationStr>Braganca(BGC)-Portugal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BMA</code>
+    <DestinationName>Bromma Airport</DestinationName>
+    <DestinationStr>Bromma Airport(BMA)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BPT</code>
+    <DestinationName>Beaumont</DestinationName>
+    <DestinationStr>Beaumont(BPT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BVR</code>
+    <DestinationName>Brava</DestinationName>
+    <DestinationStr>Brava(BVR)-Cape Verde, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HUX</code>
+    <DestinationName>Bahias de Huatulco Intl</DestinationName>
+    <DestinationStr>Bahias de Huatulco Intl(HUX)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XBR</code>
+    <DestinationName>Brockville Regional Airport</DestinationName>
+    <DestinationStr>Brockville Regional Airport(XBR)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XHV</code>
+    <DestinationName>Brasov</DestinationName>
+    <DestinationStr>Brasov(XHV)-Romania</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZDK</code>
+    <DestinationName>Biel Bienne</DestinationName>
+    <DestinationStr>Biel Bienne(ZDK)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BFN</code>
+    <DestinationName>Bloemfontein International</DestinationName>
+    <DestinationStr>Bloemfontein International(BFN)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BGZ</code>
+    <DestinationName>Braga</DestinationName>
+    <DestinationStr>Braga(BGZ)-Portugal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BXO</code>
+    <DestinationName>Buochs</DestinationName>
+    <DestinationStr>Buochs(BXO)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PFN</code>
+    <DestinationName>Bay County Arpt</DestinationName>
+    <DestinationStr>Bay County Arpt(PFN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZDP</code>
+    <DestinationName>Burgdorf</DestinationName>
+    <DestinationStr>Burgdorf(ZDP)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BBU</code>
+    <DestinationName>Baneasa Airport</DestinationName>
+    <DestinationStr>Baneasa Airport(BBU)-Romania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LGG</code>
+    <DestinationName>Bierset Airport</DestinationName>
+    <DestinationStr>Bierset Airport(LGG)-Belgium</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BFC</code>
+    <DestinationName>Bloomfield River Arpt</DestinationName>
+    <DestinationStr>Bloomfield River Arpt(BFC)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BPB</code>
+    <DestinationName>Boridi</DestinationName>
+    <DestinationStr>Boridi(BPB)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BUG</code>
+    <DestinationName>Benguela</DestinationName>
+    <DestinationStr>Benguela(BUG)-Angola</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BWX</code>
+    <DestinationName>Blimbingsari Arpt</DestinationName>
+    <DestinationStr>Blimbingsari Arpt(BWX)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BDD</code>
+    <DestinationName>Badu Island</DestinationName>
+    <DestinationStr>Badu Island(BDD)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BOI</code>
+    <DestinationName>Boise Municipal Arpt Gowen Field</DestinationName>
+    <DestinationStr>Boise Municipal Arpt Gowen Field(BOI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BOT</code>
+    <DestinationName>BOSSET</DestinationName>
+    <DestinationStr>BOSSET(BOT)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RGS</code>
+    <DestinationName>Burgos</DestinationName>
+    <DestinationStr>Burgos(RGS)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BCI</code>
+    <DestinationName>Barcaldine</DestinationName>
+    <DestinationStr>Barcaldine(BCI)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BEY</code>
+    <DestinationName>Beirut</DestinationName>
+    <DestinationStr>Beirut(BEY)-Lebanon</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LOU</code>
+    <DestinationName>Bowman Field Arpt</DestinationName>
+    <DestinationStr>Bowman Field Arpt(LOU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QBO</code>
+    <DestinationName>Bochum</DestinationName>
+    <DestinationStr>Bochum(QBO)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BSR</code>
+    <DestinationName>Basra Intl Arpt</DestinationName>
+    <DestinationStr>Basra Intl Arpt(BSR)-Iraq</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BYT</code>
+    <DestinationName>Bantry</DestinationName>
+    <DestinationStr>Bantry(BYT)-Ireland, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GRS</code>
+    <DestinationName>Baccarini Arpt</DestinationName>
+    <DestinationStr>Baccarini Arpt(GRS)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XXC</code>
+    <DestinationName>Bo Norway</DestinationName>
+    <DestinationStr>Bo Norway(XXC)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BAK</code>
+    <DestinationName>Azerbaijan</DestinationName>
+    <DestinationStr>Azerbaijan(BAK)-Azerbaijan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BCI</code>
+    <DestinationName>Barcaldine Arpt</DestinationName>
+    <DestinationStr>Barcaldine Arpt(BCI)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BUC</code>
+    <DestinationName>Burketown</DestinationName>
+    <DestinationStr>Burketown(BUC)-Australia</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>BAV</code>
+    <DestinationName>Baotou</DestinationName>
+    <DestinationStr>Baotou(BAV)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BES</code>
+    <DestinationName>Guipavas Arpt</DestinationName>
+    <DestinationStr>Guipavas Arpt(BES)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BPS</code>
+    <DestinationName>Porto Seguro</DestinationName>
+    <DestinationStr>Porto Seguro(BPS)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BTL</code>
+    <DestinationName>Battle Creek</DestinationName>
+    <DestinationStr>Battle Creek(BTL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BVB</code>
+    <DestinationName>Boa Vista Arpt</DestinationName>
+    <DestinationStr>Boa Vista Arpt(BVB)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BYK</code>
+    <DestinationName>Bouake</DestinationName>
+    <DestinationStr>Bouake(BYK)-Ivory Coast</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BNM</code>
+    <DestinationName>Bodinumu</DestinationName>
+    <DestinationStr>Bodinumu(BNM)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LVK</code>
+    <DestinationName>Bron Airport</DestinationName>
+    <DestinationStr>Bron Airport(LVK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BEK</code>
+    <DestinationName>Sri Sathya Sai Airport</DestinationName>
+    <DestinationStr>Sri Sathya Sai Airport(BEK)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BOM</code>
+    <DestinationName>Bombay</DestinationName>
+    <DestinationStr>Bombay(BOM)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BOU</code>
+    <DestinationName>Bourges</DestinationName>
+    <DestinationStr>Bourges(BOU)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BVO</code>
+    <DestinationName>Bartlesville</DestinationName>
+    <DestinationStr>Bartlesville(BVO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BFF</code>
+    <DestinationName>Scottsbluff Municipal</DestinationName>
+    <DestinationStr>Scottsbluff Municipal(BFF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BFK</code>
+    <DestinationName>Buckley Air National Guard Base</DestinationName>
+    <DestinationStr>Buckley Air National Guard Base(BFK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BJM</code>
+    <DestinationName>Bujumbura Intl Arpt</DestinationName>
+    <DestinationStr>Bujumbura Intl Arpt(BJM)-Burundi</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BRC</code>
+    <DestinationName>San Carlos Bariloche</DestinationName>
+    <DestinationStr>San Carlos Bariloche(BRC)-Argentina</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QYR</code>
+    <DestinationName>Barberey airport</DestinationName>
+    <DestinationStr>Barberey airport(QYR)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BAH</code>
+    <DestinationName>Muharraq</DestinationName>
+    <DestinationStr>Muharraq(BAH)-Bahrain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BTA</code>
+    <DestinationName>Bertoua</DestinationName>
+    <DestinationStr>Bertoua(BTA)-Cameroon, United Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BWN</code>
+    <DestinationName>Brunei Intl Arpt</DestinationName>
+    <DestinationStr>Brunei Intl Arpt(BWN)-Brunei</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZBL</code>
+    <DestinationName>Biloela</DestinationName>
+    <DestinationStr>Biloela(ZBL)-Australia</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>JBC</code>
+    <DestinationName>Boston City Heliport</DestinationName>
+    <DestinationStr>Boston City Heliport(JBC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BFV</code>
+    <DestinationName>Buriram Airport</DestinationName>
+    <DestinationStr>Buriram Airport(BFV)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BIA</code>
+    <DestinationName>Poretta Airport</DestinationName>
+    <DestinationStr>Poretta Airport(BIA)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BSB</code>
+    <DestinationName>Brasilia</DestinationName>
+    <DestinationStr>Brasilia(BSB)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BSI</code>
+    <DestinationName>Blairsville</DestinationName>
+    <DestinationStr>Blairsville(BSI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BUK</code>
+    <DestinationName>Albuq</DestinationName>
+    <DestinationStr>Albuq(BUK)-Yemen, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZBF</code>
+    <DestinationName>Bathurst Arpt</DestinationName>
+    <DestinationStr>Bathurst Arpt(ZBF)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ABM</code>
+    <DestinationName>Bamaga Arpt</DestinationName>
+    <DestinationStr>Bamaga Arpt(ABM)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BHB</code>
+    <DestinationName>Hancock County</DestinationName>
+    <DestinationStr>Hancock County(BHB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BVI</code>
+    <DestinationName>Birdsville Arpt</DestinationName>
+    <DestinationStr>Birdsville Arpt(BVI)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IXB</code>
+    <DestinationName>Bagdogra</DestinationName>
+    <DestinationStr>Bagdogra(IXB)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BBR</code>
+    <DestinationName>Basse Terre</DestinationName>
+    <DestinationStr>Basse Terre(BBR)-Guadeloupe</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BGO</code>
+    <DestinationName>Bergen</DestinationName>
+    <DestinationStr>Bergen(BGO)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BLV</code>
+    <DestinationName>Scott AFB Mid America</DestinationName>
+    <DestinationStr>Scott AFB Mid America(BLV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BRL</code>
+    <DestinationName>Burlington</DestinationName>
+    <DestinationStr>Burlington(BRL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BGG</code>
+    <DestinationName>Bingol</DestinationName>
+    <DestinationStr>Bingol(BGG)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BIS</code>
+    <DestinationName>Bismarck</DestinationName>
+    <DestinationStr>Bismarck(BIS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BKQ</code>
+    <DestinationName>Blackall</DestinationName>
+    <DestinationStr>Blackall(BKQ)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BKY</code>
+    <DestinationName>Bukavu</DestinationName>
+    <DestinationStr>Bukavu(BKY)-Congo Democratic Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BOB</code>
+    <DestinationName>Bora Bora</DestinationName>
+    <DestinationStr>Bora Bora(BOB)-French Polynesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BOU</code>
+    <DestinationName>Bourges Arpt</DestinationName>
+    <DestinationStr>Bourges Arpt(BOU)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QCF</code>
+    <DestinationName>Birigui</DestinationName>
+    <DestinationStr>Birigui(QCF)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XBS</code>
+    <DestinationName>Boulogne Sur Mer</DestinationName>
+    <DestinationStr>Boulogne Sur Mer(XBS)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BDQ</code>
+    <DestinationName>Vadodara Arpt</DestinationName>
+    <DestinationStr>Vadodara Arpt(BDQ)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BLX</code>
+    <DestinationName>Belluno Arpt</DestinationName>
+    <DestinationStr>Belluno Arpt(BLX)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BMV</code>
+    <DestinationName>Banmethuot</DestinationName>
+    <DestinationStr>Banmethuot(BMV)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BRM</code>
+    <DestinationName>Barquisimeto</DestinationName>
+    <DestinationStr>Barquisimeto(BRM)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JBT</code>
+    <DestinationName>Bethal Alaska Airport</DestinationName>
+    <DestinationStr>Bethal Alaska Airport(JBT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QEO</code>
+    <DestinationName>Bielsko Baila</DestinationName>
+    <DestinationStr>Bielsko Baila(QEO)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RBF</code>
+    <DestinationName>Big Bear City Arpt</DestinationName>
+    <DestinationStr>Big Bear City Arpt(RBF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BET</code>
+    <DestinationName>Bethel Airport</DestinationName>
+    <DestinationStr>Bethel Airport(BET)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BLL</code>
+    <DestinationName>Billund</DestinationName>
+    <DestinationStr>Billund(BLL)-Denmark</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BLQ</code>
+    <DestinationName>Guglielmo Marconi</DestinationName>
+    <DestinationStr>Guglielmo Marconi(BLQ)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BLX</code>
+    <DestinationName>Belluno</DestinationName>
+    <DestinationStr>Belluno(BLX)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BWG</code>
+    <DestinationName>Bowling Green</DestinationName>
+    <DestinationStr>Bowling Green(BWG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MKZ</code>
+    <DestinationName>Batu Berendum Arpt</DestinationName>
+    <DestinationStr>Batu Berendum Arpt(MKZ)-Malaysia</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>BAS</code>
+    <DestinationName>Balalae Arpt</DestinationName>
+    <DestinationStr>Balalae Arpt(BAS)-Solomon Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HKA</code>
+    <DestinationName>Blytheville</DestinationName>
+    <DestinationStr>Blytheville(HKA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QAK</code>
+    <DestinationName>Barbacena</DestinationName>
+    <DestinationStr>Barbacena(QAK)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QBA</code>
+    <DestinationName>Budva</DestinationName>
+    <DestinationStr>Budva(QBA)-Montenegro</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BTV</code>
+    <DestinationName>Burlington Intl Arpt</DestinationName>
+    <DestinationStr>Burlington Intl Arpt(BTV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BYM</code>
+    <DestinationName>Bayamo</DestinationName>
+    <DestinationStr>Bayamo(BYM)-Cuba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QQX</code>
+    <DestinationName>Bath</DestinationName>
+    <DestinationStr>Bath(QQX)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TUC</code>
+    <DestinationName>Benjamin Matienzo Airport</DestinationName>
+    <DestinationStr>Benjamin Matienzo Airport(TUC)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XOB</code>
+    <DestinationName>Bryne</DestinationName>
+    <DestinationStr>Bryne(XOB)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XQB</code>
+    <DestinationName>Basingstoke</DestinationName>
+    <DestinationStr>Basingstoke(XQB)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BBH</code>
+    <DestinationName>Barth Arpt</DestinationName>
+    <DestinationStr>Barth Arpt(BBH)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BHK</code>
+    <DestinationName>Bukhara Arpt</DestinationName>
+    <DestinationStr>Bukhara Arpt(BHK)-Uzbekistan Sum</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BMM</code>
+    <DestinationName>Bitam</DestinationName>
+    <DestinationStr>Bitam(BMM)-Gabon</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BOG</code>
+    <DestinationName>El Dorado International</DestinationName>
+    <DestinationStr>El Dorado International(BOG)-Colombia</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>BIL</code>
+    <DestinationName>Billings</DestinationName>
+    <DestinationStr>Billings(BIL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BQH</code>
+    <DestinationName>London Biggin Hill Arpt</DestinationName>
+    <DestinationStr>London Biggin Hill Arpt(BQH)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BYC</code>
+    <DestinationName>Yacuiba</DestinationName>
+    <DestinationStr>Yacuiba(BYC)-Bolivia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZBM</code>
+    <DestinationName>Bromont</DestinationName>
+    <DestinationStr>Bromont(ZBM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BCD</code>
+    <DestinationName>Bacolod Arpt</DestinationName>
+    <DestinationStr>Bacolod Arpt(BCD)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BEW</code>
+    <DestinationName>Beira Arpt</DestinationName>
+    <DestinationStr>Beira Arpt(BEW)-Mozambique</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BKA</code>
+    <DestinationName>Bykovo Arpt</DestinationName>
+    <DestinationStr>Bykovo Arpt(BKA)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BUD</code>
+    <DestinationName>Budapest</DestinationName>
+    <DestinationStr>Budapest(BUD)-Hungary</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>STD</code>
+    <DestinationName>Buenaventura Vivas Arpt</DestinationName>
+    <DestinationStr>Buenaventura Vivas Arpt(STD)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BHL</code>
+    <DestinationName>Bahia De Los Angeles</DestinationName>
+    <DestinationStr>Bahia De Los Angeles(BHL)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YBX</code>
+    <DestinationName>Blanc Sablon</DestinationName>
+    <DestinationStr>Blanc Sablon(YBX)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BDH</code>
+    <DestinationName>Bandar Lengeh</DestinationName>
+    <DestinationStr>Bandar Lengeh(BDH)-Iran</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BTT</code>
+    <DestinationName>Bettles</DestinationName>
+    <DestinationStr>Bettles(BTT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BUD</code>
+    <DestinationName>Liszt Ferenc Arpt</DestinationName>
+    <DestinationStr>Liszt Ferenc Arpt(BUD)-Hungary</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XPN</code>
+    <DestinationName>Brampton</DestinationName>
+    <DestinationStr>Brampton(XPN)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>BLU</code>
+    <DestinationName>Blue Canyon</DestinationName>
+    <DestinationStr>Blue Canyon(BLU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BZZ</code>
+    <DestinationName>Brize Norton</DestinationName>
+    <DestinationStr>Brize Norton(BZZ)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TLV</code>
+    <DestinationName>Ben Gurion Intl Arpt</DestinationName>
+    <DestinationStr>Ben Gurion Intl Arpt(TLV)-Israel</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YTL</code>
+    <DestinationName>Big Trout</DestinationName>
+    <DestinationStr>Big Trout(YTL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BDL</code>
+    <DestinationName>Bradley Intl Arpt</DestinationName>
+    <DestinationStr>Bradley Intl Arpt(BDL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BOX</code>
+    <DestinationName>Borroloola</DestinationName>
+    <DestinationStr>Borroloola(BOX)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BQL</code>
+    <DestinationName>Boulia Arpt</DestinationName>
+    <DestinationStr>Boulia Arpt(BQL)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BEO</code>
+    <DestinationName>Belmont Arpt</DestinationName>
+    <DestinationStr>Belmont Arpt(BEO)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BNT</code>
+    <DestinationName>Bundi</DestinationName>
+    <DestinationStr>Bundi(BNT)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BQK</code>
+    <DestinationName>Brunswick</DestinationName>
+    <DestinationStr>Brunswick(BQK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BVE</code>
+    <DestinationName>Laroche Airport</DestinationName>
+    <DestinationStr>Laroche Airport(BVE)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BHY</code>
+    <DestinationName>Beihai</DestinationName>
+    <DestinationStr>Beihai(BHY)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YOS</code>
+    <DestinationName>Billy Bishop Regional Arpt</DestinationName>
+    <DestinationStr>Billy Bishop Regional Arpt(YOS)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BNG</code>
+    <DestinationName>Banning</DestinationName>
+    <DestinationStr>Banning(BNG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BQS</code>
+    <DestinationName>Blagoveshchensk Arpt</DestinationName>
+    <DestinationStr>Blagoveshchensk Arpt(BQS)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BRW</code>
+    <DestinationName>Barrow WBAS</DestinationName>
+    <DestinationStr>Barrow WBAS(BRW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BSP</code>
+    <DestinationName>Bensbach</DestinationName>
+    <DestinationStr>Bensbach(BSP)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EYK</code>
+    <DestinationName>Beloyarsky Arpt</DestinationName>
+    <DestinationStr>Beloyarsky Arpt(EYK)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZCC</code>
+    <DestinationName>Baden Baden</DestinationName>
+    <DestinationStr>Baden Baden(ZCC)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BAT</code>
+    <DestinationName>Barretos</DestinationName>
+    <DestinationStr>Barretos(BAT)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BIH</code>
+    <DestinationName>Bishop</DestinationName>
+    <DestinationStr>Bishop(BIH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BUN</code>
+    <DestinationName>Buenaventura</DestinationName>
+    <DestinationStr>Buenaventura(BUN)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BFJ</code>
+    <DestinationName>Bijie</DestinationName>
+    <DestinationStr>Bijie(BFJ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BLE</code>
+    <DestinationName>Dala Airport</DestinationName>
+    <DestinationStr>Dala Airport(BLE)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BLR</code>
+    <DestinationName>Bengaluru</DestinationName>
+    <DestinationStr>Bengaluru(BLR)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BQU</code>
+    <DestinationName>Port Elizabeth</DestinationName>
+    <DestinationStr>Port Elizabeth(BQU)-Saint Vincent And The Grenadines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BRG</code>
+    <DestinationName>Whitesburg</DestinationName>
+    <DestinationStr>Whitesburg(BRG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BSB</code>
+    <DestinationName>Brasilia Intl Arpt</DestinationName>
+    <DestinationStr>Brasilia Intl Arpt(BSB)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BYU</code>
+    <DestinationName>Bindlacher Berg Arpt</DestinationName>
+    <DestinationStr>Bindlacher Berg Arpt(BYU)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BDU</code>
+    <DestinationName>Bardufoss Arpt</DestinationName>
+    <DestinationStr>Bardufoss Arpt(BDU)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>BAL</code>
+    <DestinationName>Batman</DestinationName>
+    <DestinationStr>Batman(BAL)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BJX</code>
+    <DestinationName>Del Bajio International</DestinationName>
+    <DestinationStr>Del Bajio International(BJX)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BKU</code>
+    <DestinationName>Betioky</DestinationName>
+    <DestinationStr>Betioky(BKU)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BOS</code>
+    <DestinationName>Logan Intl Arpt</DestinationName>
+    <DestinationStr>Logan Intl Arpt(BOS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BUY</code>
+    <DestinationName>Bunbury Arpt</DestinationName>
+    <DestinationStr>Bunbury Arpt(BUY)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BCL</code>
+    <DestinationName>Barra Del Colorado</DestinationName>
+    <DestinationStr>Barra Del Colorado(BCL)-Costa Rica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BEQ</code>
+    <DestinationName>Bury St Edmunds</DestinationName>
+    <DestinationStr>Bury St Edmunds(BEQ)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BUP</code>
+    <DestinationName>Bhatinda</DestinationName>
+    <DestinationStr>Bhatinda(BUP)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CPX</code>
+    <DestinationName>Benjamin Rivera Noriega Arpt</DestinationName>
+    <DestinationStr>Benjamin Rivera Noriega Arpt(CPX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZCD</code>
+    <DestinationName>Bamberg</DestinationName>
+    <DestinationStr>Bamberg(ZCD)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BAQ</code>
+    <DestinationName>Barranquilla</DestinationName>
+    <DestinationStr>Barranquilla(BAQ)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BUP</code>
+    <DestinationName>Bhatinda Air Force Station</DestinationName>
+    <DestinationStr>Bhatinda Air Force Station(BUP)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BZV</code>
+    <DestinationName>Maya Maya Arpt</DestinationName>
+    <DestinationStr>Maya Maya Arpt(BZV)-Congo</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BZZ</code>
+    <DestinationName>Brize Norton Raf Station</DestinationName>
+    <DestinationStr>Brize Norton Raf Station(BZZ)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JVL</code>
+    <DestinationName>Beloit</DestinationName>
+    <DestinationStr>Beloit(JVL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OPU</code>
+    <DestinationName>Balimo</DestinationName>
+    <DestinationStr>Balimo(OPU)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QBS</code>
+    <DestinationName>Brescia</DestinationName>
+    <DestinationStr>Brescia(QBS)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BBN</code>
+    <DestinationName>Bario</DestinationName>
+    <DestinationStr>Bario(BBN)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BSH</code>
+    <DestinationName>Brighton Airport</DestinationName>
+    <DestinationStr>Brighton Airport(BSH)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YBG</code>
+    <DestinationName>Bagotville</DestinationName>
+    <DestinationStr>Bagotville(YBG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BAZ</code>
+    <DestinationName>BARBELOS  AIRPORT</DestinationName>
+    <DestinationStr>BARBELOS  AIRPORT(BAZ)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BHW</code>
+    <DestinationName>Bhagatanwala Arpt</DestinationName>
+    <DestinationStr>Bhagatanwala Arpt(BHW)-Pakistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BIL</code>
+    <DestinationName>Logan Field</DestinationName>
+    <DestinationStr>Logan Field(BIL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YKZ</code>
+    <DestinationName>Buttonville Municipal Airport</DestinationName>
+    <DestinationStr>Buttonville Municipal Airport(YKZ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BON</code>
+    <DestinationName>Flamingo Field</DestinationName>
+    <DestinationStr>Flamingo Field(BON)-Bonaire</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BUF</code>
+    <DestinationName>Greater Buffalo Intl Arpt</DestinationName>
+    <DestinationStr>Greater Buffalo Intl Arpt(BUF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SJJ</code>
+    <DestinationName>Butmir Arpt</DestinationName>
+    <DestinationStr>Butmir Arpt(SJJ)-Bosnia Herzegovina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YBW</code>
+    <DestinationName>Bedwell Harbor</DestinationName>
+    <DestinationStr>Bedwell Harbor(YBW)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BKB</code>
+    <DestinationName>Bikaner</DestinationName>
+    <DestinationStr>Bikaner(BKB)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BWU</code>
+    <DestinationName>Bankstown Aerodrome</DestinationName>
+    <DestinationStr>Bankstown Aerodrome(BWU)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BJC</code>
+    <DestinationName>Broomfield</DestinationName>
+    <DestinationStr>Broomfield(BJC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BUA</code>
+    <DestinationName>Buka Island</DestinationName>
+    <DestinationStr>Buka Island(BUA)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BZO</code>
+    <DestinationName>Bolzano</DestinationName>
+    <DestinationStr>Bolzano(BZO)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QBW</code>
+    <DestinationName>Batesman Bay</DestinationName>
+    <DestinationStr>Batesman Bay(QBW)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BEN</code>
+    <DestinationName>Benina Intl Arpt</DestinationName>
+    <DestinationStr>Benina Intl Arpt(BEN)-Libyan Arab Jamahiriya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GIC</code>
+    <DestinationName>Boigu Island Arpt</DestinationName>
+    <DestinationStr>Boigu Island Arpt(GIC)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NBS</code>
+    <DestinationName>Baishan</DestinationName>
+    <DestinationStr>Baishan(NBS)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NDA</code>
+    <DestinationName>Bandanaira</DestinationName>
+    <DestinationStr>Bandanaira(NDA)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BEQ</code>
+    <DestinationName>Honington Arpt</DestinationName>
+    <DestinationStr>Honington Arpt(BEQ)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BFT</code>
+    <DestinationName>Beaufort County Arpt</DestinationName>
+    <DestinationStr>Beaufort County Arpt(BFT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BPY</code>
+    <DestinationName>Besalampy</DestinationName>
+    <DestinationStr>Besalampy(BPY)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OZI</code>
+    <DestinationName>Bobadilla</DestinationName>
+    <DestinationStr>Bobadilla(OZI)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PAB</code>
+    <DestinationName>Bilaspur Airport</DestinationName>
+    <DestinationStr>Bilaspur Airport(PAB)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XBF</code>
+    <DestinationName>Bellegarde</DestinationName>
+    <DestinationStr>Bellegarde(XBF)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BNE</code>
+    <DestinationName>Brisbane Arpt</DestinationName>
+    <DestinationStr>Brisbane Arpt(BNE)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BOC</code>
+    <DestinationName>Bocas Del Toro</DestinationName>
+    <DestinationStr>Bocas Del Toro(BOC)-Panama</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BFB</code>
+    <DestinationName>Blue Fox Bay Arpt</DestinationName>
+    <DestinationStr>Blue Fox Bay Arpt(BFB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BCN</code>
+    <DestinationName>Barcelona Arpt</DestinationName>
+    <DestinationStr>Barcelona Arpt(BCN)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BHM</code>
+    <DestinationName>Birmingham International Arpt</DestinationName>
+    <DestinationStr>Birmingham International Arpt(BHM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BRN</code>
+    <DestinationName>Berne</DestinationName>
+    <DestinationStr>Berne(BRN)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SDM</code>
+    <DestinationName>Brown Field Municipal</DestinationName>
+    <DestinationStr>Brown Field Municipal(SDM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AUF</code>
+    <DestinationName>Branches airport</DestinationName>
+    <DestinationStr>Branches airport(AUF)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BBQ</code>
+    <DestinationName>Barbuda</DestinationName>
+    <DestinationStr>Barbuda(BBQ)-St. Kitts - Nevis</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BDR</code>
+    <DestinationName>Bridgeport</DestinationName>
+    <DestinationStr>Bridgeport(BDR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BHO</code>
+    <DestinationName>Bhopal</DestinationName>
+    <DestinationStr>Bhopal(BHO)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BJT</code>
+    <DestinationName>Bentota</DestinationName>
+    <DestinationStr>Bentota(BJT)-Sri Lanka</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BUL</code>
+    <DestinationName>Bulolo Airport</DestinationName>
+    <DestinationStr>Bulolo Airport(BUL)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BHO</code>
+    <DestinationName>Raja Bhoj Arpt</DestinationName>
+    <DestinationStr>Raja Bhoj Arpt(BHO)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XBY</code>
+    <DestinationName>Bayonne</DestinationName>
+    <DestinationStr>Bayonne(XBY)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BNS</code>
+    <DestinationName>Barinasairport</DestinationName>
+    <DestinationStr>Barinasairport(BNS)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BTS</code>
+    <DestinationName>Ivanka Arpt</DestinationName>
+    <DestinationStr>Ivanka Arpt(BTS)-Slovakia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BFR</code>
+    <DestinationName>Bedford</DestinationName>
+    <DestinationStr>Bedford(BFR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HYA</code>
+    <DestinationName>Barnstable Cty Arpt</DestinationName>
+    <DestinationStr>Barnstable Cty Arpt(HYA)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>BDQ</code>
+    <DestinationName>Vadodara</DestinationName>
+    <DestinationStr>Vadodara(BDQ)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NTI</code>
+    <DestinationName>Bintuni</DestinationName>
+    <DestinationStr>Bintuni(NTI)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TGP</code>
+    <DestinationName>BOR RU</DestinationName>
+    <DestinationStr>BOR RU(TGP)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EYK</code>
+    <DestinationName>Beloyarsky</DestinationName>
+    <DestinationStr>Beloyarsky(EYK)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PVH</code>
+    <DestinationName>Belmonte Arpt</DestinationName>
+    <DestinationStr>Belmonte Arpt(PVH)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BAB</code>
+    <DestinationName>Beale AFB</DestinationName>
+    <DestinationStr>Beale AFB(BAB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BXS</code>
+    <DestinationName>Borrego Springs</DestinationName>
+    <DestinationStr>Borrego Springs(BXS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BYM</code>
+    <DestinationName>Carlos M De Cespedes Arpt</DestinationName>
+    <DestinationStr>Carlos M De Cespedes Arpt(BYM)-Cuba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BAT</code>
+    <DestinationName>Barretos Arpt</DestinationName>
+    <DestinationStr>Barretos Arpt(BAT)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BYA</code>
+    <DestinationName>Boundary</DestinationName>
+    <DestinationStr>Boundary(BYA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BCM</code>
+    <DestinationName>Bacau</DestinationName>
+    <DestinationStr>Bacau(BCM)-Romania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BEM</code>
+    <DestinationName>Beni Mellal Arpy</DestinationName>
+    <DestinationStr>Beni Mellal Arpy(BEM)-Morocco</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BSD</code>
+    <DestinationName>Baoshan Arpt</DestinationName>
+    <DestinationStr>Baoshan Arpt(BSD)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NWU</code>
+    <DestinationName>Bermuda Naval Air Station</DestinationName>
+    <DestinationStr>Bermuda Naval Air Station(NWU)-Bermuda</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZYW</code>
+    <DestinationName>Baerum</DestinationName>
+    <DestinationStr>Baerum(ZYW)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AOO</code>
+    <DestinationName>Blair Cty Arpt</DestinationName>
+    <DestinationStr>Blair Cty Arpt(AOO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BAX</code>
+    <DestinationName>Barnaul Arpt</DestinationName>
+    <DestinationStr>Barnaul Arpt(BAX)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BKW</code>
+    <DestinationName>Beckley</DestinationName>
+    <DestinationStr>Beckley(BKW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BNU</code>
+    <DestinationName>Blumenau</DestinationName>
+    <DestinationStr>Blumenau(BNU)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ANG</code>
+    <DestinationName>Brie Champniers</DestinationName>
+    <DestinationStr>Brie Champniers(ANG)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BNH</code>
+    <DestinationName>Barnes Airport</DestinationName>
+    <DestinationStr>Barnes Airport(BNH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BNS</code>
+    <DestinationName>Barinas</DestinationName>
+    <DestinationStr>Barinas(BNS)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BYS</code>
+    <DestinationName>Fort Irwin Arpt</DestinationName>
+    <DestinationStr>Fort Irwin Arpt(BYS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BZN</code>
+    <DestinationName>Bozeman</DestinationName>
+    <DestinationStr>Bozeman(BZN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FWA</code>
+    <DestinationName>Baer Field</DestinationName>
+    <DestinationStr>Baer Field(FWA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SKL</code>
+    <DestinationName>Broadford Arpt</DestinationName>
+    <DestinationStr>Broadford Arpt(SKL)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FCS</code>
+    <DestinationName>Butts AAF</DestinationName>
+    <DestinationStr>Butts AAF(FCS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BCV</code>
+    <DestinationName>Hector Silva Airport</DestinationName>
+    <DestinationStr>Hector Silva Airport(BCV)-Belize</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BIM</code>
+    <DestinationName>South Bimini Airport</DestinationName>
+    <DestinationStr>South Bimini Airport(BIM)-Bahamas</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BTK</code>
+    <DestinationName>Bratsk</DestinationName>
+    <DestinationStr>Bratsk(BTK)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FRU</code>
+    <DestinationName>Bishkek Arpt</DestinationName>
+    <DestinationStr>Bishkek Arpt(FRU)-Kyrgyzstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>USU</code>
+    <DestinationName>Busuanga Fransisco B Reyes Arpt</DestinationName>
+    <DestinationStr>Busuanga Fransisco B Reyes Arpt(USU)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BBF</code>
+    <DestinationName>Burlington</DestinationName>
+    <DestinationStr>Burlington(BBF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BBP</code>
+    <DestinationName>Bembridge</DestinationName>
+    <DestinationStr>Bembridge(BBP)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BNE</code>
+    <DestinationName>Brisbane</DestinationName>
+    <DestinationStr>Brisbane(BNE)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BNN</code>
+    <DestinationName>Bronnoy Arpt</DestinationName>
+    <DestinationStr>Bronnoy Arpt(BNN)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BUZ</code>
+    <DestinationName>Bushehr</DestinationName>
+    <DestinationStr>Bushehr(BUZ)-Iran</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IXE</code>
+    <DestinationName>Bajpe Arpt</DestinationName>
+    <DestinationStr>Bajpe Arpt(IXE)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BXE</code>
+    <DestinationName>Bakel</DestinationName>
+    <DestinationStr>Bakel(BXE)-Senegal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TNG</code>
+    <DestinationName>Boukhalef Arpt</DestinationName>
+    <DestinationStr>Boukhalef Arpt(TNG)-Morocco</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XBH</code>
+    <DestinationName>Bethune</DestinationName>
+    <DestinationStr>Bethune(XBH)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BBK</code>
+    <DestinationName>Kasane</DestinationName>
+    <DestinationStr>Kasane(BBK)-Botswana</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BGT</code>
+    <DestinationName>Bagdad Arpt</DestinationName>
+    <DestinationStr>Bagdad Arpt(BGT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BIU</code>
+    <DestinationName>Bildudalur</DestinationName>
+    <DestinationStr>Bildudalur(BIU)-Iceland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BIY</code>
+    <DestinationName>Bisho</DestinationName>
+    <DestinationStr>Bisho(BIY)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BLJ</code>
+    <DestinationName>Batna Arpt</DestinationName>
+    <DestinationStr>Batna Arpt(BLJ)-Algeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BLL</code>
+    <DestinationName>Billund Airport</DestinationName>
+    <DestinationStr>Billund Airport(BLL)-Denmark</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>TPS</code>
+    <DestinationName>Birgi Arpt</DestinationName>
+    <DestinationStr>Birgi Arpt(TPS)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WWK</code>
+    <DestinationName>Boram Arpt</DestinationName>
+    <DestinationStr>Boram Arpt(WWK)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZGJ</code>
+    <DestinationName>Brugge</DestinationName>
+    <DestinationStr>Brugge(ZGJ)-Belgium</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BEH</code>
+    <DestinationName>Benton Harbor</DestinationName>
+    <DestinationStr>Benton Harbor(BEH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BVX</code>
+    <DestinationName>Batesville</DestinationName>
+    <DestinationStr>Batesville(BVX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BZE</code>
+    <DestinationName>Belize City</DestinationName>
+    <DestinationStr>Belize City(BZE)-Belize</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>BBW</code>
+    <DestinationName>Broken Bow Municipal</DestinationName>
+    <DestinationStr>Broken Bow Municipal(BBW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BMU</code>
+    <DestinationName>Bima Airport</DestinationName>
+    <DestinationStr>Bima Airport(BMU)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZCH</code>
+    <DestinationName>Bergkamen</DestinationName>
+    <DestinationStr>Bergkamen(ZCH)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BAU</code>
+    <DestinationName>Bauru Old Code</DestinationName>
+    <DestinationStr>Bauru Old Code(BAU)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BFX</code>
+    <DestinationName>Bafoussam</DestinationName>
+    <DestinationStr>Bafoussam(BFX)-Cameroon, United Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BUF</code>
+    <DestinationName>Buffalo</DestinationName>
+    <DestinationStr>Buffalo(BUF)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>BCM</code>
+    <DestinationName>Bacau Arpt</DestinationName>
+    <DestinationStr>Bacau Arpt(BCM)-Romania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BDS</code>
+    <DestinationName>Brindisi</DestinationName>
+    <DestinationStr>Brindisi(BDS)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BRE</code>
+    <DestinationName>Bremen Airport</DestinationName>
+    <DestinationStr>Bremen Airport(BRE)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UIN</code>
+    <DestinationName>Baldwin Field</DestinationName>
+    <DestinationStr>Baldwin Field(UIN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XGZ</code>
+    <DestinationName>Bregenz</DestinationName>
+    <DestinationStr>Bregenz(XGZ)-Austria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BAY</code>
+    <DestinationName>Baia Mare</DestinationName>
+    <DestinationStr>Baia Mare(BAY)-Romania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BFT</code>
+    <DestinationName>Beaufort</DestinationName>
+    <DestinationStr>Beaufort(BFT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MAD</code>
+    <DestinationName>Barajas Arpt</DestinationName>
+    <DestinationStr>Barajas Arpt(MAD)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YBW</code>
+    <DestinationName>Bedwell Harbour</DestinationName>
+    <DestinationStr>Bedwell Harbour(YBW)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BVA</code>
+    <DestinationName>Beauvais Tille</DestinationName>
+    <DestinationStr>Beauvais Tille(BVA)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BVG</code>
+    <DestinationName>Berlevag</DestinationName>
+    <DestinationStr>Berlevag(BVG)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BET</code>
+    <DestinationName>Bethel</DestinationName>
+    <DestinationStr>Bethel(BET)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BRC</code>
+    <DestinationName>San Carlos De Bariloche Intl Arpt</DestinationName>
+    <DestinationStr>San Carlos De Bariloche Intl Arpt(BRC)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BTU</code>
+    <DestinationName>Bintulu Arpt</DestinationName>
+    <DestinationStr>Bintulu Arpt(BTU)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PAH</code>
+    <DestinationName>Barkley Regional</DestinationName>
+    <DestinationStr>Barkley Regional(PAH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BAX</code>
+    <DestinationName>Barnaul</DestinationName>
+    <DestinationStr>Barnaul(BAX)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BGF</code>
+    <DestinationName>Central African Republic</DestinationName>
+    <DestinationStr>Central African Republic(BGF)-Central African Republic</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BIG</code>
+    <DestinationName>Big Delta</DestinationName>
+    <DestinationStr>Big Delta(BIG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BKO</code>
+    <DestinationName>Senou Airport</DestinationName>
+    <DestinationStr>Senou Airport(BKO)-Mali</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RIC</code>
+    <DestinationName>Byrd Field</DestinationName>
+    <DestinationStr>Byrd Field(RIC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZBL</code>
+    <DestinationName>Biloela Arpt</DestinationName>
+    <DestinationStr>Biloela Arpt(ZBL)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BDO</code>
+    <DestinationName>Husein Sastranegara Arpt</DestinationName>
+    <DestinationStr>Husein Sastranegara Arpt(BDO)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BHU</code>
+    <DestinationName>Bhavnagar</DestinationName>
+    <DestinationStr>Bhavnagar(BHU)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BKX</code>
+    <DestinationName>Brookings</DestinationName>
+    <DestinationStr>Brookings(BKX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BTH</code>
+    <DestinationName>Batam</DestinationName>
+    <DestinationStr>Batam(BTH)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BEH</code>
+    <DestinationName>Ross Field</DestinationName>
+    <DestinationStr>Ross Field(BEH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BFS</code>
+    <DestinationName>Belfast</DestinationName>
+    <DestinationStr>Belfast(BFS)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BHU</code>
+    <DestinationName>Bhavnagar Arpt</DestinationName>
+    <DestinationStr>Bhavnagar Arpt(BHU)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BKS</code>
+    <DestinationName>Bengkulu</DestinationName>
+    <DestinationStr>Bengkulu(BKS)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BJL</code>
+    <DestinationName>Yundum Intl Arpt</DestinationName>
+    <DestinationStr>Yundum Intl Arpt(BJL)-Gambia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BAZ</code>
+    <DestinationName>Barbelos</DestinationName>
+    <DestinationStr>Barbelos(BAZ)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BNU</code>
+    <DestinationName>Blumenau Arpt</DestinationName>
+    <DestinationStr>Blumenau Arpt(BNU)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RNN</code>
+    <DestinationName>Bornholm</DestinationName>
+    <DestinationStr>Bornholm(RNN)-Denmark</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AGS</code>
+    <DestinationName>Bush Field</DestinationName>
+    <DestinationStr>Bush Field(AGS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BAG</code>
+    <DestinationName>Baguio</DestinationName>
+    <DestinationStr>Baguio(BAG)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BIX</code>
+    <DestinationName>Biloxi</DestinationName>
+    <DestinationStr>Biloxi(BIX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BKZ</code>
+    <DestinationName>Bukoba</DestinationName>
+    <DestinationStr>Bukoba(BKZ)-Tanzania</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>BZK</code>
+    <DestinationName>Bryansk Airport</DestinationName>
+    <DestinationStr>Bryansk Airport(BZK)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZBF</code>
+    <DestinationName>Bathurst</DestinationName>
+    <DestinationStr>Bathurst(ZBF)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BME</code>
+    <DestinationName>Broome Airport</DestinationName>
+    <DestinationStr>Broome Airport(BME)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BZI</code>
+    <DestinationName>Balikesir Arpt</DestinationName>
+    <DestinationStr>Balikesir Arpt(BZI)-Turkey</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>BLF</code>
+    <DestinationName>Bluefield</DestinationName>
+    <DestinationStr>Bluefield(BLF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BLI</code>
+    <DestinationName>Bellingham Intl Arpt</DestinationName>
+    <DestinationStr>Bellingham Intl Arpt(BLI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BXS</code>
+    <DestinationName>Borrego Valley Arpt</DestinationName>
+    <DestinationStr>Borrego Valley Arpt(BXS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LKL</code>
+    <DestinationName>Banak Airport</DestinationName>
+    <DestinationStr>Banak Airport(LKL)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>BAH</code>
+    <DestinationName>Al Muharraq</DestinationName>
+    <DestinationStr>Al Muharraq(BAH)-Bahrain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BAH</code>
+    <DestinationName>Bahrain Intl Arpt</DestinationName>
+    <DestinationStr>Bahrain Intl Arpt(BAH)-Bahrain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BLZ</code>
+    <DestinationName>Chileka Airport</DestinationName>
+    <DestinationStr>Chileka Airport(BLZ)-Malawi</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BZH</code>
+    <DestinationName>Bumi Hills Arpt</DestinationName>
+    <DestinationStr>Bumi Hills Arpt(BZH)-Zimbabwe</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PUS</code>
+    <DestinationName>Busan</DestinationName>
+    <DestinationStr>Busan(PUS)-Korea, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TZA</code>
+    <DestinationName>Belize City Municipal</DestinationName>
+    <DestinationStr>Belize City Municipal(TZA)-Belize</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BZM</code>
+    <DestinationName>Bemolanga</DestinationName>
+    <DestinationStr>Bemolanga(BZM)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XBT</code>
+    <DestinationName>Boulogne Billancourt</DestinationName>
+    <DestinationStr>Boulogne Billancourt(XBT)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BMT</code>
+    <DestinationName>Beaumont Municipal Arpt</DestinationName>
+    <DestinationStr>Beaumont Municipal Arpt(BMT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BNX</code>
+    <DestinationName>Banja Luka Arpt</DestinationName>
+    <DestinationStr>Banja Luka Arpt(BNX)-Bosnia Herzegovina</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZCK</code>
+    <DestinationName>Bruel</DestinationName>
+    <DestinationStr>Bruel(ZCK)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>BGX</code>
+    <DestinationName>Bage</DestinationName>
+    <DestinationStr>Bage(BGX)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BIA</code>
+    <DestinationName>Bastia</DestinationName>
+    <DestinationStr>Bastia(BIA)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BRQ</code>
+    <DestinationName>Turnay Arpt</DestinationName>
+    <DestinationStr>Turnay Arpt(BRQ)-Czech Republic</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BTJ</code>
+    <DestinationName>Banda Aceh</DestinationName>
+    <DestinationStr>Banda Aceh(BTJ)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SPF</code>
+    <DestinationName>Black Hills Clyde Ice Field</DestinationName>
+    <DestinationStr>Black Hills Clyde Ice Field(SPF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BAQ</code>
+    <DestinationName>Ernesto Cortissoz Intl</DestinationName>
+    <DestinationStr>Ernesto Cortissoz Intl(BAQ)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BFB</code>
+    <DestinationName>Blue Fox Bay</DestinationName>
+    <DestinationStr>Blue Fox Bay(BFB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BRU</code>
+    <DestinationName>Bruxelles</DestinationName>
+    <DestinationStr>Bruxelles(BRU)-Belgium</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BXK</code>
+    <DestinationName>Buckeye</DestinationName>
+    <DestinationStr>Buckeye(BXK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZDO</code>
+    <DestinationName>Buch Sg</DestinationName>
+    <DestinationStr>Buch Sg(ZDO)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BOB</code>
+    <DestinationName>Vaitape</DestinationName>
+    <DestinationStr>Vaitape(BOB)-French Polynesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BUS</code>
+    <DestinationName>Batumi Arpt</DestinationName>
+    <DestinationStr>Batumi Arpt(BUS)-Georgia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ABM</code>
+    <DestinationName>Bamaga</DestinationName>
+    <DestinationStr>Bamaga(ABM)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BXG</code>
+    <DestinationName>Bendigo</DestinationName>
+    <DestinationStr>Bendigo(BXG)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BZG</code>
+    <DestinationName>Bydgoszcz</DestinationName>
+    <DestinationStr>Bydgoszcz(BZG)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NBP</code>
+    <DestinationName>Battery Pk City N Cov</DestinationName>
+    <DestinationStr>Battery Pk City N Cov(NBP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RLK</code>
+    <DestinationName>Bayannur Airport</DestinationName>
+    <DestinationStr>Bayannur Airport(RLK)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XBC</code>
+    <DestinationName>Briancon</DestinationName>
+    <DestinationStr>Briancon(XBC)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BFP</code>
+    <DestinationName>Beaver Falls Arpt</DestinationName>
+    <DestinationStr>Beaver Falls Arpt(BFP)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>BHC</code>
+    <DestinationName>BHURBAN</DestinationName>
+    <DestinationStr>BHURBAN(BHC)-Pakistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BNO</code>
+    <DestinationName>Burns</DestinationName>
+    <DestinationStr>Burns(BNO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BKS</code>
+    <DestinationName>Padangkemiling Arpt</DestinationName>
+    <DestinationStr>Padangkemiling Arpt(BKS)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BRK</code>
+    <DestinationName>Bourke</DestinationName>
+    <DestinationStr>Bourke(BRK)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BVC</code>
+    <DestinationName>Rabil Arpt</DestinationName>
+    <DestinationStr>Rabil Arpt(BVC)-Cape Verde, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BWC</code>
+    <DestinationName>Brawley Arpt</DestinationName>
+    <DestinationStr>Brawley Arpt(BWC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QLD</code>
+    <DestinationName>Blida</DestinationName>
+    <DestinationStr>Blida(QLD)-Algeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BJA</code>
+    <DestinationName>Bejaia Arpt</DestinationName>
+    <DestinationStr>Bejaia Arpt(BJA)-Algeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IXR</code>
+    <DestinationName>Birsa Munda Arpt</DestinationName>
+    <DestinationStr>Birsa Munda Arpt(IXR)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BGQ</code>
+    <DestinationName>Big Lake Arpt</DestinationName>
+    <DestinationStr>Big Lake Arpt(BGQ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BSS</code>
+    <DestinationName>Balsas</DestinationName>
+    <DestinationStr>Balsas(BSS)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BXN</code>
+    <DestinationName>Imsik Arpt</DestinationName>
+    <DestinationStr>Imsik Arpt(BXN)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BZD</code>
+    <DestinationName>Balranald</DestinationName>
+    <DestinationStr>Balranald(BZD)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YBJ</code>
+    <DestinationName>Baie Johan Beetz</DestinationName>
+    <DestinationStr>Baie Johan Beetz(YBJ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BUO</code>
+    <DestinationName>Burao</DestinationName>
+    <DestinationStr>Burao(BUO)-Somalia</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>YEI</code>
+    <DestinationName>Bursa</DestinationName>
+    <DestinationStr>Bursa(YEI)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BGV</code>
+    <DestinationName>Bento Goncalves</DestinationName>
+    <DestinationStr>Bento Goncalves(BGV)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BSL</code>
+    <DestinationName>Basel EuroAirport Swiss</DestinationName>
+    <DestinationStr>Basel EuroAirport Swiss(BSL)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HCA</code>
+    <DestinationName>BIG SPRING</DestinationName>
+    <DestinationStr>BIG SPRING(HCA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KBC</code>
+    <DestinationName>Birch Creek</DestinationName>
+    <DestinationStr>Birch Creek(KBC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OGZ</code>
+    <DestinationName>Beslan Airport</DestinationName>
+    <DestinationStr>Beslan Airport(OGZ)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>USU</code>
+    <DestinationName>Busuanga</DestinationName>
+    <DestinationStr>Busuanga(USU)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BNB</code>
+    <DestinationName>Boende</DestinationName>
+    <DestinationStr>Boende(BNB)-Congo Democratic Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BWT</code>
+    <DestinationName>Burnie Wynyard Arpt</DestinationName>
+    <DestinationStr>Burnie Wynyard Arpt(BWT)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HLB</code>
+    <DestinationName>Batesville</DestinationName>
+    <DestinationStr>Batesville(HLB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BTP</code>
+    <DestinationName>Graham Field Arpt</DestinationName>
+    <DestinationStr>Graham Field Arpt(BTP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BTU</code>
+    <DestinationName>Bintulu</DestinationName>
+    <DestinationStr>Bintulu(BTU)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OUA</code>
+    <DestinationName>Burkina Faso</DestinationName>
+    <DestinationStr>Burkina Faso(OUA)-Burkina Faso</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>BVO</code>
+    <DestinationName>Bartlesville Municipal Arpt</DestinationName>
+    <DestinationStr>Bartlesville Municipal Arpt(BVO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EGC</code>
+    <DestinationName>Bergerac</DestinationName>
+    <DestinationStr>Bergerac(EGC)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BKW</code>
+    <DestinationName>Raleigh Cty Memorial</DestinationName>
+    <DestinationStr>Raleigh Cty Memorial(BKW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BMC</code>
+    <DestinationName>Brigham City</DestinationName>
+    <DestinationStr>Brigham City(BMC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EBU</code>
+    <DestinationName>Boutheon Arpt</DestinationName>
+    <DestinationStr>Boutheon Arpt(EBU)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RLK</code>
+    <DestinationName>Bayannur</DestinationName>
+    <DestinationStr>Bayannur(RLK)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BEY</code>
+    <DestinationName>Lebanon</DestinationName>
+    <DestinationStr>Lebanon(BEY)-Lebanon</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BHM</code>
+    <DestinationName>Birmingham</DestinationName>
+    <DestinationStr>Birmingham(BHM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BMW</code>
+    <DestinationName>Bordj Badji Mokhtar</DestinationName>
+    <DestinationStr>Bordj Badji Mokhtar(BMW)-Algeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BSO</code>
+    <DestinationName>Basco Airport</DestinationName>
+    <DestinationStr>Basco Airport(BSO)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BYJ</code>
+    <DestinationName>Beja International Airport</DestinationName>
+    <DestinationStr>Beja International Airport(BYJ)-Portugal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ODO</code>
+    <DestinationName>Bodaybo Arpt</DestinationName>
+    <DestinationStr>Bodaybo Arpt(ODO)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UBI</code>
+    <DestinationName>Buin</DestinationName>
+    <DestinationStr>Buin(UBI)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VMU</code>
+    <DestinationName>Balimuru</DestinationName>
+    <DestinationStr>Balimuru(VMU)-Papua New Guinea</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>BEJ</code>
+    <DestinationName>Berau</DestinationName>
+    <DestinationStr>Berau(BEJ)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BLD</code>
+    <DestinationName>Boulder City Municipal Arpt</DestinationName>
+    <DestinationStr>Boulder City Municipal Arpt(BLD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BOD</code>
+    <DestinationName>Bordeaux Arpt</DestinationName>
+    <DestinationStr>Bordeaux Arpt(BOD)-France</DestinationStr>
+  </Destination>   
+  <Destination>
+    <code>BGI</code>
+    <DestinationName>Bridgetown</DestinationName>
+    <DestinationStr>Bridgetown(BGI)-Barbados</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BLE</code>
+    <DestinationName>Borlange</DestinationName>
+    <DestinationStr>Borlange(BLE)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BRF</code>
+    <DestinationName>Bradford</DestinationName>
+    <DestinationStr>Bradford(BRF)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BZV</code>
+    <DestinationName>Brazzaville</DestinationName>
+    <DestinationStr>Brazzaville(BZV)-Congo</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZBM</code>
+    <DestinationName>Bromont Regional Arpt</DestinationName>
+    <DestinationStr>Bromont Regional Arpt(ZBM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZZM</code>
+    <DestinationName>Bordj Menaiel</DestinationName>
+    <DestinationStr>Bordj Menaiel(ZZM)-Algeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BDI</code>
+    <DestinationName>BIRD ISLAND</DestinationName>
+    <DestinationStr>BIRD ISLAND(BDI)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BMO</code>
+    <DestinationName>Bhamo</DestinationName>
+    <DestinationStr>Bhamo(BMO)-Myanmar</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BNY</code>
+    <DestinationName>Bellona</DestinationName>
+    <DestinationStr>Bellona(BNY)-Solomon Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BVR</code>
+    <DestinationName>Esperadinha</DestinationName>
+    <DestinationStr>Esperadinha(BVR)-Cape Verde, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PBL</code>
+    <DestinationName>Bartolome Salom Intl</DestinationName>
+    <DestinationStr>Bartolome Salom Intl(PBL)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SYI</code>
+    <DestinationName>Bomar Field</DestinationName>
+    <DestinationStr>Bomar Field(SYI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BHS</code>
+    <DestinationName>Raglan Airport</DestinationName>
+    <DestinationStr>Raglan Airport(BHS)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BOI</code>
+    <DestinationName>Boise</DestinationName>
+    <DestinationStr>Boise(BOI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BOT</code>
+    <DestinationName>BOSSET AIRPORT</DestinationName>
+    <DestinationStr>BOSSET AIRPORT(BOT)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BIY</code>
+    <DestinationName>Bisho Arpt</DestinationName>
+    <DestinationStr>Bisho Arpt(BIY)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BMH</code>
+    <DestinationName>Bomai</DestinationName>
+    <DestinationStr>Bomai(BMH)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BRU</code>
+    <DestinationName>Brussels National Arpt</DestinationName>
+    <DestinationStr>Brussels National Arpt(BRU)-Belgium</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BVE</code>
+    <DestinationName>Brive La Gaill</DestinationName>
+    <DestinationStr>Brive La Gaill(BVE)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AZI</code>
+    <DestinationName>Bateen Airport</DestinationName>
+    <DestinationStr>Bateen Airport(AZI)-United Arab Emirates</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BLK</code>
+    <DestinationName>Blackpool</DestinationName>
+    <DestinationStr>Blackpool(BLK)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BQN</code>
+    <DestinationName>Rafael Hernandez Arpt</DestinationName>
+    <DestinationStr>Rafael Hernandez Arpt(BQN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BRR</code>
+    <DestinationName>North Bay Arpt</DestinationName>
+    <DestinationStr>North Bay Arpt(BRR)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BHQ</code>
+    <DestinationName>Broken Hill Arpt</DestinationName>
+    <DestinationStr>Broken Hill Arpt(BHQ)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LJU</code>
+    <DestinationName>Brnik Airport</DestinationName>
+    <DestinationStr>Brnik Airport(LJU)-Slovenia</DestinationStr>
+  </Destination>
+</DestinationRoot>

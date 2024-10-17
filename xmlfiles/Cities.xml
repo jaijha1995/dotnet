@@ -1,0 +1,72 @@
+﻿<CityList>
+  <Cities companyID="UK" langCode="GB">
+	  <City code="ABZ" name="Aberdeen - Dyce" priority="0" />
+	  <City code="ACI" name="Alderney - The Blaye" priority="0" />
+	  <City code="BRR" name="Barra - North Bay" priority="0" />
+	  <City code="BFS" name="Belfast - Belfast Int'l" priority="0" />
+	  <City code="BFS" name="Belfast (All Airports)" priority="0" />
+	  <City code="BHD" name="Belfast - Belfast City" priority="0" />
+	  <City code="BEB" name="Benbecula - Benbecula" priority="0" />
+	  <City code="BHX" name="Birmingham - Birmingham Int'l" priority="0" />
+	  <City code="BBS" name="Blackbush - Blackbush" priority="0" />
+	  <City code="BLK" name="Blackpool - Blackpool" priority="0" />
+	  <City code="BOH" name="Bournemouth - Bournemouth Int'l" priority="0" />
+	  <City code="BRS" name="Bristol - Bristol" priority="0" />
+	  <City code="CBG" name="Cambridge - Cambridge" priority="0" />
+	  <City code="CAL" name="Campbeltown - Machrihanish" priority="0" />
+	  <City code="CWL" name="Cardiff - Cardiff-Wales" priority="0" />
+	  <City code="CAX" name="Carlisle - Carlisle" priority="0" />
+	  <City code="DND" name="Dundee - Dundee" priority="0" />
+	  <City code="EOI" name="Eday - Eday" priority="0" />
+	  <City code="EDI" name="Edinburgh - Edinburgh" priority="0" />
+	  <City code="EXT" name="Exeter - Exeter" priority="0" />
+	  <City code="FIE" name="Fair Isle - Fair Isle" priority="0" />
+	  <City code="GLA" name="Glasgow - Glasgow int'l" priority="0" />
+	  <City code="PIK" name="Glasgow - Prestwick" priority="0" />
+	  <City code="GLA" name="Glasgow (All Airports)" priority="0" />
+	  <City code="GCI" name="Guernsey - Guernsey" priority="0" />
+	  <City code="HUY" name="Humberside - Humberside" priority="0" />
+	  <City code="INV" name="Inverness - Inverness" priority="0" />
+	  <City code="ILY" name="Islay - Glenegedale" priority="0" />
+	  <City code="IOM" name="Isle Of Man - Ronaldsway" priority="0" />
+	  <City code="ISC" name="Isles Of Scilly - Is Scilly" priority="0" />
+	  <City code="TSO" name="Isles Of Scilly - Tresco" priority="0" />
+	  <City code="ISC" name="Isles Of Scilly (All Airports)" priority="0" />
+	  <City code="JER" name="Jersey - Jersey States" priority="0" />
+    <City code="JFK" name="New York-USA" priority="0" />
+	  <City code="KOI" name="Kirkwall - Kirkwall" priority="0" />
+	  <City code="LBA" name="Leeds - Leeds/Bradford" priority="0" />
+	  <City code="LPL" name="Liverpool - Liverpool Int'l" priority="0" />
+	  <City code="LDY" name="Londonderry - Eglinton" priority="0" />
+	  <City code="LGW" name="London - Gatwick" priority="0" />
+	  <City code="LHR" name="London - Heathrow" priority="0" />
+	  <City code="LCY" name="London - London City Apt" priority="0" />
+	  <City code="LTN" name="London - Luton Airport" priority="0" />
+	  <City code="STN" name="London - Stansted" priority="0" />
+	  <City code="LON" name="London (All Airports)" priority="0" />
+	  <City code="LYX" name="Lydd - Lydd" priority="0" />
+	  <City code="MAN" name="Manchester - Manchester Int'l" priority="0" />
+	  <City code="MSE" name="Manston - Kent Int'l" priority="0" />
+	  <City code="NCL" name="Newcastle - Newcastle Int'l" priority="0" />
+	  <City code="NQY" name="Newquay - Newquay" priority="0" />
+	  <City code="NRL" name="North Ronaldsay - North Ronaldsay" priority="0" />
+	  <City code="NWI" name="Norwich - Norwich" priority="0" />
+	  <City code="EMA" name="Nottingham - East Midlands" priority="0" />
+	  <City code="PPW" name="Papa Westray - Papa Westray" priority="0" />
+	  <City code="PZE" name="Penzance - Penzance" priority="0" />
+	  <City code="PLH" name="Plymouth - Plymouth" priority="0" />
+	  <City code="NDY" name="Sanday - Sanday" priority="0" />
+	  <City code="LWK" name="Shetland Islands - Lerwick/Tingwall" priority="0" />
+	  <City code="LSI" name="Shetland Islands - Sumburgh" priority="0" />
+	  <City code="SDZ" name="Shetland Islands (All Airports)" priority="0" />
+	  <City code="ESH" name="Shoreham By Sea - Shoreham" priority="0" />
+	  <City code="SOU" name="Southampton - Eastleigh" priority="0" />
+	  <City code="SEN" name="Southend - Southend Municipal" priority="0" />
+	  <City code="SYY" name="Stornoway - Stornoway" priority="0" />
+	  <City code="SOY" name="Stronsay - Stronsay" priority="0" />
+	  <City code="MME" name="Teesside - Teesside int'l" priority="0" />
+	  <City code="TRE" name="Tiree - Tiree" priority="0" />
+	  <City code="WRY" name="Westray - Westray" priority="0" />
+	  <City code="WIC" name="Wick - Wick" priority="0" />
+  </Cities>
+</CityList>

@@ -1,0 +1,1322 @@
+﻿<DestinationRoot>
+  <Destination>
+    <code>NORESULT</code>
+    <DestinationName>NORESULT</DestinationName>
+    <DestinationStr>No Result Found</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AFF</code>
+    <DestinationName>USAF Academy</DestinationName>
+    <DestinationStr>USAF Academy(AFF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BAO</code>
+    <DestinationName>Udorn Arpt</DestinationName>
+    <DestinationStr>Udorn Arpt(BAO)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CCB</code>
+    <DestinationName>UPLAND</DestinationName>
+    <DestinationStr>UPLAND(CCB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CMI</code>
+    <DestinationName>Univ Of Illinois Willard Arpt</DestinationName>
+    <DestinationStr>Univ Of Illinois Willard Arpt(CMI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EBB</code>
+    <DestinationName>Uganda</DestinationName>
+    <DestinationStr>Uganda(EBB)-Uganda</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HLH</code>
+    <DestinationName>Ulanhot Airport</DestinationName>
+    <DestinationStr>Ulanhot Airport(HLH)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HLH</code>
+    <DestinationName>Ulanhot</DestinationName>
+    <DestinationStr>Ulanhot(HLH)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IPN</code>
+    <DestinationName>Usiminas Arpt</DestinationName>
+    <DestinationStr>Usiminas Arpt(IPN)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JLX</code>
+    <DestinationName>Union Station Heliport</DestinationName>
+    <DestinationStr>Union Station Heliport(JLX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JUV</code>
+    <DestinationName>Upernavik</DestinationName>
+    <DestinationStr>Upernavik(JUV)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NDV</code>
+    <DestinationName>USN Heliport</DestinationName>
+    <DestinationStr>USN Heliport(NDV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NRV</code>
+    <DestinationName>USCG Shore Street Guam</DestinationName>
+    <DestinationStr>USCG Shore Street Guam(NRV)-Guam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OMH</code>
+    <DestinationName>Urmieh</DestinationName>
+    <DestinationStr>Urmieh(OMH)-Iran</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PUF</code>
+    <DestinationName>Uzein Airport</DestinationName>
+    <DestinationStr>Uzein Airport(PUF)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QUL</code>
+    <DestinationName>Ulm</DestinationName>
+    <DestinationStr>Ulm(QUL)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QUT</code>
+    <DestinationName>Utsunomiya</DestinationName>
+    <DestinationStr>Utsunomiya(QUT)-Japan</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QYX</code>
+    <DestinationName>Uppsala</DestinationName>
+    <DestinationStr>Uppsala(QYX)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SCE</code>
+    <DestinationName>University Park Arpt</DestinationName>
+    <DestinationStr>University Park Arpt(SCE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UAC</code>
+    <DestinationName>San Luis Rio Colorado Municipal</DestinationName>
+    <DestinationStr>San Luis Rio Colorado Municipal(UAC)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UAC</code>
+    <DestinationName>San Luis Rio Colorado</DestinationName>
+    <DestinationStr>San Luis Rio Colorado(UAC)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UAH</code>
+    <DestinationName>Ua Huka</DestinationName>
+    <DestinationStr>Ua Huka(UAH)-French Polynesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UAI</code>
+    <DestinationName>Suai</DestinationName>
+    <DestinationStr>Suai(UAI)-Timor Leste</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UAK</code>
+    <DestinationName>Narsarsuaq Arpt</DestinationName>
+    <DestinationStr>Narsarsuaq Arpt(UAK)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UAK</code>
+    <DestinationName>Narsarsuaq</DestinationName>
+    <DestinationStr>Narsarsuaq(UAK)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UAM</code>
+    <DestinationName>Anderson Air Force Base</DestinationName>
+    <DestinationStr>Anderson Air Force Base(UAM)-Guam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UAP</code>
+    <DestinationName>Ua Pou Airport</DestinationName>
+    <DestinationStr>Ua Pou Airport(UAP)-French Polynesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UAP</code>
+    <DestinationName>Ua Pou</DestinationName>
+    <DestinationStr>Ua Pou(UAP)-French Polynesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UAQ</code>
+    <DestinationName>San Juan Arpt</DestinationName>
+    <DestinationStr>San Juan Arpt(UAQ)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UAQ</code>
+    <DestinationName>San Juan</DestinationName>
+    <DestinationStr>San Juan(UAQ)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UAS</code>
+    <DestinationName>Samburu Airstrip</DestinationName>
+    <DestinationStr>Samburu Airstrip(UAS)-Kenya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UAS</code>
+    <DestinationName>Samburu</DestinationName>
+    <DestinationStr>Samburu(UAS)-Kenya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UBA</code>
+    <DestinationName>Uberaba Airport</DestinationName>
+    <DestinationStr>Uberaba Airport(UBA)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UBA</code>
+    <DestinationName>Uberaba</DestinationName>
+    <DestinationStr>Uberaba(UBA)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UBB</code>
+    <DestinationName>Mabuiag Island</DestinationName>
+    <DestinationStr>Mabuiag Island(UBB)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UBI</code>
+    <DestinationName>Buin</DestinationName>
+    <DestinationStr>Buin(UBI)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UBJ</code>
+    <DestinationName>Ube Airport</DestinationName>
+    <DestinationStr>Ube Airport(UBJ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UBJ</code>
+    <DestinationName>Ube Jp</DestinationName>
+    <DestinationStr>Ube Jp(UBJ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UBP</code>
+    <DestinationName>Ubon Ratchathani Arpt</DestinationName>
+    <DestinationStr>Ubon Ratchathani Arpt(UBP)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UBP</code>
+    <DestinationName>Ubon Ratchathani</DestinationName>
+    <DestinationStr>Ubon Ratchathani(UBP)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UBS</code>
+    <DestinationName>Columbus</DestinationName>
+    <DestinationStr>Columbus(UBS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UBS</code>
+    <DestinationName>Lowndes Cty Arpt</DestinationName>
+    <DestinationStr>Lowndes Cty Arpt(UBS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UBT</code>
+    <DestinationName>Ubatuba</DestinationName>
+    <DestinationStr>Ubatuba(UBT)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UCA</code>
+    <DestinationName>Oneida County Arpt</DestinationName>
+    <DestinationStr>Oneida County Arpt(UCA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UCA</code>
+    <DestinationName>Utica</DestinationName>
+    <DestinationStr>Utica(UCA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UCK</code>
+    <DestinationName>Lutsk Arpt</DestinationName>
+    <DestinationStr>Lutsk Arpt(UCK)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UCK</code>
+    <DestinationName>Lutsk</DestinationName>
+    <DestinationStr>Lutsk(UCK)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UCT</code>
+    <DestinationName>Ukhta Airport</DestinationName>
+    <DestinationStr>Ukhta Airport(UCT)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UCT</code>
+    <DestinationName>Ukhta</DestinationName>
+    <DestinationStr>Ukhta(UCT)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UDD</code>
+    <DestinationName>Bermuda Dunes Arpt</DestinationName>
+    <DestinationStr>Bermuda Dunes Arpt(UDD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UDD</code>
+    <DestinationName>Palm Desert</DestinationName>
+    <DestinationStr>Palm Desert(UDD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UDE</code>
+    <DestinationName>Uden</DestinationName>
+    <DestinationStr>Uden(UDE)-Netherlands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UDE</code>
+    <DestinationName>Volkel Arpt</DestinationName>
+    <DestinationStr>Volkel Arpt(UDE)-Netherlands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UDI</code>
+    <DestinationName>Eduardo Gomes  Arpt</DestinationName>
+    <DestinationStr>Eduardo Gomes  Arpt(UDI)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UDI</code>
+    <DestinationName>Uberlandia</DestinationName>
+    <DestinationStr>Uberlandia(UDI)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UDJ</code>
+    <DestinationName>Uzhgorod Arpt</DestinationName>
+    <DestinationStr>Uzhgorod Arpt(UDJ)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UDJ</code>
+    <DestinationName>Uzhgorod</DestinationName>
+    <DestinationStr>Uzhgorod(UDJ)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UDN</code>
+    <DestinationName>Campoformido Arpt</DestinationName>
+    <DestinationStr>Campoformido Arpt(UDN)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UDN</code>
+    <DestinationName>Udine</DestinationName>
+    <DestinationStr>Udine(UDN)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UDR</code>
+    <DestinationName>Maharana Pratap Arpt</DestinationName>
+    <DestinationStr>Maharana Pratap Arpt(UDR)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UDR</code>
+    <DestinationName>Udaipur</DestinationName>
+    <DestinationStr>Udaipur(UDR)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UEE</code>
+    <DestinationName>Queenstown Arpt</DestinationName>
+    <DestinationStr>Queenstown Arpt(UEE)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UEE</code>
+    <DestinationName>Queenstown</DestinationName>
+    <DestinationStr>Queenstown(UEE)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UEL</code>
+    <DestinationName>Quelimane Arpt</DestinationName>
+    <DestinationStr>Quelimane Arpt(UEL)-Mozambique</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UEL</code>
+    <DestinationName>Quelimane</DestinationName>
+    <DestinationStr>Quelimane(UEL)-Mozambique</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UEO</code>
+    <DestinationName>Kume Jima</DestinationName>
+    <DestinationStr>Kume Jima(UEO)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UEO</code>
+    <DestinationName>Kumejima Arpt</DestinationName>
+    <DestinationStr>Kumejima Arpt(UEO)-Japan</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>UER</code>
+    <DestinationName>Puertollano</DestinationName>
+    <DestinationStr>Puertollano(UER)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UES</code>
+    <DestinationName>Waukesha</DestinationName>
+    <DestinationStr>Waukesha(UES)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UET</code>
+    <DestinationName>Quetta</DestinationName>
+    <DestinationStr>Quetta(UET)-Pakistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UFA</code>
+    <DestinationName>Ufa Arpt</DestinationName>
+    <DestinationStr>Ufa Arpt(UFA)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UFA</code>
+    <DestinationName>Ufa RU</DestinationName>
+    <DestinationStr>Ufa RU(UFA)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UGB</code>
+    <DestinationName>Ugashik Bay</DestinationName>
+    <DestinationStr>Ugashik Bay(UGB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UGC</code>
+    <DestinationName>Urgench Arpt</DestinationName>
+    <DestinationStr>Urgench Arpt(UGC)-Uzbekistan Sum</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UGC</code>
+    <DestinationName>Urgench</DestinationName>
+    <DestinationStr>Urgench(UGC)-Uzbekistan Sum</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UGI</code>
+    <DestinationName>Uganik</DestinationName>
+    <DestinationStr>Uganik(UGI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UGN</code>
+    <DestinationName>Memorial Arpt</DestinationName>
+    <DestinationStr>Memorial Arpt(UGN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UGN</code>
+    <DestinationName>Waukegan</DestinationName>
+    <DestinationStr>Waukegan(UGN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UGO</code>
+    <DestinationName>Uige</DestinationName>
+    <DestinationStr>Uige(UGO)-Angola</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>UHE</code>
+    <DestinationName>Uherske Hradiste Kunovice Arpt</DestinationName>
+    <DestinationStr>Uherske Hradiste Kunovice Arpt(UHE)-Czech Republic</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UHE</code>
+    <DestinationName>Uherske Hradiste</DestinationName>
+    <DestinationStr>Uherske Hradiste(UHE)-Czech Republic</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UIB</code>
+    <DestinationName>El Carano Arpt</DestinationName>
+    <DestinationStr>El Carano Arpt(UIB)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UIB</code>
+    <DestinationName>Quibdo</DestinationName>
+    <DestinationStr>Quibdo(UIB)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UIH</code>
+    <DestinationName>Qui Nhon Arpt</DestinationName>
+    <DestinationStr>Qui Nhon Arpt(UIH)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UIH</code>
+    <DestinationName>Qui Nhon</DestinationName>
+    <DestinationStr>Qui Nhon(UIH)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UII</code>
+    <DestinationName>Utila Arpt</DestinationName>
+    <DestinationStr>Utila Arpt(UII)-Honduras</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UII</code>
+    <DestinationName>Utila</DestinationName>
+    <DestinationStr>Utila(UII)-Honduras</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UIN</code>
+    <DestinationName>Baldwin Field</DestinationName>
+    <DestinationStr>Baldwin Field(UIN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UIN</code>
+    <DestinationName>Quincy</DestinationName>
+    <DestinationStr>Quincy(UIN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UIO</code>
+    <DestinationName>Mariscal Sucre Intl</DestinationName>
+    <DestinationStr>Mariscal Sucre Intl(UIO)-Ecuador</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UIO</code>
+    <DestinationName>Quito</DestinationName>
+    <DestinationStr>Quito(UIO)-Ecuador</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UIP</code>
+    <DestinationName>Pluguffan Arpt</DestinationName>
+    <DestinationStr>Pluguffan Arpt(UIP)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UIP</code>
+    <DestinationName>Quimper</DestinationName>
+    <DestinationStr>Quimper(UIP)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UIR</code>
+    <DestinationName>Quirindi Arpt</DestinationName>
+    <DestinationStr>Quirindi Arpt(UIR)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UIR</code>
+    <DestinationName>Quirindi</DestinationName>
+    <DestinationStr>Quirindi(UIR)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UIZ</code>
+    <DestinationName>Berz Macomb Arpt</DestinationName>
+    <DestinationStr>Berz Macomb Arpt(UIZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UKA</code>
+    <DestinationName>Diani Airport</DestinationName>
+    <DestinationStr>Diani Airport(UKA)-Kenya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UKA</code>
+    <DestinationName>Ukunda</DestinationName>
+    <DestinationStr>Ukunda(UKA)-Kenya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UKB</code>
+    <DestinationName>Kobe Arpt</DestinationName>
+    <DestinationStr>Kobe Arpt(UKB)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UKB</code>
+    <DestinationName>Kobe</DestinationName>
+    <DestinationStr>Kobe(UKB)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UKI</code>
+    <DestinationName>Ukiah Arpt</DestinationName>
+    <DestinationStr>Ukiah Arpt(UKI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UKI</code>
+    <DestinationName>Ukiah</DestinationName>
+    <DestinationStr>Ukiah(UKI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UKK</code>
+    <DestinationName>Ust Kamenogorsk Arpt</DestinationName>
+    <DestinationStr>Ust Kamenogorsk Arpt(UKK)-Kazakstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UKK</code>
+    <DestinationName>Ust Kamenogorsk</DestinationName>
+    <DestinationStr>Ust Kamenogorsk(UKK)-Kazakstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UKR</code>
+    <DestinationName>Mukeiras</DestinationName>
+    <DestinationStr>Mukeiras(UKR)-Angola</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UKS</code>
+    <DestinationName>Belbek Arpt</DestinationName>
+    <DestinationStr>Belbek Arpt(UKS)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UKS</code>
+    <DestinationName>Sevastopol</DestinationName>
+    <DestinationStr>Sevastopol(UKS)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UKT</code>
+    <DestinationName>Quakertown</DestinationName>
+    <DestinationStr>Quakertown(UKT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UKT</code>
+    <DestinationName>Upper Bucks Arpt</DestinationName>
+    <DestinationStr>Upper Bucks Arpt(UKT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UKU</code>
+    <DestinationName>Nuku</DestinationName>
+    <DestinationStr>Nuku(UKU)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UKX</code>
+    <DestinationName>Ust Kut Airport</DestinationName>
+    <DestinationStr>Ust Kut Airport(UKX)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UKX</code>
+    <DestinationName>Ust Kut</DestinationName>
+    <DestinationStr>Ust Kut(UKX)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UKY</code>
+    <DestinationName>Kyoto Arpt</DestinationName>
+    <DestinationStr>Kyoto Arpt(UKY)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UKY</code>
+    <DestinationName>Kyoto</DestinationName>
+    <DestinationStr>Kyoto(UKY)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ULA</code>
+    <DestinationName>San Julian</DestinationName>
+    <DestinationStr>San Julian(ULA)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ULC</code>
+    <DestinationName>Los Cerrillos</DestinationName>
+    <DestinationStr>Los Cerrillos(ULC)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ULD</code>
+    <DestinationName>Ulundi</DestinationName>
+    <DestinationStr>Ulundi(ULD)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ULE</code>
+    <DestinationName>Sule</DestinationName>
+    <DestinationStr>Sule(ULE)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ULH</code>
+    <DestinationName>Al Ula</DestinationName>
+    <DestinationStr>Al Ula(ULH)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ULH</code>
+    <DestinationName>Majeed Bin Abdulaziz Airport</DestinationName>
+    <DestinationStr>Majeed Bin Abdulaziz Airport(ULH)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ULK</code>
+    <DestinationName>Lensk Airport</DestinationName>
+    <DestinationStr>Lensk Airport(ULK)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ULK</code>
+    <DestinationName>Lensk</DestinationName>
+    <DestinationStr>Lensk(ULK)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ULM</code>
+    <DestinationName>New Ulm Arpt</DestinationName>
+    <DestinationStr>New Ulm Arpt(ULM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ULM</code>
+    <DestinationName>New Ulm</DestinationName>
+    <DestinationStr>New Ulm(ULM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ULN</code>
+    <DestinationName>Buyant Uhaa Airport</DestinationName>
+    <DestinationStr>Buyant Uhaa Airport(ULN)-Mongolia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ULN</code>
+    <DestinationName>Chinggis Khaan Intl Arpt</DestinationName>
+    <DestinationStr>Chinggis Khaan Intl Arpt(ULN)-Mongolia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ULN</code>
+    <DestinationName>Mongolia</DestinationName>
+    <DestinationStr>Mongolia(ULN)-Mongolia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ULN</code>
+    <DestinationName>Ulaanbaatar</DestinationName>
+    <DestinationStr>Ulaanbaatar(ULN)-Mongolia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ULP</code>
+    <DestinationName>Quilpie Arpt</DestinationName>
+    <DestinationStr>Quilpie Arpt(ULP)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ULP</code>
+    <DestinationName>Quilpie</DestinationName>
+    <DestinationStr>Quilpie(ULP)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ULV</code>
+    <DestinationName>Ulyanovsk Tsentralny Arpt</DestinationName>
+    <DestinationStr>Ulyanovsk Tsentralny Arpt(ULV)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ULY</code>
+    <DestinationName>Ulyanovsk Arpt</DestinationName>
+    <DestinationStr>Ulyanovsk Arpt(ULY)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ULY</code>
+    <DestinationName>Ulyanovsk</DestinationName>
+    <DestinationStr>Ulyanovsk(ULY)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UMB</code>
+    <DestinationName>Umnak Arpt</DestinationName>
+    <DestinationStr>Umnak Arpt(UMB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UMB</code>
+    <DestinationName>Umnak Island</DestinationName>
+    <DestinationStr>Umnak Island(UMB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UMD</code>
+    <DestinationName>Uummannaq</DestinationName>
+    <DestinationStr>Uummannaq(UMD)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UME</code>
+    <DestinationName>Umea Airport</DestinationName>
+    <DestinationStr>Umea Airport(UME)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UME</code>
+    <DestinationName>Umea</DestinationName>
+    <DestinationStr>Umea(UME)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UMM</code>
+    <DestinationName>Summit Arpt</DestinationName>
+    <DestinationStr>Summit Arpt(UMM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UMM</code>
+    <DestinationName>Summit</DestinationName>
+    <DestinationStr>Summit(UMM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UMR</code>
+    <DestinationName>Woomera</DestinationName>
+    <DestinationStr>Woomera(UMR)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UMT</code>
+    <DestinationName>Umiat Arpt</DestinationName>
+    <DestinationStr>Umiat Arpt(UMT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UMT</code>
+    <DestinationName>Umiat</DestinationName>
+    <DestinationStr>Umiat(UMT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UMU</code>
+    <DestinationName>Ernesto Geisel Arpt</DestinationName>
+    <DestinationStr>Ernesto Geisel Arpt(UMU)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UMU</code>
+    <DestinationName>Umuarama</DestinationName>
+    <DestinationStr>Umuarama(UMU)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UMY</code>
+    <DestinationName>Sumy Arpt</DestinationName>
+    <DestinationStr>Sumy Arpt(UMY)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UMY</code>
+    <DestinationName>Sumy</DestinationName>
+    <DestinationStr>Sumy(UMY)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UNA</code>
+    <DestinationName>Una Airport</DestinationName>
+    <DestinationStr>Una Airport(UNA)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UNA</code>
+    <DestinationName>Una BR</DestinationName>
+    <DestinationStr>Una BR(UNA)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UNE</code>
+    <DestinationName>Qachas Nek</DestinationName>
+    <DestinationStr>Qachas Nek(UNE)-Lesotho</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UNG</code>
+    <DestinationName>Kiunga Airport</DestinationName>
+    <DestinationStr>Kiunga Airport(UNG)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UNG</code>
+    <DestinationName>Kiunga</DestinationName>
+    <DestinationStr>Kiunga(UNG)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UNI</code>
+    <DestinationName>Union Island Arpt</DestinationName>
+    <DestinationStr>Union Island Arpt(UNI)-Saint Vincent And The Grenadines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UNI</code>
+    <DestinationName>Union Island</DestinationName>
+    <DestinationStr>Union Island(UNI)-Saint Vincent And The Grenadines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UNK</code>
+    <DestinationName>Unalakleet Arpt</DestinationName>
+    <DestinationStr>Unalakleet Arpt(UNK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UNK</code>
+    <DestinationName>Unalakleet</DestinationName>
+    <DestinationStr>Unalakleet(UNK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UNN</code>
+    <DestinationName>Ranong Arpt</DestinationName>
+    <DestinationStr>Ranong Arpt(UNN)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UNN</code>
+    <DestinationName>Ranong</DestinationName>
+    <DestinationStr>Ranong(UNN)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UNS</code>
+    <DestinationName>Umnak Island Arpt</DestinationName>
+    <DestinationStr>Umnak Island Arpt(UNS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UNT</code>
+    <DestinationName>Baltasound Arpt</DestinationName>
+    <DestinationStr>Baltasound Arpt(UNT)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UNT</code>
+    <DestinationName>Unst</DestinationName>
+    <DestinationStr>Unst(UNT)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UOA</code>
+    <DestinationName>Moruroa Atoll</DestinationName>
+    <DestinationStr>Moruroa Atoll(UOA)-French Polynesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UOX</code>
+    <DestinationName>University Oxford</DestinationName>
+    <DestinationStr>University Oxford(UOX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UPF</code>
+    <DestinationName>Pforzheim</DestinationName>
+    <DestinationStr>Pforzheim(UPF)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UPG</code>
+    <DestinationName>Hasanudin Arpt</DestinationName>
+    <DestinationStr>Hasanudin Arpt(UPG)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UPG</code>
+    <DestinationName>Ujung Pandang</DestinationName>
+    <DestinationStr>Ujung Pandang(UPG)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UPN</code>
+    <DestinationName>Ignacio Lopez Rayon Arpt</DestinationName>
+    <DestinationStr>Ignacio Lopez Rayon Arpt(UPN)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UPN</code>
+    <DestinationName>Uruapan</DestinationName>
+    <DestinationStr>Uruapan(UPN)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>URA</code>
+    <DestinationName>Uralsk Arpt</DestinationName>
+    <DestinationStr>Uralsk Arpt(URA)-Kazakstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>URA</code>
+    <DestinationName>Uralsk</DestinationName>
+    <DestinationStr>Uralsk(URA)-Kazakstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>URC</code>
+    <DestinationName>Diwopu Intl Arpt</DestinationName>
+    <DestinationStr>Diwopu Intl Arpt(URC)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>URC</code>
+    <DestinationName>Urumqi Diwopu Intl Arpt</DestinationName>
+    <DestinationStr>Urumqi Diwopu Intl Arpt(URC)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>URC</code>
+    <DestinationName>Urumqi</DestinationName>
+    <DestinationStr>Urumqi(URC)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>URE</code>
+    <DestinationName>Kuressaare Arpt</DestinationName>
+    <DestinationStr>Kuressaare Arpt(URE)-Estonia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>URE</code>
+    <DestinationName>Kuressaare</DestinationName>
+    <DestinationStr>Kuressaare(URE)-Estonia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>URG</code>
+    <DestinationName>Ruben Berta Arpt</DestinationName>
+    <DestinationStr>Ruben Berta Arpt(URG)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>URG</code>
+    <DestinationName>Uruguaina</DestinationName>
+    <DestinationStr>Uruguaina(URG)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>URJ</code>
+    <DestinationName>Uray Airport</DestinationName>
+    <DestinationStr>Uray Airport(URJ)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>URJ</code>
+    <DestinationName>Uray</DestinationName>
+    <DestinationStr>Uray(URJ)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>URO</code>
+    <DestinationName>Boos Airport</DestinationName>
+    <DestinationStr>Boos Airport(URO)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>URO</code>
+    <DestinationName>Rouen</DestinationName>
+    <DestinationStr>Rouen(URO)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>URR</code>
+    <DestinationName>Urrao Arpt</DestinationName>
+    <DestinationStr>Urrao Arpt(URR)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>URR</code>
+    <DestinationName>Urrao</DestinationName>
+    <DestinationStr>Urrao(URR)-Ivory Coast</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>URS</code>
+    <DestinationName>Kursk Arpt</DestinationName>
+    <DestinationStr>Kursk Arpt(URS)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>URS</code>
+    <DestinationName>Kursk</DestinationName>
+    <DestinationStr>Kursk(URS)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>URT</code>
+    <DestinationName>Surat Thani Arpt</DestinationName>
+    <DestinationStr>Surat Thani Arpt(URT)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>URT</code>
+    <DestinationName>Surat Thani</DestinationName>
+    <DestinationStr>Surat Thani(URT)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>URY</code>
+    <DestinationName>Gurayat Arpt</DestinationName>
+    <DestinationStr>Gurayat Arpt(URY)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>URY</code>
+    <DestinationName>Gurayat</DestinationName>
+    <DestinationStr>Gurayat(URY)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>USA</code>
+    <DestinationName>Concord</DestinationName>
+    <DestinationStr>Concord(USA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>USH</code>
+    <DestinationName>Islas Malvinas Arpt</DestinationName>
+    <DestinationStr>Islas Malvinas Arpt(USH)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>USH</code>
+    <DestinationName>Ushuaia</DestinationName>
+    <DestinationStr>Ushuaia(USH)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>USK</code>
+    <DestinationName>Usinsk Arpt</DestinationName>
+    <DestinationStr>Usinsk Arpt(USK)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>USK</code>
+    <DestinationName>Usinsk</DestinationName>
+    <DestinationStr>Usinsk(USK)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>USL</code>
+    <DestinationName>Useless Loop Arpt</DestinationName>
+    <DestinationStr>Useless Loop Arpt(USL)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>USL</code>
+    <DestinationName>Useless Loop</DestinationName>
+    <DestinationStr>Useless Loop(USL)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>USM</code>
+    <DestinationName>Ko Samui Arpt</DestinationName>
+    <DestinationStr>Ko Samui Arpt(USM)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>USM</code>
+    <DestinationName>Koh Samui</DestinationName>
+    <DestinationStr>Koh Samui(USM)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>USN</code>
+    <DestinationName>Ulsan Arpt</DestinationName>
+    <DestinationStr>Ulsan Arpt(USN)-Korea, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>USN</code>
+    <DestinationName>Ulsan</DestinationName>
+    <DestinationStr>Ulsan(USN)-Korea, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>USQ</code>
+    <DestinationName>Usak</DestinationName>
+    <DestinationStr>Usak(USQ)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>USR</code>
+    <DestinationName>Ust Nera Airport</DestinationName>
+    <DestinationStr>Ust Nera Airport(USR)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>USR</code>
+    <DestinationName>Ust Nera</DestinationName>
+    <DestinationStr>Ust Nera(USR)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>USS</code>
+    <DestinationName>Sancti Spiritus Arpt</DestinationName>
+    <DestinationStr>Sancti Spiritus Arpt(USS)-Cuba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>USS</code>
+    <DestinationName>Sancti Spiritus</DestinationName>
+    <DestinationStr>Sancti Spiritus(USS)-Cuba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UST</code>
+    <DestinationName>Saint Augustine</DestinationName>
+    <DestinationStr>Saint Augustine(UST)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UST</code>
+    <DestinationName>St Augustine Arpt</DestinationName>
+    <DestinationStr>St Augustine Arpt(UST)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UST</code>
+    <DestinationName>St Augustine</DestinationName>
+    <DestinationStr>St Augustine(UST)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>USU</code>
+    <DestinationName>Busuanga Fransisco B Reyes Arpt</DestinationName>
+    <DestinationStr>Busuanga Fransisco B Reyes Arpt(USU)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>USU</code>
+    <DestinationName>Busuanga</DestinationName>
+    <DestinationStr>Busuanga(USU)-Philippines</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>USX</code>
+    <DestinationName>St Austell</DestinationName>
+    <DestinationStr>St Austell(USX)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UTA</code>
+    <DestinationName>Mutare Arpt</DestinationName>
+    <DestinationStr>Mutare Arpt(UTA)-Zimbabwe</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UTA</code>
+    <DestinationName>Mutare</DestinationName>
+    <DestinationStr>Mutare(UTA)-Zimbabwe</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UTB</code>
+    <DestinationName>Muttaburra</DestinationName>
+    <DestinationStr>Muttaburra(UTB)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UTC</code>
+    <DestinationName>Soesterberg Arpt</DestinationName>
+    <DestinationStr>Soesterberg Arpt(UTC)-Netherlands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UTC</code>
+    <DestinationName>Utrecht</DestinationName>
+    <DestinationStr>Utrecht(UTC)-Netherlands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UTH</code>
+    <DestinationName>Udon Thani international</DestinationName>
+    <DestinationStr>Udon Thani international(UTH)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UTH</code>
+    <DestinationName>Udon Thani</DestinationName>
+    <DestinationStr>Udon Thani(UTH)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UTI</code>
+    <DestinationName>Kouvola</DestinationName>
+    <DestinationStr>Kouvola(UTI)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UTI</code>
+    <DestinationName>Utti Arpt</DestinationName>
+    <DestinationStr>Utti Arpt(UTI)-Finland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>UTL</code>
+    <DestinationName>Torremolinos</DestinationName>
+    <DestinationStr>Torremolinos(UTL)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UTM</code>
+    <DestinationName>Tunica Municipal Arpt</DestinationName>
+    <DestinationStr>Tunica Municipal Arpt(UTM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UTM</code>
+    <DestinationName>Tunica</DestinationName>
+    <DestinationStr>Tunica(UTM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UTN</code>
+    <DestinationName>Upington Airport</DestinationName>
+    <DestinationStr>Upington Airport(UTN)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UTN</code>
+    <DestinationName>Upington</DestinationName>
+    <DestinationStr>Upington(UTN)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UTO</code>
+    <DestinationName>Utopia</DestinationName>
+    <DestinationStr>Utopia(UTO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UTP</code>
+    <DestinationName>Rayong Pattaya International</DestinationName>
+    <DestinationStr>Rayong Pattaya International(UTP)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UTP</code>
+    <DestinationName>U Tapao Arpt</DestinationName>
+    <DestinationStr>U Tapao Arpt(UTP)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UTP</code>
+    <DestinationName>U Tapao</DestinationName>
+    <DestinationStr>U Tapao(UTP)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UTS</code>
+    <DestinationName>Ust Tsilma</DestinationName>
+    <DestinationStr>Ust Tsilma(UTS)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UTT</code>
+    <DestinationName>Umtata Arpt</DestinationName>
+    <DestinationStr>Umtata Arpt(UTT)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UTT</code>
+    <DestinationName>Umtata</DestinationName>
+    <DestinationStr>Umtata(UTT)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UTW</code>
+    <DestinationName>Queenstown Airport</DestinationName>
+    <DestinationStr>Queenstown Airport(UTW)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UTW</code>
+    <DestinationName>Queenstown</DestinationName>
+    <DestinationStr>Queenstown(UTW)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UUD</code>
+    <DestinationName>Ulan Ude Arpt</DestinationName>
+    <DestinationStr>Ulan Ude Arpt(UUD)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UUD</code>
+    <DestinationName>Ulan Ude</DestinationName>
+    <DestinationStr>Ulan Ude(UUD)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UUK</code>
+    <DestinationName>Kuparuk Arpt</DestinationName>
+    <DestinationStr>Kuparuk Arpt(UUK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UUK</code>
+    <DestinationName>Kuparuk</DestinationName>
+    <DestinationStr>Kuparuk(UUK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UUS</code>
+    <DestinationName>Yuzhno Sakhalinsk Arpt</DestinationName>
+    <DestinationStr>Yuzhno Sakhalinsk Arpt(UUS)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UUS</code>
+    <DestinationName>Yuzhno Sakhalinsk</DestinationName>
+    <DestinationStr>Yuzhno Sakhalinsk(UUS)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UUU</code>
+    <DestinationName>Manumu</DestinationName>
+    <DestinationStr>Manumu(UUU)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UVA</code>
+    <DestinationName>Garner Field</DestinationName>
+    <DestinationStr>Garner Field(UVA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UVA</code>
+    <DestinationName>Uvalde</DestinationName>
+    <DestinationStr>Uvalde(UVA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UVE</code>
+    <DestinationName>Ouvea</DestinationName>
+    <DestinationStr>Ouvea(UVE)-New Caledonia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UVF</code>
+    <DestinationName>Hewanorra Intl</DestinationName>
+    <DestinationStr>Hewanorra Intl(UVF)-Saint Lucia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UVF</code>
+    <DestinationName>Vieux Fort St Lucia</DestinationName>
+    <DestinationStr>Vieux Fort St Lucia(UVF)-Saint Lucia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UVL</code>
+    <DestinationName>Kharga Arpt</DestinationName>
+    <DestinationStr>Kharga Arpt(UVL)-Egypt</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UVL</code>
+    <DestinationName>Kharga</DestinationName>
+    <DestinationStr>Kharga(UVL)-Egypt</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UVO</code>
+    <DestinationName>Uvol</DestinationName>
+    <DestinationStr>Uvol(UVO)-Papua New Guinea</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>UWE</code>
+    <DestinationName>Wiesbaden</DestinationName>
+    <DestinationStr>Wiesbaden(UWE)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>UWP</code>
+    <DestinationName>Wuppertal</DestinationName>
+    <DestinationStr>Wuppertal(UWP)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UYL</code>
+    <DestinationName>Nyala</DestinationName>
+    <DestinationStr>Nyala(UYL)-Sudan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UYN</code>
+    <DestinationName>Yulin Airport</DestinationName>
+    <DestinationStr>Yulin Airport(UYN)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UYN</code>
+    <DestinationName>Yulin</DestinationName>
+    <DestinationStr>Yulin(UYN)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UZC</code>
+    <DestinationName>Ponikvearpt</DestinationName>
+    <DestinationStr>Ponikvearpt(UZC)-Serbia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UZC</code>
+    <DestinationName>UZICE</DestinationName>
+    <DestinationStr>UZICE(UZC)-Serbia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UZR</code>
+    <DestinationName>Urdzhar Arpt</DestinationName>
+    <DestinationStr>Urdzhar Arpt(UZR)-Kazakstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UZR</code>
+    <DestinationName>Urdzhar</DestinationName>
+    <DestinationStr>Urdzhar(UZR)-Kazakstan</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XUX</code>
+    <DestinationName>Ustaoset</DestinationName>
+    <DestinationStr>Ustaoset(XUX)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YBE</code>
+    <DestinationName>Uranium City</DestinationName>
+    <DestinationStr>Uranium City(YBE)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YUD</code>
+    <DestinationName>Umiujaq Arpt</DestinationName>
+    <DestinationStr>Umiujaq Arpt(YUD)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YUD</code>
+    <DestinationName>Umiujaq</DestinationName>
+    <DestinationStr>Umiujaq(YUD)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZKX</code>
+    <DestinationName>Uzwil</DestinationName>
+    <DestinationStr>Uzwil(ZKX)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZQI</code>
+    <DestinationName>Unna</DestinationName>
+    <DestinationStr>Unna(ZQI)-Germany</DestinationStr>
+  </Destination>  
+</DestinationRoot>

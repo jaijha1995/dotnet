@@ -1,0 +1,2212 @@
+﻿<DestinationRoot>
+  <Destination>
+    <code>NORESULT</code>
+    <DestinationName>NORESULT</DestinationName>
+    <DestinationStr>No Result Found</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AAC</code>
+    <DestinationName>El Arish</DestinationName>
+    <DestinationStr>El Arish(AAC)-Egypt</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ADB</code>
+    <DestinationName>Ephesus</DestinationName>
+    <DestinationStr>Ephesus(ADB)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ALF</code>
+    <DestinationName>Elvebakken Arpt</DestinationName>
+    <DestinationStr>Elvebakken Arpt(ALF)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ALY</code>
+    <DestinationName>El Nouzha Arpt</DestinationName>
+    <DestinationStr>El Nouzha Arpt(ALY)-Egypt</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ANK</code>
+    <DestinationName>Etimesgut Arpt</DestinationName>
+    <DestinationStr>Etimesgut Arpt(ANK)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AOE</code>
+    <DestinationName>Eskisehir City</DestinationName>
+    <DestinationStr>Eskisehir City(AOE)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ASM</code>
+    <DestinationName>Eritrea</DestinationName>
+    <DestinationStr>Eritrea(ASM)-Eritrea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ATH</code>
+    <DestinationName>Eleftherios Venizelos Intl Arpt</DestinationName>
+    <DestinationStr>Eleftherios Venizelos Intl Arpt(ATH)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AXM</code>
+    <DestinationName>El Eden International</DestinationName>
+    <DestinationStr>El Eden International(AXM)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AZS</code>
+    <DestinationName>El Catey International</DestinationName>
+    <DestinationStr>El Catey International(AZS)-Dominican Republic</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BAQ</code>
+    <DestinationName>Ernesto Cortissoz Intl</DestinationName>
+    <DestinationStr>Ernesto Cortissoz Intl(BAQ)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BCH</code>
+    <DestinationName>English Madeira Arpt</DestinationName>
+    <DestinationStr>English Madeira Arpt(BCH)-Timor Leste</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BGM</code>
+    <DestinationName>Edwin A Link Field</DestinationName>
+    <DestinationStr>Edwin A Link Field(BGM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BII</code>
+    <DestinationName>Enyu Airfield</DestinationName>
+    <DestinationStr>Enyu Airfield(BII)-Marshall Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BOG</code>
+    <DestinationName>El Dorado International</DestinationName>
+    <DestinationStr>El Dorado International(BOG)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BVR</code>
+    <DestinationName>Esperadinha</DestinationName>
+    <DestinationStr>Esperadinha(BVR)-Cape Verde, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAG</code>
+    <DestinationName>Elmas Airport</DestinationName>
+    <DestinationStr>Elmas Airport(CAG)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAI</code>
+    <DestinationName>El Qahira</DestinationName>
+    <DestinationStr>El Qahira(CAI)-Egypt</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CJC</code>
+    <DestinationName>El Loa Arpt</DestinationName>
+    <DestinationStr>El Loa Arpt(CJC)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CJN</code>
+    <DestinationName>El Cajon Arpt</DestinationName>
+    <DestinationStr>El Cajon Arpt(CJN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CJN</code>
+    <DestinationName>El Cajon</DestinationName>
+    <DestinationStr>El Cajon(CJN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CLL</code>
+    <DestinationName>Easterwood Field</DestinationName>
+    <DestinationStr>Easterwood Field(CLL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CPS</code>
+    <DestinationName>East St Louis</DestinationName>
+    <DestinationStr>East St Louis(CPS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DAR</code>
+    <DestinationName>Es Salaam Intl</DestinationName>
+    <DestinationStr>Es Salaam Intl(DAR)-Tanzania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DAV</code>
+    <DestinationName>Enrique Malek Intl</DestinationName>
+    <DestinationStr>Enrique Malek Intl(DAV)-Panama</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DUT</code>
+    <DestinationName>Emergency Field</DestinationName>
+    <DestinationStr>Emergency Field(DUT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EAA</code>
+    <DestinationName>Eagle Airport</DestinationName>
+    <DestinationStr>Eagle Airport(EAA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EAA</code>
+    <DestinationName>Eagle</DestinationName>
+    <DestinationStr>Eagle(EAA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EAB</code>
+    <DestinationName>Abbs Airport</DestinationName>
+    <DestinationStr>Abbs Airport(EAB)-Yemen, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EAB</code>
+    <DestinationName>Abbs</DestinationName>
+    <DestinationStr>Abbs(EAB)-Yemen, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EAE</code>
+    <DestinationName>Emae</DestinationName>
+    <DestinationStr>Emae(EAE)-Vanuatu</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EAM</code>
+    <DestinationName>Nejran Arpt</DestinationName>
+    <DestinationStr>Nejran Arpt(EAM)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EAM</code>
+    <DestinationName>Nejran</DestinationName>
+    <DestinationStr>Nejran(EAM)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EAN</code>
+    <DestinationName>Phifer Field Arpt</DestinationName>
+    <DestinationStr>Phifer Field Arpt(EAN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EAN</code>
+    <DestinationName>WHEATLAND</DestinationName>
+    <DestinationStr>WHEATLAND(EAN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EAP</code>
+    <DestinationName>Mulhouse Basel</DestinationName>
+    <DestinationStr>Mulhouse Basel(EAP)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EAR</code>
+    <DestinationName>Kearney Municipal Arrpt</DestinationName>
+    <DestinationStr>Kearney Municipal Arrpt(EAR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EAR</code>
+    <DestinationName>Kearney</DestinationName>
+    <DestinationStr>Kearney(EAR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EAS</code>
+    <DestinationName>San Sebastian Arpt</DestinationName>
+    <DestinationStr>San Sebastian Arpt(EAS)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EAS</code>
+    <DestinationName>San Sebastian</DestinationName>
+    <DestinationStr>San Sebastian(EAS)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EAT</code>
+    <DestinationName>Pangborn Memorial Fld</DestinationName>
+    <DestinationStr>Pangborn Memorial Fld(EAT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EAT</code>
+    <DestinationName>Wenatchee</DestinationName>
+    <DestinationStr>Wenatchee(EAT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EAU</code>
+    <DestinationName>Chippewa Valley Regional Arpt</DestinationName>
+    <DestinationStr>Chippewa Valley Regional Arpt(EAU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EAU</code>
+    <DestinationName>Eau Claire Municipal Arpt</DestinationName>
+    <DestinationStr>Eau Claire Municipal Arpt(EAU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EAU</code>
+    <DestinationName>Eau Claire</DestinationName>
+    <DestinationStr>Eau Claire(EAU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EBA</code>
+    <DestinationName>Elba Island</DestinationName>
+    <DestinationStr>Elba Island(EBA)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EBA</code>
+    <DestinationName>Marina Di Campo Arpt</DestinationName>
+    <DestinationStr>Marina Di Campo Arpt(EBA)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EBB</code>
+    <DestinationName>Entebbe Airport</DestinationName>
+    <DestinationStr>Entebbe Airport(EBB)-Uganda</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EBB</code>
+    <DestinationName>Entebbe</DestinationName>
+    <DestinationStr>Entebbe(EBB)-Uganda</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EBB</code>
+    <DestinationName>Uganda</DestinationName>
+    <DestinationStr>Uganda(EBB)-Uganda</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EBD</code>
+    <DestinationName>El Obeid</DestinationName>
+    <DestinationStr>El Obeid(EBD)-Sudan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EBG</code>
+    <DestinationName>El Bagre Arpt</DestinationName>
+    <DestinationStr>El Bagre Arpt(EBG)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EBG</code>
+    <DestinationName>El Bagre</DestinationName>
+    <DestinationStr>El Bagre(EBG)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EBJ</code>
+    <DestinationName>Esbjerg Arpt</DestinationName>
+    <DestinationStr>Esbjerg Arpt(EBJ)-Denmark</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EBJ</code>
+    <DestinationName>Esbjerg</DestinationName>
+    <DestinationStr>Esbjerg(EBJ)-Denmark</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EBL</code>
+    <DestinationName>Erbil Arpt</DestinationName>
+    <DestinationStr>Erbil Arpt(EBL)-Iraq</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EBL</code>
+    <DestinationName>Erbil</DestinationName>
+    <DestinationStr>Erbil(EBL)-Iraq</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EBO</code>
+    <DestinationName>Ebon Arpt</DestinationName>
+    <DestinationStr>Ebon Arpt(EBO)-Marshall Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EBO</code>
+    <DestinationName>Ebon</DestinationName>
+    <DestinationStr>Ebon(EBO)-Marshall Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EBR</code>
+    <DestinationName>Baton Rouge Downtown Arpt</DestinationName>
+    <DestinationStr>Baton Rouge Downtown Arpt(EBR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EBU</code>
+    <DestinationName>Boutheon Arpt</DestinationName>
+    <DestinationStr>Boutheon Arpt(EBU)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EBU</code>
+    <DestinationName>Saint Etienne</DestinationName>
+    <DestinationStr>Saint Etienne(EBU)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EBU</code>
+    <DestinationName>St Etienne</DestinationName>
+    <DestinationStr>St Etienne(EBU)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ECG</code>
+    <DestinationName>Elizabeth City</DestinationName>
+    <DestinationStr>Elizabeth City(ECG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ECG</code>
+    <DestinationName>Elizabeth Municipal Cgas</DestinationName>
+    <DestinationStr>Elizabeth Municipal Cgas(ECG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ECH</code>
+    <DestinationName>Echuca Arpt</DestinationName>
+    <DestinationStr>Echuca Arpt(ECH)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ECH</code>
+    <DestinationName>Echuca</DestinationName>
+    <DestinationStr>Echuca(ECH)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ECN</code>
+    <DestinationName>Ercan Airport</DestinationName>
+    <DestinationStr>Ercan Airport(ECN)-Cyprus</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ECN</code>
+    <DestinationName>Ercan</DestinationName>
+    <DestinationStr>Ercan(ECN)-Cyprus</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ECP</code>
+    <DestinationName>Northwest Florida Beaches Intl</DestinationName>
+    <DestinationStr>Northwest Florida Beaches Intl(ECP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EDA</code>
+    <DestinationName>Edna Bay Arpt</DestinationName>
+    <DestinationStr>Edna Bay Arpt(EDA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EDA</code>
+    <DestinationName>Edna Bay</DestinationName>
+    <DestinationStr>Edna Bay(EDA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EDE</code>
+    <DestinationName>Edenton Municipal Arpt</DestinationName>
+    <DestinationStr>Edenton Municipal Arpt(EDE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EDE</code>
+    <DestinationName>Edenton</DestinationName>
+    <DestinationStr>Edenton(EDE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EDF</code>
+    <DestinationName>Elmendorf Airforce Base</DestinationName>
+    <DestinationStr>Elmendorf Airforce Base(EDF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EDG</code>
+    <DestinationName>Edgewood</DestinationName>
+    <DestinationStr>Edgewood(EDG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EDI</code>
+    <DestinationName>Edinburgh Arpt</DestinationName>
+    <DestinationStr>Edinburgh Arpt(EDI)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EDI</code>
+    <DestinationName>Edinburgh</DestinationName>
+    <DestinationStr>Edinburgh(EDI)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EDL</code>
+    <DestinationName>Eldoret Arpt</DestinationName>
+    <DestinationStr>Eldoret Arpt(EDL)-Kenya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EDL</code>
+    <DestinationName>Eldoret</DestinationName>
+    <DestinationStr>Eldoret(EDL)-Kenya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EDM</code>
+    <DestinationName>La Roche</DestinationName>
+    <DestinationStr>La Roche(EDM)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EDM</code>
+    <DestinationName>Les Ajoncs Arpt</DestinationName>
+    <DestinationStr>Les Ajoncs Arpt(EDM)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EDO</code>
+    <DestinationName>Edremit Korfez</DestinationName>
+    <DestinationStr>Edremit Korfez(EDO)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EDO</code>
+    <DestinationName>Edremit</DestinationName>
+    <DestinationStr>Edremit(EDO)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EDR</code>
+    <DestinationName>Edward River Arpt</DestinationName>
+    <DestinationStr>Edward River Arpt(EDR)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EDR</code>
+    <DestinationName>Edward River</DestinationName>
+    <DestinationStr>Edward River(EDR)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EDW</code>
+    <DestinationName>Edwards</DestinationName>
+    <DestinationStr>Edwards(EDW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EED</code>
+    <DestinationName>Needles Arpt</DestinationName>
+    <DestinationStr>Needles Arpt(EED)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EED</code>
+    <DestinationName>Needles</DestinationName>
+    <DestinationStr>Needles(EED)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EEK</code>
+    <DestinationName>Eek Arpt</DestinationName>
+    <DestinationStr>Eek Arpt(EEK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EEK</code>
+    <DestinationName>Eek City</DestinationName>
+    <DestinationStr>Eek City(EEK)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>EEL</code>
+    <DestinationName>Tudela</DestinationName>
+    <DestinationStr>Tudela(EEL)-Spain</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>EEN</code>
+    <DestinationName>Dilliant Hopkins Arpt</DestinationName>
+    <DestinationStr>Dilliant Hopkins Arpt(EEN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EEN</code>
+    <DestinationName>Keene</DestinationName>
+    <DestinationStr>Keene(EEN)-United States</DestinationStr>
+  </Destination>    
+  <Destination>
+    <code>EFD</code>
+    <DestinationName>Ellington Field</DestinationName>
+    <DestinationStr>Ellington Field(EFD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EFG</code>
+    <DestinationName>Efogi Airport</DestinationName>
+    <DestinationStr>Efogi Airport(EFG)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EFG</code>
+    <DestinationName>Efogi</DestinationName>
+    <DestinationStr>Efogi(EFG)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EFL</code>
+    <DestinationName>Argostoli Arpt</DestinationName>
+    <DestinationStr>Argostoli Arpt(EFL)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EFL</code>
+    <DestinationName>Cephalonia</DestinationName>
+    <DestinationStr>Cephalonia(EFL)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EFL</code>
+    <DestinationName>Kefalonia</DestinationName>
+    <DestinationStr>Kefalonia(EFL)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EGC</code>
+    <DestinationName>Bergerac</DestinationName>
+    <DestinationStr>Bergerac(EGC)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EGC</code>
+    <DestinationName>Roumaniere Arpt</DestinationName>
+    <DestinationStr>Roumaniere Arpt(EGC)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EGE</code>
+    <DestinationName>Eagle County Arpt</DestinationName>
+    <DestinationStr>Eagle County Arpt(EGE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EGE</code>
+    <DestinationName>Eagle</DestinationName>
+    <DestinationStr>Eagle(EGE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EGI</code>
+    <DestinationName>Duke Field</DestinationName>
+    <DestinationStr>Duke Field(EGI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EGM</code>
+    <DestinationName>Sege Arpt</DestinationName>
+    <DestinationStr>Sege Arpt(EGM)-Solomon Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EGM</code>
+    <DestinationName>Sege</DestinationName>
+    <DestinationStr>Sege(EGM)-Solomon Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EGN</code>
+    <DestinationName>Geneina</DestinationName>
+    <DestinationStr>Geneina(EGN)-Sudan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EGO</code>
+    <DestinationName>Belgorod Arpt</DestinationName>
+    <DestinationStr>Belgorod Arpt(EGO)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EGO</code>
+    <DestinationName>Belgorod</DestinationName>
+    <DestinationStr>Belgorod(EGO)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EGP</code>
+    <DestinationName>Eagle Pass</DestinationName>
+    <DestinationStr>Eagle Pass(EGP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EGP</code>
+    <DestinationName>Maverick County Arpt</DestinationName>
+    <DestinationStr>Maverick County Arpt(EGP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EGS</code>
+    <DestinationName>Egilsstadir Arpt</DestinationName>
+    <DestinationStr>Egilsstadir Arpt(EGS)-Iceland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EGS</code>
+    <DestinationName>Egilsstadir</DestinationName>
+    <DestinationStr>Egilsstadir(EGS)-Iceland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EGV</code>
+    <DestinationName>Eagle River Union Arpt</DestinationName>
+    <DestinationStr>Eagle River Union Arpt(EGV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EGV</code>
+    <DestinationName>Eagle River</DestinationName>
+    <DestinationStr>Eagle River(EGV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EGX</code>
+    <DestinationName>Egegik</DestinationName>
+    <DestinationStr>Egegik(EGX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EHL</code>
+    <DestinationName>El Bolson Arpt</DestinationName>
+    <DestinationStr>El Bolson Arpt(EHL)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EHL</code>
+    <DestinationName>El Bolson</DestinationName>
+    <DestinationStr>El Bolson(EHL)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EHM</code>
+    <DestinationName>Cape Newenham</DestinationName>
+    <DestinationStr>Cape Newenham(EHM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EHT</code>
+    <DestinationName>East Hartford</DestinationName>
+    <DestinationStr>East Hartford(EHT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EHT</code>
+    <DestinationName>Rentschler Arpt</DestinationName>
+    <DestinationStr>Rentschler Arpt(EHT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EIB</code>
+    <DestinationName>Eisenach Arpt</DestinationName>
+    <DestinationStr>Eisenach Arpt(EIB)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EIB</code>
+    <DestinationName>Eisenach</DestinationName>
+    <DestinationStr>Eisenach(EIB)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EIK</code>
+    <DestinationName>Yeysk</DestinationName>
+    <DestinationStr>Yeysk(EIK)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EIL</code>
+    <DestinationName>Eielson AFB Arpt</DestinationName>
+    <DestinationStr>Eielson AFB Arpt(EIL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EIN</code>
+    <DestinationName>Eindhoven</DestinationName>
+    <DestinationStr>Eindhoven(EIN)-Netherlands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EIN</code>
+    <DestinationName>Welschap Arpt</DestinationName>
+    <DestinationStr>Welschap Arpt(EIN)-Netherlands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EIS</code>
+    <DestinationName>Beef Island Arpt</DestinationName>
+    <DestinationStr>Beef Island Arpt(EIS)-British Virgin Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EIS</code>
+    <DestinationName>Beef Island</DestinationName>
+    <DestinationStr>Beef Island(EIS)-British Virgin Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EIS</code>
+    <DestinationName>Terrence B Lettsome Arpt</DestinationName>
+    <DestinationStr>Terrence B Lettsome Arpt(EIS)-British Virgin Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EJA</code>
+    <DestinationName>Barrancabermeja</DestinationName>
+    <DestinationStr>Barrancabermeja(EJA)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EJA</code>
+    <DestinationName>Yariguies Arpt</DestinationName>
+    <DestinationStr>Yariguies Arpt(EJA)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EJH</code>
+    <DestinationName>Wedjh</DestinationName>
+    <DestinationStr>Wedjh(EJH)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EKA</code>
+    <DestinationName>Eureka Murray Field</DestinationName>
+    <DestinationStr>Eureka Murray Field(EKA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EKA</code>
+    <DestinationName>Eureka</DestinationName>
+    <DestinationStr>Eureka(EKA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EKI</code>
+    <DestinationName>Elkhart Municipal Arpt</DestinationName>
+    <DestinationStr>Elkhart Municipal Arpt(EKI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EKI</code>
+    <DestinationName>Elkhart</DestinationName>
+    <DestinationStr>Elkhart(EKI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EKN</code>
+    <DestinationName>Elkins</DestinationName>
+    <DestinationStr>Elkins(EKN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EKN</code>
+    <DestinationName>Randolph County Arpt</DestinationName>
+    <DestinationStr>Randolph County Arpt(EKN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EKO</code>
+    <DestinationName>Elko</DestinationName>
+    <DestinationStr>Elko(EKO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EKO</code>
+    <DestinationName>J C Harris Field</DestinationName>
+    <DestinationStr>J C Harris Field(EKO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EKS</code>
+    <DestinationName>Shakhtersk Airport</DestinationName>
+    <DestinationStr>Shakhtersk Airport(EKS)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EKS</code>
+    <DestinationName>Shakhtersk</DestinationName>
+    <DestinationStr>Shakhtersk(EKS)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EKT</code>
+    <DestinationName>Eskilstuna Arpt</DestinationName>
+    <DestinationStr>Eskilstuna Arpt(EKT)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EKT</code>
+    <DestinationName>Eskilstuna</DestinationName>
+    <DestinationStr>Eskilstuna(EKT)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EKX</code>
+    <DestinationName>Addington Field</DestinationName>
+    <DestinationStr>Addington Field(EKX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EKX</code>
+    <DestinationName>Elizabethtown</DestinationName>
+    <DestinationStr>Elizabethtown(EKX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ELA</code>
+    <DestinationName>Eagle Lake</DestinationName>
+    <DestinationStr>Eagle Lake(ELA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ELC</code>
+    <DestinationName>Elcho Island Airport</DestinationName>
+    <DestinationStr>Elcho Island Airport(ELC)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ELC</code>
+    <DestinationName>Elcho Island</DestinationName>
+    <DestinationStr>Elcho Island(ELC)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ELD</code>
+    <DestinationName>El Dorado</DestinationName>
+    <DestinationStr>El Dorado(ELD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ELD</code>
+    <DestinationName>Goodwin Field</DestinationName>
+    <DestinationStr>Goodwin Field(ELD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ELF</code>
+    <DestinationName>El Fasher</DestinationName>
+    <DestinationStr>El Fasher(ELF)-Sudan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ELG</code>
+    <DestinationName>El Golea</DestinationName>
+    <DestinationStr>El Golea(ELG)-Algeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ELH</code>
+    <DestinationName>North Eleuthera Intl</DestinationName>
+    <DestinationStr>North Eleuthera Intl(ELH)-Bahamas</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ELH</code>
+    <DestinationName>North Eleuthera</DestinationName>
+    <DestinationStr>North Eleuthera(ELH)-Bahamas</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ELI</code>
+    <DestinationName>Elim</DestinationName>
+    <DestinationStr>Elim(ELI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ELK</code>
+    <DestinationName>Elk City Municipal</DestinationName>
+    <DestinationStr>Elk City Municipal(ELK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ELK</code>
+    <DestinationName>Elk City</DestinationName>
+    <DestinationStr>Elk City(ELK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ELL</code>
+    <DestinationName>Ellisras</DestinationName>
+    <DestinationStr>Ellisras(ELL)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ELL</code>
+    <DestinationName>Matimba Arpt</DestinationName>
+    <DestinationStr>Matimba Arpt(ELL)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ELM</code>
+    <DestinationName>Elmira Corning Regional Arpt</DestinationName>
+    <DestinationStr>Elmira Corning Regional Arpt(ELM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ELM</code>
+    <DestinationName>Elmira</DestinationName>
+    <DestinationStr>Elmira(ELM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ELP</code>
+    <DestinationName>El Paso Intl Arpt</DestinationName>
+    <DestinationStr>El Paso Intl Arpt(ELP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ELP</code>
+    <DestinationName>El Paso</DestinationName>
+    <DestinationStr>El Paso(ELP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ELQ</code>
+    <DestinationName>Gassim Arpt</DestinationName>
+    <DestinationStr>Gassim Arpt(ELQ)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ELQ</code>
+    <DestinationName>Gassim</DestinationName>
+    <DestinationStr>Gassim(ELQ)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ELS</code>
+    <DestinationName>East London Arpt</DestinationName>
+    <DestinationStr>East London Arpt(ELS)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ELS</code>
+    <DestinationName>East London</DestinationName>
+    <DestinationStr>East London(ELS)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ELT</code>
+    <DestinationName>El Tor</DestinationName>
+    <DestinationStr>El Tor(ELT)-Egypt</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ELU</code>
+    <DestinationName>El Oued</DestinationName>
+    <DestinationStr>El Oued(ELU)-Algeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ELV</code>
+    <DestinationName>Elfin Cove</DestinationName>
+    <DestinationStr>Elfin Cove(ELV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ELW</code>
+    <DestinationName>Ellamar Arpt</DestinationName>
+    <DestinationStr>Ellamar Arpt(ELW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ELW</code>
+    <DestinationName>Ellamar</DestinationName>
+    <DestinationStr>Ellamar(ELW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ELY</code>
+    <DestinationName>Ely NV</DestinationName>
+    <DestinationStr>Ely NV(ELY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ELY</code>
+    <DestinationName>Yelland Field</DestinationName>
+    <DestinationStr>Yelland Field(ELY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ELZ</code>
+    <DestinationName>Wellsville Municipal Arpt</DestinationName>
+    <DestinationStr>Wellsville Municipal Arpt(ELZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ELZ</code>
+    <DestinationName>Wellsville</DestinationName>
+    <DestinationStr>Wellsville(ELZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EMA</code>
+    <DestinationName>East Midlands Arpt</DestinationName>
+    <DestinationStr>East Midlands Arpt(EMA)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EMA</code>
+    <DestinationName>East Midlands</DestinationName>
+    <DestinationStr>East Midlands(EMA)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EMB</code>
+    <DestinationName>Embarcadero</DestinationName>
+    <DestinationStr>Embarcadero(EMB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EMD</code>
+    <DestinationName>Emerald Arpt</DestinationName>
+    <DestinationStr>Emerald Arpt(EMD)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EMD</code>
+    <DestinationName>Emerald</DestinationName>
+    <DestinationStr>Emerald(EMD)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EME</code>
+    <DestinationName>Emden Arpt</DestinationName>
+    <DestinationStr>Emden Arpt(EME)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EME</code>
+    <DestinationName>Emden</DestinationName>
+    <DestinationStr>Emden(EME)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EMI</code>
+    <DestinationName>Emirau</DestinationName>
+    <DestinationStr>Emirau(EMI)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EMK</code>
+    <DestinationName>Emmonak</DestinationName>
+    <DestinationStr>Emmonak(EMK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EMN</code>
+    <DestinationName>Nema</DestinationName>
+    <DestinationStr>Nema(EMN)-Mauritania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EMO</code>
+    <DestinationName>Emo PG</DestinationName>
+    <DestinationStr>Emo PG(EMO)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EMP</code>
+    <DestinationName>Emporia Municipal Airport</DestinationName>
+    <DestinationStr>Emporia Municipal Airport(EMP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EMP</code>
+    <DestinationName>Emporia</DestinationName>
+    <DestinationStr>Emporia(EMP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EMS</code>
+    <DestinationName>Embessa</DestinationName>
+    <DestinationStr>Embessa(EMS)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EMT</code>
+    <DestinationName>El Monte Arpt</DestinationName>
+    <DestinationStr>El Monte Arpt(EMT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EMT</code>
+    <DestinationName>El Monte</DestinationName>
+    <DestinationStr>El Monte(EMT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EMX</code>
+    <DestinationName>El Maiten</DestinationName>
+    <DestinationStr>El Maiten(EMX)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ENA</code>
+    <DestinationName>Kenai Municipal Arpt</DestinationName>
+    <DestinationStr>Kenai Municipal Arpt(ENA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ENA</code>
+    <DestinationName>Kenai</DestinationName>
+    <DestinationStr>Kenai(ENA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ENC</code>
+    <DestinationName>Essey Airport</DestinationName>
+    <DestinationStr>Essey Airport(ENC)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ENC</code>
+    <DestinationName>Nancy</DestinationName>
+    <DestinationStr>Nancy(ENC)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>END</code>
+    <DestinationName>Vance Airforce Base</DestinationName>
+    <DestinationStr>Vance Airforce Base(END)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ENE</code>
+    <DestinationName>Ende</DestinationName>
+    <DestinationStr>Ende(ENE)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ENH</code>
+    <DestinationName>Enshi Arpt</DestinationName>
+    <DestinationStr>Enshi Arpt(ENH)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ENH</code>
+    <DestinationName>Enshi</DestinationName>
+    <DestinationStr>Enshi(ENH)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ENK</code>
+    <DestinationName>Enniskillen</DestinationName>
+    <DestinationStr>Enniskillen(ENK)-Ireland, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ENK</code>
+    <DestinationName>Saint Angelo Arpt</DestinationName>
+    <DestinationStr>Saint Angelo Arpt(ENK)-Ireland, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ENK</code>
+    <DestinationName>St Angelo Arpt</DestinationName>
+    <DestinationStr>St Angelo Arpt(ENK)-Ireland, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ENL</code>
+    <DestinationName>Centralia Municipal Arpt</DestinationName>
+    <DestinationStr>Centralia Municipal Arpt(ENL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ENL</code>
+    <DestinationName>Centralia</DestinationName>
+    <DestinationStr>Centralia(ENL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ENN</code>
+    <DestinationName>Nenana</DestinationName>
+    <DestinationStr>Nenana(ENN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ENO</code>
+    <DestinationName>Encarnacion</DestinationName>
+    <DestinationStr>Encarnacion(ENO)-Paraguay</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ENS</code>
+    <DestinationName>Enschede</DestinationName>
+    <DestinationStr>Enschede(ENS)-Netherlands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ENS</code>
+    <DestinationName>Twente Airport</DestinationName>
+    <DestinationStr>Twente Airport(ENS)-Netherlands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ENU</code>
+    <DestinationName>Emene Airport</DestinationName>
+    <DestinationStr>Emene Airport(ENU)-Nigeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ENU</code>
+    <DestinationName>Enugu</DestinationName>
+    <DestinationStr>Enugu(ENU)-Nigeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ENV</code>
+    <DestinationName>Wendover Arpt</DestinationName>
+    <DestinationStr>Wendover Arpt(ENV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ENV</code>
+    <DestinationName>Wendover</DestinationName>
+    <DestinationStr>Wendover(ENV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ENW</code>
+    <DestinationName>Kenosha Regional Airport</DestinationName>
+    <DestinationStr>Kenosha Regional Airport(ENW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ENW</code>
+    <DestinationName>Kenosha</DestinationName>
+    <DestinationStr>Kenosha(ENW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ENY</code>
+    <DestinationName>Yanan Arpt</DestinationName>
+    <DestinationStr>Yanan Arpt(ENY)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ENY</code>
+    <DestinationName>Yanan</DestinationName>
+    <DestinationStr>Yanan(ENY)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EOH</code>
+    <DestinationName>Enrique Olaya Herrara</DestinationName>
+    <DestinationStr>Enrique Olaya Herrara(EOH)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EOI</code>
+    <DestinationName>Eday Arpt</DestinationName>
+    <DestinationStr>Eday Arpt(EOI)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EOI</code>
+    <DestinationName>Eday</DestinationName>
+    <DestinationStr>Eday(EOI)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EOK</code>
+    <DestinationName>Keokuk Arpt</DestinationName>
+    <DestinationStr>Keokuk Arpt(EOK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EOK</code>
+    <DestinationName>Keokuk</DestinationName>
+    <DestinationStr>Keokuk(EOK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EPL</code>
+    <DestinationName>Epinal</DestinationName>
+    <DestinationStr>Epinal(EPL)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EPL</code>
+    <DestinationName>Mirecourt Arpt</DestinationName>
+    <DestinationStr>Mirecourt Arpt(EPL)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EPR</code>
+    <DestinationName>Esperance Arpt</DestinationName>
+    <DestinationStr>Esperance Arpt(EPR)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EPR</code>
+    <DestinationName>Esperance</DestinationName>
+    <DestinationStr>Esperance(EPR)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EPS</code>
+    <DestinationName>El Portillo Arpt</DestinationName>
+    <DestinationStr>El Portillo Arpt(EPS)-Dominican Republic</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EPS</code>
+    <DestinationName>El Portillo Samana</DestinationName>
+    <DestinationStr>El Portillo Samana(EPS)-Dominican Republic</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EPU</code>
+    <DestinationName>Parnu Arpt</DestinationName>
+    <DestinationStr>Parnu Arpt(EPU)-Estonia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EPU</code>
+    <DestinationName>Parnu</DestinationName>
+    <DestinationStr>Parnu(EPU)-Estonia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EQS</code>
+    <DestinationName>Esquel Airport</DestinationName>
+    <DestinationStr>Esquel Airport(EQS)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EQS</code>
+    <DestinationName>Esquel</DestinationName>
+    <DestinationStr>Esquel(EQS)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ERC</code>
+    <DestinationName>Erzincan Arpt</DestinationName>
+    <DestinationStr>Erzincan Arpt(ERC)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ERC</code>
+    <DestinationName>Erzincan</DestinationName>
+    <DestinationStr>Erzincan(ERC)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ERF</code>
+    <DestinationName>Erfurt Arpt</DestinationName>
+    <DestinationStr>Erfurt Arpt(ERF)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ERF</code>
+    <DestinationName>Erfurt</DestinationName>
+    <DestinationStr>Erfurt(ERF)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ERH</code>
+    <DestinationName>Errachidia Arpt</DestinationName>
+    <DestinationStr>Errachidia Arpt(ERH)-Morocco</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ERH</code>
+    <DestinationName>Errachidia</DestinationName>
+    <DestinationStr>Errachidia(ERH)-Morocco</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ERI</code>
+    <DestinationName>Erie Intl</DestinationName>
+    <DestinationStr>Erie Intl(ERI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ERI</code>
+    <DestinationName>Erie</DestinationName>
+    <DestinationStr>Erie(ERI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ERL</code>
+    <DestinationName>Erenhot</DestinationName>
+    <DestinationStr>Erenhot(ERL)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ERM</code>
+    <DestinationName>Comandante Kraemer Airport</DestinationName>
+    <DestinationStr>Comandante Kraemer Airport(ERM)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ERM</code>
+    <DestinationName>Erechim</DestinationName>
+    <DestinationStr>Erechim(ERM)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ERO</code>
+    <DestinationName>Coast Guard Arpt</DestinationName>
+    <DestinationStr>Coast Guard Arpt(ERO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ERO</code>
+    <DestinationName>Eldred Rock</DestinationName>
+    <DestinationStr>Eldred Rock(ERO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ERS</code>
+    <DestinationName>Eros Arpt</DestinationName>
+    <DestinationStr>Eros Arpt(ERS)-Namibia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ERU</code>
+    <DestinationName>Erume</DestinationName>
+    <DestinationStr>Erume(ERU)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ERV</code>
+    <DestinationName>Kerrville Arpt</DestinationName>
+    <DestinationStr>Kerrville Arpt(ERV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ERV</code>
+    <DestinationName>Kerrville</DestinationName>
+    <DestinationStr>Kerrville(ERV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ERZ</code>
+    <DestinationName>Erzurum Arpt</DestinationName>
+    <DestinationStr>Erzurum Arpt(ERZ)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ERZ</code>
+    <DestinationName>Erzurum</DestinationName>
+    <DestinationStr>Erzurum(ERZ)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ESA</code>
+    <DestinationName>Esa Ala</DestinationName>
+    <DestinationStr>Esa Ala(ESA)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ESB</code>
+    <DestinationName>Esenboga Arpt</DestinationName>
+    <DestinationStr>Esenboga Arpt(ESB)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ESC</code>
+    <DestinationName>Delta County</DestinationName>
+    <DestinationStr>Delta County(ESC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ESC</code>
+    <DestinationName>Escanaba</DestinationName>
+    <DestinationStr>Escanaba(ESC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ESD</code>
+    <DestinationName>East Sound</DestinationName>
+    <DestinationStr>East Sound(ESD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ESD</code>
+    <DestinationName>Eastsound Orcas Is Arpt</DestinationName>
+    <DestinationStr>Eastsound Orcas Is Arpt(ESD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ESE</code>
+    <DestinationName>Ensenada Arpt</DestinationName>
+    <DestinationStr>Ensenada Arpt(ESE)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ESE</code>
+    <DestinationName>Ensenada</DestinationName>
+    <DestinationStr>Ensenada(ESE)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ESF</code>
+    <DestinationName>Esler Field</DestinationName>
+    <DestinationStr>Esler Field(ESF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ESH</code>
+    <DestinationName>SHOREHAM ARPT</DestinationName>
+    <DestinationStr>SHOREHAM ARPT(ESH)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ESH</code>
+    <DestinationName>SHOREHAM BY SEA</DestinationName>
+    <DestinationStr>SHOREHAM BY SEA(ESH)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ESK</code>
+    <DestinationName>Eskisehir Arpt</DestinationName>
+    <DestinationStr>Eskisehir Arpt(ESK)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ESK</code>
+    <DestinationName>Eskisehir</DestinationName>
+    <DestinationStr>Eskisehir(ESK)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ESL</code>
+    <DestinationName>Elista Arpt</DestinationName>
+    <DestinationStr>Elista Arpt(ESL)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ESL</code>
+    <DestinationName>Elista</DestinationName>
+    <DestinationStr>Elista(ESL)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ESM</code>
+    <DestinationName>C Concha Torres Intl</DestinationName>
+    <DestinationStr>C Concha Torres Intl(ESM)-Ecuador</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ESM</code>
+    <DestinationName>Esmeraldas</DestinationName>
+    <DestinationStr>Esmeraldas(ESM)-Ecuador</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ESN</code>
+    <DestinationName>Easton Municipal Arpt</DestinationName>
+    <DestinationStr>Easton Municipal Arpt(ESN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ESN</code>
+    <DestinationName>Easton</DestinationName>
+    <DestinationStr>Easton(ESN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ESP</code>
+    <DestinationName>Birchwood Pocono Arpt</DestinationName>
+    <DestinationStr>Birchwood Pocono Arpt(ESP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ESP</code>
+    <DestinationName>East Stroudsburg</DestinationName>
+    <DestinationStr>East Stroudsburg(ESP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ESR</code>
+    <DestinationName>El Salvador Arpt</DestinationName>
+    <DestinationStr>El Salvador Arpt(ESR)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ESR</code>
+    <DestinationName>El Salvador</DestinationName>
+    <DestinationStr>El Salvador(ESR)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ESS</code>
+    <DestinationName>Essen Arpt</DestinationName>
+    <DestinationStr>Essen Arpt(ESS)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ESS</code>
+    <DestinationName>Essen</DestinationName>
+    <DestinationStr>Essen(ESS)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ESU</code>
+    <DestinationName>Essaouira Arpt</DestinationName>
+    <DestinationStr>Essaouira Arpt(ESU)-Morocco</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ESU</code>
+    <DestinationName>Essaouira</DestinationName>
+    <DestinationStr>Essaouira(ESU)-Morocco</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ETB</code>
+    <DestinationName>West Bend Arpt</DestinationName>
+    <DestinationStr>West Bend Arpt(ETB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ETB</code>
+    <DestinationName>West Bend</DestinationName>
+    <DestinationStr>West Bend(ETB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ETD</code>
+    <DestinationName>Etadunna</DestinationName>
+    <DestinationStr>Etadunna(ETD)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ETE</code>
+    <DestinationName>Metemma</DestinationName>
+    <DestinationStr>Metemma(ETE)-Ethiopia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ETH</code>
+    <DestinationName>Eilat</DestinationName>
+    <DestinationStr>Eilat(ETH)-Israel</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ETH</code>
+    <DestinationName>Elat Airport</DestinationName>
+    <DestinationStr>Elat Airport(ETH)-Israel</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ETH</code>
+    <DestinationName>Elat</DestinationName>
+    <DestinationStr>Elat(ETH)-Israel</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ETR</code>
+    <DestinationName>Santa Rosa Intl</DestinationName>
+    <DestinationStr>Santa Rosa Intl(ETR)-Ecuador</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ETR</code>
+    <DestinationName>Santa Rosa</DestinationName>
+    <DestinationStr>Santa Rosa(ETR)-Ecuador</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ETS</code>
+    <DestinationName>Enterprise Municipal</DestinationName>
+    <DestinationStr>Enterprise Municipal(ETS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ETS</code>
+    <DestinationName>Enterprise</DestinationName>
+    <DestinationStr>Enterprise(ETS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ETZ</code>
+    <DestinationName>Metz Nancy Lorraine</DestinationName>
+    <DestinationStr>Metz Nancy Lorraine(ETZ)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ETZ</code>
+    <DestinationName>Metz Nancy</DestinationName>
+    <DestinationStr>Metz Nancy(ETZ)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EUA</code>
+    <DestinationName>Eua To</DestinationName>
+    <DestinationStr>Eua To(EUA)-Tonga</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EUF</code>
+    <DestinationName>Eufaula</DestinationName>
+    <DestinationStr>Eufaula(EUF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EUF</code>
+    <DestinationName>Weedon Field</DestinationName>
+    <DestinationStr>Weedon Field(EUF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EUG</code>
+    <DestinationName>Eugene Arpt</DestinationName>
+    <DestinationStr>Eugene Arpt(EUG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EUG</code>
+    <DestinationName>Eugene</DestinationName>
+    <DestinationStr>Eugene(EUG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EUM</code>
+    <DestinationName>Neumuenster Arpt</DestinationName>
+    <DestinationStr>Neumuenster Arpt(EUM)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EUM</code>
+    <DestinationName>Neumuenster</DestinationName>
+    <DestinationStr>Neumuenster(EUM)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EUN</code>
+    <DestinationName>El Aaiun</DestinationName>
+    <DestinationStr>El Aaiun(EUN)-Morocco</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EUN</code>
+    <DestinationName>Hassan I Arpt</DestinationName>
+    <DestinationStr>Hassan I Arpt(EUN)-Morocco</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EUX</code>
+    <DestinationName>F D Roosevelt Arpt</DestinationName>
+    <DestinationStr>F D Roosevelt Arpt(EUX)-Bonaire</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EUX</code>
+    <DestinationName>Saint Eustatius</DestinationName>
+    <DestinationStr>Saint Eustatius(EUX)-Bonaire</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EUX</code>
+    <DestinationName>St Eustatius</DestinationName>
+    <DestinationStr>St Eustatius(EUX)-Bonaire</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EVE</code>
+    <DestinationName>Evenes Arpt</DestinationName>
+    <DestinationStr>Evenes Arpt(EVE)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EVE</code>
+    <DestinationName>Harstad Narvik</DestinationName>
+    <DestinationStr>Harstad Narvik(EVE)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EVG</code>
+    <DestinationName>Sveg Arpt</DestinationName>
+    <DestinationStr>Sveg Arpt(EVG)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EVG</code>
+    <DestinationName>Sveg</DestinationName>
+    <DestinationStr>Sveg(EVG)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EVM</code>
+    <DestinationName>Eveleth Virginia Municipal Arpt</DestinationName>
+    <DestinationStr>Eveleth Virginia Municipal Arpt(EVM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EVM</code>
+    <DestinationName>Eveleth</DestinationName>
+    <DestinationStr>Eveleth(EVM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EVN</code>
+    <DestinationName>Erevan</DestinationName>
+    <DestinationStr>Erevan(EVN)-Armenia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EVN</code>
+    <DestinationName>Yerevan Arpt</DestinationName>
+    <DestinationStr>Yerevan Arpt(EVN)-Armenia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EVN</code>
+    <DestinationName>Yerevan</DestinationName>
+    <DestinationStr>Yerevan(EVN)-Armenia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EVV</code>
+    <DestinationName>Evansville Regional Arpt</DestinationName>
+    <DestinationStr>Evansville Regional Arpt(EVV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EVV</code>
+    <DestinationName>Evansville</DestinationName>
+    <DestinationStr>Evansville(EVV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EVW</code>
+    <DestinationName>Evanston Arpt</DestinationName>
+    <DestinationStr>Evanston Arpt(EVW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EVW</code>
+    <DestinationName>Evanston</DestinationName>
+    <DestinationStr>Evanston(EVW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EVX</code>
+    <DestinationName>Evreux Arpt</DestinationName>
+    <DestinationStr>Evreux Arpt(EVX)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EVX</code>
+    <DestinationName>Evreux</DestinationName>
+    <DestinationStr>Evreux(EVX)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EWB</code>
+    <DestinationName>New Bedford Municipal</DestinationName>
+    <DestinationStr>New Bedford Municipal(EWB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EWB</code>
+    <DestinationName>New Bedford</DestinationName>
+    <DestinationStr>New Bedford(EWB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EWD</code>
+    <DestinationName>Wildman Lake Arpt</DestinationName>
+    <DestinationStr>Wildman Lake Arpt(EWD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EWD</code>
+    <DestinationName>Wildman Lake</DestinationName>
+    <DestinationStr>Wildman Lake(EWD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EWI</code>
+    <DestinationName>Enarotali</DestinationName>
+    <DestinationStr>Enarotali(EWI)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EWK</code>
+    <DestinationName>Newton City County Arpt</DestinationName>
+    <DestinationStr>Newton City County Arpt(EWK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EWK</code>
+    <DestinationName>Newton</DestinationName>
+    <DestinationStr>Newton(EWK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EWN</code>
+    <DestinationName>Craven County Regional Arpt</DestinationName>
+    <DestinationStr>Craven County Regional Arpt(EWN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EWN</code>
+    <DestinationName>New Bern</DestinationName>
+    <DestinationStr>New Bern(EWN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EWR</code>
+    <DestinationName>Newark Liberty Intl Arpt</DestinationName>
+    <DestinationStr>Newark Liberty Intl Arpt(EWR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EWR</code>
+    <DestinationName>Newark</DestinationName>
+    <DestinationStr>Newark(EWR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EWY</code>
+    <DestinationName>Newbury</DestinationName>
+    <DestinationStr>Newbury(EWY)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EXI</code>
+    <DestinationName>Excursion Inlet Municipal</DestinationName>
+    <DestinationStr>Excursion Inlet Municipal(EXI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EXI</code>
+    <DestinationName>Excursion Inlet</DestinationName>
+    <DestinationStr>Excursion Inlet(EXI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EXM</code>
+    <DestinationName>Exmouth Gulf</DestinationName>
+    <DestinationStr>Exmouth Gulf(EXM)-Australia</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>EXT</code>
+    <DestinationName>Exeter Arpt</DestinationName>
+    <DestinationStr>Exeter Arpt(EXT)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EXT</code>
+    <DestinationName>Exeter</DestinationName>
+    <DestinationStr>Exeter(EXT)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EYK</code>
+    <DestinationName>Beloyarsky Arpt</DestinationName>
+    <DestinationStr>Beloyarsky Arpt(EYK)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EYK</code>
+    <DestinationName>Beloyarsky</DestinationName>
+    <DestinationStr>Beloyarsky(EYK)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EYP</code>
+    <DestinationName>El Alcaravan Arpt</DestinationName>
+    <DestinationStr>El Alcaravan Arpt(EYP)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EYP</code>
+    <DestinationName>El Yopal</DestinationName>
+    <DestinationStr>El Yopal(EYP)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EYW</code>
+    <DestinationName>Key West Intl</DestinationName>
+    <DestinationStr>Key West Intl(EYW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EYW</code>
+    <DestinationName>Key West</DestinationName>
+    <DestinationStr>Key West(EYW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EZE</code>
+    <DestinationName>Ministro Pistarini</DestinationName>
+    <DestinationStr>Ministro Pistarini(EZE)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EZS</code>
+    <DestinationName>Elazig Arpt</DestinationName>
+    <DestinationStr>Elazig Arpt(EZS)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EZS</code>
+    <DestinationName>Elazig</DestinationName>
+    <DestinationStr>Elazig(EZS)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EZV</code>
+    <DestinationName>Berezovo Airport</DestinationName>
+    <DestinationStr>Berezovo Airport(EZV)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EZV</code>
+    <DestinationName>BEREZOVO</DestinationName>
+    <DestinationStr>BEREZOVO(EZV)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FMA</code>
+    <DestinationName>El Pucu Arpt</DestinationName>
+    <DestinationStr>El Pucu Arpt(FMA)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FTE</code>
+    <DestinationName>El Calafate Arpt</DestinationName>
+    <DestinationStr>El Calafate Arpt(FTE)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FTE</code>
+    <DestinationName>El Calafate</DestinationName>
+    <DestinationStr>El Calafate(FTE)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GRQ</code>
+    <DestinationName>Eelde Arpt</DestinationName>
+    <DestinationStr>Eelde Arpt(GRQ)-Netherlands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GUF</code>
+    <DestinationName>Edwards Arpt</DestinationName>
+    <DestinationStr>Edwards Arpt(GUF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HTO</code>
+    <DestinationName>East Hampton Arpt</DestinationName>
+    <DestinationStr>East Hampton Arpt(HTO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HTO</code>
+    <DestinationName>East Hampton</DestinationName>
+    <DestinationStr>East Hampton(HTO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IOS</code>
+    <DestinationName>Eduardo Gomes Airport</DestinationName>
+    <DestinationStr>Eduardo Gomes Airport(IOS)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IPC</code>
+    <DestinationName>Easter Island</DestinationName>
+    <DestinationStr>Easter Island(IPC)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IPL</code>
+    <DestinationName>El Centro</DestinationName>
+    <DestinationStr>El Centro(IPL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ISO</code>
+    <DestinationName>East Reg Jetport Stallings</DestinationName>
+    <DestinationStr>East Reg Jetport Stallings(ISO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JAL</code>
+    <DestinationName>El Lencero Arpt</DestinationName>
+    <DestinationStr>El Lencero Arpt(JAL)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JEM</code>
+    <DestinationName>Emeryville</DestinationName>
+    <DestinationStr>Emeryville(JEM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JEV</code>
+    <DestinationName>Evry</DestinationName>
+    <DestinationStr>Evry(JEV)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JRE</code>
+    <DestinationName>East 60th St Hlpt</DestinationName>
+    <DestinationStr>East 60th St Hlpt(JRE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JUJ</code>
+    <DestinationName>El Cadillal Airport</DestinationName>
+    <DestinationStr>El Cadillal Airport(JUJ)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KEB</code>
+    <DestinationName>English Bay</DestinationName>
+    <DestinationStr>English Bay(KEB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KEK</code>
+    <DestinationName>Ekwok</DestinationName>
+    <DestinationStr>Ekwok(KEK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KKU</code>
+    <DestinationName>Ekuk</DestinationName>
+    <DestinationStr>Ekuk(KKU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KOE</code>
+    <DestinationName>El Tari Arpt</DestinationName>
+    <DestinationStr>El Tari Arpt(KOE)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LDY</code>
+    <DestinationName>Eglinton Arpt</DestinationName>
+    <DestinationStr>Eglinton Arpt(LDY)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LPB</code>
+    <DestinationName>El Alto Intl</DestinationName>
+    <DestinationStr>El Alto Intl(LPB)-Bolivia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LVA</code>
+    <DestinationName>Entrammes</DestinationName>
+    <DestinationStr>Entrammes(LVA)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LYB</code>
+    <DestinationName>Edward Bodden Arpt</DestinationName>
+    <DestinationStr>Edward Bodden Arpt(LYB)-Cayman Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LYU</code>
+    <DestinationName>Ely Mn</DestinationName>
+    <DestinationStr>Ely Mn(LYU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LYU</code>
+    <DestinationName>Ely Municipal Arpt</DestinationName>
+    <DestinationStr>Ely Municipal Arpt(LYU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MAZ</code>
+    <DestinationName>Eugenio M De Hostos Arpt</DestinationName>
+    <DestinationStr>Eugenio M De Hostos Arpt(MAZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MDZ</code>
+    <DestinationName>El Plumerillo Airport</DestinationName>
+    <DestinationStr>El Plumerillo Airport(MDZ)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MEB</code>
+    <DestinationName>Essendon Arpt</DestinationName>
+    <DestinationStr>Essendon Arpt(MEB)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MEC</code>
+    <DestinationName>Eloy Alfaro Intl</DestinationName>
+    <DestinationStr>Eloy Alfaro Intl(MEC)-Ecuador</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MPV</code>
+    <DestinationName>E F Knapp Arpt</DestinationName>
+    <DestinationStr>E F Knapp Arpt(MPV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NBE</code>
+    <DestinationName>Enfidha</DestinationName>
+    <DestinationStr>Enfidha(NBE)-Tunisia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NJK</code>
+    <DestinationName>El Centro Naval Air Facility</DestinationName>
+    <DestinationStr>El Centro Naval Air Facility(NJK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OMA</code>
+    <DestinationName>Eppley Airfield</DestinationName>
+    <DestinationStr>Eppley Airfield(OMA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ORN</code>
+    <DestinationName>Es Senia</DestinationName>
+    <DestinationStr>Es Senia(ORN)-Algeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PAE</code>
+    <DestinationName>Everett</DestinationName>
+    <DestinationStr>Everett(PAE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PAZ</code>
+    <DestinationName>El Tajin Arpt</DestinationName>
+    <DestinationStr>El Tajin Arpt(PAZ)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PLN</code>
+    <DestinationName>Emmet Cty Arpt</DestinationName>
+    <DestinationStr>Emmet Cty Arpt(PLN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PMY</code>
+    <DestinationName>El Tehuelche Arpt</DestinationName>
+    <DestinationStr>El Tehuelche Arpt(PMY)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POF</code>
+    <DestinationName>Earl Fields Memorial</DestinationName>
+    <DestinationStr>Earl Fields Memorial(POF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PSQ</code>
+    <DestinationName>Essington Philadelphia Seaplane Base</DestinationName>
+    <DestinationStr>Essington Philadelphia Seaplane Base(PSQ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PVA</code>
+    <DestinationName>El Embrujo Arpt</DestinationName>
+    <DestinationStr>El Embrujo Arpt(PVA)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QDN</code>
+    <DestinationName>Eden</DestinationName>
+    <DestinationStr>Eden(QDN)-Australia</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QEQ</code>
+    <DestinationName>Embrach</DestinationName>
+    <DestinationStr>Embrach(QEQ)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QEX</code>
+    <DestinationName>Emmerich</DestinationName>
+    <DestinationStr>Emmerich(QEX)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>RCA</code>
+    <DestinationName>Ellsworth Airforce Base</DestinationName>
+    <DestinationStr>Ellsworth Airforce Base(RCA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SAL</code>
+    <DestinationName>El Salvador Intl Arpt</DestinationName>
+    <DestinationStr>El Salvador Intl Arpt(SAL)-El Salvador</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SAL</code>
+    <DestinationName>El Salvador</DestinationName>
+    <DestinationStr>El Salvador(SAL)-El Salvador</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SCN</code>
+    <DestinationName>Ensheim Arpt</DestinationName>
+    <DestinationStr>Ensheim Arpt(SCN)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SFA</code>
+    <DestinationName>El Maou Airport</DestinationName>
+    <DestinationStr>El Maou Airport(SFA)-Tunisia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SON</code>
+    <DestinationName>Espiritu Santo</DestinationName>
+    <DestinationStr>Espiritu Santo(SON)-Vanuatu</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SRZ</code>
+    <DestinationName>El Trompillo Arpt</DestinationName>
+    <DestinationStr>El Trompillo Arpt(SRZ)-Bolivia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SSG</code>
+    <DestinationName>Equatorial Guinea</DestinationName>
+    <DestinationStr>Equatorial Guinea(SSG)-Equatorial Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>STM</code>
+    <DestinationName>Eduardo Gomes Arpt</DestinationName>
+    <DestinationStr>Eduardo Gomes Arpt(STM)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SVI</code>
+    <DestinationName>Eduardo Falla Solano Arpt</DestinationName>
+    <DestinationStr>Eduardo Falla Solano Arpt(SVI)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SVX</code>
+    <DestinationName>Ekaterinburg</DestinationName>
+    <DestinationStr>Ekaterinburg(SVX)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SXB</code>
+    <DestinationName>Enzheim Arpt</DestinationName>
+    <DestinationStr>Enzheim Arpt(SXB)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TSS</code>
+    <DestinationName>East 34th St Hlpt</DestinationName>
+    <DestinationStr>East 34th St Hlpt(TSS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UDI</code>
+    <DestinationName>Eduardo Gomes  Arpt</DestinationName>
+    <DestinationStr>Eduardo Gomes  Arpt(UDI)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UIB</code>
+    <DestinationName>El Carano Arpt</DestinationName>
+    <DestinationStr>El Carano Arpt(UIB)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UMU</code>
+    <DestinationName>Ernesto Geisel Arpt</DestinationName>
+    <DestinationStr>Ernesto Geisel Arpt(UMU)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VIG</code>
+    <DestinationName>El Vigia</DestinationName>
+    <DestinationStr>El Vigia(VIG)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VIX</code>
+    <DestinationName>Eurico Sales Arpt</DestinationName>
+    <DestinationStr>Eurico Sales Arpt(VIX)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WDG</code>
+    <DestinationName>Enid</DestinationName>
+    <DestinationStr>Enid(WDG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XEB</code>
+    <DestinationName>Evian Les Bains</DestinationName>
+    <DestinationStr>Evian Les Bains(XEB)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XEP</code>
+    <DestinationName>Epernay</DestinationName>
+    <DestinationStr>Epernay(XEP)-France</DestinationStr>
+  </Destination>    
+  <Destination>
+    <code>XMS</code>
+    <DestinationName>Edmundo Carvajal Arpt</DestinationName>
+    <DestinationStr>Edmundo Carvajal Arpt(XMS)-Ecuador</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XPL</code>
+    <DestinationName>Enrique Soto Cano Airport</DestinationName>
+    <DestinationStr>Enrique Soto Cano Airport(XPL)-Honduras</DestinationStr>
+  </Destination>    
+  <Destination>
+    <code>XRD</code>
+    <DestinationName>Egersund</DestinationName>
+    <DestinationStr>Egersund(XRD)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XUC</code>
+    <DestinationName>Elverum</DestinationName>
+    <DestinationStr>Elverum(XUC)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XWQ</code>
+    <DestinationName>Enkoping</DestinationName>
+    <DestinationStr>Enkoping(XWQ)-Sweden</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>YEA</code>
+    <DestinationName>Edmonton</DestinationName>
+    <DestinationStr>Edmonton(YEA)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YEG</code>
+    <DestinationName>Edmonton Intl Arpt</DestinationName>
+    <DestinationStr>Edmonton Intl Arpt(YEG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YEL</code>
+    <DestinationName>Elliot Lake Municipal Airport</DestinationName>
+    <DestinationStr>Elliot Lake Municipal Airport(YEL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YEL</code>
+    <DestinationName>Elliot Lake</DestinationName>
+    <DestinationStr>Elliot Lake(YEL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YEN</code>
+    <DestinationName>Estevan Regional Airport</DestinationName>
+    <DestinationStr>Estevan Regional Airport(YEN)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YEN</code>
+    <DestinationName>Estevan</DestinationName>
+    <DestinationStr>Estevan(YEN)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YET</code>
+    <DestinationName>Edson Arpt</DestinationName>
+    <DestinationStr>Edson Arpt(YET)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YET</code>
+    <DestinationName>Edson</DestinationName>
+    <DestinationStr>Edson(YET)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>YPF</code>
+    <DestinationName>Esquimalt</DestinationName>
+    <DestinationStr>Esquimalt(YPF)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YSL</code>
+    <DestinationName>Edmunston Arpt</DestinationName>
+    <DestinationStr>Edmunston Arpt(YSL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXD</code>
+    <DestinationName>Edmonton City Centre Airport</DestinationName>
+    <DestinationStr>Edmonton City Centre Airport(YXD)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXR</code>
+    <DestinationName>Earlton</DestinationName>
+    <DestinationStr>Earlton(YXR)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZBG</code>
+    <DestinationName>Elblag Airport</DestinationName>
+    <DestinationStr>Elblag Airport(ZBG)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZBG</code>
+    <DestinationName>Elblag</DestinationName>
+    <DestinationStr>Elblag(ZBG)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZCZ</code>
+    <DestinationName>Erlangen</DestinationName>
+    <DestinationStr>Erlangen(ZCZ)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZDZ</code>
+    <DestinationName>Einsiedeln</DestinationName>
+    <DestinationStr>Einsiedeln(ZDZ)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZEA</code>
+    <DestinationName>Eschweiler</DestinationName>
+    <DestinationStr>Eschweiler(ZEA)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZEB</code>
+    <DestinationName>Esslingen</DestinationName>
+    <DestinationStr>Esslingen(ZEB)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZED</code>
+    <DestinationName>Euskirchen</DestinationName>
+    <DestinationStr>Euskirchen(ZED)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZHB</code>
+    <DestinationName>Engelberg</DestinationName>
+    <DestinationStr>Engelberg(ZHB)-Switzerland</DestinationStr>
+  </Destination>    
+</DestinationRoot>

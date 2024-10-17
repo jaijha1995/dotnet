@@ -1,0 +1,3127 @@
+﻿<DestinationRoot>
+  <Destination>
+    <code>NORESULT</code>
+    <DestinationName>NORESULT</DestinationName>
+    <DestinationStr>No Result Found</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ACC</code>
+    <DestinationName>Ghana</DestinationName>
+    <DestinationStr>Ghana(ACC)-Ghana</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ADZ</code>
+    <DestinationName>Gustavo R Pinilla Intl</DestinationName>
+    <DestinationStr>Gustavo R Pinilla Intl(ADZ)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AGT</code>
+    <DestinationName>Guarani Intl</DestinationName>
+    <DestinationStr>Guarani Intl(AGT)-Paraguay</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AKS</code>
+    <DestinationName>Gwaunaruu Airport</DestinationName>
+    <DestinationStr>Gwaunaruu Airport(AKS)-Solomon Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ATA</code>
+    <DestinationName>German Arias Graziani Arpt</DestinationName>
+    <DestinationStr>German Arias Graziani Arpt(ATA)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BCA</code>
+    <DestinationName>Gustavo Rizo</DestinationName>
+    <DestinationStr>Gustavo Rizo(BCA)-Cuba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BES</code>
+    <DestinationName>Guipavas Arpt</DestinationName>
+    <DestinationStr>Guipavas Arpt(BES)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BGI</code>
+    <DestinationName>Grantley Adams Intl Arpt</DestinationName>
+    <DestinationStr>Grantley Adams Intl Arpt(BGI)-Barbados</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BLA</code>
+    <DestinationName>Gen J A Anzoategui Arpt</DestinationName>
+    <DestinationStr>Gen J A Anzoategui Arpt(BLA)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BLQ</code>
+    <DestinationName>Guglielmo Marconi</DestinationName>
+    <DestinationStr>Guglielmo Marconi(BLQ)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BQK</code>
+    <DestinationName>Gylnco Jet Port</DestinationName>
+    <DestinationStr>Gylnco Jet Port(BQK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BTP</code>
+    <DestinationName>Graham Field Arpt</DestinationName>
+    <DestinationStr>Graham Field Arpt(BTP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BUF</code>
+    <DestinationName>Greater Buffalo Intl Arpt</DestinationName>
+    <DestinationStr>Greater Buffalo Intl Arpt(BUF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BUN</code>
+    <DestinationName>Gerardo Tobar Lopez Arpt</DestinationName>
+    <DestinationStr>Gerardo Tobar Lopez Arpt(BUN)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BZN</code>
+    <DestinationName>Gallatin Field</DestinationName>
+    <DestinationStr>Gallatin Field(BZN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAN</code>
+    <DestinationName>Guangzhou</DestinationName>
+    <DestinationStr>Guangzhou(CAN)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CCE</code>
+    <DestinationName>Grand Case Arpt</DestinationName>
+    <DestinationStr>Grand Case Arpt(CCE)-St Martin</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CKY</code>
+    <DestinationName>Guinea</DestinationName>
+    <DestinationStr>Guinea(CKY)-Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CRD</code>
+    <DestinationName>General E Mosconi Arpt</DestinationName>
+    <DestinationStr>General E Mosconi Arpt(CRD)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CRE</code>
+    <DestinationName>Grand Strand Arpt</DestinationName>
+    <DestinationStr>Grand Strand Arpt(CRE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DGO</code>
+    <DestinationName>Guadalupe Victoria Intl Arpt</DestinationName>
+    <DestinationStr>Guadalupe Victoria Intl Arpt(DGO)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DHM</code>
+    <DestinationName>Gaggal Arpt</DestinationName>
+    <DestinationStr>Gaggal Arpt(DHM)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DIN</code>
+    <DestinationName>Gialam Arpt</DestinationName>
+    <DestinationStr>Gialam Arpt(DIN)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DLD</code>
+    <DestinationName>Geilo</DestinationName>
+    <DestinationStr>Geilo(DLD)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DSD</code>
+    <DestinationName>Grande Anse Arpt</DestinationName>
+    <DestinationStr>Grande Anse Arpt(DSD)-Guadeloupe</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EGN</code>
+    <DestinationName>Geneina</DestinationName>
+    <DestinationStr>Geneina(EGN)-Sudan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ELD</code>
+    <DestinationName>Goodwin Field</DestinationName>
+    <DestinationStr>Goodwin Field(ELD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ELQ</code>
+    <DestinationName>Gassim Arpt</DestinationName>
+    <DestinationStr>Gassim Arpt(ELQ)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ELQ</code>
+    <DestinationName>Gassim</DestinationName>
+    <DestinationStr>Gassim(ELQ)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FCA</code>
+    <DestinationName>Glacier Park Intl</DestinationName>
+    <DestinationStr>Glacier Park Intl(FCA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FLA</code>
+    <DestinationName>Gustavo A Paredes Arpt</DestinationName>
+    <DestinationStr>Gustavo A Paredes Arpt(FLA)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FLO</code>
+    <DestinationName>Gilbert Field</DestinationName>
+    <DestinationStr>Gilbert Field(FLO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FOG</code>
+    <DestinationName>Gino Lisa Arpt</DestinationName>
+    <DestinationStr>Gino Lisa Arpt(FOG)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FPO</code>
+    <DestinationName>Grand Bahama Intl Arpt</DestinationName>
+    <DestinationStr>Grand Bahama Intl Arpt(FPO)-Bahamas</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GAA</code>
+    <DestinationName>Guamal</DestinationName>
+    <DestinationStr>Guamal(GAA)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GAD</code>
+    <DestinationName>Gadsden Municipal</DestinationName>
+    <DestinationStr>Gadsden Municipal(GAD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GAD</code>
+    <DestinationName>Gadsden</DestinationName>
+    <DestinationStr>Gadsden(GAD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GAE</code>
+    <DestinationName>Gabes</DestinationName>
+    <DestinationStr>Gabes(GAE)-Tunisia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GAI</code>
+    <DestinationName>Gaithersburg</DestinationName>
+    <DestinationStr>Gaithersburg(GAI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GAI</code>
+    <DestinationName>Montgomery Cty Arpt</DestinationName>
+    <DestinationStr>Montgomery Cty Arpt(GAI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GAJ</code>
+    <DestinationName>Yamagata Airport</DestinationName>
+    <DestinationStr>Yamagata Airport(GAJ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GAJ</code>
+    <DestinationName>Yamagata</DestinationName>
+    <DestinationStr>Yamagata(GAJ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GAL</code>
+    <DestinationName>Galena Arpt</DestinationName>
+    <DestinationStr>Galena Arpt(GAL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GAL</code>
+    <DestinationName>Galena</DestinationName>
+    <DestinationStr>Galena(GAL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GAM</code>
+    <DestinationName>Gambell</DestinationName>
+    <DestinationStr>Gambell(GAM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GAN</code>
+    <DestinationName>Gan International Arpt</DestinationName>
+    <DestinationStr>Gan International Arpt(GAN)-Maldives</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GAN</code>
+    <DestinationName>Gan Island</DestinationName>
+    <DestinationStr>Gan Island(GAN)-Maldives</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GAO</code>
+    <DestinationName>Guantanamo Bay NS</DestinationName>
+    <DestinationStr>Guantanamo Bay NS(GAO)-Cuba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GAO</code>
+    <DestinationName>Guantanamo</DestinationName>
+    <DestinationStr>Guantanamo(GAO)-Cuba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GAR</code>
+    <DestinationName>Garaina Arpt</DestinationName>
+    <DestinationStr>Garaina Arpt(GAR)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GAR</code>
+    <DestinationName>Garaina</DestinationName>
+    <DestinationStr>Garaina(GAR)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GAS</code>
+    <DestinationName>Garissa</DestinationName>
+    <DestinationStr>Garissa(GAS)-Kenya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GAT</code>
+    <DestinationName>Gap France</DestinationName>
+    <DestinationStr>Gap France(GAT)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GAT</code>
+    <DestinationName>Tallard Arpt</DestinationName>
+    <DestinationStr>Tallard Arpt(GAT)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GAU</code>
+    <DestinationName>Gauhati</DestinationName>
+    <DestinationStr>Gauhati(GAU)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GAU</code>
+    <DestinationName>Gawahati</DestinationName>
+    <DestinationStr>Gawahati(GAU)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GAU</code>
+    <DestinationName>Guwahati</DestinationName>
+    <DestinationStr>Guwahati(GAU)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GAU</code>
+    <DestinationName>Lokpriya Gopinath Bordoloi Intl Arpt</DestinationName>
+    <DestinationStr>Lokpriya Gopinath Bordoloi Intl Arpt(GAU)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GAX</code>
+    <DestinationName>Gamba</DestinationName>
+    <DestinationStr>Gamba(GAX)-Gabon</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GAY</code>
+    <DestinationName>Gaya Arpt</DestinationName>
+    <DestinationStr>Gaya Arpt(GAY)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GAY</code>
+    <DestinationName>Gaya</DestinationName>
+    <DestinationStr>Gaya(GAY)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GBD</code>
+    <DestinationName>Great Bend</DestinationName>
+    <DestinationStr>Great Bend(GBD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GBD</code>
+    <DestinationName>Greate Bend Municipal</DestinationName>
+    <DestinationStr>Greate Bend Municipal(GBD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GBE</code>
+    <DestinationName>Gaborone Arpt</DestinationName>
+    <DestinationStr>Gaborone Arpt(GBE)-Botswana</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GBE</code>
+    <DestinationName>Gaborone</DestinationName>
+    <DestinationStr>Gaborone(GBE)-Botswana</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GBG</code>
+    <DestinationName>Galesburg Arpt</DestinationName>
+    <DestinationStr>Galesburg Arpt(GBG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GBG</code>
+    <DestinationName>Galesburg</DestinationName>
+    <DestinationStr>Galesburg(GBG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GBJ</code>
+    <DestinationName>Marie Galante</DestinationName>
+    <DestinationStr>Marie Galante(GBJ)-Guadeloupe</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GBK</code>
+    <DestinationName>Gbangbatok Arpt</DestinationName>
+    <DestinationStr>Gbangbatok Arpt(GBK)-Sierra Leone</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GBK</code>
+    <DestinationName>Gbangbatok</DestinationName>
+    <DestinationStr>Gbangbatok(GBK)-Sierra Leone</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GBN</code>
+    <DestinationName>San Giovanni Rotondo Arpt</DestinationName>
+    <DestinationStr>San Giovanni Rotondo Arpt(GBN)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GBN</code>
+    <DestinationName>San Giovanni Rotondo</DestinationName>
+    <DestinationStr>San Giovanni Rotondo(GBN)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GBO</code>
+    <DestinationName>Baltimore Greenbelt Arpt</DestinationName>
+    <DestinationStr>Baltimore Greenbelt Arpt(GBO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GBQ</code>
+    <DestinationName>Al Muharraq</DestinationName>
+    <DestinationStr>Al Muharraq(GBQ)-Bahrain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GBQ</code>
+    <DestinationName>Muharraq Arpt</DestinationName>
+    <DestinationStr>Muharraq Arpt(GBQ)-Bahrain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GBQ</code>
+    <DestinationName>Muharraq Town</DestinationName>
+    <DestinationStr>Muharraq Town(GBQ)-Bahrain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GBR</code>
+    <DestinationName>Great Barrington Arpt</DestinationName>
+    <DestinationStr>Great Barrington Arpt(GBR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GBR</code>
+    <DestinationName>Great Barrington</DestinationName>
+    <DestinationStr>Great Barrington(GBR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GBZ</code>
+    <DestinationName>Great Barrier Island Arpt</DestinationName>
+    <DestinationStr>Great Barrier Island Arpt(GBZ)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GBZ</code>
+    <DestinationName>Great Barrier Island</DestinationName>
+    <DestinationStr>Great Barrier Island(GBZ)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GCC</code>
+    <DestinationName>Campbell Cty Arpt</DestinationName>
+    <DestinationStr>Campbell Cty Arpt(GCC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GCC</code>
+    <DestinationName>Gillette</DestinationName>
+    <DestinationStr>Gillette(GCC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GCI</code>
+    <DestinationName>Guernsey Arpt</DestinationName>
+    <DestinationStr>Guernsey Arpt(GCI)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GCI</code>
+    <DestinationName>Guernsey</DestinationName>
+    <DestinationStr>Guernsey(GCI)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GCJ</code>
+    <DestinationName>Grand Central Arpt</DestinationName>
+    <DestinationStr>Grand Central Arpt(GCJ)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GCK</code>
+    <DestinationName>Garden City Municipal</DestinationName>
+    <DestinationStr>Garden City Municipal(GCK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GCK</code>
+    <DestinationName>Garden City</DestinationName>
+    <DestinationStr>Garden City(GCK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GCM</code>
+    <DestinationName>Grand Cayman Island</DestinationName>
+    <DestinationStr>Grand Cayman Island(GCM)-Cayman Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GCM</code>
+    <DestinationName>Owen Roberts International</DestinationName>
+    <DestinationStr>Owen Roberts International(GCM)-Cayman Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GCN</code>
+    <DestinationName>Grand Canyon Natl Park Arpt</DestinationName>
+    <DestinationStr>Grand Canyon Natl Park Arpt(GCN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GCN</code>
+    <DestinationName>Grand Canyon</DestinationName>
+    <DestinationStr>Grand Canyon(GCN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GCV</code>
+    <DestinationName>Gravatai Arpt</DestinationName>
+    <DestinationStr>Gravatai Arpt(GCV)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GCV</code>
+    <DestinationName>Gravatai</DestinationName>
+    <DestinationStr>Gravatai(GCV)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GCY</code>
+    <DestinationName>Greeneville</DestinationName>
+    <DestinationStr>Greeneville(GCY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GCY</code>
+    <DestinationName>Greenville</DestinationName>
+    <DestinationStr>Greenville(GCY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GCY</code>
+    <DestinationName>Municipal Greeneville Arpt</DestinationName>
+    <DestinationStr>Municipal Greeneville Arpt(GCY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GDC</code>
+    <DestinationName>Donaldson Center Arpt</DestinationName>
+    <DestinationStr>Donaldson Center Arpt(GDC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GDE</code>
+    <DestinationName>Gode Iddidole</DestinationName>
+    <DestinationStr>Gode Iddidole(GDE)-Ethiopia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GDE</code>
+    <DestinationName>Gode</DestinationName>
+    <DestinationStr>Gode(GDE)-Ethiopia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GDL</code>
+    <DestinationName>Guadalajara</DestinationName>
+    <DestinationStr>Guadalajara(GDL)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GDL</code>
+    <DestinationName>Miguel Hidalgo Intl</DestinationName>
+    <DestinationStr>Miguel Hidalgo Intl(GDL)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GDN</code>
+    <DestinationName>Gdansk</DestinationName>
+    <DestinationStr>Gdansk(GDN)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GDN</code>
+    <DestinationName>Rebiechowo</DestinationName>
+    <DestinationStr>Rebiechowo(GDN)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GDQ</code>
+    <DestinationName>Azezo</DestinationName>
+    <DestinationStr>Azezo(GDQ)-Ethiopia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GDQ</code>
+    <DestinationName>Gondar</DestinationName>
+    <DestinationStr>Gondar(GDQ)-Ethiopia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GDT</code>
+    <DestinationName>Grand Turk</DestinationName>
+    <DestinationStr>Grand Turk(GDT)-Turks And Caicos Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GDT</code>
+    <DestinationName>J A G S McCartney Intl</DestinationName>
+    <DestinationStr>J A G S McCartney Intl(GDT)-Turks And Caicos Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GDU</code>
+    <DestinationName>Guadalajara</DestinationName>
+    <DestinationStr>Guadalajara(GDU)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GDV</code>
+    <DestinationName>Dawson Community Arpt</DestinationName>
+    <DestinationStr>Dawson Community Arpt(GDV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GDV</code>
+    <DestinationName>Glendive</DestinationName>
+    <DestinationStr>Glendive(GDV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GDX</code>
+    <DestinationName>Magadan Arpt</DestinationName>
+    <DestinationStr>Magadan Arpt(GDX)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GDX</code>
+    <DestinationName>Magadan</DestinationName>
+    <DestinationStr>Magadan(GDX)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GDZ</code>
+    <DestinationName>Gelendzhik</DestinationName>
+    <DestinationStr>Gelendzhik(GDZ)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GDZ</code>
+    <DestinationName>Gelendzik Airport</DestinationName>
+    <DestinationStr>Gelendzik Airport(GDZ)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GEA</code>
+    <DestinationName>Magenta Arpt</DestinationName>
+    <DestinationStr>Magenta Arpt(GEA)-New Caledonia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GED</code>
+    <DestinationName>Georgetown</DestinationName>
+    <DestinationStr>Georgetown(GED)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GED</code>
+    <DestinationName>Sussex County Arpt</DestinationName>
+    <DestinationStr>Sussex County Arpt(GED)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GEE</code>
+    <DestinationName>George Town</DestinationName>
+    <DestinationStr>George Town(GEE)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GEG</code>
+    <DestinationName>Spokane Intl Arpt</DestinationName>
+    <DestinationStr>Spokane Intl Arpt(GEG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GEG</code>
+    <DestinationName>Spokane</DestinationName>
+    <DestinationStr>Spokane(GEG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GEK</code>
+    <DestinationName>Ganes Creek Arpt</DestinationName>
+    <DestinationStr>Ganes Creek Arpt(GEK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GEK</code>
+    <DestinationName>Ganes Creek</DestinationName>
+    <DestinationStr>Ganes Creek(GEK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GEL</code>
+    <DestinationName>Santo Angelo</DestinationName>
+    <DestinationStr>Santo Angelo(GEL)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GEN</code>
+    <DestinationName>Puente Genil</DestinationName>
+    <DestinationStr>Puente Genil(GEN)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GEO</code>
+    <DestinationName>Cheddi Jagan Intl</DestinationName>
+    <DestinationStr>Cheddi Jagan Intl(GEO)-Guyana</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GEO</code>
+    <DestinationName>Georgetown</DestinationName>
+    <DestinationStr>Georgetown(GEO)-Guyana</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GER</code>
+    <DestinationName>Nueva Gerona</DestinationName>
+    <DestinationStr>Nueva Gerona(GER)-Cuba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GER</code>
+    <DestinationName>Rafael Cabrera Arpt</DestinationName>
+    <DestinationStr>Rafael Cabrera Arpt(GER)-Cuba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GES</code>
+    <DestinationName>General Santos Intl</DestinationName>
+    <DestinationStr>General Santos Intl(GES)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GES</code>
+    <DestinationName>General Santos</DestinationName>
+    <DestinationStr>General Santos(GES)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GET</code>
+    <DestinationName>Geraldton Arpt</DestinationName>
+    <DestinationStr>Geraldton Arpt(GET)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GET</code>
+    <DestinationName>Geraldton</DestinationName>
+    <DestinationStr>Geraldton(GET)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GEV</code>
+    <DestinationName>Gallivare Arpt</DestinationName>
+    <DestinationStr>Gallivare Arpt(GEV)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GEV</code>
+    <DestinationName>Gallivare</DestinationName>
+    <DestinationStr>Gallivare(GEV)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GEW</code>
+    <DestinationName>Gewoia</DestinationName>
+    <DestinationStr>Gewoia(GEW)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GEX</code>
+    <DestinationName>Geelong Arpt</DestinationName>
+    <DestinationStr>Geelong Arpt(GEX)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GEX</code>
+    <DestinationName>Geelong</DestinationName>
+    <DestinationStr>Geelong(GEX)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GEY</code>
+    <DestinationName>Greybull</DestinationName>
+    <DestinationStr>Greybull(GEY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GEY</code>
+    <DestinationName>South Big Horn County</DestinationName>
+    <DestinationStr>South Big Horn County(GEY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GFA</code>
+    <DestinationName>Malmstrom Airforce Base</DestinationName>
+    <DestinationStr>Malmstrom Airforce Base(GFA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GFD</code>
+    <DestinationName>Greenfield</DestinationName>
+    <DestinationStr>Greenfield(GFD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GFF</code>
+    <DestinationName>Griffith Arpt</DestinationName>
+    <DestinationStr>Griffith Arpt(GFF)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GFF</code>
+    <DestinationName>Griffith</DestinationName>
+    <DestinationStr>Griffith(GFF)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GFK</code>
+    <DestinationName>Grand Forks Mark Andrews Intl</DestinationName>
+    <DestinationStr>Grand Forks Mark Andrews Intl(GFK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GFK</code>
+    <DestinationName>Grand Forks</DestinationName>
+    <DestinationStr>Grand Forks(GFK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GFL</code>
+    <DestinationName>Glens Falls</DestinationName>
+    <DestinationStr>Glens Falls(GFL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GFL</code>
+    <DestinationName>Warren County</DestinationName>
+    <DestinationStr>Warren County(GFL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GFN</code>
+    <DestinationName>Grafton Arpt</DestinationName>
+    <DestinationStr>Grafton Arpt(GFN)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GFN</code>
+    <DestinationName>Grafton</DestinationName>
+    <DestinationStr>Grafton(GFN)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GFR</code>
+    <DestinationName>Granville</DestinationName>
+    <DestinationStr>Granville(GFR)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GFY</code>
+    <DestinationName>Grootfontein</DestinationName>
+    <DestinationStr>Grootfontein(GFY)-Namibia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GGE</code>
+    <DestinationName>George Town Arpt</DestinationName>
+    <DestinationStr>George Town Arpt(GGE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GGE</code>
+    <DestinationName>Georgetown</DestinationName>
+    <DestinationStr>Georgetown(GGE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GGG</code>
+    <DestinationName>Greg County Arpt</DestinationName>
+    <DestinationStr>Greg County Arpt(GGG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GGG</code>
+    <DestinationName>Longview</DestinationName>
+    <DestinationStr>Longview(GGG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GGM</code>
+    <DestinationName>Kakamega Airport</DestinationName>
+    <DestinationStr>Kakamega Airport(GGM)-Kenya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GGM</code>
+    <DestinationName>Kakamega</DestinationName>
+    <DestinationStr>Kakamega(GGM)-Kenya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GGR</code>
+    <DestinationName>Garoe</DestinationName>
+    <DestinationStr>Garoe(GGR)-Somalia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GGS</code>
+    <DestinationName>Gobernador Gregores</DestinationName>
+    <DestinationStr>Gobernador Gregores(GGS)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GGT</code>
+    <DestinationName>George Town Airport</DestinationName>
+    <DestinationStr>George Town Airport(GGT)-Bahamas</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GGT</code>
+    <DestinationName>George Town</DestinationName>
+    <DestinationStr>George Town(GGT)-Bahamas</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GGW</code>
+    <DestinationName>Glasgow</DestinationName>
+    <DestinationStr>Glasgow(GGW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GGW</code>
+    <DestinationName>International Glasgow</DestinationName>
+    <DestinationStr>International Glasgow(GGW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GHA</code>
+    <DestinationName>Ghardaia</DestinationName>
+    <DestinationStr>Ghardaia(GHA)-Algeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GHA</code>
+    <DestinationName>Noumerate Arpt</DestinationName>
+    <DestinationStr>Noumerate Arpt(GHA)-Algeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GHB</code>
+    <DestinationName>Governor S Harbour</DestinationName>
+    <DestinationStr>Governor S Harbour(GHB)-Bahamas</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GHB</code>
+    <DestinationName>Governors Harbour Municipal Arpt</DestinationName>
+    <DestinationStr>Governors Harbour Municipal Arpt(GHB)-Bahamas</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GHT</code>
+    <DestinationName>Ghat</DestinationName>
+    <DestinationStr>Ghat(GHT)-Libyan Arab Jamahiriya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GIB</code>
+    <DestinationName>Gibraltar</DestinationName>
+    <DestinationStr>Gibraltar(GIB)-Gibraltar</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GIB</code>
+    <DestinationName>North Front Arpt</DestinationName>
+    <DestinationStr>North Front Arpt(GIB)-Gibraltar</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GIC</code>
+    <DestinationName>Boigu Island Arpt</DestinationName>
+    <DestinationStr>Boigu Island Arpt(GIC)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GIC</code>
+    <DestinationName>Boigu Island</DestinationName>
+    <DestinationStr>Boigu Island(GIC)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GIF</code>
+    <DestinationName>Gilbert Fld</DestinationName>
+    <DestinationStr>Gilbert Fld(GIF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GIF</code>
+    <DestinationName>Winter Haven</DestinationName>
+    <DestinationStr>Winter Haven(GIF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GIG</code>
+    <DestinationName>Rio Internacional</DestinationName>
+    <DestinationStr>Rio Internacional(GIG)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GIL</code>
+    <DestinationName>Gilgit Arpt</DestinationName>
+    <DestinationStr>Gilgit Arpt(GIL)-Pakistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GIL</code>
+    <DestinationName>Gilgit</DestinationName>
+    <DestinationStr>Gilgit(GIL)-Pakistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GIR</code>
+    <DestinationName>Girardot</DestinationName>
+    <DestinationStr>Girardot(GIR)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GIR</code>
+    <DestinationName>Santiago Vila Airport</DestinationName>
+    <DestinationStr>Santiago Vila Airport(GIR)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GIS</code>
+    <DestinationName>Gisborne Arpt</DestinationName>
+    <DestinationStr>Gisborne Arpt(GIS)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GIS</code>
+    <DestinationName>Gisborne</DestinationName>
+    <DestinationStr>Gisborne(GIS)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GIU</code>
+    <DestinationName>Sigiriya</DestinationName>
+    <DestinationStr>Sigiriya(GIU)-Sri Lanka</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GIZ</code>
+    <DestinationName>Gizan Arpt</DestinationName>
+    <DestinationStr>Gizan Arpt(GIZ)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GIZ</code>
+    <DestinationName>Gizan</DestinationName>
+    <DestinationStr>Gizan(GIZ)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GIZ</code>
+    <DestinationName>Jazan SA</DestinationName>
+    <DestinationStr>Jazan SA(GIZ)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GIZ</code>
+    <DestinationName>Jizan SA</DestinationName>
+    <DestinationStr>Jizan SA(GIZ)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GJA</code>
+    <DestinationName>Guanaja</DestinationName>
+    <DestinationStr>Guanaja(GJA)-Honduras</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GJL</code>
+    <DestinationName>Jijel</DestinationName>
+    <DestinationStr>Jijel(GJL)-Algeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GJN</code>
+    <DestinationName>Zhijiang</DestinationName>
+    <DestinationStr>Zhijiang(GJN)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GJR</code>
+    <DestinationName>Gjogur</DestinationName>
+    <DestinationStr>Gjogur(GJR)-Iceland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GJT</code>
+    <DestinationName>Grand Junction</DestinationName>
+    <DestinationStr>Grand Junction(GJT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GJT</code>
+    <DestinationName>Walker Field Arpt</DestinationName>
+    <DestinationStr>Walker Field Arpt(GJT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GKA</code>
+    <DestinationName>Goroka Arpt</DestinationName>
+    <DestinationStr>Goroka Arpt(GKA)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GKA</code>
+    <DestinationName>Goroka</DestinationName>
+    <DestinationStr>Goroka(GKA)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GKE</code>
+    <DestinationName>Geilenkirchen</DestinationName>
+    <DestinationStr>Geilenkirchen(GKE)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GKK</code>
+    <DestinationName>Kooddoo Arpt</DestinationName>
+    <DestinationStr>Kooddoo Arpt(GKK)-Maldives</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GKK</code>
+    <DestinationName>Kooddoo Island</DestinationName>
+    <DestinationStr>Kooddoo Island(GKK)-Maldives</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GKL</code>
+    <DestinationName>Great Keppel Is</DestinationName>
+    <DestinationStr>Great Keppel Is(GKL)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GKN</code>
+    <DestinationName>Gulkana Arpt</DestinationName>
+    <DestinationStr>Gulkana Arpt(GKN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GKN</code>
+    <DestinationName>Gulkana</DestinationName>
+    <DestinationStr>Gulkana(GKN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GKT</code>
+    <DestinationName>Gatlinburg Arpt</DestinationName>
+    <DestinationStr>Gatlinburg Arpt(GKT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GKT</code>
+    <DestinationName>Gatlinburg</DestinationName>
+    <DestinationStr>Gatlinburg(GKT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GLA</code>
+    <DestinationName>Glasgow Intl</DestinationName>
+    <DestinationStr>Glasgow Intl(GLA)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GLA</code>
+    <DestinationName>Glasgow</DestinationName>
+    <DestinationStr>Glasgow(GLA)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GLB</code>
+    <DestinationName>Globe</DestinationName>
+    <DestinationStr>Globe(GLB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GLB</code>
+    <DestinationName>San Carlos Apache</DestinationName>
+    <DestinationStr>San Carlos Apache(GLB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GLC</code>
+    <DestinationName>Geladi</DestinationName>
+    <DestinationStr>Geladi(GLC)-Ethiopia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GLD</code>
+    <DestinationName>Goodland Municipal</DestinationName>
+    <DestinationStr>Goodland Municipal(GLD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GLD</code>
+    <DestinationName>Goodland</DestinationName>
+    <DestinationStr>Goodland(GLD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GLE</code>
+    <DestinationName>Gainesville Municipal Arpt</DestinationName>
+    <DestinationStr>Gainesville Municipal Arpt(GLE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GLE</code>
+    <DestinationName>Gainesville</DestinationName>
+    <DestinationStr>Gainesville(GLE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GLF</code>
+    <DestinationName>Golfito</DestinationName>
+    <DestinationStr>Golfito(GLF)-Costa Rica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GLG</code>
+    <DestinationName>Glengyle</DestinationName>
+    <DestinationStr>Glengyle(GLG)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GLH</code>
+    <DestinationName>Greenville Municipal</DestinationName>
+    <DestinationStr>Greenville Municipal(GLH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GLH</code>
+    <DestinationName>Greenville</DestinationName>
+    <DestinationStr>Greenville(GLH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GLI</code>
+    <DestinationName>Glen Innes Arpt</DestinationName>
+    <DestinationStr>Glen Innes Arpt(GLI)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GLI</code>
+    <DestinationName>Glen Innes</DestinationName>
+    <DestinationStr>Glen Innes(GLI)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GLL</code>
+    <DestinationName>Gol City</DestinationName>
+    <DestinationStr>Gol City(GLL)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GLL</code>
+    <DestinationName>Klanten Arpt</DestinationName>
+    <DestinationStr>Klanten Arpt(GLL)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GLO</code>
+    <DestinationName>Gloucester</DestinationName>
+    <DestinationStr>Gloucester(GLO)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GLO</code>
+    <DestinationName>Staverton Arpt</DestinationName>
+    <DestinationStr>Staverton Arpt(GLO)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GLQ</code>
+    <DestinationName>Glennallen</DestinationName>
+    <DestinationStr>Glennallen(GLQ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GLR</code>
+    <DestinationName>Gaylord</DestinationName>
+    <DestinationStr>Gaylord(GLR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GLR</code>
+    <DestinationName>Otsego Arpt</DestinationName>
+    <DestinationStr>Otsego Arpt(GLR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GLS</code>
+    <DestinationName>Galveston</DestinationName>
+    <DestinationStr>Galveston(GLS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GLS</code>
+    <DestinationName>Scholes Field</DestinationName>
+    <DestinationStr>Scholes Field(GLS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GLT</code>
+    <DestinationName>Gladstone Airport</DestinationName>
+    <DestinationStr>Gladstone Airport(GLT)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GLT</code>
+    <DestinationName>Gladstone</DestinationName>
+    <DestinationStr>Gladstone(GLT)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GLV</code>
+    <DestinationName>Golovin</DestinationName>
+    <DestinationStr>Golovin(GLV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GLW</code>
+    <DestinationName>Glasgow Municipal Arpt</DestinationName>
+    <DestinationStr>Glasgow Municipal Arpt(GLW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GLW</code>
+    <DestinationName>Glasgow</DestinationName>
+    <DestinationStr>Glasgow(GLW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GLX</code>
+    <DestinationName>Galela</DestinationName>
+    <DestinationStr>Galela(GLX)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GLZ</code>
+    <DestinationName>Breda</DestinationName>
+    <DestinationStr>Breda(GLZ)-Netherlands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GMA</code>
+    <DestinationName>Gemena</DestinationName>
+    <DestinationStr>Gemena(GMA)-Congo Democratic Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GMB</code>
+    <DestinationName>Gambela Airport</DestinationName>
+    <DestinationStr>Gambela Airport(GMB)-Ethiopia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GMB</code>
+    <DestinationName>Gambela</DestinationName>
+    <DestinationStr>Gambela(GMB)-Ethiopia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GME</code>
+    <DestinationName>Gomel Arpt</DestinationName>
+    <DestinationStr>Gomel Arpt(GME)-Belarus</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GME</code>
+    <DestinationName>Gomel</DestinationName>
+    <DestinationStr>Gomel(GME)-Belarus</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GMI</code>
+    <DestinationName>Gasmata</DestinationName>
+    <DestinationStr>Gasmata(GMI)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GMN</code>
+    <DestinationName>Greymouth Arpt</DestinationName>
+    <DestinationStr>Greymouth Arpt(GMN)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GMN</code>
+    <DestinationName>Greymouth</DestinationName>
+    <DestinationStr>Greymouth(GMN)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GMO</code>
+    <DestinationName>Gombe</DestinationName>
+    <DestinationStr>Gombe(GMO)-Nigeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GMO</code>
+    <DestinationName>Lawanti Airport</DestinationName>
+    <DestinationStr>Lawanti Airport(GMO)-Nigeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GMP</code>
+    <DestinationName>Gimpo Intl Arpt</DestinationName>
+    <DestinationStr>Gimpo Intl Arpt(GMP)-Korea, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GMR</code>
+    <DestinationName>Gambier Island Arpt</DestinationName>
+    <DestinationStr>Gambier Island Arpt(GMR)-French Polynesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GMR</code>
+    <DestinationName>Gambier Island</DestinationName>
+    <DestinationStr>Gambier Island(GMR)-French Polynesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GMU</code>
+    <DestinationName>Greenville Downtown Arpt</DestinationName>
+    <DestinationStr>Greenville Downtown Arpt(GMU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GMZ</code>
+    <DestinationName>La Gomera Arpt</DestinationName>
+    <DestinationStr>La Gomera Arpt(GMZ)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GMZ</code>
+    <DestinationName>San Sebastian De La Gomera</DestinationName>
+    <DestinationStr>San Sebastian De La Gomera(GMZ)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GNA</code>
+    <DestinationName>Grodna Arpt</DestinationName>
+    <DestinationStr>Grodna Arpt(GNA)-Belarus</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GNA</code>
+    <DestinationName>Grodna</DestinationName>
+    <DestinationStr>Grodna(GNA)-Belarus</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GNB</code>
+    <DestinationName>Grenoble</DestinationName>
+    <DestinationStr>Grenoble(GNB)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GNB</code>
+    <DestinationName>Saint Geoirs Arpt</DestinationName>
+    <DestinationStr>Saint Geoirs Arpt(GNB)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GNB</code>
+    <DestinationName>St Geoirs Arpt</DestinationName>
+    <DestinationStr>St Geoirs Arpt(GNB)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GND</code>
+    <DestinationName>Grenada</DestinationName>
+    <DestinationStr>Grenada(GND)-Grenada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GND</code>
+    <DestinationName>Maurice Bishop Intl</DestinationName>
+    <DestinationStr>Maurice Bishop Intl(GND)-Grenada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GNE</code>
+    <DestinationName>Gand</DestinationName>
+    <DestinationStr>Gand(GNE)-Belgium</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GNE</code>
+    <DestinationName>Ghent</DestinationName>
+    <DestinationStr>Ghent(GNE)-Belgium</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GNF</code>
+    <DestinationName>Gansner Field</DestinationName>
+    <DestinationStr>Gansner Field(GNF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GNF</code>
+    <DestinationName>Quincy</DestinationName>
+    <DestinationStr>Quincy(GNF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GNR</code>
+    <DestinationName>General Roca</DestinationName>
+    <DestinationStr>General Roca(GNR)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GNS</code>
+    <DestinationName>Gunungsitoli Arpt</DestinationName>
+    <DestinationStr>Gunungsitoli Arpt(GNS)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GNS</code>
+    <DestinationName>Gunungsitoli</DestinationName>
+    <DestinationStr>Gunungsitoli(GNS)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GNT</code>
+    <DestinationName>Grants Milan Municipal Arpt</DestinationName>
+    <DestinationStr>Grants Milan Municipal Arpt(GNT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GNT</code>
+    <DestinationName>Grants</DestinationName>
+    <DestinationStr>Grants(GNT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GNU</code>
+    <DestinationName>Goodnews Bay</DestinationName>
+    <DestinationStr>Goodnews Bay(GNU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GNV</code>
+    <DestinationName>Gainesville Regional</DestinationName>
+    <DestinationStr>Gainesville Regional(GNV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GNV</code>
+    <DestinationName>Gainesville</DestinationName>
+    <DestinationStr>Gainesville(GNV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GNY</code>
+    <DestinationName>Guney Anadolu Airport</DestinationName>
+    <DestinationStr>Guney Anadolu Airport(GNY)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GNY</code>
+    <DestinationName>Sanliurfa</DestinationName>
+    <DestinationStr>Sanliurfa(GNY)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GOA</code>
+    <DestinationName>Christoforo Colombo</DestinationName>
+    <DestinationStr>Christoforo Colombo(GOA)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GOA</code>
+    <DestinationName>Genoa</DestinationName>
+    <DestinationStr>Genoa(GOA)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GOA</code>
+    <DestinationName>Genova</DestinationName>
+    <DestinationStr>Genova(GOA)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GOB</code>
+    <DestinationName>Goba</DestinationName>
+    <DestinationStr>Goba(GOB)-Ethiopia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GOC</code>
+    <DestinationName>Gora</DestinationName>
+    <DestinationStr>Gora(GOC)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GOE</code>
+    <DestinationName>Gonalia</DestinationName>
+    <DestinationStr>Gonalia(GOE)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GOF</code>
+    <DestinationName>Goodfellow Air Force Base</DestinationName>
+    <DestinationStr>Goodfellow Air Force Base(GOF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GOH</code>
+    <DestinationName>Nuuk Arpt</DestinationName>
+    <DestinationStr>Nuuk Arpt(GOH)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GOH</code>
+    <DestinationName>Nuuk</DestinationName>
+    <DestinationStr>Nuuk(GOH)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GOI</code>
+    <DestinationName>Dabolim Arpt</DestinationName>
+    <DestinationStr>Dabolim Arpt(GOI)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GOI</code>
+    <DestinationName>Goa In</DestinationName>
+    <DestinationStr>Goa In(GOI)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GOI</code>
+    <DestinationName>GOA</DestinationName>
+    <DestinationStr>GOA(GOI)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GOJ</code>
+    <DestinationName>Nizhniy Novgorod Arpt</DestinationName>
+    <DestinationStr>Nizhniy Novgorod Arpt(GOJ)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GOJ</code>
+    <DestinationName>Nizhniy Novgorod</DestinationName>
+    <DestinationStr>Nizhniy Novgorod(GOJ)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GOL</code>
+    <DestinationName>GOLD BEACH</DestinationName>
+    <DestinationStr>GOLD BEACH(GOL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GOL</code>
+    <DestinationName>State Arpt</DestinationName>
+    <DestinationStr>State Arpt(GOL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GOM</code>
+    <DestinationName>Goma</DestinationName>
+    <DestinationStr>Goma(GOM)-Congo Democratic Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GOM</code>
+    <DestinationName>Gomo International Arpt</DestinationName>
+    <DestinationStr>Gomo International Arpt(GOM)-Congo Democratic Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GON</code>
+    <DestinationName>Groton New London Arpt</DestinationName>
+    <DestinationStr>Groton New London Arpt(GON)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GON</code>
+    <DestinationName>New London</DestinationName>
+    <DestinationStr>New London(GON)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GOO</code>
+    <DestinationName>Goondiwindi Arpt</DestinationName>
+    <DestinationStr>Goondiwindi Arpt(GOO)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GOO</code>
+    <DestinationName>Goondiwindi</DestinationName>
+    <DestinationStr>Goondiwindi(GOO)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GOP</code>
+    <DestinationName>Gorakhpur Arpt</DestinationName>
+    <DestinationStr>Gorakhpur Arpt(GOP)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GOP</code>
+    <DestinationName>Gorakhpur</DestinationName>
+    <DestinationStr>Gorakhpur(GOP)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GOQ</code>
+    <DestinationName>Golmud Arpt</DestinationName>
+    <DestinationStr>Golmud Arpt(GOQ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GOQ</code>
+    <DestinationName>Golmud</DestinationName>
+    <DestinationStr>Golmud(GOQ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GOR</code>
+    <DestinationName>Gore</DestinationName>
+    <DestinationStr>Gore(GOR)-Ethiopia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GOS</code>
+    <DestinationName>Gosford Airport</DestinationName>
+    <DestinationStr>Gosford Airport(GOS)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GOS</code>
+    <DestinationName>Gosford</DestinationName>
+    <DestinationStr>Gosford(GOS)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GOT</code>
+    <DestinationName>Goteborg</DestinationName>
+    <DestinationStr>Goteborg(GOT)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GOT</code>
+    <DestinationName>Gothenburg</DestinationName>
+    <DestinationStr>Gothenburg(GOT)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GOT</code>
+    <DestinationName>Landvetter Arpt</DestinationName>
+    <DestinationStr>Landvetter Arpt(GOT)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GOU</code>
+    <DestinationName>Garoua Arpt</DestinationName>
+    <DestinationStr>Garoua Arpt(GOU)-Cameroon, United Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GOU</code>
+    <DestinationName>Garoua</DestinationName>
+    <DestinationStr>Garoua(GOU)-Cameroon, United Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GOV</code>
+    <DestinationName>Gove</DestinationName>
+    <DestinationStr>Gove(GOV)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GOV</code>
+    <DestinationName>Nhulunbuy Arpt</DestinationName>
+    <DestinationStr>Nhulunbuy Arpt(GOV)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GOZ</code>
+    <DestinationName>Gorna Orechovitsa Airport</DestinationName>
+    <DestinationStr>Gorna Orechovitsa Airport(GOZ)-Bulgaria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GOZ</code>
+    <DestinationName>Gorna Orjahovica</DestinationName>
+    <DestinationStr>Gorna Orjahovica(GOZ)-Bulgaria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GPA</code>
+    <DestinationName>Araxos Arpt</DestinationName>
+    <DestinationStr>Araxos Arpt(GPA)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GPA</code>
+    <DestinationName>Patras</DestinationName>
+    <DestinationStr>Patras(GPA)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GPB</code>
+    <DestinationName>Guarapuava</DestinationName>
+    <DestinationStr>Guarapuava(GPB)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GPI</code>
+    <DestinationName>Guapi</DestinationName>
+    <DestinationStr>Guapi(GPI)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GPI</code>
+    <DestinationName>Juan Casiano Arpt</DestinationName>
+    <DestinationStr>Juan Casiano Arpt(GPI)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GPN</code>
+    <DestinationName>Garden Point</DestinationName>
+    <DestinationStr>Garden Point(GPN)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GPO</code>
+    <DestinationName>General Pico</DestinationName>
+    <DestinationStr>General Pico(GPO)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GPS</code>
+    <DestinationName>Baltra Arpt</DestinationName>
+    <DestinationStr>Baltra Arpt(GPS)-Ecuador</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GPS</code>
+    <DestinationName>Galapagos Is</DestinationName>
+    <DestinationStr>Galapagos Is(GPS)-Ecuador</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GPT</code>
+    <DestinationName>Biloxi Regional Arpt</DestinationName>
+    <DestinationStr>Biloxi Regional Arpt(GPT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GPT</code>
+    <DestinationName>Gulfport</DestinationName>
+    <DestinationStr>Gulfport(GPT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GPZ</code>
+    <DestinationName>Grand Rapids</DestinationName>
+    <DestinationStr>Grand Rapids(GPZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GPZ</code>
+    <DestinationName>Itasca County</DestinationName>
+    <DestinationStr>Itasca County(GPZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GQQ</code>
+    <DestinationName>Galion Municipal Arpt</DestinationName>
+    <DestinationStr>Galion Municipal Arpt(GQQ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GQQ</code>
+    <DestinationName>Galion</DestinationName>
+    <DestinationStr>Galion(GQQ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GRA</code>
+    <DestinationName>Gamarra</DestinationName>
+    <DestinationStr>Gamarra(GRA)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GRB</code>
+    <DestinationName>Austin Straubel Fld</DestinationName>
+    <DestinationStr>Austin Straubel Fld(GRB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GRB</code>
+    <DestinationName>Green Bay</DestinationName>
+    <DestinationStr>Green Bay(GRB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GRD</code>
+    <DestinationName>Greenwood</DestinationName>
+    <DestinationStr>Greenwood(GRD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GRF</code>
+    <DestinationName>Gray Army Air Field</DestinationName>
+    <DestinationStr>Gray Army Air Field(GRF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GRI</code>
+    <DestinationName>Grand Island</DestinationName>
+    <DestinationStr>Grand Island(GRI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GRI</code>
+    <DestinationName>Hall Cty Regional</DestinationName>
+    <DestinationStr>Hall Cty Regional(GRI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GRJ</code>
+    <DestinationName>George Arpt</DestinationName>
+    <DestinationStr>George Arpt(GRJ)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GRJ</code>
+    <DestinationName>George</DestinationName>
+    <DestinationStr>George(GRJ)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GRK</code>
+    <DestinationName>Gray AAF</DestinationName>
+    <DestinationStr>Gray AAF(GRK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GRK</code>
+    <DestinationName>Killeen Fort Hood Regional Arpt</DestinationName>
+    <DestinationStr>Killeen Fort Hood Regional Arpt(GRK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GRM</code>
+    <DestinationName>Grand Marais</DestinationName>
+    <DestinationStr>Grand Marais(GRM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GRN</code>
+    <DestinationName>Gordon</DestinationName>
+    <DestinationStr>Gordon(GRN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GRO</code>
+    <DestinationName>Costa Brava Arpt</DestinationName>
+    <DestinationStr>Costa Brava Arpt(GRO)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GRO</code>
+    <DestinationName>Girona</DestinationName>
+    <DestinationStr>Girona(GRO)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GRP</code>
+    <DestinationName>Gurupi</DestinationName>
+    <DestinationStr>Gurupi(GRP)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GRQ</code>
+    <DestinationName>Eelde Arpt</DestinationName>
+    <DestinationStr>Eelde Arpt(GRQ)-Netherlands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GRQ</code>
+    <DestinationName>Groningen</DestinationName>
+    <DestinationStr>Groningen(GRQ)-Netherlands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GRR</code>
+    <DestinationName>Gerald R Ford Intl Airport</DestinationName>
+    <DestinationStr>Gerald R Ford Intl Airport(GRR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GRR</code>
+    <DestinationName>Grand Rapids</DestinationName>
+    <DestinationStr>Grand Rapids(GRR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GRR</code>
+    <DestinationName>Kent County Intl Arpt</DestinationName>
+    <DestinationStr>Kent County Intl Arpt(GRR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GRS</code>
+    <DestinationName>Baccarini Arpt</DestinationName>
+    <DestinationStr>Baccarini Arpt(GRS)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GRS</code>
+    <DestinationName>Grosseto</DestinationName>
+    <DestinationStr>Grosseto(GRS)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GRU</code>
+    <DestinationName>Guarulhos Arpt</DestinationName>
+    <DestinationStr>Guarulhos Arpt(GRU)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GRV</code>
+    <DestinationName>Grozny Arpt</DestinationName>
+    <DestinationStr>Grozny Arpt(GRV)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GRV</code>
+    <DestinationName>GROZNY</DestinationName>
+    <DestinationStr>GROZNY(GRV)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GRW</code>
+    <DestinationName>Graciosa Arpt</DestinationName>
+    <DestinationStr>Graciosa Arpt(GRW)-Portugal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GRW</code>
+    <DestinationName>Graciosa Island</DestinationName>
+    <DestinationStr>Graciosa Island(GRW)-Portugal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GRX</code>
+    <DestinationName>Granada Arpt</DestinationName>
+    <DestinationStr>Granada Arpt(GRX)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GRX</code>
+    <DestinationName>Granada</DestinationName>
+    <DestinationStr>Granada(GRX)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GRY</code>
+    <DestinationName>Grimsey</DestinationName>
+    <DestinationStr>Grimsey(GRY)-Iceland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GRZ</code>
+    <DestinationName>Graz</DestinationName>
+    <DestinationStr>Graz(GRZ)-Austria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GRZ</code>
+    <DestinationName>Thalerhof Arpt</DestinationName>
+    <DestinationStr>Thalerhof Arpt(GRZ)-Austria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GSA</code>
+    <DestinationName>Sabah</DestinationName>
+    <DestinationStr>Sabah(GSA)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GSB</code>
+    <DestinationName>Goldsboro</DestinationName>
+    <DestinationStr>Goldsboro(GSB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GSB</code>
+    <DestinationName>Seymour Johnson AFB</DestinationName>
+    <DestinationStr>Seymour Johnson AFB(GSB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GSE</code>
+    <DestinationName>Saeve Arpt</DestinationName>
+    <DestinationStr>Saeve Arpt(GSE)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GSH</code>
+    <DestinationName>Goshen</DestinationName>
+    <DestinationStr>Goshen(GSH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GSO</code>
+    <DestinationName>Greensboro</DestinationName>
+    <DestinationStr>Greensboro(GSO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GSO</code>
+    <DestinationName>Piedmont Triad Intl</DestinationName>
+    <DestinationStr>Piedmont Triad Intl(GSO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GSP</code>
+    <DestinationName>Greenville Spartanburg Arpt</DestinationName>
+    <DestinationStr>Greenville Spartanburg Arpt(GSP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GSP</code>
+    <DestinationName>Greenville</DestinationName>
+    <DestinationStr>Greenville(GSP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GSQ</code>
+    <DestinationName>Shark Elowainat</DestinationName>
+    <DestinationStr>Shark Elowainat(GSQ)-Egypt</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GST</code>
+    <DestinationName>Glacier Bay</DestinationName>
+    <DestinationStr>Glacier Bay(GST)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GST</code>
+    <DestinationName>Gustavus Arpt</DestinationName>
+    <DestinationStr>Gustavus Arpt(GST)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GST</code>
+    <DestinationName>Gustavus</DestinationName>
+    <DestinationStr>Gustavus(GST)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GSY</code>
+    <DestinationName>Grimsby</DestinationName>
+    <DestinationStr>Grimsby(GSY)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GTA</code>
+    <DestinationName>Gatokae Airport</DestinationName>
+    <DestinationStr>Gatokae Airport(GTA)-Solomon Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GTA</code>
+    <DestinationName>Gatokae</DestinationName>
+    <DestinationStr>Gatokae(GTA)-Solomon Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GTB</code>
+    <DestinationName>Genting</DestinationName>
+    <DestinationStr>Genting(GTB)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GTE</code>
+    <DestinationName>Alyangula Arpt</DestinationName>
+    <DestinationStr>Alyangula Arpt(GTE)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GTE</code>
+    <DestinationName>Groote Eylandt</DestinationName>
+    <DestinationStr>Groote Eylandt(GTE)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GTF</code>
+    <DestinationName>Great Falls Intl Arpt</DestinationName>
+    <DestinationStr>Great Falls Intl Arpt(GTF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GTF</code>
+    <DestinationName>Great Falls</DestinationName>
+    <DestinationStr>Great Falls(GTF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GTI</code>
+    <DestinationName>Guettin Arpt</DestinationName>
+    <DestinationStr>Guettin Arpt(GTI)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GTI</code>
+    <DestinationName>Guettin</DestinationName>
+    <DestinationStr>Guettin(GTI)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GTN</code>
+    <DestinationName>Glentannerarpt</DestinationName>
+    <DestinationStr>Glentannerarpt(GTN)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GTN</code>
+    <DestinationName>Mount Cook</DestinationName>
+    <DestinationStr>Mount Cook(GTN)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GTN</code>
+    <DestinationName>Mt Cook</DestinationName>
+    <DestinationStr>Mt Cook(GTN)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GTO</code>
+    <DestinationName>Gorontalo</DestinationName>
+    <DestinationStr>Gorontalo(GTO)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GTR</code>
+    <DestinationName>Columbus Gtr</DestinationName>
+    <DestinationStr>Columbus Gtr(GTR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GTR</code>
+    <DestinationName>Golden Arpt</DestinationName>
+    <DestinationStr>Golden Arpt(GTR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GTT</code>
+    <DestinationName>Georgetown</DestinationName>
+    <DestinationStr>Georgetown(GTT)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GTW</code>
+    <DestinationName>Holesov Airport</DestinationName>
+    <DestinationStr>Holesov Airport(GTW)-Czech Republic</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GTW</code>
+    <DestinationName>Zlin</DestinationName>
+    <DestinationStr>Zlin(GTW)-Czech Republic</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GTY</code>
+    <DestinationName>Gettysburg Arpt</DestinationName>
+    <DestinationStr>Gettysburg Arpt(GTY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GTY</code>
+    <DestinationName>Gettysburg</DestinationName>
+    <DestinationStr>Gettysburg(GTY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GUA</code>
+    <DestinationName>Guatemala City</DestinationName>
+    <DestinationStr>Guatemala City(GUA)-Guatemala</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GUA</code>
+    <DestinationName>La Aurora Intl Arpt</DestinationName>
+    <DestinationStr>La Aurora Intl Arpt(GUA)-Guatemala</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GUC</code>
+    <DestinationName>Gunnison Cty</DestinationName>
+    <DestinationStr>Gunnison Cty(GUC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GUC</code>
+    <DestinationName>Gunnison</DestinationName>
+    <DestinationStr>Gunnison(GUC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GUF</code>
+    <DestinationName>Edwards Arpt</DestinationName>
+    <DestinationStr>Edwards Arpt(GUF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GUF</code>
+    <DestinationName>Gulf Shores</DestinationName>
+    <DestinationStr>Gulf Shores(GUF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GUG</code>
+    <DestinationName>Guari</DestinationName>
+    <DestinationStr>Guari(GUG)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GUH</code>
+    <DestinationName>Gunnedah Airport</DestinationName>
+    <DestinationStr>Gunnedah Airport(GUH)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GUH</code>
+    <DestinationName>Gunnedah</DestinationName>
+    <DestinationStr>Gunnedah(GUH)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GUI</code>
+    <DestinationName>Guiria</DestinationName>
+    <DestinationStr>Guiria(GUI)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GUJ</code>
+    <DestinationName>Guaratingueta</DestinationName>
+    <DestinationStr>Guaratingueta(GUJ)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GUL</code>
+    <DestinationName>Goulburn</DestinationName>
+    <DestinationStr>Goulburn(GUL)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GUM</code>
+    <DestinationName>Antonio B Won Pat Intl</DestinationName>
+    <DestinationStr>Antonio B Won Pat Intl(GUM)-Guam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GUM</code>
+    <DestinationName>Guam</DestinationName>
+    <DestinationStr>Guam(GUM)-Guam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GUN</code>
+    <DestinationName>Gunter AFB</DestinationName>
+    <DestinationStr>Gunter AFB(GUN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GUP</code>
+    <DestinationName>Gallup Municipal</DestinationName>
+    <DestinationStr>Gallup Municipal(GUP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GUP</code>
+    <DestinationName>Gallup</DestinationName>
+    <DestinationStr>Gallup(GUP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GUQ</code>
+    <DestinationName>Guanare</DestinationName>
+    <DestinationStr>Guanare(GUQ)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GUR</code>
+    <DestinationName>Alotau</DestinationName>
+    <DestinationStr>Alotau(GUR)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GUR</code>
+    <DestinationName>Gurney Arpt</DestinationName>
+    <DestinationStr>Gurney Arpt(GUR)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GUR</code>
+    <DestinationName>Gurney</DestinationName>
+    <DestinationStr>Gurney(GUR)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GUT</code>
+    <DestinationName>Guetersloh Arpt</DestinationName>
+    <DestinationStr>Guetersloh Arpt(GUT)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GUT</code>
+    <DestinationName>Gutersloh</DestinationName>
+    <DestinationStr>Gutersloh(GUT)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GUU</code>
+    <DestinationName>Grundarfjordur</DestinationName>
+    <DestinationStr>Grundarfjordur(GUU)-Iceland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GUW</code>
+    <DestinationName>Atyrau Arpt</DestinationName>
+    <DestinationStr>Atyrau Arpt(GUW)-Kazakstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GUW</code>
+    <DestinationName>Atyrau</DestinationName>
+    <DestinationStr>Atyrau(GUW)-Kazakstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GUX</code>
+    <DestinationName>GUNA</DestinationName>
+    <DestinationStr>GUNA(GUX)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GUY</code>
+    <DestinationName>Guymon Municipal Arpt</DestinationName>
+    <DestinationStr>Guymon Municipal Arpt(GUY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GUY</code>
+    <DestinationName>Guymon</DestinationName>
+    <DestinationStr>Guymon(GUY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GUZ</code>
+    <DestinationName>Guarapari</DestinationName>
+    <DestinationStr>Guarapari(GUZ)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GVA</code>
+    <DestinationName>Geneva</DestinationName>
+    <DestinationStr>Geneva(GVA)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GVA</code>
+    <DestinationName>Geneve Cointrin</DestinationName>
+    <DestinationStr>Geneve Cointrin(GVA)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GVI</code>
+    <DestinationName>Green River</DestinationName>
+    <DestinationStr>Green River(GVI)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GVL</code>
+    <DestinationName>Gainesville</DestinationName>
+    <DestinationStr>Gainesville(GVL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GVL</code>
+    <DestinationName>Lee Gilmer Memorial Arpt</DestinationName>
+    <DestinationStr>Lee Gilmer Memorial Arpt(GVL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GVN</code>
+    <DestinationName>Sovetskaya Gavan</DestinationName>
+    <DestinationStr>Sovetskaya Gavan(GVN)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GVR</code>
+    <DestinationName>Governador Valadares Arpt</DestinationName>
+    <DestinationStr>Governador Valadares Arpt(GVR)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GVR</code>
+    <DestinationName>Governador Valadares</DestinationName>
+    <DestinationStr>Governador Valadares(GVR)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GVT</code>
+    <DestinationName>Greenville</DestinationName>
+    <DestinationStr>Greenville(GVT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GVX</code>
+    <DestinationName>Gavle</DestinationName>
+    <DestinationStr>Gavle(GVX)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GVX</code>
+    <DestinationName>Sandviken Arpt</DestinationName>
+    <DestinationStr>Sandviken Arpt(GVX)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GWD</code>
+    <DestinationName>Gwadar Arpt</DestinationName>
+    <DestinationStr>Gwadar Arpt(GWD)-Pakistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GWD</code>
+    <DestinationName>Gwadar</DestinationName>
+    <DestinationStr>Gwadar(GWD)-Pakistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GWE</code>
+    <DestinationName>Gweru Airport</DestinationName>
+    <DestinationStr>Gweru Airport(GWE)-Zimbabwe</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GWE</code>
+    <DestinationName>Gweru</DestinationName>
+    <DestinationStr>Gweru(GWE)-Zimbabwe</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GWL</code>
+    <DestinationName>Gwalior Airport</DestinationName>
+    <DestinationStr>Gwalior Airport(GWL)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GWL</code>
+    <DestinationName>Gwalior</DestinationName>
+    <DestinationStr>Gwalior(GWL)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GWO</code>
+    <DestinationName>Greenwood</DestinationName>
+    <DestinationStr>Greenwood(GWO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GWO</code>
+    <DestinationName>Leflore Arpt</DestinationName>
+    <DestinationStr>Leflore Arpt(GWO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GWS</code>
+    <DestinationName>Glenwood Springs Arpt</DestinationName>
+    <DestinationStr>Glenwood Springs Arpt(GWS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GWS</code>
+    <DestinationName>Glenwood Springs</DestinationName>
+    <DestinationStr>Glenwood Springs(GWS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GWT</code>
+    <DestinationName>Westerland Airport</DestinationName>
+    <DestinationStr>Westerland Airport(GWT)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GWT</code>
+    <DestinationName>Westerland</DestinationName>
+    <DestinationStr>Westerland(GWT)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GWY</code>
+    <DestinationName>Carnmore Arpt</DestinationName>
+    <DestinationStr>Carnmore Arpt(GWY)-Ireland, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GWY</code>
+    <DestinationName>Galway</DestinationName>
+    <DestinationStr>Galway(GWY)-Ireland, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GXF</code>
+    <DestinationName>Seiyun</DestinationName>
+    <DestinationStr>Seiyun(GXF)-Yemen, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GXH</code>
+    <DestinationName>Gannan Xiahe Airport</DestinationName>
+    <DestinationStr>Gannan Xiahe Airport(GXH)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GXH</code>
+    <DestinationName>Xiahe</DestinationName>
+    <DestinationStr>Xiahe(GXH)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GXQ</code>
+    <DestinationName>Coyhaique</DestinationName>
+    <DestinationStr>Coyhaique(GXQ)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GXQ</code>
+    <DestinationName>Teniente Vidal Arpt</DestinationName>
+    <DestinationStr>Teniente Vidal Arpt(GXQ)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GXY</code>
+    <DestinationName>Greeley</DestinationName>
+    <DestinationStr>Greeley(GXY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GXY</code>
+    <DestinationName>Weld County Regional Arpt</DestinationName>
+    <DestinationStr>Weld County Regional Arpt(GXY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GYA</code>
+    <DestinationName>Guayaramerin</DestinationName>
+    <DestinationStr>Guayaramerin(GYA)-Bolivia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GYD</code>
+    <DestinationName>Heydar Aliyev Intl Arpt</DestinationName>
+    <DestinationStr>Heydar Aliyev Intl Arpt(GYD)-Azerbaijan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GYE</code>
+    <DestinationName>Guayaquil</DestinationName>
+    <DestinationStr>Guayaquil(GYE)-Ecuador</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GYE</code>
+    <DestinationName>Jose Joaquin de Olmedo Airport</DestinationName>
+    <DestinationStr>Jose Joaquin de Olmedo Airport(GYE)-Ecuador</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GYE</code>
+    <DestinationName>Simon Bolivar Airport</DestinationName>
+    <DestinationStr>Simon Bolivar Airport(GYE)-Ecuador</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GYI</code>
+    <DestinationName>Gisenyi Arpt</DestinationName>
+    <DestinationStr>Gisenyi Arpt(GYI)-Rwanda</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GYI</code>
+    <DestinationName>Gisenyi</DestinationName>
+    <DestinationStr>Gisenyi(GYI)-Rwanda</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GYM</code>
+    <DestinationName>Guaymas</DestinationName>
+    <DestinationStr>Guaymas(GYM)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GYM</code>
+    <DestinationName>Jose Maria Yanez Intl Arpt</DestinationName>
+    <DestinationStr>Jose Maria Yanez Intl Arpt(GYM)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GYN</code>
+    <DestinationName>Goiania</DestinationName>
+    <DestinationStr>Goiania(GYN)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GYN</code>
+    <DestinationName>Santa Genoveva</DestinationName>
+    <DestinationStr>Santa Genoveva(GYN)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GYP</code>
+    <DestinationName>Gympie Arpt</DestinationName>
+    <DestinationStr>Gympie Arpt(GYP)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GYP</code>
+    <DestinationName>Gympie</DestinationName>
+    <DestinationStr>Gympie(GYP)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GYR</code>
+    <DestinationName>Goodyear</DestinationName>
+    <DestinationStr>Goodyear(GYR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GYR</code>
+    <DestinationName>Litchfield Goodyear Arpt</DestinationName>
+    <DestinationStr>Litchfield Goodyear Arpt(GYR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GYS</code>
+    <DestinationName>Guang Yuan Arpt</DestinationName>
+    <DestinationStr>Guang Yuan Arpt(GYS)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GYS</code>
+    <DestinationName>Guang Yuan</DestinationName>
+    <DestinationStr>Guang Yuan(GYS)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GYY</code>
+    <DestinationName>Gary International Arpt</DestinationName>
+    <DestinationStr>Gary International Arpt(GYY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GYY</code>
+    <DestinationName>Gary</DestinationName>
+    <DestinationStr>Gary(GYY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GZA</code>
+    <DestinationName>Gaza International Arpt</DestinationName>
+    <DestinationStr>Gaza International Arpt(GZA)-State of Palestine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GZA</code>
+    <DestinationName>Gaza</DestinationName>
+    <DestinationStr>Gaza(GZA)-State of Palestine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GZA</code>
+    <DestinationName>Palestine</DestinationName>
+    <DestinationStr>Palestine(GZA)-State of Palestine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GZM</code>
+    <DestinationName>Gozo Arpt</DestinationName>
+    <DestinationStr>Gozo Arpt(GZM)-Malta</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GZM</code>
+    <DestinationName>Gozo</DestinationName>
+    <DestinationStr>Gozo(GZM)-Malta</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GZO</code>
+    <DestinationName>Gizo Nusatupe Arpt</DestinationName>
+    <DestinationStr>Gizo Nusatupe Arpt(GZO)-Solomon Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GZO</code>
+    <DestinationName>Gizo</DestinationName>
+    <DestinationStr>Gizo(GZO)-Solomon Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GZP</code>
+    <DestinationName>Gazipasa</DestinationName>
+    <DestinationStr>Gazipasa(GZP)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GZP</code>
+    <DestinationName>Gazipasaairport</DestinationName>
+    <DestinationStr>Gazipasaairport(GZP)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GZT</code>
+    <DestinationName>Gaziantep Arpt</DestinationName>
+    <DestinationStr>Gaziantep Arpt(GZT)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GZT</code>
+    <DestinationName>Gaziantep</DestinationName>
+    <DestinationStr>Gaziantep(GZT)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IAH</code>
+    <DestinationName>George Bush Intercontinental</DestinationName>
+    <DestinationStr>George Bush Intercontinental(IAH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IES</code>
+    <DestinationName>Goehlis Arpt</DestinationName>
+    <DestinationStr>Goehlis Arpt(IES)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IKK</code>
+    <DestinationName>Greater Kankakee Arpt</DestinationName>
+    <DestinationStr>Greater Kankakee Arpt(IKK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ILG</code>
+    <DestinationName>Greater Wilmington New Castle</DestinationName>
+    <DestinationStr>Greater Wilmington New Castle(ILG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>INF</code>
+    <DestinationName>Guezzam</DestinationName>
+    <DestinationStr>Guezzam(INF)-Algeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ISK</code>
+    <DestinationName>Gandhinagar Airport</DestinationName>
+    <DestinationStr>Gandhinagar Airport(ISK)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JGA</code>
+    <DestinationName>Govardhanpur Arpt</DestinationName>
+    <DestinationStr>Govardhanpur Arpt(JGA)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JGC</code>
+    <DestinationName>Grand Canyon Heliport</DestinationName>
+    <DestinationStr>Grand Canyon Heliport(JGC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JGL</code>
+    <DestinationName>Galleria Arpt</DestinationName>
+    <DestinationStr>Galleria Arpt(JGL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JGP</code>
+    <DestinationName>Greenway Plaza Heliport</DestinationName>
+    <DestinationStr>Greenway Plaza Heliport(JGP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JGR</code>
+    <DestinationName>Groennedal Heliport</DestinationName>
+    <DestinationStr>Groennedal Heliport(JGR)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JGR</code>
+    <DestinationName>Groennedal</DestinationName>
+    <DestinationStr>Groennedal(JGR)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JGX</code>
+    <DestinationName>Glendale Heliport</DestinationName>
+    <DestinationStr>Glendale Heliport(JGX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JGX</code>
+    <DestinationName>Glendale</DestinationName>
+    <DestinationStr>Glendale(JGX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JHC</code>
+    <DestinationName>Garden City</DestinationName>
+    <DestinationStr>Garden City(JHC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KGX</code>
+    <DestinationName>Grayling</DestinationName>
+    <DestinationStr>Grayling(KGX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KOW</code>
+    <DestinationName>Ganzhou Arpt</DestinationName>
+    <DestinationStr>Ganzhou Arpt(KOW)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KOW</code>
+    <DestinationName>Ganzhou</DestinationName>
+    <DestinationStr>Ganzhou(KOW)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KUV</code>
+    <DestinationName>Gunsan Arpt</DestinationName>
+    <DestinationStr>Gunsan Arpt(KUV)-Korea, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KVD</code>
+    <DestinationName>Ganca</DestinationName>
+    <DestinationStr>Ganca(KVD)-Azerbaijan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KVD</code>
+    <DestinationName>Gyandzha Airport</DestinationName>
+    <DestinationStr>Gyandzha Airport(KVD)-Azerbaijan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KVD</code>
+    <DestinationName>Gyandzhan</DestinationName>
+    <DestinationStr>Gyandzhan(KVD)-Azerbaijan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KWE</code>
+    <DestinationName>Guiyang Arpt</DestinationName>
+    <DestinationStr>Guiyang Arpt(KWE)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KWE</code>
+    <DestinationName>Guiyang</DestinationName>
+    <DestinationStr>Guiyang(KWE)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KWL</code>
+    <DestinationName>Guilin Airport</DestinationName>
+    <DestinationStr>Guilin Airport(KWL)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KWL</code>
+    <DestinationName>Guilin</DestinationName>
+    <DestinationStr>Guilin(KWL)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LAR</code>
+    <DestinationName>General Brees Fld</DestinationName>
+    <DestinationStr>General Brees Fld(LAR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LCC</code>
+    <DestinationName>Galatina Arpt</DestinationName>
+    <DestinationStr>Galatina Arpt(LCC)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LCE</code>
+    <DestinationName>Goloson Intl Arpt</DestinationName>
+    <DestinationStr>Goloson Intl Arpt(LCE)-Honduras</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LGW</code>
+    <DestinationName>Gatwick Arpt</DestinationName>
+    <DestinationStr>Gatwick Arpt(LGW)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LPA</code>
+    <DestinationName>Gran Canaria</DestinationName>
+    <DestinationStr>Gran Canaria(LPA)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LTD</code>
+    <DestinationName>Ghadames</DestinationName>
+    <DestinationStr>Ghadames(LTD)-Libyan Arab Jamahiriya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LWB</code>
+    <DestinationName>Greenbrier Valley Arpt</DestinationName>
+    <DestinationStr>Greenbrier Valley Arpt(LWB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MCU</code>
+    <DestinationName>Gueret Arpt</DestinationName>
+    <DestinationStr>Gueret Arpt(MCU)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MKE</code>
+    <DestinationName>General Mitchell Intl Arpt</DestinationName>
+    <DestinationStr>General Mitchell Intl Arpt(MKE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MPH</code>
+    <DestinationName>Godofredo P Ramos Arpt</DestinationName>
+    <DestinationStr>Godofredo P Ramos Arpt(MPH)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MWH</code>
+    <DestinationName>Grant County</DestinationName>
+    <DestinationStr>Grant County(MWH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NBW</code>
+    <DestinationName>Guantanamo Mariana Grajales</DestinationName>
+    <DestinationStr>Guantanamo Mariana Grajales(NBW)-Cuba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NGC</code>
+    <DestinationName>Grand Canyon North Rim Arpt</DestinationName>
+    <DestinationStr>Grand Canyon North Rim Arpt(NGC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NUA</code>
+    <DestinationName>Gregorys Lake Airport</DestinationName>
+    <DestinationStr>Gregorys Lake Airport(NUA)-Sri Lanka</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OHE</code>
+    <DestinationName>Gu Lian Airport</DestinationName>
+    <DestinationStr>Gu Lian Airport(OHE)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OOL</code>
+    <DestinationName>Gold Coast Arpt</DestinationName>
+    <DestinationStr>Gold Coast Arpt(OOL)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OOL</code>
+    <DestinationName>Gold Coast</DestinationName>
+    <DestinationStr>Gold Coast(OOL)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OXB</code>
+    <DestinationName>Guinea Bissau</DestinationName>
+    <DestinationStr>Guinea Bissau(OXB)-Guinea Bissau</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PCR</code>
+    <DestinationName>German Olano Arpt</DestinationName>
+    <DestinationStr>German Olano Arpt(PCR)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PGV</code>
+    <DestinationName>Greenville</DestinationName>
+    <DestinationStr>Greenville(PGV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PIA</code>
+    <DestinationName>Greater Peoria Arpt</DestinationName>
+    <DestinationStr>Greater Peoria Arpt(PIA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PIU</code>
+    <DestinationName>G Concha Iberico Intl</DestinationName>
+    <DestinationStr>G Concha Iberico Intl(PIU)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PNP</code>
+    <DestinationName>Girua Arpt</DestinationName>
+    <DestinationStr>Girua Arpt(PNP)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PNX</code>
+    <DestinationName>Grayson County Arpt</DestinationName>
+    <DestinationStr>Grayson County Arpt(PNX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POP</code>
+    <DestinationName>Gregorio Luperon Intl</DestinationName>
+    <DestinationStr>Gregorio Luperon Intl(POP)-Dominican Republic</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PPN</code>
+    <DestinationName>Guillermo L Valencia Arpt</DestinationName>
+    <DestinationStr>Guillermo L Valencia Arpt(PPN)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PSA</code>
+    <DestinationName>Gal Galilei Arpt</DestinationName>
+    <DestinationStr>Gal Galilei Arpt(PSA)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PVR</code>
+    <DestinationName>G Diaz Ordaz International</DestinationName>
+    <DestinationStr>G Diaz Ordaz International(PVR)-Mexico</DestinationStr>
+  </Destination> 
+  <Destination>
+    <code>QGO</code>
+    <DestinationName>Gorizia</DestinationName>
+    <DestinationStr>Gorizia(QGO)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QGU</code>
+    <DestinationName>Gifu</DestinationName>
+    <DestinationStr>Gifu(QGU)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QGY</code>
+    <DestinationName>Gyor Airport</DestinationName>
+    <DestinationStr>Gyor Airport(QGY)-Hungary</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QGY</code>
+    <DestinationName>Gyor</DestinationName>
+    <DestinationStr>Gyor(QGY)-Hungary</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QIJ</code>
+    <DestinationName>Gijon</DestinationName>
+    <DestinationStr>Gijon(QIJ)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QLC</code>
+    <DestinationName>Gliwice</DestinationName>
+    <DestinationStr>Gliwice(QLC)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QRP</code>
+    <DestinationName>Gramado</DestinationName>
+    <DestinationStr>Gramado(QRP)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QYD</code>
+    <DestinationName>Gdynia</DestinationName>
+    <DestinationStr>Gdynia(QYD)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QYK</code>
+    <DestinationName>Goyang</DestinationName>
+    <DestinationStr>Goyang(QYK)-Korea, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RGK</code>
+    <DestinationName>Gorno Altaysk Airport</DestinationName>
+    <DestinationStr>Gorno Altaysk Airport(RGK)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RGK</code>
+    <DestinationName>Gorno Altaysk</DestinationName>
+    <DestinationStr>Gorno Altaysk(RGK)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RIL</code>
+    <DestinationName>Garfield Cty Arpt</DestinationName>
+    <DestinationStr>Garfield Cty Arpt(RIL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RME</code>
+    <DestinationName>Griffiss Air Force Base</DestinationName>
+    <DestinationStr>Griffiss Air Force Base(RME)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RVR</code>
+    <DestinationName>Green River Arpt</DestinationName>
+    <DestinationStr>Green River Arpt(RVR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RVR</code>
+    <DestinationName>Green River</DestinationName>
+    <DestinationStr>Green River(RVR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SBH</code>
+    <DestinationName>Gustaf III Airport</DestinationName>
+    <DestinationStr>Gustaf III Airport(SBH)-Guadeloupe</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SEE</code>
+    <DestinationName>Gillespie Field</DestinationName>
+    <DestinationStr>Gillespie Field(SEE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SFG</code>
+    <DestinationName>Grand Case L Esperance Arpt</DestinationName>
+    <DestinationStr>Grand Case L Esperance Arpt(SFG)-St Martin</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SKY</code>
+    <DestinationName>Griffing Sandusky Arpt</DestinationName>
+    <DestinationStr>Griffing Sandusky Arpt(SKY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SLA</code>
+    <DestinationName>Gen Martin M De Guemes Arpt</DestinationName>
+    <DestinationStr>Gen Martin M De Guemes Arpt(SLA)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SNC</code>
+    <DestinationName>General Ulpiano Paez Arpt</DestinationName>
+    <DestinationStr>General Ulpiano Paez Arpt(SNC)-Ecuador</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SQO</code>
+    <DestinationName>Gunnarn Arpt</DestinationName>
+    <DestinationStr>Gunnarn Arpt(SQO)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SVC</code>
+    <DestinationName>Grant County Airport</DestinationName>
+    <DestinationStr>Grant County Airport(SVC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SZZ</code>
+    <DestinationName>Goleniow Arpt</DestinationName>
+    <DestinationStr>Goleniow Arpt(SZZ)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TGD</code>
+    <DestinationName>Golubovci Arpt</DestinationName>
+    <DestinationStr>Golubovci Arpt(TGD)-Montenegro</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TLU</code>
+    <DestinationName>Golfo De Morrosquillo Arpt</DestinationName>
+    <DestinationStr>Golfo De Morrosquillo Arpt(TLU)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TME</code>
+    <DestinationName>Gabriel Vargas Santos Arpt</DestinationName>
+    <DestinationStr>Gabriel Vargas Santos Arpt(TME)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TPP</code>
+    <DestinationName>G Del Castillo Paredes</DestinationName>
+    <DestinationStr>G Del Castillo Paredes(TPP)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TRB</code>
+    <DestinationName>Gonzalo Mejia Arpt</DestinationName>
+    <DestinationStr>Gonzalo Mejia Arpt(TRB)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>URY</code>
+    <DestinationName>Gurayat Arpt</DestinationName>
+    <DestinationStr>Gurayat Arpt(URY)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>URY</code>
+    <DestinationName>Gurayat</DestinationName>
+    <DestinationStr>Gurayat(URY)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UVA</code>
+    <DestinationName>Garner Field</DestinationName>
+    <DestinationStr>Garner Field(UVA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VCV</code>
+    <DestinationName>George AFB</DestinationName>
+    <DestinationStr>George AFB(VCV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WAY</code>
+    <DestinationName>Green County Airport</DestinationName>
+    <DestinationStr>Green County Airport(WAY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WCA</code>
+    <DestinationName>Gamboa Airport</DestinationName>
+    <DestinationStr>Gamboa Airport(WCA)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WLW</code>
+    <DestinationName>Glenn County Arpt</DestinationName>
+    <DestinationStr>Glenn County Arpt(WLW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XDO</code>
+    <DestinationName>Grande Riviere</DestinationName>
+    <DestinationStr>Grande Riviere(XDO)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XGB</code>
+    <DestinationName>Gare Montparnasse Arpt</DestinationName>
+    <DestinationStr>Gare Montparnasse Arpt(XGB)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XGG</code>
+    <DestinationName>Gorom</DestinationName>
+    <DestinationStr>Gorom(XGG)-Burkina Faso</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XGM</code>
+    <DestinationName>Grantham</DestinationName>
+    <DestinationStr>Grantham(XGM)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XGS</code>
+    <DestinationName>Gjerstad</DestinationName>
+    <DestinationStr>Gjerstad(XGS)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XGT</code>
+    <DestinationName>Gueret</DestinationName>
+    <DestinationStr>Gueret(XGT)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XGW</code>
+    <DestinationName>Gananoque</DestinationName>
+    <DestinationStr>Gananoque(XGW)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XGY</code>
+    <DestinationName>Grimsby</DestinationName>
+    <DestinationStr>Grimsby(XGY)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XHM</code>
+    <DestinationName>Georgetown</DestinationName>
+    <DestinationStr>Georgetown(XHM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XIA</code>
+    <DestinationName>Guelph</DestinationName>
+    <DestinationStr>Guelph(XIA)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XKG</code>
+    <DestinationName>Grong</DestinationName>
+    <DestinationStr>Grong(XKG)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XZC</code>
+    <DestinationName>Glencoe</DestinationName>
+    <DestinationStr>Glencoe(XZC)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YGP</code>
+    <DestinationName>Gaspe Municipal Arpt</DestinationName>
+    <DestinationStr>Gaspe Municipal Arpt(YGP)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YGP</code>
+    <DestinationName>Gaspe</DestinationName>
+    <DestinationStr>Gaspe(YGP)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YGQ</code>
+    <DestinationName>Geraldton</DestinationName>
+    <DestinationStr>Geraldton(YGQ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YGQ</code>
+    <DestinationName>Greenstone Regional Airport</DestinationName>
+    <DestinationStr>Greenstone Regional Airport(YGQ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YGX</code>
+    <DestinationName>Gillam</DestinationName>
+    <DestinationStr>Gillam(YGX)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHK</code>
+    <DestinationName>Gjoa Haven Arpt</DestinationName>
+    <DestinationStr>Gjoa Haven Arpt(YHK)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHK</code>
+    <DestinationName>Gjoa Haven</DestinationName>
+    <DestinationStr>Gjoa Haven(YHK)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YND</code>
+    <DestinationName>Gatineau Hull Municipal Arpt</DestinationName>
+    <DestinationStr>Gatineau Hull Municipal Arpt(YND)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YND</code>
+    <DestinationName>Gatineau Hull</DestinationName>
+    <DestinationStr>Gatineau Hull(YND)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQU</code>
+    <DestinationName>Grande Prairie Arpt</DestinationName>
+    <DestinationStr>Grande Prairie Arpt(YQU)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQU</code>
+    <DestinationName>Grande Prairie</DestinationName>
+    <DestinationStr>Grande Prairie(YQU)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQX</code>
+    <DestinationName>Gander International</DestinationName>
+    <DestinationStr>Gander International(YQX)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQX</code>
+    <DestinationName>Gander</DestinationName>
+    <DestinationStr>Gander(YQX)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYR</code>
+    <DestinationName>Goose Bay</DestinationName>
+    <DestinationStr>Goose Bay(YYR)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YZE</code>
+    <DestinationName>Gore Bay</DestinationName>
+    <DestinationStr>Gore Bay(YZE)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YZX</code>
+    <DestinationName>Greenwood Arpt</DestinationName>
+    <DestinationStr>Greenwood Arpt(YZX)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YZX</code>
+    <DestinationName>Greenwood</DestinationName>
+    <DestinationStr>Greenwood(YZX)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZEH</code>
+    <DestinationName>Garbsen</DestinationName>
+    <DestinationStr>Garbsen(ZEH)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZEI</code>
+    <DestinationName>Garmisch Partenkirchen</DestinationName>
+    <DestinationStr>Garmisch Partenkirchen(ZEI)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZEJ</code>
+    <DestinationName>Gelsenkirchen</DestinationName>
+    <DestinationStr>Gelsenkirchen(ZEJ)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZEK</code>
+    <DestinationName>Gladbeck</DestinationName>
+    <DestinationStr>Gladbeck(ZEK)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZES</code>
+    <DestinationName>Goeppingen</DestinationName>
+    <DestinationStr>Goeppingen(ZES)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZET</code>
+    <DestinationName>Goslar</DestinationName>
+    <DestinationStr>Goslar(ZET)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZEU</code>
+    <DestinationName>Goettingen</DestinationName>
+    <DestinationStr>Goettingen(ZEU)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZEW</code>
+    <DestinationName>Gummersbach</DestinationName>
+    <DestinationStr>Gummersbach(ZEW)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZGA</code>
+    <DestinationName>Gera</DestinationName>
+    <DestinationStr>Gera(ZGA)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZGE</code>
+    <DestinationName>Goerlitz</DestinationName>
+    <DestinationStr>Goerlitz(ZGE)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZGF</code>
+    <DestinationName>Grand Forks</DestinationName>
+    <DestinationStr>Grand Forks(ZGF)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZGO</code>
+    <DestinationName>Gotha</DestinationName>
+    <DestinationStr>Gotha(ZGO)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZGS</code>
+    <DestinationName>Gethsemanie Arpt</DestinationName>
+    <DestinationStr>Gethsemanie Arpt(ZGS)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZGS</code>
+    <DestinationName>Gethsemanie</DestinationName>
+    <DestinationStr>Gethsemanie(ZGS)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZGW</code>
+    <DestinationName>Greifswald</DestinationName>
+    <DestinationStr>Greifswald(ZGW)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZHG</code>
+    <DestinationName>Glarus</DestinationName>
+    <DestinationStr>Glarus(ZHG)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZHH</code>
+    <DestinationName>Gossau</DestinationName>
+    <DestinationStr>Gossau(ZHH)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZHI</code>
+    <DestinationName>Grenchen</DestinationName>
+    <DestinationStr>Grenchen(ZHI)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZHJ</code>
+    <DestinationName>GRINDELWALD</DestinationName>
+    <DestinationStr>GRINDELWALD(ZHJ)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZHK</code>
+    <DestinationName>Gstaad</DestinationName>
+    <DestinationStr>Gstaad(ZHK)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZQY</code>
+    <DestinationName>Giessen</DestinationName>
+    <DestinationStr>Giessen(ZQY)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZYC</code>
+    <DestinationName>Gizycko</DestinationName>
+    <DestinationStr>Gizycko(ZYC)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZYG</code>
+    <DestinationName>Gjovik</DestinationName>
+    <DestinationStr>Gjovik(ZYG)-Norway</DestinationStr>
+  </Destination>
+</DestinationRoot>

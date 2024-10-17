@@ -1,0 +1,2082 @@
+﻿<DestinationRoot>
+  <Destination>
+    <code>NORESULT</code>
+    <DestinationName>NORESULT</DestinationName>
+    <DestinationStr>No Result Found</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ACX</code>
+    <DestinationName>Xingyi Arpt</DestinationName>
+    <DestinationStr>Xingyi Arpt(ACX)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ACX</code>
+    <DestinationName>Xingyi</DestinationName>
+    <DestinationStr>Xingyi(ACX)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AXE</code>
+    <DestinationName>Xanxere</DestinationName>
+    <DestinationStr>Xanxere(AXE)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GXH</code>
+    <DestinationName>Xiahe</DestinationName>
+    <DestinationStr>Xiahe(GXH)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JXA</code>
+    <DestinationName>Xingkaihu Airport</DestinationName>
+    <DestinationStr>Xingkaihu Airport(JXA)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NLT</code>
+    <DestinationName>Xinyuan City Nalati Airport</DestinationName>
+    <DestinationStr>Xinyuan City Nalati Airport(NLT)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NLT</code>
+    <DestinationName>Xinyuan City</DestinationName>
+    <DestinationStr>Xinyuan City(NLT)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OAX</code>
+    <DestinationName>Xoxocotlan International</DestinationName>
+    <DestinationStr>Xoxocotlan International(OAX)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SIA</code>
+    <DestinationName>Xi An</DestinationName>
+    <DestinationStr>Xi An(SIA)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SIA</code>
+    <DestinationName>Xiguan Airport</DestinationName>
+    <DestinationStr>Xiguan Airport(SIA)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XAB</code>
+    <DestinationName>Abbeville</DestinationName>
+    <DestinationStr>Abbeville(XAB)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XAC</code>
+    <DestinationName>Arcachon</DestinationName>
+    <DestinationStr>Arcachon(XAC)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XAG</code>
+    <DestinationName>Agde</DestinationName>
+    <DestinationStr>Agde(XAG)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XAH</code>
+    <DestinationName>Silkeborg</DestinationName>
+    <DestinationStr>Silkeborg(XAH)-Denmark</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XAJ</code>
+    <DestinationName>Hirtshals</DestinationName>
+    <DestinationStr>Hirtshals(XAJ)-Denmark</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XAK</code>
+    <DestinationName>Herning</DestinationName>
+    <DestinationStr>Herning(XAK)-Denmark</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XAL</code>
+    <DestinationName>Alamos Arpt</DestinationName>
+    <DestinationStr>Alamos Arpt(XAL)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XAL</code>
+    <DestinationName>Alamos</DestinationName>
+    <DestinationStr>Alamos(XAL)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XAM</code>
+    <DestinationName>Amboise</DestinationName>
+    <DestinationStr>Amboise(XAM)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XAN</code>
+    <DestinationName>Alencon</DestinationName>
+    <DestinationStr>Alencon(XAN)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XAP</code>
+    <DestinationName>Chapeco Arpt</DestinationName>
+    <DestinationStr>Chapeco Arpt(XAP)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XAP</code>
+    <DestinationName>Chapeco</DestinationName>
+    <DestinationStr>Chapeco(XAP)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XAS</code>
+    <DestinationName>Ales</DestinationName>
+    <DestinationStr>Ales(XAS)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XAT</code>
+    <DestinationName>Antibes</DestinationName>
+    <DestinationStr>Antibes(XAT)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XAV</code>
+    <DestinationName>Albertville</DestinationName>
+    <DestinationStr>Albertville(XAV)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XAW</code>
+    <DestinationName>Capreol</DestinationName>
+    <DestinationStr>Capreol(XAW)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XAZ</code>
+    <DestinationName>Campbellton</DestinationName>
+    <DestinationStr>Campbellton(XAZ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XBC</code>
+    <DestinationName>Briancon</DestinationName>
+    <DestinationStr>Briancon(XBC)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XBD</code>
+    <DestinationName>Bar Le Duc</DestinationName>
+    <DestinationStr>Bar Le Duc(XBD)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XBF</code>
+    <DestinationName>Bellegarde</DestinationName>
+    <DestinationStr>Bellegarde(XBF)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XBH</code>
+    <DestinationName>Bethune</DestinationName>
+    <DestinationStr>Bethune(XBH)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XBK</code>
+    <DestinationName>Bourg En Bresse</DestinationName>
+    <DestinationStr>Bourg En Bresse(XBK)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XBM</code>
+    <DestinationName>Beaulieu Sur Mer</DestinationName>
+    <DestinationStr>Beaulieu Sur Mer(XBM)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XBN</code>
+    <DestinationName>Biniguni</DestinationName>
+    <DestinationStr>Biniguni(XBN)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XBQ</code>
+    <DestinationName>Blois</DestinationName>
+    <DestinationStr>Blois(XBQ)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XBR</code>
+    <DestinationName>Brockville Regional Airport</DestinationName>
+    <DestinationStr>Brockville Regional Airport(XBR)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XBR</code>
+    <DestinationName>Brockville</DestinationName>
+    <DestinationStr>Brockville(XBR)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XBS</code>
+    <DestinationName>Boulogne Sur Mer</DestinationName>
+    <DestinationStr>Boulogne Sur Mer(XBS)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XBT</code>
+    <DestinationName>Boulogne Billancourt</DestinationName>
+    <DestinationStr>Boulogne Billancourt(XBT)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XBV</code>
+    <DestinationName>Beaune</DestinationName>
+    <DestinationStr>Beaune(XBV)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XBW</code>
+    <DestinationName>Killineq Arpt</DestinationName>
+    <DestinationStr>Killineq Arpt(XBW)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XBW</code>
+    <DestinationName>Killineq</DestinationName>
+    <DestinationStr>Killineq(XBW)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XBX</code>
+    <DestinationName>BERNAY</DestinationName>
+    <DestinationStr>BERNAY(XBX)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XBY</code>
+    <DestinationName>Bayonne</DestinationName>
+    <DestinationStr>Bayonne(XBY)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XBZ</code>
+    <DestinationName>Bandol</DestinationName>
+    <DestinationStr>Bandol(XBZ)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XCB</code>
+    <DestinationName>Cambrai</DestinationName>
+    <DestinationStr>Cambrai(XCB)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XCC</code>
+    <DestinationName>Le Creusot</DestinationName>
+    <DestinationStr>Le Creusot(XCC)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XCD</code>
+    <DestinationName>Chalon Sur Saone</DestinationName>
+    <DestinationStr>Chalon Sur Saone(XCD)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XCF</code>
+    <DestinationName>Chamonix Mont Blanc</DestinationName>
+    <DestinationStr>Chamonix Mont Blanc(XCF)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XCG</code>
+    <DestinationName>Cagnes Sur Mer</DestinationName>
+    <DestinationStr>Cagnes Sur Mer(XCG)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XCH</code>
+    <DestinationName>Christmas Island Arpt</DestinationName>
+    <DestinationStr>Christmas Island Arpt(XCH)-Christmas Island</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XCH</code>
+    <DestinationName>Christmas Island</DestinationName>
+    <DestinationStr>Christmas Island(XCH)-Christmas Island</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XCI</code>
+    <DestinationName>Chambord</DestinationName>
+    <DestinationStr>Chambord(XCI)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XCK</code>
+    <DestinationName>St Die</DestinationName>
+    <DestinationStr>St Die(XCK)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XCM</code>
+    <DestinationName>Chatham Airport</DestinationName>
+    <DestinationStr>Chatham Airport(XCM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XCM</code>
+    <DestinationName>Chatham</DestinationName>
+    <DestinationStr>Chatham(XCM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XCN</code>
+    <DestinationName>Coron</DestinationName>
+    <DestinationStr>Coron(XCN)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XCO</code>
+    <DestinationName>Colac Arpt</DestinationName>
+    <DestinationStr>Colac Arpt(XCO)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XCO</code>
+    <DestinationName>Colac</DestinationName>
+    <DestinationStr>Colac(XCO)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XCP</code>
+    <DestinationName>Compiegne</DestinationName>
+    <DestinationStr>Compiegne(XCP)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XCR</code>
+    <DestinationName>Chalons Sur Marne</DestinationName>
+    <DestinationStr>Chalons Sur Marne(XCR)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XCR</code>
+    <DestinationName>Vatry Arpt</DestinationName>
+    <DestinationStr>Vatry Arpt(XCR)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XCT</code>
+    <DestinationName>La Ciotat</DestinationName>
+    <DestinationStr>La Ciotat(XCT)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XCV</code>
+    <DestinationName>Chantilly</DestinationName>
+    <DestinationStr>Chantilly(XCV)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XCW</code>
+    <DestinationName>Chaumont</DestinationName>
+    <DestinationStr>Chaumont(XCW)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XCX</code>
+    <DestinationName>Chatellerault</DestinationName>
+    <DestinationStr>Chatellerault(XCX)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XCY</code>
+    <DestinationName>Chateau Thierry</DestinationName>
+    <DestinationStr>Chateau Thierry(XCY)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XCZ</code>
+    <DestinationName>Charleville Mezieres</DestinationName>
+    <DestinationStr>Charleville Mezieres(XCZ)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XDA</code>
+    <DestinationName>Dax Les Thermes</DestinationName>
+    <DestinationStr>Dax Les Thermes(XDA)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XDI</code>
+    <DestinationName>Digne</DestinationName>
+    <DestinationStr>Digne(XDI)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XDK</code>
+    <DestinationName>Dunkerque</DestinationName>
+    <DestinationStr>Dunkerque(XDK)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XDK</code>
+    <DestinationName>Dunkirk</DestinationName>
+    <DestinationStr>Dunkirk(XDK)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XDL</code>
+    <DestinationName>Chandler</DestinationName>
+    <DestinationStr>Chandler(XDL)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XDM</code>
+    <DestinationName>Drummondville</DestinationName>
+    <DestinationStr>Drummondville(XDM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XDN</code>
+    <DestinationName>Douai</DestinationName>
+    <DestinationStr>Douai(XDN)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XDO</code>
+    <DestinationName>Grande Riviere</DestinationName>
+    <DestinationStr>Grande Riviere(XDO)-Canada</DestinationStr>
+  </Destination>    
+  <Destination>
+    <code>XDR</code>
+    <DestinationName>Dreux</DestinationName>
+    <DestinationStr>Dreux(XDR)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XDU</code>
+    <DestinationName>Hervey</DestinationName>
+    <DestinationStr>Hervey(XDU)-Canada</DestinationStr>
+  </Destination>    
+  <Destination>
+    <code>XEB</code>
+    <DestinationName>Evian Les Bains</DestinationName>
+    <DestinationStr>Evian Les Bains(XEB)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XEE</code>
+    <DestinationName>Lac Edouard</DestinationName>
+    <DestinationStr>Lac Edouard(XEE)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XEH</code>
+    <DestinationName>Ladysmith</DestinationName>
+    <DestinationStr>Ladysmith(XEH)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XEI</code>
+    <DestinationName>Tsukuba</DestinationName>
+    <DestinationStr>Tsukuba(XEI)-Japan</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XEJ</code>
+    <DestinationName>Langford</DestinationName>
+    <DestinationStr>Langford(XEJ)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XEK</code>
+    <DestinationName>Melville</DestinationName>
+    <DestinationStr>Melville(XEK)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XEL</code>
+    <DestinationName>New Carlisle</DestinationName>
+    <DestinationStr>New Carlisle(XEL)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XEM</code>
+    <DestinationName>New Richmond</DestinationName>
+    <DestinationStr>New Richmond(XEM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XEP</code>
+    <DestinationName>Epernay</DestinationName>
+    <DestinationStr>Epernay(XEP)-France</DestinationStr>
+  </Destination> 
+  <Destination>
+    <code>XEX</code>
+    <DestinationName>Aerogare Des Invalides</DestinationName>
+    <DestinationStr>Aerogare Des Invalides(XEX)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XEY</code>
+    <DestinationName>Newcastle</DestinationName>
+    <DestinationStr>Newcastle(XEY)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XFB</code>
+    <DestinationName>Fontainebleau</DestinationName>
+    <DestinationStr>Fontainebleau(XFB)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XFC</code>
+    <DestinationName>Fredericton Junction</DestinationName>
+    <DestinationStr>Fredericton Junction(XFC)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XFD</code>
+    <DestinationName>Stratford</DestinationName>
+    <DestinationStr>Stratford(XFD)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XFE</code>
+    <DestinationName>Parent</DestinationName>
+    <DestinationStr>Parent(XFE)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XFF</code>
+    <DestinationName>Calais City</DestinationName>
+    <DestinationStr>Calais City(XFF)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XFG</code>
+    <DestinationName>Perce</DestinationName>
+    <DestinationStr>Perce(XFG)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XFH</code>
+    <DestinationName>Strangnas</DestinationName>
+    <DestinationStr>Strangnas(XFH)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XFI</code>
+    <DestinationName>Port Daniel</DestinationName>
+    <DestinationStr>Port Daniel(XFI)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XFK</code>
+    <DestinationName>Senneterre</DestinationName>
+    <DestinationStr>Senneterre(XFK)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XFL</code>
+    <DestinationName>Shawinigan</DestinationName>
+    <DestinationStr>Shawinigan(XFL)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XFM</code>
+    <DestinationName>Shawnigan</DestinationName>
+    <DestinationStr>Shawnigan(XFM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XFN</code>
+    <DestinationName>Xiangfan Arpt</DestinationName>
+    <DestinationStr>Xiangfan Arpt(XFN)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XFN</code>
+    <DestinationName>Xiangfan</DestinationName>
+    <DestinationStr>Xiangfan(XFN)-China</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XFO</code>
+    <DestinationName>Taschereau</DestinationName>
+    <DestinationStr>Taschereau(XFO)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XFQ</code>
+    <DestinationName>Weymont</DestinationName>
+    <DestinationStr>Weymont(XFQ)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XFS</code>
+    <DestinationName>Alexandria</DestinationName>
+    <DestinationStr>Alexandria(XFS)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XFU</code>
+    <DestinationName>Tierp</DestinationName>
+    <DestinationStr>Tierp(XFU)-Sweden</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XFV</code>
+    <DestinationName>Brantford</DestinationName>
+    <DestinationStr>Brantford(XFV)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XFW</code>
+    <DestinationName>Finkenwerder Arpt</DestinationName>
+    <DestinationStr>Finkenwerder Arpt(XFW)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XFX</code>
+    <DestinationName>Foix</DestinationName>
+    <DestinationStr>Foix(XFX)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XGB</code>
+    <DestinationName>Gare Montparnasse Arpt</DestinationName>
+    <DestinationStr>Gare Montparnasse Arpt(XGB)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XGC</code>
+    <DestinationName>Lund C</DestinationName>
+    <DestinationStr>Lund C(XGC)-Sweden</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XGD</code>
+    <DestinationName>Arendal</DestinationName>
+    <DestinationStr>Arendal(XGD)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XGF</code>
+    <DestinationName>Percex</DestinationName>
+    <DestinationStr>Percex(XGF)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XGG</code>
+    <DestinationName>Gorom</DestinationName>
+    <DestinationStr>Gorom(XGG)-Burkina Faso</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XGH</code>
+    <DestinationName>Flam</DestinationName>
+    <DestinationStr>Flam(XGH)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XGI</code>
+    <DestinationName>Andalsnes</DestinationName>
+    <DestinationStr>Andalsnes(XGI)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XGJ</code>
+    <DestinationName>Cobourg</DestinationName>
+    <DestinationStr>Cobourg(XGJ)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XGK</code>
+    <DestinationName>Coteau</DestinationName>
+    <DestinationStr>Coteau(XGK)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XGM</code>
+    <DestinationName>Grantham</DestinationName>
+    <DestinationStr>Grantham(XGM)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XGP</code>
+    <DestinationName>Dombas</DestinationName>
+    <DestinationStr>Dombas(XGP)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XGR</code>
+    <DestinationName>Kangiqsualujjuaq Arpt</DestinationName>
+    <DestinationStr>Kangiqsualujjuaq Arpt(XGR)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XGR</code>
+    <DestinationName>Kangiqsualujjuaq</DestinationName>
+    <DestinationStr>Kangiqsualujjuaq(XGR)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XGS</code>
+    <DestinationName>Gjerstad</DestinationName>
+    <DestinationStr>Gjerstad(XGS)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XGT</code>
+    <DestinationName>Gueret</DestinationName>
+    <DestinationStr>Gueret(XGT)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XGU</code>
+    <DestinationName>Asker</DestinationName>
+    <DestinationStr>Asker(XGU)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XGV</code>
+    <DestinationName>St Gilles Croix De Vie</DestinationName>
+    <DestinationStr>St Gilles Croix De Vie(XGV)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XGW</code>
+    <DestinationName>Gananoque</DestinationName>
+    <DestinationStr>Gananoque(XGW)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XGX</code>
+    <DestinationName>Levi</DestinationName>
+    <DestinationStr>Levi(XGX)-Finland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XGY</code>
+    <DestinationName>Grimsby</DestinationName>
+    <DestinationStr>Grimsby(XGY)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XGZ</code>
+    <DestinationName>Bregenz</DestinationName>
+    <DestinationStr>Bregenz(XGZ)-Austria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XHE</code>
+    <DestinationName>Hyeres</DestinationName>
+    <DestinationStr>Hyeres(XHE)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XHF</code>
+    <DestinationName>Honefoss</DestinationName>
+    <DestinationStr>Honefoss(XHF)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XHL</code>
+    <DestinationName>Nelaug</DestinationName>
+    <DestinationStr>Nelaug(XHL)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XHM</code>
+    <DestinationName>Georgetown</DestinationName>
+    <DestinationStr>Georgetown(XHM)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XHO</code>
+    <DestinationName>Dongguan Bus</DestinationName>
+    <DestinationStr>Dongguan Bus(XHO)-China</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XHS</code>
+    <DestinationName>Chemainus</DestinationName>
+    <DestinationStr>Chemainus(XHS)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XHT</code>
+    <DestinationName>Arna</DestinationName>
+    <DestinationStr>Arna(XHT)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XHU</code>
+    <DestinationName>Huntingdon</DestinationName>
+    <DestinationStr>Huntingdon(XHU)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XHV</code>
+    <DestinationName>Brasov</DestinationName>
+    <DestinationStr>Brasov(XHV)-Romania</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XHY</code>
+    <DestinationName>Hendaye</DestinationName>
+    <DestinationStr>Hendaye(XHY)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XIA</code>
+    <DestinationName>Guelph</DestinationName>
+    <DestinationStr>Guelph(XIA)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XIB</code>
+    <DestinationName>Ingersoll</DestinationName>
+    <DestinationStr>Ingersoll(XIB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XIC</code>
+    <DestinationName>Xichang Arpt</DestinationName>
+    <DestinationStr>Xichang Arpt(XIC)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XIC</code>
+    <DestinationName>Xichang</DestinationName>
+    <DestinationStr>Xichang(XIC)-China</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XID</code>
+    <DestinationName>Maxville</DestinationName>
+    <DestinationStr>Maxville(XID)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XIF</code>
+    <DestinationName>Napanee</DestinationName>
+    <DestinationStr>Napanee(XIF)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XII</code>
+    <DestinationName>Prescott</DestinationName>
+    <DestinationStr>Prescott(XII)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XIL</code>
+    <DestinationName>Xilinhot Airport</DestinationName>
+    <DestinationStr>Xilinhot Airport(XIL)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XIL</code>
+    <DestinationName>Xilinhot</DestinationName>
+    <DestinationStr>Xilinhot(XIL)-China</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XIM</code>
+    <DestinationName>Saint Hyacinthe</DestinationName>
+    <DestinationStr>Saint Hyacinthe(XIM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XIM</code>
+    <DestinationName>St Hyacinthe</DestinationName>
+    <DestinationStr>St Hyacinthe(XIM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XIO</code>
+    <DestinationName>Saint Marys</DestinationName>
+    <DestinationStr>Saint Marys(XIO)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XIO</code>
+    <DestinationName>St Marys</DestinationName>
+    <DestinationStr>St Marys(XIO)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XIP</code>
+    <DestinationName>Woodstock</DestinationName>
+    <DestinationStr>Woodstock(XIP)-Canada</DestinationStr>
+  </Destination>    
+  <Destination>
+    <code>XIY</code>
+    <DestinationName>Xianyang Arpt</DestinationName>
+    <DestinationStr>Xianyang Arpt(XIY)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XIZ</code>
+    <DestinationName>Reims Champagne Ardenne</DestinationName>
+    <DestinationStr>Reims Champagne Ardenne(XIZ)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XJA</code>
+    <DestinationName>Alvdal</DestinationName>
+    <DestinationStr>Alvdal(XJA)-Norway</DestinationStr>
+  </Destination> 
+  <Destination>
+    <code>XJL</code>
+    <DestinationName>Joliette</DestinationName>
+    <DestinationStr>Joliette(XJL)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XJO</code>
+    <DestinationName>Soria</DestinationName>
+    <DestinationStr>Soria(XJO)-Spain</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XJQ</code>
+    <DestinationName>Jonquiere</DestinationName>
+    <DestinationStr>Jonquiere(XJQ)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XJW</code>
+    <DestinationName>Xiaogan</DestinationName>
+    <DestinationStr>Xiaogan(XJW)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XJY</code>
+    <DestinationName>Paris City</DestinationName>
+    <DestinationStr>Paris City(XJY)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XJZ</code>
+    <DestinationName>St Jean De Luz</DestinationName>
+    <DestinationStr>St Jean De Luz(XJZ)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XKB</code>
+    <DestinationName>KONGSBERG</DestinationName>
+    <DestinationStr>KONGSBERG(XKB)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XKC</code>
+    <DestinationName>Sandnes</DestinationName>
+    <DestinationStr>Sandnes(XKC)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XKD</code>
+    <DestinationName>Halden</DestinationName>
+    <DestinationStr>Halden(XKD)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XKE</code>
+    <DestinationName>Rena</DestinationName>
+    <DestinationStr>Rena(XKE)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XKF</code>
+    <DestinationName>Fredrikstad</DestinationName>
+    <DestinationStr>Fredrikstad(XKF)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XKG</code>
+    <DestinationName>Grong</DestinationName>
+    <DestinationStr>Grong(XKG)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XKH</code>
+    <DestinationName>Xieng Khouang Arpt</DestinationName>
+    <DestinationStr>Xieng Khouang Arpt(XKH)-Lao, People's Dem. Rep.</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XKH</code>
+    <DestinationName>Xieng Khouang</DestinationName>
+    <DestinationStr>Xieng Khouang(XKH)-Lao, People's Dem. Rep.</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XKI</code>
+    <DestinationName>Lillestrom</DestinationName>
+    <DestinationStr>Lillestrom(XKI)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XKJ</code>
+    <DestinationName>Steinkjer</DestinationName>
+    <DestinationStr>Steinkjer(XKJ)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XKK</code>
+    <DestinationName>Larvik</DestinationName>
+    <DestinationStr>Larvik(XKK)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XKM</code>
+    <DestinationName>Moss</DestinationName>
+    <DestinationStr>Moss(XKM)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XKO</code>
+    <DestinationName>Finse</DestinationName>
+    <DestinationStr>Finse(XKO)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XKP</code>
+    <DestinationName>Porsgrunn</DestinationName>
+    <DestinationStr>Porsgrunn(XKP)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XKQ</code>
+    <DestinationName>Sarpsborg</DestinationName>
+    <DestinationStr>Sarpsborg(XKQ)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XKU</code>
+    <DestinationName>Kusadasi</DestinationName>
+    <DestinationStr>Kusadasi(XKU)-Turkey</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XKV</code>
+    <DestinationName>Sackville</DestinationName>
+    <DestinationStr>Sackville(XKV)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XKW</code>
+    <DestinationName>Tonsberg</DestinationName>
+    <DestinationStr>Tonsberg(XKW)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XKZ</code>
+    <DestinationName>Vinstra</DestinationName>
+    <DestinationStr>Vinstra(XKZ)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XLD</code>
+    <DestinationName>Landerneau</DestinationName>
+    <DestinationStr>Landerneau(XLD)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XLE</code>
+    <DestinationName>Lens</DestinationName>
+    <DestinationStr>Lens(XLE)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XLG</code>
+    <DestinationName>Lognes</DestinationName>
+    <DestinationStr>Lognes(XLG)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XLI</code>
+    <DestinationName>Saint Louis</DestinationName>
+    <DestinationStr>Saint Louis(XLI)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XLL</code>
+    <DestinationName>Lons Le Saunier</DestinationName>
+    <DestinationStr>Lons Le Saunier(XLL)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XLN</code>
+    <DestinationName>Laon</DestinationName>
+    <DestinationStr>Laon(XLN)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XLP</code>
+    <DestinationName>Matapedia</DestinationName>
+    <DestinationStr>Matapedia(XLP)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XLR</code>
+    <DestinationName>Libourne</DestinationName>
+    <DestinationStr>Libourne(XLR)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XLS</code>
+    <DestinationName>St Louis Airport</DestinationName>
+    <DestinationStr>St Louis Airport(XLS)-Senegal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XLS</code>
+    <DestinationName>St Louis</DestinationName>
+    <DestinationStr>St Louis(XLS)-Senegal</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XLV</code>
+    <DestinationName>Niagara Falls</DestinationName>
+    <DestinationStr>Niagara Falls(XLV)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XLX</code>
+    <DestinationName>Lisieux</DestinationName>
+    <DestinationStr>Lisieux(XLX)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XLY</code>
+    <DestinationName>Aldershot</DestinationName>
+    <DestinationStr>Aldershot(XLY)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XLZ</code>
+    <DestinationName>Truro</DestinationName>
+    <DestinationStr>Truro(XLZ)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XMD</code>
+    <DestinationName>MADISON</DestinationName>
+    <DestinationStr>MADISON(XMD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XME</code>
+    <DestinationName>Maubeuge</DestinationName>
+    <DestinationStr>Maubeuge(XME)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XMF</code>
+    <DestinationName>Montbelliard</DestinationName>
+    <DestinationStr>Montbelliard(XMF)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XMH</code>
+    <DestinationName>Manihi</DestinationName>
+    <DestinationStr>Manihi(XMH)-French Polynesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XMJ</code>
+    <DestinationName>Mont De Marsen</DestinationName>
+    <DestinationStr>Mont De Marsen(XMJ)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XMK</code>
+    <DestinationName>Montelimar</DestinationName>
+    <DestinationStr>Montelimar(XMK)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XMM</code>
+    <DestinationName>Monaco</DestinationName>
+    <DestinationStr>Monaco(XMM)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XMN</code>
+    <DestinationName>Xiamen Intl Airport</DestinationName>
+    <DestinationStr>Xiamen Intl Airport(XMN)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XMN</code>
+    <DestinationName>Xiamen</DestinationName>
+    <DestinationStr>Xiamen(XMN)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XMQ</code>
+    <DestinationName>Morzine</DestinationName>
+    <DestinationStr>Morzine(XMQ)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XMR</code>
+    <DestinationName>Marmande</DestinationName>
+    <DestinationStr>Marmande(XMR)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XMS</code>
+    <DestinationName>Edmundo Carvajal Arpt</DestinationName>
+    <DestinationStr>Edmundo Carvajal Arpt(XMS)-Ecuador</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XMS</code>
+    <DestinationName>Macas</DestinationName>
+    <DestinationStr>Macas(XMS)-Ecuador</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XMT</code>
+    <DestinationName>Menton</DestinationName>
+    <DestinationStr>Menton(XMT)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XMU</code>
+    <DestinationName>Moulin Sur Allier</DestinationName>
+    <DestinationStr>Moulin Sur Allier(XMU)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XMW</code>
+    <DestinationName>Montauban</DestinationName>
+    <DestinationStr>Montauban(XMW)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XMY</code>
+    <DestinationName>Yam Island Arpt</DestinationName>
+    <DestinationStr>Yam Island Arpt(XMY)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XMY</code>
+    <DestinationName>Yam Island</DestinationName>
+    <DestinationStr>Yam Island(XMY)-Australia</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XMZ</code>
+    <DestinationName>Macclesfield</DestinationName>
+    <DestinationStr>Macclesfield(XMZ)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XNA</code>
+    <DestinationName>Northwest Arkansas Regional Arpt</DestinationName>
+    <DestinationStr>Northwest Arkansas Regional Arpt(XNA)-United States</DestinationStr>
+  </Destination> 
+  <Destination>
+    <code>XND</code>
+    <DestinationName>Drammen</DestinationName>
+    <DestinationStr>Drammen(XND)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XNE</code>
+    <DestinationName>Newport</DestinationName>
+    <DestinationStr>Newport(XNE)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XNK</code>
+    <DestinationName>Newark</DestinationName>
+    <DestinationStr>Newark(XNK)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XNM</code>
+    <DestinationName>Nottingham</DestinationName>
+    <DestinationStr>Nottingham(XNM)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XNN</code>
+    <DestinationName>Xining Arpt</DestinationName>
+    <DestinationStr>Xining Arpt(XNN)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XNN</code>
+    <DestinationName>Xining</DestinationName>
+    <DestinationStr>Xining(XNN)-China</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XNO</code>
+    <DestinationName>Northallerton</DestinationName>
+    <DestinationStr>Northallerton(XNO)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XNR</code>
+    <DestinationName>Aabenraa</DestinationName>
+    <DestinationStr>Aabenraa(XNR)-Denmark</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XNT</code>
+    <DestinationName>Xingtai Airport</DestinationName>
+    <DestinationStr>Xingtai Airport(XNT)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XNT</code>
+    <DestinationName>Xingtai</DestinationName>
+    <DestinationStr>Xingtai(XNT)-China</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XNV</code>
+    <DestinationName>Nuneaton</DestinationName>
+    <DestinationStr>Nuneaton(XNV)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XOB</code>
+    <DestinationName>Bryne</DestinationName>
+    <DestinationStr>Bryne(XOB)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XOD</code>
+    <DestinationName>Oppdal</DestinationName>
+    <DestinationStr>Oppdal(XOD)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XOG</code>
+    <DestinationName>Orange</DestinationName>
+    <DestinationStr>Orange(XOG)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XOH</code>
+    <DestinationName>KITZBUEHEL</DestinationName>
+    <DestinationStr>KITZBUEHEL(XOH)-Austria</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XOK</code>
+    <DestinationName>Oakville</DestinationName>
+    <DestinationStr>Oakville(XOK)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XOL</code>
+    <DestinationName>Myrdal</DestinationName>
+    <DestinationStr>Myrdal(XOL)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XON</code>
+    <DestinationName>Carleton</DestinationName>
+    <DestinationStr>Carleton(XON)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XOO</code>
+    <DestinationName>Soelden</DestinationName>
+    <DestinationStr>Soelden(XOO)-Austria</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XOQ</code>
+    <DestinationName>Sira</DestinationName>
+    <DestinationStr>Sira(XOQ)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XOR</code>
+    <DestinationName>Otta</DestinationName>
+    <DestinationStr>Otta(XOR)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XOU</code>
+    <DestinationName>Segovia</DestinationName>
+    <DestinationStr>Segovia(XOU)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XOW</code>
+    <DestinationName>Seefeld</DestinationName>
+    <DestinationStr>Seefeld(XOW)-Austria</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XPB</code>
+    <DestinationName>Parksville</DestinationName>
+    <DestinationStr>Parksville(XPB)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XPF</code>
+    <DestinationName>Penrith</DestinationName>
+    <DestinationStr>Penrith(XPF)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XPH</code>
+    <DestinationName>Port Hope</DestinationName>
+    <DestinationStr>Port Hope(XPH)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XPK</code>
+    <DestinationName>Pukatawagan</DestinationName>
+    <DestinationStr>Pukatawagan(XPK)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XPL</code>
+    <DestinationName>Comayagua</DestinationName>
+    <DestinationStr>Comayagua(XPL)-Honduras</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XPL</code>
+    <DestinationName>Enrique Soto Cano Airport</DestinationName>
+    <DestinationStr>Enrique Soto Cano Airport(XPL)-Honduras</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XPN</code>
+    <DestinationName>Brampton</DestinationName>
+    <DestinationStr>Brampton(XPN)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XPS</code>
+    <DestinationName>Provins</DestinationName>
+    <DestinationStr>Provins(XPS)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XPT</code>
+    <DestinationName>Preston</DestinationName>
+    <DestinationStr>Preston(XPT)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XPU</code>
+    <DestinationName>West Kuparuk Arpt</DestinationName>
+    <DestinationStr>West Kuparuk Arpt(XPU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XPU</code>
+    <DestinationName>West Kuparuk</DestinationName>
+    <DestinationStr>West Kuparuk(XPU)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XPW</code>
+    <DestinationName>Didcot</DestinationName>
+    <DestinationStr>Didcot(XPW)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XPX</code>
+    <DestinationName>Pointe Aux Trembles</DestinationName>
+    <DestinationStr>Pointe Aux Trembles(XPX)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XPZ</code>
+    <DestinationName>Harbourarpt</DestinationName>
+    <DestinationStr>Harbourarpt(XPZ)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XQB</code>
+    <DestinationName>Basingstoke</DestinationName>
+    <DestinationStr>Basingstoke(XQB)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XQD</code>
+    <DestinationName>Bedford</DestinationName>
+    <DestinationStr>Bedford(XQD)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XQG</code>
+    <DestinationName>Berwick Upon Tweed</DestinationName>
+    <DestinationStr>Berwick Upon Tweed(XQG)-United Kingdom</DestinationStr>
+  </Destination>    
+  <Destination>
+    <code>XQH</code>
+    <DestinationName>Derby</DestinationName>
+    <DestinationStr>Derby(XQH)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XQI</code>
+    <DestinationName>Loughborough</DestinationName>
+    <DestinationStr>Loughborough(XQI)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XQL</code>
+    <DestinationName>Lancaster</DestinationName>
+    <DestinationStr>Lancaster(XQL)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XQM</code>
+    <DestinationName>Market Harborough</DestinationName>
+    <DestinationStr>Market Harborough(XQM)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XQP</code>
+    <DestinationName>La Managua Arpt</DestinationName>
+    <DestinationStr>La Managua Arpt(XQP)-Costa Rica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XQP</code>
+    <DestinationName>Quepos</DestinationName>
+    <DestinationStr>Quepos(XQP)-Costa Rica</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XQT</code>
+    <DestinationName>Lichfield</DestinationName>
+    <DestinationStr>Lichfield(XQT)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XQU</code>
+    <DestinationName>Qualicum Arpt</DestinationName>
+    <DestinationStr>Qualicum Arpt(XQU)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XQU</code>
+    <DestinationName>Qualicum</DestinationName>
+    <DestinationStr>Qualicum(XQU)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XQW</code>
+    <DestinationName>Motherwell</DestinationName>
+    <DestinationStr>Motherwell(XQW)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XQY</code>
+    <DestinationName>St Quentin en Yvelines</DestinationName>
+    <DestinationStr>St Quentin en Yvelines(XQY)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XRC</code>
+    <DestinationName>Runcorn</DestinationName>
+    <DestinationStr>Runcorn(XRC)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XRD</code>
+    <DestinationName>Egersund</DestinationName>
+    <DestinationStr>Egersund(XRD)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XRE</code>
+    <DestinationName>Reading</DestinationName>
+    <DestinationStr>Reading(XRE)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XRG</code>
+    <DestinationName>Rugeley</DestinationName>
+    <DestinationStr>Rugeley(XRG)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XRN</code>
+    <DestinationName>Redon</DestinationName>
+    <DestinationStr>Redon(XRN)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XRO</code>
+    <DestinationName>La Roche Sur Yon</DestinationName>
+    <DestinationStr>La Roche Sur Yon(XRO)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XRP</code>
+    <DestinationName>Riviere A Pierre</DestinationName>
+    <DestinationStr>Riviere A Pierre(XRP)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XRT</code>
+    <DestinationName>Rambouillet</DestinationName>
+    <DestinationStr>Rambouillet(XRT)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XRU</code>
+    <DestinationName>Rugby</DestinationName>
+    <DestinationStr>Rugby(XRU)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XRY</code>
+    <DestinationName>Jerez De La Frontera</DestinationName>
+    <DestinationStr>Jerez De La Frontera(XRY)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XRY</code>
+    <DestinationName>La Parra Arpt</DestinationName>
+    <DestinationStr>La Parra Arpt(XRY)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XSA</code>
+    <DestinationName>Sinoe AFC</DestinationName>
+    <DestinationStr>Sinoe AFC(XSA)-Liberia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XSB</code>
+    <DestinationName>Saint Malo</DestinationName>
+    <DestinationStr>Saint Malo(XSB)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XSB</code>
+    <DestinationName>St Malo</DestinationName>
+    <DestinationStr>St Malo(XSB)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XSC</code>
+    <DestinationName>South Caicos Intl Arpt</DestinationName>
+    <DestinationStr>South Caicos Intl Arpt(XSC)-Turks And Caicos Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XSC</code>
+    <DestinationName>South Caicos</DestinationName>
+    <DestinationStr>South Caicos(XSC)-Turks And Caicos Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XSD</code>
+    <DestinationName>Test Range</DestinationName>
+    <DestinationStr>Test Range(XSD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XSF</code>
+    <DestinationName>Sens</DestinationName>
+    <DestinationStr>Sens(XSF)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XSG</code>
+    <DestinationName>St Omer</DestinationName>
+    <DestinationStr>St Omer(XSG)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XSH</code>
+    <DestinationName>Saint Pierre des Corps</DestinationName>
+    <DestinationStr>Saint Pierre des Corps(XSH)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XSH</code>
+    <DestinationName>St Pierre Des Corps</DestinationName>
+    <DestinationStr>St Pierre Des Corps(XSH)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XSJ</code>
+    <DestinationName>St Quentin</DestinationName>
+    <DestinationStr>St Quentin(XSJ)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XSK</code>
+    <DestinationName>Saint Raphael</DestinationName>
+    <DestinationStr>Saint Raphael(XSK)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XSK</code>
+    <DestinationName>St Raphael</DestinationName>
+    <DestinationStr>St Raphael(XSK)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XSL</code>
+    <DestinationName>Sarlat</DestinationName>
+    <DestinationStr>Sarlat(XSL)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XSM</code>
+    <DestinationName>St Marys</DestinationName>
+    <DestinationStr>St Marys(XSM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XSN</code>
+    <DestinationName>Sallanches</DestinationName>
+    <DestinationStr>Sallanches(XSN)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XSP</code>
+    <DestinationName>Seletar Airport</DestinationName>
+    <DestinationStr>Seletar Airport(XSP)-Singapore</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XSR</code>
+    <DestinationName>Salisbury</DestinationName>
+    <DestinationStr>Salisbury(XSR)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XSS</code>
+    <DestinationName>Soissons DT</DestinationName>
+    <DestinationStr>Soissons DT(XSS)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XSS</code>
+    <DestinationName>Soissons</DestinationName>
+    <DestinationStr>Soissons(XSS)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XST</code>
+    <DestinationName>Saintes</DestinationName>
+    <DestinationStr>Saintes(XST)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XSU</code>
+    <DestinationName>Saumur</DestinationName>
+    <DestinationStr>Saumur(XSU)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XSV</code>
+    <DestinationName>Senlis</DestinationName>
+    <DestinationStr>Senlis(XSV)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XSX</code>
+    <DestinationName>Seclin</DestinationName>
+    <DestinationStr>Seclin(XSX)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XSY</code>
+    <DestinationName>Sete</DestinationName>
+    <DestinationStr>Sete(XSY)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XSZ</code>
+    <DestinationName>Setubal</DestinationName>
+    <DestinationStr>Setubal(XSZ)-Portugal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XTB</code>
+    <DestinationName>Tarbes</DestinationName>
+    <DestinationStr>Tarbes(XTB)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XTG</code>
+    <DestinationName>Thargomindah Arpt</DestinationName>
+    <DestinationStr>Thargomindah Arpt(XTG)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XTG</code>
+    <DestinationName>Thargomindah</DestinationName>
+    <DestinationStr>Thargomindah(XTG)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XTH</code>
+    <DestinationName>Thionville</DestinationName>
+    <DestinationStr>Thionville(XTH)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XTJ</code>
+    <DestinationName>Toledo</DestinationName>
+    <DestinationStr>Toledo(XTJ)-Spain</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XTK</code>
+    <DestinationName>Thirsk</DestinationName>
+    <DestinationStr>Thirsk(XTK)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XTL</code>
+    <DestinationName>Tadoule Lake</DestinationName>
+    <DestinationStr>Tadoule Lake(XTL)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XTQ</code>
+    <DestinationName>Xiantao</DestinationName>
+    <DestinationStr>Xiantao(XTQ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XTU</code>
+    <DestinationName>Tulle</DestinationName>
+    <DestinationStr>Tulle(XTU)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XTY</code>
+    <DestinationName>Strathroy</DestinationName>
+    <DestinationStr>Strathroy(XTY)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XUB</code>
+    <DestinationName>Berkak</DestinationName>
+    <DestinationStr>Berkak(XUB)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XUC</code>
+    <DestinationName>Elverum</DestinationName>
+    <DestinationStr>Elverum(XUC)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XUE</code>
+    <DestinationName>Heimdal</DestinationName>
+    <DestinationStr>Heimdal(XUE)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XUF</code>
+    <DestinationName>Cartagena</DestinationName>
+    <DestinationStr>Cartagena(XUF)-Spain</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XUG</code>
+    <DestinationName>Holmestrand</DestinationName>
+    <DestinationStr>Holmestrand(XUG)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XUH</code>
+    <DestinationName>Levanger</DestinationName>
+    <DestinationStr>Levanger(XUH)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XUI</code>
+    <DestinationName>Lysaker</DestinationName>
+    <DestinationStr>Lysaker(XUI)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XUJ</code>
+    <DestinationName>Moelv</DestinationName>
+    <DestinationStr>Moelv(XUJ)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XUL</code>
+    <DestinationName>Nesbyen</DestinationName>
+    <DestinationStr>Nesbyen(XUL)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XUM</code>
+    <DestinationName>Neslandsvatn</DestinationName>
+    <DestinationStr>Neslandsvatn(XUM)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XUO</code>
+    <DestinationName>Nordagutu</DestinationName>
+    <DestinationStr>Nordagutu(XUO)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XUQ</code>
+    <DestinationName>Ringebu</DestinationName>
+    <DestinationStr>Ringebu(XUQ)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XUR</code>
+    <DestinationName>Skoppum</DestinationName>
+    <DestinationStr>Skoppum(XUR)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XUS</code>
+    <DestinationName>Snartemo</DestinationName>
+    <DestinationStr>Snartemo(XUS)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XUU</code>
+    <DestinationName>Stjordal</DestinationName>
+    <DestinationStr>Stjordal(XUU)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XUV</code>
+    <DestinationName>Storekvina</DestinationName>
+    <DestinationStr>Storekvina(XUV)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XUW</code>
+    <DestinationName>Storen</DestinationName>
+    <DestinationStr>Storen(XUW)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XUX</code>
+    <DestinationName>Ustaoset</DestinationName>
+    <DestinationStr>Ustaoset(XUX)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XUY</code>
+    <DestinationName>Auray</DestinationName>
+    <DestinationStr>Auray(XUY)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XUZ</code>
+    <DestinationName>Xuzhou Arpt</DestinationName>
+    <DestinationStr>Xuzhou Arpt(XUZ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XUZ</code>
+    <DestinationName>Xuzhou</DestinationName>
+    <DestinationStr>Xuzhou(XUZ)-China</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XVA</code>
+    <DestinationName>Stockport</DestinationName>
+    <DestinationStr>Stockport(XVA)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XVB</code>
+    <DestinationName>Stafford</DestinationName>
+    <DestinationStr>Stafford(XVB)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XVC</code>
+    <DestinationName>Crewe</DestinationName>
+    <DestinationStr>Crewe(XVC)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XVD</code>
+    <DestinationName>VENDOME</DestinationName>
+    <DestinationStr>VENDOME(XVD)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XVE</code>
+    <DestinationName>Versailles</DestinationName>
+    <DestinationStr>Versailles(XVE)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XVF</code>
+    <DestinationName>Villefranche Sur Saone</DestinationName>
+    <DestinationStr>Villefranche Sur Saone(XVF)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XVG</code>
+    <DestinationName>Darlington</DestinationName>
+    <DestinationStr>Darlington(XVG)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XVH</code>
+    <DestinationName>Peterborough</DestinationName>
+    <DestinationStr>Peterborough(XVH)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XVI</code>
+    <DestinationName>Vienne</DestinationName>
+    <DestinationStr>Vienne(XVI)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XVJ</code>
+    <DestinationName>Stevenage</DestinationName>
+    <DestinationStr>Stevenage(XVJ)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XVK</code>
+    <DestinationName>Voss</DestinationName>
+    <DestinationStr>Voss(XVK)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XVM</code>
+    <DestinationName>Vuokatti</DestinationName>
+    <DestinationStr>Vuokatti(XVM)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XVN</code>
+    <DestinationName>Verdun</DestinationName>
+    <DestinationStr>Verdun(XVN)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XVO</code>
+    <DestinationName>Vesoul</DestinationName>
+    <DestinationStr>Vesoul(XVO)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XVP</code>
+    <DestinationName>Villepinte</DestinationName>
+    <DestinationStr>Villepinte(XVP)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XVS</code>
+    <DestinationName>Valenciennes</DestinationName>
+    <DestinationStr>Valenciennes(XVS)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XVT</code>
+    <DestinationName>Vitre</DestinationName>
+    <DestinationStr>Vitre(XVT)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XVV</code>
+    <DestinationName>Belleville</DestinationName>
+    <DestinationStr>Belleville(XVV)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XVW</code>
+    <DestinationName>Wolverhampton</DestinationName>
+    <DestinationStr>Wolverhampton(XVW)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XVZ</code>
+    <DestinationName>Vierzon</DestinationName>
+    <DestinationStr>Vierzon(XVZ)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XWA</code>
+    <DestinationName>Watford</DestinationName>
+    <DestinationStr>Watford(XWA)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XWB</code>
+    <DestinationName>Stirling</DestinationName>
+    <DestinationStr>Stirling(XWB)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XWD</code>
+    <DestinationName>Wakefield Westgate</DestinationName>
+    <DestinationStr>Wakefield Westgate(XWD)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XWE</code>
+    <DestinationName>Wellingborough</DestinationName>
+    <DestinationStr>Wellingborough(XWE)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XWF</code>
+    <DestinationName>Falun</DestinationName>
+    <DestinationStr>Falun(XWF)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XWG</code>
+    <DestinationName>Strasbourg City</DestinationName>
+    <DestinationStr>Strasbourg City(XWG)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XWH</code>
+    <DestinationName>Stoke On Trent</DestinationName>
+    <DestinationStr>Stoke On Trent(XWH)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XWI</code>
+    <DestinationName>Wigan</DestinationName>
+    <DestinationStr>Wigan(XWI)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XWM</code>
+    <DestinationName>Hallsberg</DestinationName>
+    <DestinationStr>Hallsberg(XWM)-Sweden</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XWN</code>
+    <DestinationName>Warrington</DestinationName>
+    <DestinationStr>Warrington(XWN)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XWO</code>
+    <DestinationName>Woking</DestinationName>
+    <DestinationStr>Woking(XWO)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XWP</code>
+    <DestinationName>Hassleholm</DestinationName>
+    <DestinationStr>Hassleholm(XWP)-Sweden</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XWQ</code>
+    <DestinationName>Enkoping</DestinationName>
+    <DestinationStr>Enkoping(XWQ)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XWS</code>
+    <DestinationName>Swindon</DestinationName>
+    <DestinationStr>Swindon(XWS)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XWV</code>
+    <DestinationName>Varberg</DestinationName>
+    <DestinationStr>Varberg(XWV)-Sweden</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XWX</code>
+    <DestinationName>Nassjo</DestinationName>
+    <DestinationStr>Nassjo(XWX)-Sweden</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XWY</code>
+    <DestinationName>Wyoming</DestinationName>
+    <DestinationStr>Wyoming(XWY)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XWZ</code>
+    <DestinationName>Nykoping</DestinationName>
+    <DestinationStr>Nykoping(XWZ)-Sweden</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XXA</code>
+    <DestinationName>Alvesta</DestinationName>
+    <DestinationStr>Alvesta(XXA)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XXC</code>
+    <DestinationName>Bo Norway</DestinationName>
+    <DestinationStr>Bo Norway(XXC)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XXD</code>
+    <DestinationName>Degerfors</DestinationName>
+    <DestinationStr>Degerfors(XXD)-Sweden</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XXE</code>
+    <DestinationName>Vennesla</DestinationName>
+    <DestinationStr>Vennesla(XXE)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XXG</code>
+    <DestinationName>Verdal</DestinationName>
+    <DestinationStr>Verdal(XXG)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XXI</code>
+    <DestinationName>Koping</DestinationName>
+    <DestinationStr>Koping(XXI)-Sweden</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XXK</code>
+    <DestinationName>Katrineholm</DestinationName>
+    <DestinationStr>Katrineholm(XXK)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XXL</code>
+    <DestinationName>Lille Hammer</DestinationName>
+    <DestinationStr>Lille Hammer(XXL)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XXM</code>
+    <DestinationName>Mjolby</DestinationName>
+    <DestinationStr>Mjolby(XXM)-Sweden</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XXN</code>
+    <DestinationName>Kil Sweden</DestinationName>
+    <DestinationStr>Kil Sweden(XXN)-Sweden</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XXO</code>
+    <DestinationName>Leksand</DestinationName>
+    <DestinationStr>Leksand(XXO)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XXP</code>
+    <DestinationName>Potsdam</DestinationName>
+    <DestinationStr>Potsdam(XXP)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XXR</code>
+    <DestinationName>Al No</DestinationName>
+    <DestinationStr>Al No(XXR)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XXT</code>
+    <DestinationName>Arboga</DestinationName>
+    <DestinationStr>Arboga(XXT)-Sweden</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XXU</code>
+    <DestinationName>Hedemora</DestinationName>
+    <DestinationStr>Hedemora(XXU)-Sweden</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XXV</code>
+    <DestinationName>Kumla</DestinationName>
+    <DestinationStr>Kumla(XXV)-Sweden</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XYA</code>
+    <DestinationName>Yandina</DestinationName>
+    <DestinationStr>Yandina(XYA)-Solomon Islands</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XYC</code>
+    <DestinationName>Herrljunga</DestinationName>
+    <DestinationStr>Herrljunga(XYC)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XYD</code>
+    <DestinationName>Lyon Cty</DestinationName>
+    <DestinationStr>Lyon Cty(XYD)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XYF</code>
+    <DestinationName>Falkoping</DestinationName>
+    <DestinationStr>Falkoping(XYF)-Sweden</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XYI</code>
+    <DestinationName>Flen</DestinationName>
+    <DestinationStr>Flen(XYI)-Sweden</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XYL</code>
+    <DestinationName>Lyon City</DestinationName>
+    <DestinationStr>Lyon City(XYL)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XYM</code>
+    <DestinationName>Falkenberg</DestinationName>
+    <DestinationStr>Falkenberg(XYM)-Sweden</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XYN</code>
+    <DestinationName>Kristinehamn</DestinationName>
+    <DestinationStr>Kristinehamn(XYN)-Sweden</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XYO</code>
+    <DestinationName>Karlshamn</DestinationName>
+    <DestinationStr>Karlshamn(XYO)-Sweden</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XYP</code>
+    <DestinationName>Avesta Krylbo</DestinationName>
+    <DestinationStr>Avesta Krylbo(XYP)-Sweden</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XYU</code>
+    <DestinationName>Solvesborg</DestinationName>
+    <DestinationStr>Solvesborg(XYU)-Sweden</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XYW</code>
+    <DestinationName>Xinyang</DestinationName>
+    <DestinationStr>Xinyang(XYW)-China</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XYX</code>
+    <DestinationName>Sala</DestinationName>
+    <DestinationStr>Sala(XYX)-Sweden</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XYY</code>
+    <DestinationName>Arvika</DestinationName>
+    <DestinationStr>Arvika(XYY)-Sweden</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XYZ</code>
+    <DestinationName>Harnosand</DestinationName>
+    <DestinationStr>Harnosand(XYZ)-Sweden</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XZB</code>
+    <DestinationName>Casselman</DestinationName>
+    <DestinationStr>Casselman(XZB)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XZC</code>
+    <DestinationName>Glencoe</DestinationName>
+    <DestinationStr>Glencoe(XZC)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XZD</code>
+    <DestinationName>Kongsvinger</DestinationName>
+    <DestinationStr>Kongsvinger(XZD)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XZF</code>
+    <DestinationName>Dammam Port</DestinationName>
+    <DestinationStr>Dammam Port(XZF)-Saudi Arabia</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XZK</code>
+    <DestinationName>Amherst</DestinationName>
+    <DestinationStr>Amherst(XZK)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XZP</code>
+    <DestinationName>Off Line Point</DestinationName>
+    <DestinationStr>Off Line Point(XZP)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XZP</code>
+    <DestinationName>Pass</DestinationName>
+    <DestinationStr>Pass(XZP)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XZY</code>
+    <DestinationName>Alzey</DestinationName>
+    <DestinationStr>Alzey(XZY)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZBZ</code>
+    <DestinationName>Xin Hui Ferry Arpt</DestinationName>
+    <DestinationStr>Xin Hui Ferry Arpt(ZBZ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZBZ</code>
+    <DestinationName>Xin Hui</DestinationName>
+    <DestinationStr>Xin Hui(ZBZ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZHY</code>
+    <DestinationName>Xiangshan Airport</DestinationName>
+    <DestinationStr>Xiangshan Airport(ZHY)-China</DestinationStr>
+  </Destination>
+</DestinationRoot>

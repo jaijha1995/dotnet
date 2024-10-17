@@ -1,0 +1,2022 @@
+﻿<DestinationRoot>
+  <Destination>
+    <code>NORESULT</code>
+    <DestinationName>NORESULT</DestinationName>
+    <DestinationStr>No Result Found</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ATO</code>
+    <DestinationName>Ohio University Arpt</DestinationName>
+    <DestinationStr>Ohio University Arpt(ATO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ATW</code>
+    <DestinationName>Outagamie Cty Arpt</DestinationName>
+    <DestinationStr>Outagamie Cty Arpt(ATW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BGY</code>
+    <DestinationName>Orio Al Serio Arpt</DestinationName>
+    <DestinationStr>Orio Al Serio Arpt(BGY)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CBS</code>
+    <DestinationName>Oro Negro Arpt</DestinationName>
+    <DestinationStr>Oro Negro Arpt(CBS)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CKV</code>
+    <DestinationName>Outlaw Field</DestinationName>
+    <DestinationStr>Outlaw Field(CKV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CSL</code>
+    <DestinationName>O Sullivan Army Air Field</DestinationName>
+    <DestinationStr>O Sullivan Army Air Field(CSL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DSN</code>
+    <DestinationName>Ordos Ejin Horo Airport</DestinationName>
+    <DestinationStr>Ordos Ejin Horo Airport(DSN)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DSN</code>
+    <DestinationName>Ordos</DestinationName>
+    <DestinationStr>Ordos(DSN)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FMH</code>
+    <DestinationName>Otis AFB</DestinationName>
+    <DestinationStr>Otis AFB(FMH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FNU</code>
+    <DestinationName>Oristano</DestinationName>
+    <DestinationStr>Oristano(FNU)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FTX</code>
+    <DestinationName>Owando</DestinationName>
+    <DestinationStr>Owando(FTX)-Congo</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GCM</code>
+    <DestinationName>Owen Roberts International</DestinationName>
+    <DestinationStr>Owen Roberts International(GCM)-Cayman Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GLR</code>
+    <DestinationName>Otsego Arpt</DestinationName>
+    <DestinationStr>Otsego Arpt(GLR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HME</code>
+    <DestinationName>Oued Irara Arpt</DestinationName>
+    <DestinationStr>Oued Irara Arpt(HME)-Algeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HNL</code>
+    <DestinationName>Oahu</DestinationName>
+    <DestinationStr>Oahu(HNL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HOV</code>
+    <DestinationName>Orsta Volda</DestinationName>
+    <DestinationStr>Orsta Volda(HOV)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JCE</code>
+    <DestinationName>Oakland Conv Ctr Hlpt</DestinationName>
+    <DestinationStr>Oakland Conv Ctr Hlpt(JCE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JNB</code>
+    <DestinationName>O R Tambo International Arpt</DestinationName>
+    <DestinationStr>O R Tambo International Arpt(JNB)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KEO</code>
+    <DestinationName>Odienne</DestinationName>
+    <DestinationStr>Odienne(KEO)-Ivory Coast</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KOY</code>
+    <DestinationName>Olga Bay</DestinationName>
+    <DestinationStr>Olga Bay(KOY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KOZ</code>
+    <DestinationName>Ouzinkie</DestinationName>
+    <DestinationStr>Ouzinkie(KOZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LEH</code>
+    <DestinationName>Octeville Arpt</DestinationName>
+    <DestinationStr>Octeville Arpt(LEH)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MCO</code>
+    <DestinationName>Orlando Intl Arpt</DestinationName>
+    <DestinationStr>Orlando Intl Arpt(MCO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MGJ</code>
+    <DestinationName>Orange County Arpt</DestinationName>
+    <DestinationStr>Orange County Arpt(MGJ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OAG</code>
+    <DestinationName>Orange</DestinationName>
+    <DestinationStr>Orange(OAG)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OAG</code>
+    <DestinationName>Springhill Arpt</DestinationName>
+    <DestinationStr>Springhill Arpt(OAG)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OAJ</code>
+    <DestinationName>Albert J Ellis</DestinationName>
+    <DestinationStr>Albert J Ellis(OAJ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OAJ</code>
+    <DestinationName>Jacksonville</DestinationName>
+    <DestinationStr>Jacksonville(OAJ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OAK</code>
+    <DestinationName>Metro Oakland Intl Arpt</DestinationName>
+    <DestinationStr>Metro Oakland Intl Arpt(OAK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OAK</code>
+    <DestinationName>Oakland</DestinationName>
+    <DestinationStr>Oakland(OAK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OAL</code>
+    <DestinationName>Cacoal Arpt</DestinationName>
+    <DestinationStr>Cacoal Arpt(OAL)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OAL</code>
+    <DestinationName>Cacoal</DestinationName>
+    <DestinationStr>Cacoal(OAL)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OAM</code>
+    <DestinationName>Oamaru Airport</DestinationName>
+    <DestinationStr>Oamaru Airport(OAM)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OAM</code>
+    <DestinationName>Oamaru</DestinationName>
+    <DestinationStr>Oamaru(OAM)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OAN</code>
+    <DestinationName>Olanchito</DestinationName>
+    <DestinationStr>Olanchito(OAN)-Honduras</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OAR</code>
+    <DestinationName>Fritzsche Army Air Field</DestinationName>
+    <DestinationStr>Fritzsche Army Air Field(OAR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OAX</code>
+    <DestinationName>Oaxaca</DestinationName>
+    <DestinationStr>Oaxaca(OAX)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OAX</code>
+    <DestinationName>Xoxocotlan International</DestinationName>
+    <DestinationStr>Xoxocotlan International(OAX)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OBE</code>
+    <DestinationName>Okeechobee County Arpt</DestinationName>
+    <DestinationStr>Okeechobee County Arpt(OBE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OBE</code>
+    <DestinationName>Okeechobee</DestinationName>
+    <DestinationStr>Okeechobee(OBE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OBF</code>
+    <DestinationName>Oberpfaffenhofen</DestinationName>
+    <DestinationStr>Oberpfaffenhofen(OBF)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OBL</code>
+    <DestinationName>Zoersel</DestinationName>
+    <DestinationStr>Zoersel(OBL)-Belgium</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OBM</code>
+    <DestinationName>Morobe</DestinationName>
+    <DestinationStr>Morobe(OBM)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OBN</code>
+    <DestinationName>Connel Airport</DestinationName>
+    <DestinationStr>Connel Airport(OBN)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OBN</code>
+    <DestinationName>Oban</DestinationName>
+    <DestinationStr>Oban(OBN)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OBO</code>
+    <DestinationName>Obihiro Arpt</DestinationName>
+    <DestinationStr>Obihiro Arpt(OBO)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OBO</code>
+    <DestinationName>Obihiro</DestinationName>
+    <DestinationStr>Obihiro(OBO)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OBS</code>
+    <DestinationName>Aubenas</DestinationName>
+    <DestinationStr>Aubenas(OBS)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OBS</code>
+    <DestinationName>Vals Lanas Arpt</DestinationName>
+    <DestinationStr>Vals Lanas Arpt(OBS)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OBT</code>
+    <DestinationName>Oakland Coliseum Street</DestinationName>
+    <DestinationStr>Oakland Coliseum Street(OBT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OBU</code>
+    <DestinationName>Kobuk</DestinationName>
+    <DestinationStr>Kobuk(OBU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OCA</code>
+    <DestinationName>Ocean Reef Arpt</DestinationName>
+    <DestinationStr>Ocean Reef Arpt(OCA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OCA</code>
+    <DestinationName>Ocean Reef</DestinationName>
+    <DestinationStr>Ocean Reef(OCA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OCC</code>
+    <DestinationName>Aeropuerto Francisco De Orellana</DestinationName>
+    <DestinationStr>Aeropuerto Francisco De Orellana(OCC)-Ecuador</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OCC</code>
+    <DestinationName>Coca</DestinationName>
+    <DestinationStr>Coca(OCC)-Ecuador</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OCE</code>
+    <DestinationName>Ocean City Airport</DestinationName>
+    <DestinationStr>Ocean City Airport(OCE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OCE</code>
+    <DestinationName>Ocean City</DestinationName>
+    <DestinationStr>Ocean City(OCE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OCF</code>
+    <DestinationName>Ocala</DestinationName>
+    <DestinationStr>Ocala(OCF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OCF</code>
+    <DestinationName>Taylor Field Arpt</DestinationName>
+    <DestinationStr>Taylor Field Arpt(OCF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OCH</code>
+    <DestinationName>Al Mangham Jr Regional Arpt</DestinationName>
+    <DestinationStr>Al Mangham Jr Regional Arpt(OCH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OCH</code>
+    <DestinationName>Nacogdoches</DestinationName>
+    <DestinationStr>Nacogdoches(OCH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OCJ</code>
+    <DestinationName>Ian Fleming International</DestinationName>
+    <DestinationStr>Ian Fleming International(OCJ)-Jamaica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OCJ</code>
+    <DestinationName>Ocho Rios</DestinationName>
+    <DestinationStr>Ocho Rios(OCJ)-Jamaica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OCN</code>
+    <DestinationName>Oceanside Municipal Arpt</DestinationName>
+    <DestinationStr>Oceanside Municipal Arpt(OCN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OCN</code>
+    <DestinationName>Oceanside</DestinationName>
+    <DestinationStr>Oceanside(OCN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OCV</code>
+    <DestinationName>Aguas Claras Arpt</DestinationName>
+    <DestinationStr>Aguas Claras Arpt(OCV)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OCV</code>
+    <DestinationName>Ocana</DestinationName>
+    <DestinationStr>Ocana(OCV)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ODB</code>
+    <DestinationName>Cordoba Airport</DestinationName>
+    <DestinationStr>Cordoba Airport(ODB)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ODB</code>
+    <DestinationName>Cordoba</DestinationName>
+    <DestinationStr>Cordoba(ODB)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ODE</code>
+    <DestinationName>Odense Airport</DestinationName>
+    <DestinationStr>Odense Airport(ODE)-Denmark</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ODE</code>
+    <DestinationName>Odense</DestinationName>
+    <DestinationStr>Odense(ODE)-Denmark</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ODL</code>
+    <DestinationName>Cordillo Downs</DestinationName>
+    <DestinationStr>Cordillo Downs(ODL)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ODM</code>
+    <DestinationName>OAKLAND</DestinationName>
+    <DestinationStr>OAKLAND(ODM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ODN</code>
+    <DestinationName>Long Seridan Arpt</DestinationName>
+    <DestinationStr>Long Seridan Arpt(ODN)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ODN</code>
+    <DestinationName>Long Seridan</DestinationName>
+    <DestinationStr>Long Seridan(ODN)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ODO</code>
+    <DestinationName>Bodaybo Arpt</DestinationName>
+    <DestinationStr>Bodaybo Arpt(ODO)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ODO</code>
+    <DestinationName>Bodaybo</DestinationName>
+    <DestinationStr>Bodaybo(ODO)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ODS</code>
+    <DestinationName>Central Arpt</DestinationName>
+    <DestinationStr>Central Arpt(ODS)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ODS</code>
+    <DestinationName>Odesa</DestinationName>
+    <DestinationStr>Odesa(ODS)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ODS</code>
+    <DestinationName>Odessa</DestinationName>
+    <DestinationStr>Odessa(ODS)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ODW</code>
+    <DestinationName>Oak Harbor</DestinationName>
+    <DestinationStr>Oak Harbor(ODW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ODW</code>
+    <DestinationName>Oak Harbour Municipal</DestinationName>
+    <DestinationStr>Oak Harbour Municipal(ODW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OEA</code>
+    <DestinationName>Oneal Arpt</DestinationName>
+    <DestinationStr>Oneal Arpt(OEA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OEA</code>
+    <DestinationName>Vincennes</DestinationName>
+    <DestinationStr>Vincennes(OEA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OER</code>
+    <DestinationName>Ornskoldsvik Arpt</DestinationName>
+    <DestinationStr>Ornskoldsvik Arpt(OER)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OER</code>
+    <DestinationName>Ornskoldsvik</DestinationName>
+    <DestinationStr>Ornskoldsvik(OER)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OES</code>
+    <DestinationName>San Antonio Oeste</DestinationName>
+    <DestinationStr>San Antonio Oeste(OES)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OFJ</code>
+    <DestinationName>Olafsfjordur</DestinationName>
+    <DestinationStr>Olafsfjordur(OFJ)-Iceland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OFK</code>
+    <DestinationName>Karl Stefan Fld</DestinationName>
+    <DestinationStr>Karl Stefan Fld(OFK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OFK</code>
+    <DestinationName>Norfolk</DestinationName>
+    <DestinationStr>Norfolk(OFK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OGA</code>
+    <DestinationName>Ogallala</DestinationName>
+    <DestinationStr>Ogallala(OGA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OGA</code>
+    <DestinationName>Searle Field</DestinationName>
+    <DestinationStr>Searle Field(OGA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OGB</code>
+    <DestinationName>Orangeburg Municpal</DestinationName>
+    <DestinationStr>Orangeburg Municpal(OGB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OGB</code>
+    <DestinationName>ORANGEBURG</DestinationName>
+    <DestinationStr>ORANGEBURG(OGB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OGD</code>
+    <DestinationName>Ogden Municipal</DestinationName>
+    <DestinationStr>Ogden Municipal(OGD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OGD</code>
+    <DestinationName>Ogden</DestinationName>
+    <DestinationStr>Ogden(OGD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OGG</code>
+    <DestinationName>Kahului Airport</DestinationName>
+    <DestinationStr>Kahului Airport(OGG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OGG</code>
+    <DestinationName>Kahului</DestinationName>
+    <DestinationStr>Kahului(OGG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OGL</code>
+    <DestinationName>Ogle Arpt</DestinationName>
+    <DestinationStr>Ogle Arpt(OGL)-Guyana</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OGM</code>
+    <DestinationName>Ogobsucum Arpt</DestinationName>
+    <DestinationStr>Ogobsucum Arpt(OGM)-Panama</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OGM</code>
+    <DestinationName>Ogobsucum</DestinationName>
+    <DestinationStr>Ogobsucum(OGM)-Panama</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OGN</code>
+    <DestinationName>Yonaguni Jima Airport</DestinationName>
+    <DestinationStr>Yonaguni Jima Airport(OGN)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OGN</code>
+    <DestinationName>Yonaguni</DestinationName>
+    <DestinationStr>Yonaguni(OGN)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OGS</code>
+    <DestinationName>Ogdensburg Municipal</DestinationName>
+    <DestinationStr>Ogdensburg Municipal(OGS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OGS</code>
+    <DestinationName>Ogdensburg</DestinationName>
+    <DestinationStr>Ogdensburg(OGS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OGX</code>
+    <DestinationName>Ouargla</DestinationName>
+    <DestinationStr>Ouargla(OGX)-Algeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OGZ</code>
+    <DestinationName>Beslan Airport</DestinationName>
+    <DestinationStr>Beslan Airport(OGZ)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OGZ</code>
+    <DestinationName>Vladikavkaz</DestinationName>
+    <DestinationStr>Vladikavkaz(OGZ)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OHA</code>
+    <DestinationName>Ohakea</DestinationName>
+    <DestinationStr>Ohakea(OHA)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OHA</code>
+    <DestinationName>Royal Air Force Base Airport</DestinationName>
+    <DestinationStr>Royal Air Force Base Airport(OHA)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OHD</code>
+    <DestinationName>Ohrid Arpt</DestinationName>
+    <DestinationStr>Ohrid Arpt(OHD)-Macedonia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OHD</code>
+    <DestinationName>Ohrid</DestinationName>
+    <DestinationStr>Ohrid(OHD)-Macedonia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OHE</code>
+    <DestinationName>Gu Lian Airport</DestinationName>
+    <DestinationStr>Gu Lian Airport(OHE)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OHE</code>
+    <DestinationName>Mohe County</DestinationName>
+    <DestinationStr>Mohe County(OHE)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OHH</code>
+    <DestinationName>Novostroyka Airport</DestinationName>
+    <DestinationStr>Novostroyka Airport(OHH)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OHH</code>
+    <DestinationName>Okha</DestinationName>
+    <DestinationStr>Okha(OHH)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OHI</code>
+    <DestinationName>Oshakati</DestinationName>
+    <DestinationStr>Oshakati(OHI)-Namibia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OHP</code>
+    <DestinationName>Oban Heliport</DestinationName>
+    <DestinationStr>Oban Heliport(OHP)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OHT</code>
+    <DestinationName>Kohat</DestinationName>
+    <DestinationStr>Kohat(OHT)-Pakistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OIA</code>
+    <DestinationName>Ourilandia Arpt</DestinationName>
+    <DestinationStr>Ourilandia Arpt(OIA)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OIA</code>
+    <DestinationName>Ourilandia</DestinationName>
+    <DestinationStr>Ourilandia(OIA)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OIM</code>
+    <DestinationName>Oshima Arpt</DestinationName>
+    <DestinationStr>Oshima Arpt(OIM)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OIM</code>
+    <DestinationName>Oshima</DestinationName>
+    <DestinationStr>Oshima(OIM)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OIR</code>
+    <DestinationName>Okushiri</DestinationName>
+    <DestinationStr>Okushiri(OIR)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OIT</code>
+    <DestinationName>Oita Arpt</DestinationName>
+    <DestinationStr>Oita Arpt(OIT)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OIT</code>
+    <DestinationName>Oita</DestinationName>
+    <DestinationStr>Oita(OIT)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OJC</code>
+    <DestinationName>Johnson Executive Arpt</DestinationName>
+    <DestinationStr>Johnson Executive Arpt(OJC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OKA</code>
+    <DestinationName>Naha Field</DestinationName>
+    <DestinationStr>Naha Field(OKA)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OKA</code>
+    <DestinationName>Okinawa</DestinationName>
+    <DestinationStr>Okinawa(OKA)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OKC</code>
+    <DestinationName>Oklahoma City</DestinationName>
+    <DestinationStr>Oklahoma City(OKC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OKC</code>
+    <DestinationName>Will Rogers World Arpt</DestinationName>
+    <DestinationStr>Will Rogers World Arpt(OKC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OKD</code>
+    <DestinationName>Okadama Arpt</DestinationName>
+    <DestinationStr>Okadama Arpt(OKD)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OKE</code>
+    <DestinationName>Okino Erabu Arpt</DestinationName>
+    <DestinationStr>Okino Erabu Arpt(OKE)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OKE</code>
+    <DestinationName>Okino Erabu</DestinationName>
+    <DestinationStr>Okino Erabu(OKE)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OKF</code>
+    <DestinationName>Okaukuejo</DestinationName>
+    <DestinationStr>Okaukuejo(OKF)-Namibia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OKG</code>
+    <DestinationName>Okoyo</DestinationName>
+    <DestinationStr>Okoyo(OKG)-Congo</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OKI</code>
+    <DestinationName>Oki Island</DestinationName>
+    <DestinationStr>Oki Island(OKI)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OKJ</code>
+    <DestinationName>Okayama Arpt</DestinationName>
+    <DestinationStr>Okayama Arpt(OKJ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OKJ</code>
+    <DestinationName>Okayama</DestinationName>
+    <DestinationStr>Okayama(OKJ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OKK</code>
+    <DestinationName>Kokomo Municipal</DestinationName>
+    <DestinationStr>Kokomo Municipal(OKK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OKK</code>
+    <DestinationName>Kokomo</DestinationName>
+    <DestinationStr>Kokomo(OKK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OKL</code>
+    <DestinationName>Oksibil</DestinationName>
+    <DestinationStr>Oksibil(OKL)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OKN</code>
+    <DestinationName>Okondja</DestinationName>
+    <DestinationStr>Okondja(OKN)-Gabon</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OKO</code>
+    <DestinationName>Yokota AFB</DestinationName>
+    <DestinationStr>Yokota AFB(OKO)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OKP</code>
+    <DestinationName>Oksapmin</DestinationName>
+    <DestinationStr>Oksapmin(OKP)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OKQ</code>
+    <DestinationName>Okaba</DestinationName>
+    <DestinationStr>Okaba(OKQ)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OKR</code>
+    <DestinationName>Yorke Island</DestinationName>
+    <DestinationStr>Yorke Island(OKR)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OKY</code>
+    <DestinationName>Oakey Arpt</DestinationName>
+    <DestinationStr>Oakey Arpt(OKY)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OKY</code>
+    <DestinationName>Oakey</DestinationName>
+    <DestinationStr>Oakey(OKY)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OLA</code>
+    <DestinationName>Orland</DestinationName>
+    <DestinationStr>Orland(OLA)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OLB</code>
+    <DestinationName>Costa Smeralda Arpt</DestinationName>
+    <DestinationStr>Costa Smeralda Arpt(OLB)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OLB</code>
+    <DestinationName>Olbia</DestinationName>
+    <DestinationStr>Olbia(OLB)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OLC</code>
+    <DestinationName>Sao Paulo de Olivenca</DestinationName>
+    <DestinationStr>Sao Paulo de Olivenca(OLC)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OLF</code>
+    <DestinationName>Wolf Point</DestinationName>
+    <DestinationStr>Wolf Point(OLF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OLH</code>
+    <DestinationName>Old Harbor</DestinationName>
+    <DestinationStr>Old Harbor(OLH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OLI</code>
+    <DestinationName>Olafsvik</DestinationName>
+    <DestinationStr>Olafsvik(OLI)-Iceland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OLK</code>
+    <DestinationName>Fuerte Olimpo Arpt</DestinationName>
+    <DestinationStr>Fuerte Olimpo Arpt(OLK)-Paraguay</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OLK</code>
+    <DestinationName>Fuerte Olimpo</DestinationName>
+    <DestinationStr>Fuerte Olimpo(OLK)-Paraguay</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OLM</code>
+    <DestinationName>Olympia Arpt</DestinationName>
+    <DestinationStr>Olympia Arpt(OLM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OLM</code>
+    <DestinationName>Olympia</DestinationName>
+    <DestinationStr>Olympia(OLM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OLN</code>
+    <DestinationName>Colonia Sarmiento</DestinationName>
+    <DestinationStr>Colonia Sarmiento(OLN)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OLO</code>
+    <DestinationName>Olomouc</DestinationName>
+    <DestinationStr>Olomouc(OLO)-Czech Republic</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OLP</code>
+    <DestinationName>Olympic Dam Arpt</DestinationName>
+    <DestinationStr>Olympic Dam Arpt(OLP)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OLP</code>
+    <DestinationName>Olympic Dam</DestinationName>
+    <DestinationStr>Olympic Dam(OLP)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OLS</code>
+    <DestinationName>Nogales Intl Arpt</DestinationName>
+    <DestinationStr>Nogales Intl Arpt(OLS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OLS</code>
+    <DestinationName>Nogales</DestinationName>
+    <DestinationStr>Nogales(OLS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OLU</code>
+    <DestinationName>Columbus Arpt</DestinationName>
+    <DestinationStr>Columbus Arpt(OLU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OLU</code>
+    <DestinationName>Columbus</DestinationName>
+    <DestinationStr>Columbus(OLU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OLV</code>
+    <DestinationName>Olive Branch Arpt</DestinationName>
+    <DestinationStr>Olive Branch Arpt(OLV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OLZ</code>
+    <DestinationName>Olekminsk Airport</DestinationName>
+    <DestinationStr>Olekminsk Airport(OLZ)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OMA</code>
+    <DestinationName>Eppley Airfield</DestinationName>
+    <DestinationStr>Eppley Airfield(OMA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OMA</code>
+    <DestinationName>Omaha</DestinationName>
+    <DestinationStr>Omaha(OMA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OMB</code>
+    <DestinationName>Omboue</DestinationName>
+    <DestinationStr>Omboue(OMB)-Gabon</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OMD</code>
+    <DestinationName>Oranjemund Arpt</DestinationName>
+    <DestinationStr>Oranjemund Arpt(OMD)-Namibia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OMD</code>
+    <DestinationName>Oranjemund</DestinationName>
+    <DestinationStr>Oranjemund(OMD)-Namibia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OME</code>
+    <DestinationName>Nome Arpt</DestinationName>
+    <DestinationStr>Nome Arpt(OME)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OME</code>
+    <DestinationName>Nome</DestinationName>
+    <DestinationStr>Nome(OME)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OMH</code>
+    <DestinationName>Urmieh</DestinationName>
+    <DestinationStr>Urmieh(OMH)-Iran</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OMN</code>
+    <DestinationName>OSMANABAD</DestinationName>
+    <DestinationStr>OSMANABAD(OMN)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OMO</code>
+    <DestinationName>Mostar Arpt</DestinationName>
+    <DestinationStr>Mostar Arpt(OMO)-Bosnia Herzegovina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OMO</code>
+    <DestinationName>Mostar</DestinationName>
+    <DestinationStr>Mostar(OMO)-Bosnia Herzegovina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OMR</code>
+    <DestinationName>Oradea Arpt</DestinationName>
+    <DestinationStr>Oradea Arpt(OMR)-Romania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OMR</code>
+    <DestinationName>Oradea</DestinationName>
+    <DestinationStr>Oradea(OMR)-Romania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OMS</code>
+    <DestinationName>Omsk Arpt</DestinationName>
+    <DestinationStr>Omsk Arpt(OMS)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OMS</code>
+    <DestinationName>Omsk</DestinationName>
+    <DestinationStr>Omsk(OMS)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ONA</code>
+    <DestinationName>Winona</DestinationName>
+    <DestinationStr>Winona(ONA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ONB</code>
+    <DestinationName>Ononge</DestinationName>
+    <DestinationStr>Ononge(ONB)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OND</code>
+    <DestinationName>Ondangwa Arpt</DestinationName>
+    <DestinationStr>Ondangwa Arpt(OND)-Namibia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OND</code>
+    <DestinationName>Ondangwa</DestinationName>
+    <DestinationStr>Ondangwa(OND)-Namibia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ONG</code>
+    <DestinationName>Mornington Arpt</DestinationName>
+    <DestinationStr>Mornington Arpt(ONG)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ONG</code>
+    <DestinationName>Mornington</DestinationName>
+    <DestinationStr>Mornington(ONG)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ONH</code>
+    <DestinationName>Oneonta Municpal</DestinationName>
+    <DestinationStr>Oneonta Municpal(ONH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ONH</code>
+    <DestinationName>Oneonta</DestinationName>
+    <DestinationStr>Oneonta(ONH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ONI</code>
+    <DestinationName>Moanamani</DestinationName>
+    <DestinationStr>Moanamani(ONI)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ONJ</code>
+    <DestinationName>Odate Noshiro Arpt</DestinationName>
+    <DestinationStr>Odate Noshiro Arpt(ONJ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ONJ</code>
+    <DestinationName>Odate Noshiro</DestinationName>
+    <DestinationStr>Odate Noshiro(ONJ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ONK</code>
+    <DestinationName>Olenek Airport</DestinationName>
+    <DestinationStr>Olenek Airport(ONK)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ONK</code>
+    <DestinationName>Olenek</DestinationName>
+    <DestinationStr>Olenek(ONK)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ONM</code>
+    <DestinationName>Socorro Municipal Arpt</DestinationName>
+    <DestinationStr>Socorro Municipal Arpt(ONM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ONM</code>
+    <DestinationName>Socorro</DestinationName>
+    <DestinationStr>Socorro(ONM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ONO</code>
+    <DestinationName>Ontario Airport</DestinationName>
+    <DestinationStr>Ontario Airport(ONO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ONO</code>
+    <DestinationName>Ontario</DestinationName>
+    <DestinationStr>Ontario(ONO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ONP</code>
+    <DestinationName>Newport Municipal Arpt</DestinationName>
+    <DestinationStr>Newport Municipal Arpt(ONP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ONP</code>
+    <DestinationName>Newport</DestinationName>
+    <DestinationStr>Newport(ONP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ONQ</code>
+    <DestinationName>Caycuma Airport</DestinationName>
+    <DestinationStr>Caycuma Airport(ONQ)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ONQ</code>
+    <DestinationName>Zonguldak</DestinationName>
+    <DestinationStr>Zonguldak(ONQ)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ONS</code>
+    <DestinationName>Onslow Airport</DestinationName>
+    <DestinationStr>Onslow Airport(ONS)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ONS</code>
+    <DestinationName>Onslow</DestinationName>
+    <DestinationStr>Onslow(ONS)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ONT</code>
+    <DestinationName>Ontario Intl</DestinationName>
+    <DestinationStr>Ontario Intl(ONT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ONT</code>
+    <DestinationName>Ontario</DestinationName>
+    <DestinationStr>Ontario(ONT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ONX</code>
+    <DestinationName>Colon</DestinationName>
+    <DestinationStr>Colon(ONX)-Panama</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OOK</code>
+    <DestinationName>Toksook Bay</DestinationName>
+    <DestinationStr>Toksook Bay(OOK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OOL</code>
+    <DestinationName>Gold Coast Arpt</DestinationName>
+    <DestinationStr>Gold Coast Arpt(OOL)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OOL</code>
+    <DestinationName>Gold Coast</DestinationName>
+    <DestinationStr>Gold Coast(OOL)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OOM</code>
+    <DestinationName>Cooma Airport</DestinationName>
+    <DestinationStr>Cooma Airport(OOM)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OOM</code>
+    <DestinationName>Cooma</DestinationName>
+    <DestinationStr>Cooma(OOM)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OOT</code>
+    <DestinationName>Onotoa</DestinationName>
+    <DestinationStr>Onotoa(OOT)-Kiribati</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OPA</code>
+    <DestinationName>Kopasker Arpt</DestinationName>
+    <DestinationStr>Kopasker Arpt(OPA)-Iceland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OPA</code>
+    <DestinationName>Kopasker</DestinationName>
+    <DestinationStr>Kopasker(OPA)-Iceland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OPB</code>
+    <DestinationName>Open Bay</DestinationName>
+    <DestinationStr>Open Bay(OPB)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OPF</code>
+    <DestinationName>Opa Locka Arpt</DestinationName>
+    <DestinationStr>Opa Locka Arpt(OPF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OPO</code>
+    <DestinationName>Oporto</DestinationName>
+    <DestinationStr>Oporto(OPO)-Portugal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OPO</code>
+    <DestinationName>Porto Airport</DestinationName>
+    <DestinationStr>Porto Airport(OPO)-Portugal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OPO</code>
+    <DestinationName>Porto</DestinationName>
+    <DestinationStr>Porto(OPO)-Portugal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OPS</code>
+    <DestinationName>Sinop Airport</DestinationName>
+    <DestinationStr>Sinop Airport(OPS)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OPS</code>
+    <DestinationName>Sinop</DestinationName>
+    <DestinationStr>Sinop(OPS)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OPU</code>
+    <DestinationName>Balimo Airport</DestinationName>
+    <DestinationStr>Balimo Airport(OPU)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OPU</code>
+    <DestinationName>Balimo</DestinationName>
+    <DestinationStr>Balimo(OPU)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ORB</code>
+    <DestinationName>Orebro Bofors Arpt</DestinationName>
+    <DestinationStr>Orebro Bofors Arpt(ORB)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ORB</code>
+    <DestinationName>Orebro Bofors</DestinationName>
+    <DestinationStr>Orebro Bofors(ORB)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ORD</code>
+    <DestinationName>O'Hare Intl Arpt</DestinationName>
+    <DestinationStr>O'Hare Intl Arpt(ORD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ORE</code>
+    <DestinationName>Orleans Arpt</DestinationName>
+    <DestinationStr>Orleans Arpt(ORE)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ORE</code>
+    <DestinationName>Orleans</DestinationName>
+    <DestinationStr>Orleans(ORE)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ORF</code>
+    <DestinationName>Norfolk Intl Arpt</DestinationName>
+    <DestinationStr>Norfolk Intl Arpt(ORF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ORF</code>
+    <DestinationName>Norfolk</DestinationName>
+    <DestinationStr>Norfolk(ORF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ORG</code>
+    <DestinationName>Zorg En Hoop Arpt</DestinationName>
+    <DestinationStr>Zorg En Hoop Arpt(ORG)-Suriname</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ORH</code>
+    <DestinationName>Worcester Arpt</DestinationName>
+    <DestinationStr>Worcester Arpt(ORH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ORH</code>
+    <DestinationName>Worcester</DestinationName>
+    <DestinationStr>Worcester(ORH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ORI</code>
+    <DestinationName>Port Lions</DestinationName>
+    <DestinationStr>Port Lions(ORI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ORK</code>
+    <DestinationName>Cork International Arpt</DestinationName>
+    <DestinationStr>Cork International Arpt(ORK)-Ireland, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ORK</code>
+    <DestinationName>Cork</DestinationName>
+    <DestinationStr>Cork(ORK)-Ireland, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ORL</code>
+    <DestinationName>Herndon Arpt</DestinationName>
+    <DestinationStr>Herndon Arpt(ORL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ORL</code>
+    <DestinationName>Orlando</DestinationName>
+    <DestinationStr>Orlando(ORL)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ORM</code>
+    <DestinationName>Northampton</DestinationName>
+    <DestinationStr>Northampton(ORM)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ORN</code>
+    <DestinationName>Es Senia</DestinationName>
+    <DestinationStr>Es Senia(ORN)-Algeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ORN</code>
+    <DestinationName>Oran</DestinationName>
+    <DestinationStr>Oran(ORN)-Algeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ORQ</code>
+    <DestinationName>Norwalk Heliport</DestinationName>
+    <DestinationStr>Norwalk Heliport(ORQ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ORQ</code>
+    <DestinationName>Norwalk</DestinationName>
+    <DestinationStr>Norwalk(ORQ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ORS</code>
+    <DestinationName>Orpheus Island</DestinationName>
+    <DestinationStr>Orpheus Island(ORS)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ORS</code>
+    <DestinationName>Waterport Arpt</DestinationName>
+    <DestinationStr>Waterport Arpt(ORS)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ORT</code>
+    <DestinationName>Northway Arpt</DestinationName>
+    <DestinationStr>Northway Arpt(ORT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ORT</code>
+    <DestinationName>Northway</DestinationName>
+    <DestinationStr>Northway(ORT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ORU</code>
+    <DestinationName>Juan Mendoza Arpt</DestinationName>
+    <DestinationStr>Juan Mendoza Arpt(ORU)-Bolivia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ORU</code>
+    <DestinationName>Oruro</DestinationName>
+    <DestinationStr>Oruro(ORU)-Bolivia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ORV</code>
+    <DestinationName>Noorvik</DestinationName>
+    <DestinationStr>Noorvik(ORV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ORY</code>
+    <DestinationName>Orly Arpt</DestinationName>
+    <DestinationStr>Orly Arpt(ORY)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OSA</code>
+    <DestinationName>Osaka</DestinationName>
+    <DestinationStr>Osaka(OSA)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OSB</code>
+    <DestinationName>Osage Beach</DestinationName>
+    <DestinationStr>Osage Beach(OSB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OSD</code>
+    <DestinationName>Froesoe Airport</DestinationName>
+    <DestinationStr>Froesoe Airport(OSD)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OSD</code>
+    <DestinationName>Ostersund</DestinationName>
+    <DestinationStr>Ostersund(OSD)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OSH</code>
+    <DestinationName>Oshkosh</DestinationName>
+    <DestinationStr>Oshkosh(OSH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OSH</code>
+    <DestinationName>Wittman Field</DestinationName>
+    <DestinationStr>Wittman Field(OSH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OSI</code>
+    <DestinationName>Osijek Arpt</DestinationName>
+    <DestinationStr>Osijek Arpt(OSI)-Croatia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OSI</code>
+    <DestinationName>Osijek</DestinationName>
+    <DestinationStr>Osijek(OSI)-Croatia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OSK</code>
+    <DestinationName>Oskarshamn</DestinationName>
+    <DestinationStr>Oskarshamn(OSK)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OSL</code>
+    <DestinationName>Oslo Arpt</DestinationName>
+    <DestinationStr>Oslo Arpt(OSL)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OSL</code>
+    <DestinationName>Oslo</DestinationName>
+    <DestinationStr>Oslo(OSL)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OSM</code>
+    <DestinationName>Mosul International</DestinationName>
+    <DestinationStr>Mosul International(OSM)-Iraq</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OSM</code>
+    <DestinationName>Mosul</DestinationName>
+    <DestinationStr>Mosul(OSM)-Iraq</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OSP</code>
+    <DestinationName>Slupsk</DestinationName>
+    <DestinationStr>Slupsk(OSP)-Poland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>OSQ</code>
+    <DestinationName>Siping</DestinationName>
+    <DestinationStr>Siping(OSQ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OSR</code>
+    <DestinationName>Leos Janacek Airport</DestinationName>
+    <DestinationStr>Leos Janacek Airport(OSR)-Czech Republic</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OSR</code>
+    <DestinationName>Ostrava</DestinationName>
+    <DestinationStr>Ostrava(OSR)-Czech Republic</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OSS</code>
+    <DestinationName>Osh International Airport</DestinationName>
+    <DestinationStr>Osh International Airport(OSS)-Kyrgyzstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OSS</code>
+    <DestinationName>Osh Kg</DestinationName>
+    <DestinationStr>Osh Kg(OSS)-Kyrgyzstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OST</code>
+    <DestinationName>Oostende</DestinationName>
+    <DestinationStr>Oostende(OST)-Belgium</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OST</code>
+    <DestinationName>Ostend Airport</DestinationName>
+    <DestinationStr>Ostend Airport(OST)-Belgium</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OST</code>
+    <DestinationName>Ostende</DestinationName>
+    <DestinationStr>Ostende(OST)-Belgium</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OSU</code>
+    <DestinationName>Ohio State Univ Arpt</DestinationName>
+    <DestinationStr>Ohio State Univ Arpt(OSU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OSW</code>
+    <DestinationName>Orsk Arpt</DestinationName>
+    <DestinationStr>Orsk Arpt(OSW)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OSW</code>
+    <DestinationName>Orsk</DestinationName>
+    <DestinationStr>Orsk(OSW)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OSY</code>
+    <DestinationName>Namsos Arpt</DestinationName>
+    <DestinationStr>Namsos Arpt(OSY)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OSY</code>
+    <DestinationName>Namsos</DestinationName>
+    <DestinationStr>Namsos(OSY)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OSZ</code>
+    <DestinationName>Koszalin</DestinationName>
+    <DestinationStr>Koszalin(OSZ)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OTD</code>
+    <DestinationName>Contadora Island Arpt</DestinationName>
+    <DestinationStr>Contadora Island Arpt(OTD)-Panama</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OTD</code>
+    <DestinationName>Contadora</DestinationName>
+    <DestinationStr>Contadora(OTD)-Panama</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OTG</code>
+    <DestinationName>Worthington Arpt</DestinationName>
+    <DestinationStr>Worthington Arpt(OTG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OTG</code>
+    <DestinationName>Worthington</DestinationName>
+    <DestinationStr>Worthington(OTG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OTH</code>
+    <DestinationName>North Bend Municipal</DestinationName>
+    <DestinationStr>North Bend Municipal(OTH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OTH</code>
+    <DestinationName>North Bend</DestinationName>
+    <DestinationStr>North Bend(OTH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OTI</code>
+    <DestinationName>Morotai Island</DestinationName>
+    <DestinationStr>Morotai Island(OTI)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OTM</code>
+    <DestinationName>Industrial Arpt</DestinationName>
+    <DestinationStr>Industrial Arpt(OTM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OTM</code>
+    <DestinationName>Ottumwa</DestinationName>
+    <DestinationStr>Ottumwa(OTM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OTP</code>
+    <DestinationName>Henri Coanda Arpt</DestinationName>
+    <DestinationStr>Henri Coanda Arpt(OTP)-Romania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OTR</code>
+    <DestinationName>Coto 47</DestinationName>
+    <DestinationStr>Coto 47(OTR)-Costa Rica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OTS</code>
+    <DestinationName>Anacortes</DestinationName>
+    <DestinationStr>Anacortes(OTS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OTS</code>
+    <DestinationName>Ancortes Arpt</DestinationName>
+    <DestinationStr>Ancortes Arpt(OTS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OTS</code>
+    <DestinationName>Ancortes</DestinationName>
+    <DestinationStr>Ancortes(OTS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OTT</code>
+    <DestinationName>Cotriguacu</DestinationName>
+    <DestinationStr>Cotriguacu(OTT)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OTU</code>
+    <DestinationName>Otu Arpt</DestinationName>
+    <DestinationStr>Otu Arpt(OTU)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OTU</code>
+    <DestinationName>Otu Co</DestinationName>
+    <DestinationStr>Otu Co(OTU)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OTZ</code>
+    <DestinationName>Kotzebue</DestinationName>
+    <DestinationStr>Kotzebue(OTZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OTZ</code>
+    <DestinationName>Ralph Wien Memorial</DestinationName>
+    <DestinationStr>Ralph Wien Memorial(OTZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OUA</code>
+    <DestinationName>Burkina Faso</DestinationName>
+    <DestinationStr>Burkina Faso(OUA)-Burkina Faso</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OUA</code>
+    <DestinationName>Ouagadougou Arpt</DestinationName>
+    <DestinationStr>Ouagadougou Arpt(OUA)-Burkina Faso</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OUA</code>
+    <DestinationName>Ouagadougou</DestinationName>
+    <DestinationStr>Ouagadougou(OUA)-Burkina Faso</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OUD</code>
+    <DestinationName>Les Angades Arpt</DestinationName>
+    <DestinationStr>Les Angades Arpt(OUD)-Morocco</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OUD</code>
+    <DestinationName>Oujda</DestinationName>
+    <DestinationStr>Oujda(OUD)-Morocco</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OUE</code>
+    <DestinationName>Ouesso</DestinationName>
+    <DestinationStr>Ouesso(OUE)-Congo</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OUH</code>
+    <DestinationName>Oudtshoorn Arpt</DestinationName>
+    <DestinationStr>Oudtshoorn Arpt(OUH)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OUH</code>
+    <DestinationName>Oudtshoorn</DestinationName>
+    <DestinationStr>Oudtshoorn(OUH)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OUL</code>
+    <DestinationName>Oulu Airport</DestinationName>
+    <DestinationStr>Oulu Airport(OUL)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OUL</code>
+    <DestinationName>Oulu</DestinationName>
+    <DestinationStr>Oulu(OUL)-Finland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>OUQ</code>
+    <DestinationName>Ourense</DestinationName>
+    <DestinationStr>Ourense(OUQ)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OUR</code>
+    <DestinationName>Batouri</DestinationName>
+    <DestinationStr>Batouri(OUR)-Cameroon, United Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OUS</code>
+    <DestinationName>Ourinhos</DestinationName>
+    <DestinationStr>Ourinhos(OUS)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OUZ</code>
+    <DestinationName>Zouerate Arpt</DestinationName>
+    <DestinationStr>Zouerate Arpt(OUZ)-Mauritania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OUZ</code>
+    <DestinationName>Zouerate</DestinationName>
+    <DestinationStr>Zouerate(OUZ)-Mauritania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OVA</code>
+    <DestinationName>Bekily</DestinationName>
+    <DestinationStr>Bekily(OVA)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OVB</code>
+    <DestinationName>Novosibirsk</DestinationName>
+    <DestinationStr>Novosibirsk(OVB)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OVB</code>
+    <DestinationName>Tolmachevo Arpt</DestinationName>
+    <DestinationStr>Tolmachevo Arpt(OVB)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OVD</code>
+    <DestinationName>Asturias Airport</DestinationName>
+    <DestinationStr>Asturias Airport(OVD)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OVD</code>
+    <DestinationName>Asturias</DestinationName>
+    <DestinationStr>Asturias(OVD)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OVD</code>
+    <DestinationName>Oviedo</DestinationName>
+    <DestinationStr>Oviedo(OVD)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OVE</code>
+    <DestinationName>Oroville Arpt</DestinationName>
+    <DestinationStr>Oroville Arpt(OVE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OVE</code>
+    <DestinationName>OROVILLE</DestinationName>
+    <DestinationStr>OROVILLE(OVE)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>OVI</code>
+    <DestinationName>Oviedo</DestinationName>
+    <DestinationStr>Oviedo(OVI)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OVL</code>
+    <DestinationName>Ovalle</DestinationName>
+    <DestinationStr>Ovalle(OVL)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OVS</code>
+    <DestinationName>Sovetsky Arpt</DestinationName>
+    <DestinationStr>Sovetsky Arpt(OVS)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OVS</code>
+    <DestinationName>Sovetsky</DestinationName>
+    <DestinationStr>Sovetsky(OVS)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OWA</code>
+    <DestinationName>Owatonna Arpt</DestinationName>
+    <DestinationStr>Owatonna Arpt(OWA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OWA</code>
+    <DestinationName>Owatonna</DestinationName>
+    <DestinationStr>Owatonna(OWA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OWB</code>
+    <DestinationName>Daviess County Arpt</DestinationName>
+    <DestinationStr>Daviess County Arpt(OWB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OWB</code>
+    <DestinationName>Owensboro</DestinationName>
+    <DestinationStr>Owensboro(OWB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OWD</code>
+    <DestinationName>Norwood Ma Arpt</DestinationName>
+    <DestinationStr>Norwood Ma Arpt(OWD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OWD</code>
+    <DestinationName>Norwood</DestinationName>
+    <DestinationStr>Norwood(OWD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OXB</code>
+    <DestinationName>Airport Osvaldo Viera</DestinationName>
+    <DestinationStr>Airport Osvaldo Viera(OXB)-Guinea Bissau</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OXB</code>
+    <DestinationName>Bissau</DestinationName>
+    <DestinationStr>Bissau(OXB)-Guinea Bissau</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OXB</code>
+    <DestinationName>Guinea Bissau</DestinationName>
+    <DestinationStr>Guinea Bissau(OXB)-Guinea Bissau</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OXC</code>
+    <DestinationName>Oxford</DestinationName>
+    <DestinationStr>Oxford(OXC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OXC</code>
+    <DestinationName>Waterbury Oxford Arpt</DestinationName>
+    <DestinationStr>Waterbury Oxford Arpt(OXC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OXD</code>
+    <DestinationName>Oxford</DestinationName>
+    <DestinationStr>Oxford(OXD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OXF</code>
+    <DestinationName>Kidlington Arpt</DestinationName>
+    <DestinationStr>Kidlington Arpt(OXF)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OXF</code>
+    <DestinationName>Oxford</DestinationName>
+    <DestinationStr>Oxford(OXF)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OXR</code>
+    <DestinationName>Oxnard Ventura Arpt</DestinationName>
+    <DestinationStr>Oxnard Ventura Arpt(OXR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OXR</code>
+    <DestinationName>Oxnard</DestinationName>
+    <DestinationStr>Oxnard(OXR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OYE</code>
+    <DestinationName>Oyem</DestinationName>
+    <DestinationStr>Oyem(OYE)-Gabon</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OYO</code>
+    <DestinationName>Tres Arroyos Arpt</DestinationName>
+    <DestinationStr>Tres Arroyos Arpt(OYO)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OYO</code>
+    <DestinationName>Tres Arroyos</DestinationName>
+    <DestinationStr>Tres Arroyos(OYO)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OZA</code>
+    <DestinationName>Ozona</DestinationName>
+    <DestinationStr>Ozona(OZA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OZC</code>
+    <DestinationName>Labo Airport</DestinationName>
+    <DestinationStr>Labo Airport(OZC)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OZC</code>
+    <DestinationName>Ozamis City</DestinationName>
+    <DestinationStr>Ozamis City(OZC)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OZG</code>
+    <DestinationName>Zagora Arpt</DestinationName>
+    <DestinationStr>Zagora Arpt(OZG)-Morocco</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OZG</code>
+    <DestinationName>Zagora</DestinationName>
+    <DestinationStr>Zagora(OZG)-Morocco</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OZH</code>
+    <DestinationName>Zaporozhe</DestinationName>
+    <DestinationStr>Zaporozhe(OZH)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OZH</code>
+    <DestinationName>Zaporozhye Arpt</DestinationName>
+    <DestinationStr>Zaporozhye Arpt(OZH)-Ukraine</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>OZI</code>
+    <DestinationName>Bobadilla</DestinationName>
+    <DestinationStr>Bobadilla(OZI)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OZP</code>
+    <DestinationName>Moron</DestinationName>
+    <DestinationStr>Moron(OZP)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OZR</code>
+    <DestinationName>Cairns AAF</DestinationName>
+    <DestinationStr>Cairns AAF(OZR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OZR</code>
+    <DestinationName>OZARK</DestinationName>
+    <DestinationStr>OZARK(OZR)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>OZU</code>
+    <DestinationName>Montilla</DestinationName>
+    <DestinationStr>Montilla(OZU)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OZZ</code>
+    <DestinationName>Ourzazate</DestinationName>
+    <DestinationStr>Ourzazate(OZZ)-Morocco</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PDA</code>
+    <DestinationName>Obando Airport</DestinationName>
+    <DestinationStr>Obando Airport(PDA)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PTK</code>
+    <DestinationName>Oakland Pontiac Arpt</DestinationName>
+    <DestinationStr>Oakland Pontiac Arpt(PTK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QDG</code>
+    <DestinationName>Ostrow Wielkopolski</DestinationName>
+    <DestinationStr>Ostrow Wielkopolski(QDG)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QOC</code>
+    <DestinationName>Osasco</DestinationName>
+    <DestinationStr>Osasco(QOC)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QOM</code>
+    <DestinationName>Omiya</DestinationName>
+    <DestinationStr>Omiya(QOM)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QOR</code>
+    <DestinationName>Ordu</DestinationName>
+    <DestinationStr>Ordu(QOR)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QOT</code>
+    <DestinationName>Otaru</DestinationName>
+    <DestinationStr>Otaru(QOT)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QOW</code>
+    <DestinationName>Owerri</DestinationName>
+    <DestinationStr>Owerri(QOW)-Nigeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QPM</code>
+    <DestinationName>Opole</DestinationName>
+    <DestinationStr>Opole(QPM)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QYO</code>
+    <DestinationName>Olsztyn Arpt</DestinationName>
+    <DestinationStr>Olsztyn Arpt(QYO)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QYO</code>
+    <DestinationName>Olsztyn</DestinationName>
+    <DestinationStr>Olsztyn(QYO)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>REN</code>
+    <DestinationName>Orenburg Arpt</DestinationName>
+    <DestinationStr>Orenburg Arpt(REN)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>REN</code>
+    <DestinationName>Orenburg</DestinationName>
+    <DestinationStr>Orenburg(REN)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RHI</code>
+    <DestinationName>Oneida County</DestinationName>
+    <DestinationStr>Oneida County(RHI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SFB</code>
+    <DestinationName>Orlando Sanford Arpt</DestinationName>
+    <DestinationStr>Orlando Sanford Arpt(SFB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SNA</code>
+    <DestinationName>Orange County Arpt</DestinationName>
+    <DestinationStr>Orange County Arpt(SNA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UCA</code>
+    <DestinationName>Oneida County Arpt</DestinationName>
+    <DestinationStr>Oneida County Arpt(UCA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UVE</code>
+    <DestinationName>Ouvea</DestinationName>
+    <DestinationStr>Ouvea(UVE)-New Caledonia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VDA</code>
+    <DestinationName>Ovda Arpt</DestinationName>
+    <DestinationStr>Ovda Arpt(VDA)-Israel</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VDA</code>
+    <DestinationName>Ovda</DestinationName>
+    <DestinationStr>Ovda(VDA)-Israel</DestinationStr>
+  </Destination>    
+  <Destination>
+    <code>XOD</code>
+    <DestinationName>Oppdal</DestinationName>
+    <DestinationStr>Oppdal(XOD)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XOG</code>
+    <DestinationName>Orange</DestinationName>
+    <DestinationStr>Orange(XOG)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XOK</code>
+    <DestinationName>Oakville</DestinationName>
+    <DestinationStr>Oakville(XOK)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XOR</code>
+    <DestinationName>Otta</DestinationName>
+    <DestinationStr>Otta(XOR)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XZP</code>
+    <DestinationName>Off Line Point</DestinationName>
+    <DestinationStr>Off Line Point(XZP)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YOC</code>
+    <DestinationName>Old Crow</DestinationName>
+    <DestinationStr>Old Crow(YOC)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YOO</code>
+    <DestinationName>Oshawa Municipal Arpt</DestinationName>
+    <DestinationStr>Oshawa Municipal Arpt(YOO)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YOO</code>
+    <DestinationName>Oshawa</DestinationName>
+    <DestinationStr>Oshawa(YOO)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YOS</code>
+    <DestinationName>Owen Sound</DestinationName>
+    <DestinationStr>Owen Sound(YOS)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YOW</code>
+    <DestinationName>Ottawa McDonald Cartier Intl</DestinationName>
+    <DestinationStr>Ottawa McDonald Cartier Intl(YOW)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YOW</code>
+    <DestinationName>Ottawa</DestinationName>
+    <DestinationStr>Ottawa(YOW)-Canada</DestinationStr>
+  </Destination>      
+  <Destination>
+    <code>ZJU</code>
+    <DestinationName>OLTEN</DestinationName>
+    <DestinationStr>OLTEN(ZJU)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZOS</code>
+    <DestinationName>Osorno</DestinationName>
+    <DestinationStr>Osorno(ZOS)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZOX</code>
+    <DestinationName>Oberammergau Airport</DestinationName>
+    <DestinationStr>Oberammergau Airport(ZOX)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZOX</code>
+    <DestinationName>Oberammergau</DestinationName>
+    <DestinationStr>Oberammergau(ZOX)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZOY</code>
+    <DestinationName>Oberhausen</DestinationName>
+    <DestinationStr>Oberhausen(ZOY)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZOZ</code>
+    <DestinationName>Offenbach</DestinationName>
+    <DestinationStr>Offenbach(ZOZ)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZPA</code>
+    <DestinationName>Offenburg</DestinationName>
+    <DestinationStr>Offenburg(ZPA)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZPD</code>
+    <DestinationName>Oldenburg</DestinationName>
+    <DestinationStr>Oldenburg(ZPD)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZPE</code>
+    <DestinationName>Osnabruck</DestinationName>
+    <DestinationStr>Osnabruck(ZPE)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZPE</code>
+    <DestinationName>Osnabrueck</DestinationName>
+    <DestinationStr>Osnabrueck(ZPE)-Germany</DestinationStr>
+  </Destination>  
+</DestinationRoot>

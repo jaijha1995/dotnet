@@ -1,0 +1,5287 @@
+﻿<DestinationRoot>
+  <Destination>
+    <code>NORESULT</code>
+    <DestinationName>NORESULT</DestinationName>
+    <DestinationStr>No Result Found</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CCA</code>
+    <DestinationName>Fort Chaffee Arpt</DestinationName>
+    <DestinationStr>Fort Chaffee Arpt(CCA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CKM</code>
+    <DestinationName>Clarksdale</DestinationName>
+    <DestinationStr>Clarksdale(CKM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CZE</code>
+    <DestinationName>Jose leonardo Chirinos Arpt</DestinationName>
+    <DestinationStr>Jose leonardo Chirinos Arpt(CZE)-Venezuela</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XGJ</code>
+    <DestinationName>Cobourg</DestinationName>
+    <DestinationStr>Cobourg(XGJ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CEC</code>
+    <DestinationName>Crescent City Municipal Arpt</DestinationName>
+    <DestinationStr>Crescent City Municipal Arpt(CEC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CEJ</code>
+    <DestinationName>Cuenca</DestinationName>
+    <DestinationStr>Cuenca(CEJ)-Spain</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>BOM</code>
+    <DestinationName>Chhatrapati Shivaji</DestinationName>
+    <DestinationStr>Chhatrapati Shivaji(BOM)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CVM</code>
+    <DestinationName>Pedro J Mendez International</DestinationName>
+    <DestinationStr>Pedro J Mendez International(CVM)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CGQ</code>
+    <DestinationName>Changchun Arpt</DestinationName>
+    <DestinationStr>Changchun Arpt(CGQ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CMW</code>
+    <DestinationName>Camaguey</DestinationName>
+    <DestinationStr>Camaguey(CMW)-Cuba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QEV</code>
+    <DestinationName>Courbevoie</DestinationName>
+    <DestinationStr>Courbevoie(QEV)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAS</code>
+    <DestinationName>Anfa Airport</DestinationName>
+    <DestinationStr>Anfa Airport(CAS)-Morocco</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CER</code>
+    <DestinationName>Cherbourg</DestinationName>
+    <DestinationStr>Cherbourg(CER)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CLM</code>
+    <DestinationName>Port Angeles</DestinationName>
+    <DestinationStr>Port Angeles(CLM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CIO</code>
+    <DestinationName>Concepcion</DestinationName>
+    <DestinationStr>Concepcion(CIO)-Paraguay</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CJA</code>
+    <DestinationName>Cajamarca</DestinationName>
+    <DestinationStr>Cajamarca(CJA)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CMG</code>
+    <DestinationName>Corumba</DestinationName>
+    <DestinationStr>Corumba(CMG)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CNG</code>
+    <DestinationName>Cognac</DestinationName>
+    <DestinationStr>Cognac(CNG)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CJI</code>
+    <DestinationName>Ciudad Real City</DestinationName>
+    <DestinationStr>Ciudad Real City(CJI)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CTW</code>
+    <DestinationName>Cottonwood</DestinationName>
+    <DestinationStr>Cottonwood(CTW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CIG</code>
+    <DestinationName>Craig Moffat</DestinationName>
+    <DestinationStr>Craig Moffat(CIG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CVO</code>
+    <DestinationName>Corvallis Municipal Arpt</DestinationName>
+    <DestinationStr>Corvallis Municipal Arpt(CVO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YKU</code>
+    <DestinationName>Chisasibi Arpt</DestinationName>
+    <DestinationStr>Chisasibi Arpt(YKU)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CKE</code>
+    <DestinationName>Clear Lake</DestinationName>
+    <DestinationStr>Clear Lake(CKE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CMH</code>
+    <DestinationName>Port Columbus Intl Arpt</DestinationName>
+    <DestinationStr>Port Columbus Intl Arpt(CMH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ONQ</code>
+    <DestinationName>Caycuma Airport</DestinationName>
+    <DestinationStr>Caycuma Airport(ONQ)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCY</code>
+    <DestinationName>Clyde River</DestinationName>
+    <DestinationStr>Clyde River(YCY)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAQ</code>
+    <DestinationName>Caucasia</DestinationName>
+    <DestinationStr>Caucasia(CAQ)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PDP</code>
+    <DestinationName>Cap Curbelo Arpt</DestinationName>
+    <DestinationStr>Cap Curbelo Arpt(PDP)-Uruguay</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TVC</code>
+    <DestinationName>Cherry Capital Arpt</DestinationName>
+    <DestinationStr>Cherry Capital Arpt(TVC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CGP</code>
+    <DestinationName>Chittagong</DestinationName>
+    <DestinationStr>Chittagong(CGP)-Bangladesh</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CGZ</code>
+    <DestinationName>Casa Grande Arpt</DestinationName>
+    <DestinationStr>Casa Grande Arpt(CGZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CXR</code>
+    <DestinationName>Cam Ranh</DestinationName>
+    <DestinationStr>Cam Ranh(CXR)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CZU</code>
+    <DestinationName>Las Brujas Airport</DestinationName>
+    <DestinationStr>Las Brujas Airport(CZU)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FLB</code>
+    <DestinationName>Cangapara Arpt</DestinationName>
+    <DestinationStr>Cangapara Arpt(FLB)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GOA</code>
+    <DestinationName>Christoforo Colombo</DestinationName>
+    <DestinationStr>Christoforo Colombo(GOA)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KRT</code>
+    <DestinationName>Civil Arpt</DestinationName>
+    <DestinationStr>Civil Arpt(KRT)-Sudan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CPM</code>
+    <DestinationName>Compton Arpt</DestinationName>
+    <DestinationStr>Compton Arpt(CPM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CSA</code>
+    <DestinationName>Colonsay Island</DestinationName>
+    <DestinationStr>Colonsay Island(CSA)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CXO</code>
+    <DestinationName>Conroe</DestinationName>
+    <DestinationStr>Conroe(CXO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VPY</code>
+    <DestinationName>Chimoio Airport</DestinationName>
+    <DestinationStr>Chimoio Airport(VPY)-Mozambique</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCK</code>
+    <DestinationName>Colville Municipal</DestinationName>
+    <DestinationStr>Colville Municipal(YCK)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CXF</code>
+    <DestinationName>Coldfoot</DestinationName>
+    <DestinationStr>Coldfoot(CXF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LUR</code>
+    <DestinationName>Cape Lisburne</DestinationName>
+    <DestinationStr>Cape Lisburne(LUR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NBS</code>
+    <DestinationName>Changbaishan Airport</DestinationName>
+    <DestinationStr>Changbaishan Airport(NBS)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TCQ</code>
+    <DestinationName>C Ciriani Santa Rosa Arpt</DestinationName>
+    <DestinationStr>C Ciriani Santa Rosa Arpt(TCQ)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCW</code>
+    <DestinationName>Chilliwack</DestinationName>
+    <DestinationStr>Chilliwack(YCW)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AJA</code>
+    <DestinationName>Campo Dell Oro Arpt</DestinationName>
+    <DestinationStr>Campo Dell Oro Arpt(AJA)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HTA</code>
+    <DestinationName>Chita</DestinationName>
+    <DestinationStr>Chita(HTA)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WCR</code>
+    <DestinationName>Chandalar</DestinationName>
+    <DestinationStr>Chandalar(WCR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XCM</code>
+    <DestinationName>Chatham</DestinationName>
+    <DestinationStr>Chatham(XCM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CHR</code>
+    <DestinationName>Chateauroux Arpt</DestinationName>
+    <DestinationStr>Chateauroux Arpt(CHR)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CTN</code>
+    <DestinationName>Cooktown Arpt</DestinationName>
+    <DestinationStr>Cooktown Arpt(CTN)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IXC</code>
+    <DestinationName>Chandigarh</DestinationName>
+    <DestinationStr>Chandigarh(IXC)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LRM</code>
+    <DestinationName>Casa De Campo International</DestinationName>
+    <DestinationStr>Casa De Campo International(LRM)-Dominican Republic</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NDJ</code>
+    <DestinationName>Chad</DestinationName>
+    <DestinationStr>Chad(NDJ)-Chad</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YOD</code>
+    <DestinationName>Cold Lake</DestinationName>
+    <DestinationStr>Cold Lake(YOD)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZCN</code>
+    <DestinationName>Celle</DestinationName>
+    <DestinationStr>Celle(ZCN)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MIC</code>
+    <DestinationName>Crystal Arpt</DestinationName>
+    <DestinationStr>Crystal Arpt(MIC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CNM</code>
+    <DestinationName>Carlsbad Airport</DestinationName>
+    <DestinationStr>Carlsbad Airport(CNM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CPR</code>
+    <DestinationName>Natrona Cty Intl Arpt</DestinationName>
+    <DestinationStr>Natrona Cty Intl Arpt(CPR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CPV</code>
+    <DestinationName>Joao Suassuana Arpt</DestinationName>
+    <DestinationStr>Joao Suassuana Arpt(CPV)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CTU</code>
+    <DestinationName>Chengdu</DestinationName>
+    <DestinationStr>Chengdu(CTU)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CWB</code>
+    <DestinationName>Curitiba</DestinationName>
+    <DestinationStr>Curitiba(CWB)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CYT</code>
+    <DestinationName>Cape Yakataga</DestinationName>
+    <DestinationStr>Cape Yakataga(CYT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCK</code>
+    <DestinationName>Colville</DestinationName>
+    <DestinationStr>Colville(YCK)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CIG</code>
+    <DestinationName>Craig</DestinationName>
+    <DestinationStr>Craig(CIG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CMW</code>
+    <DestinationName>Ignacio Agramonte Intl</DestinationName>
+    <DestinationStr>Ignacio Agramonte Intl(CMW)-Cuba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CND</code>
+    <DestinationName>Constanta</DestinationName>
+    <DestinationStr>Constanta(CND)-Romania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CSI</code>
+    <DestinationName>Casino Arpt</DestinationName>
+    <DestinationStr>Casino Arpt(CSI)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAN</code>
+    <DestinationName>Guangzhou</DestinationName>
+    <DestinationStr>Guangzhou(CAN)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CIA</code>
+    <DestinationName>Ciampino Arpt</DestinationName>
+    <DestinationStr>Ciampino Arpt(CIA)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CIS</code>
+    <DestinationName>Canton Island</DestinationName>
+    <DestinationStr>Canton Island(CIS)-Kiribati</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CLC</code>
+    <DestinationName>Clear Lake City</DestinationName>
+    <DestinationStr>Clear Lake City(CLC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CLY</code>
+    <DestinationName>Saint Catherine Arpt</DestinationName>
+    <DestinationStr>Saint Catherine Arpt(CLY)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CDL</code>
+    <DestinationName>Candle Arpt</DestinationName>
+    <DestinationStr>Candle Arpt(CDL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CNY</code>
+    <DestinationName>Moab</DestinationName>
+    <DestinationStr>Moab(CNY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CRK</code>
+    <DestinationName>Luzon Island</DestinationName>
+    <DestinationStr>Luzon Island(CRK)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IGU</code>
+    <DestinationName>Cataratas Arpt</DestinationName>
+    <DestinationStr>Cataratas Arpt(IGU)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JUP</code>
+    <DestinationName>Cable Heliport</DestinationName>
+    <DestinationStr>Cable Heliport(JUP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KIV</code>
+    <DestinationName>Chisinau</DestinationName>
+    <DestinationStr>Chisinau(KIV)-Moldova</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XUF</code>
+    <DestinationName>Cartagena</DestinationName>
+    <DestinationStr>Cartagena(XUF)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ARI</code>
+    <DestinationName>Chacalluta Arpt</DestinationName>
+    <DestinationStr>Chacalluta Arpt(ARI)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAJ</code>
+    <DestinationName>Canaima</DestinationName>
+    <DestinationStr>Canaima(CAJ)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CXR</code>
+    <DestinationName>Cam Ranh Arpt</DestinationName>
+    <DestinationStr>Cam Ranh Arpt(CXR)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CZJ</code>
+    <DestinationName>Corazon De Jesus</DestinationName>
+    <DestinationStr>Corazon De Jesus(CZJ)-Panama</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QCC</code>
+    <DestinationName>Camacari</DestinationName>
+    <DestinationStr>Camacari(QCC)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CRK</code>
+    <DestinationName>Clark International Arpt</DestinationName>
+    <DestinationStr>Clark International Arpt(CRK)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CUC</code>
+    <DestinationName>Cucuta</DestinationName>
+    <DestinationStr>Cucuta(CUC)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NRC</code>
+    <DestinationName>Crows Landing</DestinationName>
+    <DestinationStr>Crows Landing(NRC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XCB</code>
+    <DestinationName>Cambrai</DestinationName>
+    <DestinationStr>Cambrai(XCB)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XCY</code>
+    <DestinationName>Chateau Thierry</DestinationName>
+    <DestinationStr>Chateau Thierry(XCY)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZAK</code>
+    <DestinationName>Chiusa Klausen</DestinationName>
+    <DestinationStr>Chiusa Klausen(ZAK)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CHD</code>
+    <DestinationName>Williams AFB</DestinationName>
+    <DestinationStr>Williams AFB(CHD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CIH</code>
+    <DestinationName>Changzhi</DestinationName>
+    <DestinationStr>Changzhi(CIH)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SPI</code>
+    <DestinationName>Capital Airport</DestinationName>
+    <DestinationStr>Capital Airport(SPI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VAK</code>
+    <DestinationName>Chevak</DestinationName>
+    <DestinationStr>Chevak(VAK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BRD</code>
+    <DestinationName>Crowwing Cty Arpt</DestinationName>
+    <DestinationStr>Crowwing Cty Arpt(BRD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CIF</code>
+    <DestinationName>Chifeng</DestinationName>
+    <DestinationStr>Chifeng(CIF)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CIL</code>
+    <DestinationName>Melsing Creek Arpt</DestinationName>
+    <DestinationStr>Melsing Creek Arpt(CIL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CMH</code>
+    <DestinationName>Columbus</DestinationName>
+    <DestinationStr>Columbus(CMH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CUU</code>
+    <DestinationName>Chihuahua</DestinationName>
+    <DestinationStr>Chihuahua(CUU)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LEC</code>
+    <DestinationName>Chapada Diamantina Arpt</DestinationName>
+    <DestinationStr>Chapada Diamantina Arpt(LEC)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PLB</code>
+    <DestinationName>Clinton County Arpt</DestinationName>
+    <DestinationStr>Clinton County Arpt(PLB)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>CBO</code>
+    <DestinationName>Cotabato</DestinationName>
+    <DestinationStr>Cotabato(CBO)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CFS</code>
+    <DestinationName>Coffs Harbour</DestinationName>
+    <DestinationStr>Coffs Harbour(CFS)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CHS</code>
+    <DestinationName>Charleston</DestinationName>
+    <DestinationStr>Charleston(CHS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZDQ</code>
+    <DestinationName>Champery</DestinationName>
+    <DestinationStr>Champery(ZDQ)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CIU</code>
+    <DestinationName>Chippewa Cnty Intl</DestinationName>
+    <DestinationStr>Chippewa Cnty Intl(CIU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KCC</code>
+    <DestinationName>Coffman Cove</DestinationName>
+    <DestinationStr>Coffman Cove(KCC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MPH</code>
+    <DestinationName>Caticlan</DestinationName>
+    <DestinationStr>Caticlan(MPH)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CBH</code>
+    <DestinationName>Bechar</DestinationName>
+    <DestinationStr>Bechar(CBH)-Algeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CDI</code>
+    <DestinationName>Cachoeiro De Itapemirim Arpt</DestinationName>
+    <DestinationStr>Cachoeiro De Itapemirim Arpt(CDI)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CHY</code>
+    <DestinationName>Choiseul Bay</DestinationName>
+    <DestinationStr>Choiseul Bay(CHY)-Solomon Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EWN</code>
+    <DestinationName>Craven County Regional Arpt</DestinationName>
+    <DestinationStr>Craven County Regional Arpt(EWN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAN</code>
+    <DestinationName>Baiyun International Airport</DestinationName>
+    <DestinationStr>Baiyun International Airport(CAN)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CKM</code>
+    <DestinationName>Fletcher Field</DestinationName>
+    <DestinationStr>Fletcher Field(CKM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>COD</code>
+    <DestinationName>Cody</DestinationName>
+    <DestinationStr>Cody(COD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CSP</code>
+    <DestinationName>Cape Spencer Arpt</DestinationName>
+    <DestinationStr>Cape Spencer Arpt(CSP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NDZ</code>
+    <DestinationName>Cuxhaven Arpt</DestinationName>
+    <DestinationStr>Cuxhaven Arpt(NDZ)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OBN</code>
+    <DestinationName>Connel Airport</DestinationName>
+    <DestinationStr>Connel Airport(OBN)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CHU</code>
+    <DestinationName>Chuathbaluk</DestinationName>
+    <DestinationStr>Chuathbaluk(CHU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AOT</code>
+    <DestinationName>Corrado Gex Arpt</DestinationName>
+    <DestinationStr>Corrado Gex Arpt(AOT)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CFR</code>
+    <DestinationName>Caen</DestinationName>
+    <DestinationStr>Caen(CFR)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CHG</code>
+    <DestinationName>CHAOYANG</DestinationName>
+    <DestinationStr>CHAOYANG(CHG)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CON</code>
+    <DestinationName>Concord Arpt</DestinationName>
+    <DestinationStr>Concord Arpt(CON)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CRZ</code>
+    <DestinationName>Turkmenabad</DestinationName>
+    <DestinationStr>Turkmenabad(CRZ)-Turkmenistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CSB</code>
+    <DestinationName>Caransebes</DestinationName>
+    <DestinationStr>Caransebes(CSB)-Romania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QCL</code>
+    <DestinationName>Caltanissetta</DestinationName>
+    <DestinationStr>Caltanissetta(QCL)-Italy</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>CNE</code>
+    <DestinationName>Canon City</DestinationName>
+    <DestinationStr>Canon City(CNE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CUW</code>
+    <DestinationName>Cube Cove</DestinationName>
+    <DestinationStr>Cube Cove(CUW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CTH</code>
+    <DestinationName>Coatesville</DestinationName>
+    <DestinationStr>Coatesville(CTH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HHA</code>
+    <DestinationName>Changsha Huanghua Arpt</DestinationName>
+    <DestinationStr>Changsha Huanghua Arpt(HHA)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ODL</code>
+    <DestinationName>Cordillo Downs</DestinationName>
+    <DestinationStr>Cordillo Downs(ODL)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CPQ</code>
+    <DestinationName>International Campinas</DestinationName>
+    <DestinationStr>International Campinas(CPQ)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CSE</code>
+    <DestinationName>Crested Butte</DestinationName>
+    <DestinationStr>Crested Butte(CSE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CSU</code>
+    <DestinationName>Santa Cruz Do Sul Arpt</DestinationName>
+    <DestinationStr>Santa Cruz Do Sul Arpt(CSU)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HIN</code>
+    <DestinationName>Chinju</DestinationName>
+    <DestinationStr>Chinju(HIN)-Korea, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHR</code>
+    <DestinationName>Chevery Arpt</DestinationName>
+    <DestinationStr>Chevery Arpt(YHR)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CCP</code>
+    <DestinationName>Concepcion</DestinationName>
+    <DestinationStr>Concepcion(CCP)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>APO</code>
+    <DestinationName>Carepa A R Betancourt Arpt</DestinationName>
+    <DestinationStr>Carepa A R Betancourt Arpt(APO)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CCK</code>
+    <DestinationName>Cocos Islands</DestinationName>
+    <DestinationStr>Cocos Islands(CCK)-Cocos Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>COO</code>
+    <DestinationName>Benin</DestinationName>
+    <DestinationStr>Benin(COO)-Benin</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CUG</code>
+    <DestinationName>Cudal Arpt</DestinationName>
+    <DestinationStr>Cudal Arpt(CUG)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KCG</code>
+    <DestinationName>Chignik Fisheries Arpt</DestinationName>
+    <DestinationStr>Chignik Fisheries Arpt(KCG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XCG</code>
+    <DestinationName>Cagnes Sur Mer</DestinationName>
+    <DestinationStr>Cagnes Sur Mer(XCG)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHR</code>
+    <DestinationName>Chevery</DestinationName>
+    <DestinationStr>Chevery(YHR)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CCR</code>
+    <DestinationName>Buchanan Field</DestinationName>
+    <DestinationStr>Buchanan Field(CCR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CFG</code>
+    <DestinationName>Jamie Gonzalez Arpt</DestinationName>
+    <DestinationStr>Jamie Gonzalez Arpt(CFG)-Cuba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CRI</code>
+    <DestinationName>Crooked Island</DestinationName>
+    <DestinationStr>Crooked Island(CRI)-Bahamas</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CDA</code>
+    <DestinationName>Cooinda</DestinationName>
+    <DestinationStr>Cooinda(CDA)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CKD</code>
+    <DestinationName>Crooked Creek</DestinationName>
+    <DestinationStr>Crooked Creek(CKD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CON</code>
+    <DestinationName>Concord</DestinationName>
+    <DestinationStr>Concord(CON)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCA</code>
+    <DestinationName>Courtenay</DestinationName>
+    <DestinationStr>Courtenay(YCA)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YED</code>
+    <DestinationName>CFB Namao Heliport</DestinationName>
+    <DestinationStr>CFB Namao Heliport(YED)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CKS</code>
+    <DestinationName>Carajas Arpt</DestinationName>
+    <DestinationStr>Carajas Arpt(CKS)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>COG</code>
+    <DestinationName>Mandinga Arpt</DestinationName>
+    <DestinationStr>Mandinga Arpt(COG)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CXI</code>
+    <DestinationName>Christmas Island</DestinationName>
+    <DestinationStr>Christmas Island(CXI)-Kiribati</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IQQ</code>
+    <DestinationName>Cavancha Chucumata Arpt</DestinationName>
+    <DestinationStr>Cavancha Chucumata Arpt(IQQ)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MMR</code>
+    <DestinationName>Camp Maybry Ahp</DestinationName>
+    <DestinationStr>Camp Maybry Ahp(MMR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ODB</code>
+    <DestinationName>Cordoba Airport</DestinationName>
+    <DestinationStr>Cordoba Airport(ODB)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CBR</code>
+    <DestinationName>Canberra</DestinationName>
+    <DestinationStr>Canberra(CBR)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CCU</code>
+    <DestinationName>Kolkata</DestinationName>
+    <DestinationStr>Kolkata(CCU)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CDV</code>
+    <DestinationName>Mudhole Smith Arpt</DestinationName>
+    <DestinationStr>Mudhole Smith Arpt(CDV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MDH</code>
+    <DestinationName>Carbondale</DestinationName>
+    <DestinationStr>Carbondale(MDH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYQ</code>
+    <DestinationName>Churchill</DestinationName>
+    <DestinationStr>Churchill(YYQ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>APA</code>
+    <DestinationName>Centennial Arpt</DestinationName>
+    <DestinationStr>Centennial Arpt(APA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CSO</code>
+    <DestinationName>Magdeburg Cochstedt   Airport</DestinationName>
+    <DestinationStr>Magdeburg Cochstedt   Airport(CSO)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OLU</code>
+    <DestinationName>Columbus Arpt</DestinationName>
+    <DestinationStr>Columbus Arpt(OLU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VCS</code>
+    <DestinationName>Con Dao</DestinationName>
+    <DestinationStr>Con Dao(VCS)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XCI</code>
+    <DestinationName>Chambord</DestinationName>
+    <DestinationStr>Chambord(XCI)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XDL</code>
+    <DestinationName>Chandler</DestinationName>
+    <DestinationStr>Chandler(XDL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCB</code>
+    <DestinationName>Cambridge Bay</DestinationName>
+    <DestinationStr>Cambridge Bay(YCB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CDR</code>
+    <DestinationName>Chadron Arpt</DestinationName>
+    <DestinationStr>Chadron Arpt(CDR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CET</code>
+    <DestinationName>Le Pontreau Arpt</DestinationName>
+    <DestinationStr>Le Pontreau Arpt(CET)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CJC</code>
+    <DestinationName>El Loa Arpt</DestinationName>
+    <DestinationStr>El Loa Arpt(CJC)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ICI</code>
+    <DestinationName>Cicia</DestinationName>
+    <DestinationStr>Cicia(ICI)-Fiji Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCW</code>
+    <DestinationName>Chilliwack Arpt</DestinationName>
+    <DestinationStr>Chilliwack Arpt(YCW)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CDB</code>
+    <DestinationName>Cold Bay</DestinationName>
+    <DestinationStr>Cold Bay(CDB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QCS</code>
+    <DestinationName>Cosenza</DestinationName>
+    <DestinationStr>Cosenza(QCS)-Italy</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>CPN</code>
+    <DestinationName>Cape Rodney</DestinationName>
+    <DestinationStr>Cape Rodney(CPN)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JKH</code>
+    <DestinationName>Chios</DestinationName>
+    <DestinationStr>Chios(JKH)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YMT</code>
+    <DestinationName>Chibougamau Arpt</DestinationName>
+    <DestinationStr>Chibougamau Arpt(YMT)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CLR</code>
+    <DestinationName>Calipatria</DestinationName>
+    <DestinationStr>Calipatria(CLR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CRP</code>
+    <DestinationName>Corpus Christi</DestinationName>
+    <DestinationStr>Corpus Christi(CRP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RTE</code>
+    <DestinationName>Clover Pass</DestinationName>
+    <DestinationStr>Clover Pass(RTE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YAW</code>
+    <DestinationName>Canadian Force Base Shearwater</DestinationName>
+    <DestinationStr>Canadian Force Base Shearwater(YAW)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POX</code>
+    <DestinationName>Cormeille En Vexin</DestinationName>
+    <DestinationStr>Cormeille En Vexin(POX)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CRL</code>
+    <DestinationName>Brussels South Charleroi Arpt</DestinationName>
+    <DestinationStr>Brussels South Charleroi Arpt(CRL)-Belgium</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CRO</code>
+    <DestinationName>Corcoran</DestinationName>
+    <DestinationStr>Corcoran(CRO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CUJ</code>
+    <DestinationName>Culion</DestinationName>
+    <DestinationStr>Culion(CUJ)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KCE</code>
+    <DestinationName>Collinsville</DestinationName>
+    <DestinationStr>Collinsville(KCE)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CBF</code>
+    <DestinationName>Council Bluffs</DestinationName>
+    <DestinationStr>Council Bluffs(CBF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CDD</code>
+    <DestinationName>Cauquira</DestinationName>
+    <DestinationStr>Cauquira(CDD)-Honduras</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CSN</code>
+    <DestinationName>Carson City</DestinationName>
+    <DestinationStr>Carson City(CSN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAW</code>
+    <DestinationName>Bartolomeu Lisandro Arpt</DestinationName>
+    <DestinationStr>Bartolomeu Lisandro Arpt(CAW)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GEO</code>
+    <DestinationName>Cheddi Jagan Intl</DestinationName>
+    <DestinationStr>Cheddi Jagan Intl(GEO)-Guyana</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NAP</code>
+    <DestinationName>Capodichino Arpt</DestinationName>
+    <DestinationStr>Capodichino Arpt(NAP)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RTN</code>
+    <DestinationName>Crews Fld</DestinationName>
+    <DestinationStr>Crews Fld(RTN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYG</code>
+    <DestinationName>Charlottetown Municipal</DestinationName>
+    <DestinationStr>Charlottetown Municipal(YYG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CIX</code>
+    <DestinationName>Chiclayo</DestinationName>
+    <DestinationStr>Chiclayo(CIX)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CRS</code>
+    <DestinationName>Corsicana</DestinationName>
+    <DestinationStr>Corsicana(CRS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CVN</code>
+    <DestinationName>Clovis Airport</DestinationName>
+    <DestinationStr>Clovis Airport(CVN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CZL</code>
+    <DestinationName>Ain El Bey Arpt</DestinationName>
+    <DestinationStr>Ain El Bey Arpt(CZL)-Algeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LGS</code>
+    <DestinationName>Comodoro D R Salomon Arpt</DestinationName>
+    <DestinationStr>Comodoro D R Salomon Arpt(LGS)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OZR</code>
+    <DestinationName>Cairns AAF</DestinationName>
+    <DestinationStr>Cairns AAF(OZR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CWG</code>
+    <DestinationName>Callaway Gardens</DestinationName>
+    <DestinationStr>Callaway Gardens(CWG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XCN</code>
+    <DestinationName>Coron</DestinationName>
+    <DestinationStr>Coron(XCN)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQQ</code>
+    <DestinationName>Comox Airport</DestinationName>
+    <DestinationStr>Comox Airport(YQQ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CCS</code>
+    <DestinationName>Caracas</DestinationName>
+    <DestinationStr>Caracas(CCS)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CLT</code>
+    <DestinationName>Charlotte</DestinationName>
+    <DestinationStr>Charlotte(CLT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CRE</code>
+    <DestinationName>Grand Strand Arpt</DestinationName>
+    <DestinationStr>Grand Strand Arpt(CRE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CSF</code>
+    <DestinationName>Creil Arpt</DestinationName>
+    <DestinationStr>Creil Arpt(CSF)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CSI</code>
+    <DestinationName>Casino</DestinationName>
+    <DestinationStr>Casino(CSI)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MMC</code>
+    <DestinationName>Ciudad Mante</DestinationName>
+    <DestinationStr>Ciudad Mante(MMC)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XCR</code>
+    <DestinationName>Chalons Sur Marne</DestinationName>
+    <DestinationStr>Chalons Sur Marne(XCR)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CCF</code>
+    <DestinationName>Carcassonne</DestinationName>
+    <DestinationStr>Carcassonne(CCF)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CCL</code>
+    <DestinationName>Chinchilla</DestinationName>
+    <DestinationStr>Chinchilla(CCL)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>COJ</code>
+    <DestinationName>Coonabarabrn</DestinationName>
+    <DestinationStr>Coonabarabrn(COJ)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CXC</code>
+    <DestinationName>Chitina</DestinationName>
+    <DestinationStr>Chitina(CXC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CYP</code>
+    <DestinationName>Calbayog Airport</DestinationName>
+    <DestinationStr>Calbayog Airport(CYP)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAB</code>
+    <DestinationName>Cabinda</DestinationName>
+    <DestinationStr>Cabinda(CAB)-Angola</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CEO</code>
+    <DestinationName>Waco Kungo</DestinationName>
+    <DestinationStr>Waco Kungo(CEO)-Angola</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAR</code>
+    <DestinationName>Caribou</DestinationName>
+    <DestinationStr>Caribou(CAR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CKG</code>
+    <DestinationName>Chongqing Arpt</DestinationName>
+    <DestinationStr>Chongqing Arpt(CKG)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CYM</code>
+    <DestinationName>Chatham</DestinationName>
+    <DestinationStr>Chatham(CYM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHM</code>
+    <DestinationName>Civic Airport</DestinationName>
+    <DestinationStr>Civic Airport(YHM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CGI</code>
+    <DestinationName>Cape Girardeau Municipal Arpt</DestinationName>
+    <DestinationStr>Cape Girardeau Municipal Arpt(CGI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CHQ</code>
+    <DestinationName>Chania</DestinationName>
+    <DestinationStr>Chania(CHQ)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CTD</code>
+    <DestinationName>Alonso Valderrama Arpt</DestinationName>
+    <DestinationStr>Alonso Valderrama Arpt(CTD)-Panama</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CXP</code>
+    <DestinationName>Tunggul Wulung Arpt</DestinationName>
+    <DestinationStr>Tunggul Wulung Arpt(CXP)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CZS</code>
+    <DestinationName>Campo Intl Arpt</DestinationName>
+    <DestinationStr>Campo Intl Arpt(CZS)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DIB</code>
+    <DestinationName>Chabau Arpt</DestinationName>
+    <DestinationStr>Chabau Arpt(DIB)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JDX</code>
+    <DestinationName>Central Bus District Heliport</DestinationName>
+    <DestinationStr>Central Bus District Heliport(JDX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TKK</code>
+    <DestinationName>Chuuk International</DestinationName>
+    <DestinationStr>Chuuk International(TKK)-Micronesia</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZTZ</code>
+    <DestinationName>Chemnitz</DestinationName>
+    <DestinationStr>Chemnitz(ZTZ)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CDA</code>
+    <DestinationName>Cooinda Airport</DestinationName>
+    <DestinationStr>Cooinda Airport(CDA)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CDH</code>
+    <DestinationName>Camden</DestinationName>
+    <DestinationStr>Camden(CDH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CGD</code>
+    <DestinationName>Changde</DestinationName>
+    <DestinationStr>Changde(CGD)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CKD</code>
+    <DestinationName>Crooked Creek Arpt</DestinationName>
+    <DestinationStr>Crooked Creek Arpt(CKD)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>CZM</code>
+    <DestinationName>Cozumel</DestinationName>
+    <DestinationStr>Cozumel(CZM)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LTX</code>
+    <DestinationName>Cotapaxi Intl Arpt</DestinationName>
+    <DestinationStr>Cotapaxi Intl Arpt(LTX)-Ecuador</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AYQ</code>
+    <DestinationName>Connellan Arpt</DestinationName>
+    <DestinationStr>Connellan Arpt(AYQ)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CHO</code>
+    <DestinationName>Charlottesville</DestinationName>
+    <DestinationStr>Charlottesville(CHO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CRS</code>
+    <DestinationName>Corsicana Arpt</DestinationName>
+    <DestinationStr>Corsicana Arpt(CRS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CRU</code>
+    <DestinationName>Carriacou</DestinationName>
+    <DestinationStr>Carriacou(CRU)-Grenada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CUN</code>
+    <DestinationName>Cancun</DestinationName>
+    <DestinationStr>Cancun(CUN)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CVA</code>
+    <DestinationName>Civic Arena Heliport</DestinationName>
+    <DestinationStr>Civic Arena Heliport(CVA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCN</code>
+    <DestinationName>Cochrane</DestinationName>
+    <DestinationStr>Cochrane(YCN)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CGN</code>
+    <DestinationName>Koln</DestinationName>
+    <DestinationStr>Koln(CGN)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CTM</code>
+    <DestinationName>Chetumal</DestinationName>
+    <DestinationStr>Chetumal(CTM)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XCV</code>
+    <DestinationName>Chantilly</DestinationName>
+    <DestinationStr>Chantilly(XCV)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CGK</code>
+    <DestinationName>Soekarno Hatta Intl</DestinationName>
+    <DestinationStr>Soekarno Hatta Intl(CGK)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CSN</code>
+    <DestinationName>Carson Arpt</DestinationName>
+    <DestinationStr>Carson Arpt(CSN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CXB</code>
+    <DestinationName>Coxs Bazaar</DestinationName>
+    <DestinationStr>Coxs Bazaar(CXB)-Bangladesh</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>AVI</code>
+    <DestinationName>Ciego De Avila</DestinationName>
+    <DestinationStr>Ciego De Avila(AVI)-Cuba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CFH</code>
+    <DestinationName>Clifton Hills</DestinationName>
+    <DestinationStr>Clifton Hills(CFH)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CHA</code>
+    <DestinationName>Chattanooga Lovell Fld</DestinationName>
+    <DestinationStr>Chattanooga Lovell Fld(CHA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>COS</code>
+    <DestinationName>Colorado Springs</DestinationName>
+    <DestinationStr>Colorado Springs(COS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YZS</code>
+    <DestinationName>Coral Harbour</DestinationName>
+    <DestinationStr>Coral Harbour(YZS)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CGF</code>
+    <DestinationName>Cuyahoga County Airport</DestinationName>
+    <DestinationStr>Cuyahoga County Airport(CGF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CYR</code>
+    <DestinationName>Colonia Arpt</DestinationName>
+    <DestinationStr>Colonia Arpt(CYR)-Uruguay</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HPH</code>
+    <DestinationName>Catbi Arpt</DestinationName>
+    <DestinationStr>Catbi Arpt(HPH)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KNU</code>
+    <DestinationName>Chakeri Arpt</DestinationName>
+    <DestinationStr>Chakeri Arpt(KNU)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QCE</code>
+    <DestinationName>Copper Mountain Van Service</DestinationName>
+    <DestinationStr>Copper Mountain Van Service(QCE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>COD</code>
+    <DestinationName>Yellowstone Regional Arpt</DestinationName>
+    <DestinationStr>Yellowstone Regional Arpt(COD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAL</code>
+    <DestinationName>Campbelltown</DestinationName>
+    <DestinationStr>Campbelltown(CAL)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CHA</code>
+    <DestinationName>Chattanooga</DestinationName>
+    <DestinationStr>Chattanooga(CHA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CSC</code>
+    <DestinationName>Canas</DestinationName>
+    <DestinationStr>Canas(CSC)-Costa Rica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POI</code>
+    <DestinationName>Captain Nicolas Rojas Arpt</DestinationName>
+    <DestinationStr>Captain Nicolas Rojas Arpt(POI)-Bolivia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YKU</code>
+    <DestinationName>Chisasibi</DestinationName>
+    <DestinationStr>Chisasibi(YKU)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CBS</code>
+    <DestinationName>Cabimas</DestinationName>
+    <DestinationStr>Cabimas(CBS)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CKU</code>
+    <DestinationName>City Airport</DestinationName>
+    <DestinationStr>City Airport(CKU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CMB</code>
+    <DestinationName>Bandaranaike Intl Arpt</DestinationName>
+    <DestinationStr>Bandaranaike Intl Arpt(CMB)-Sri Lanka</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CWC</code>
+    <DestinationName>Chernovtsy Arpt</DestinationName>
+    <DestinationStr>Chernovtsy Arpt(CWC)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CDT</code>
+    <DestinationName>Castellon de la Plana</DestinationName>
+    <DestinationStr>Castellon de la Plana(CDT)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CHI</code>
+    <DestinationName>Chicago</DestinationName>
+    <DestinationStr>Chicago(CHI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CPE</code>
+    <DestinationName>Campeche</DestinationName>
+    <DestinationStr>Campeche(CPE)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>USA</code>
+    <DestinationName>Concord</DestinationName>
+    <DestinationStr>Concord(USA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CDQ</code>
+    <DestinationName>Croydon</DestinationName>
+    <DestinationStr>Croydon(CDQ)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CSM</code>
+    <DestinationName>Sherman Arpt</DestinationName>
+    <DestinationStr>Sherman Arpt(CSM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ONX</code>
+    <DestinationName>Colon</DestinationName>
+    <DestinationStr>Colon(ONX)-Panama</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAD</code>
+    <DestinationName>Cadillac</DestinationName>
+    <DestinationStr>Cadillac(CAD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CCJ</code>
+    <DestinationName>Kozhikode</DestinationName>
+    <DestinationStr>Kozhikode(CCJ)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CKY</code>
+    <DestinationName>Guinea</DestinationName>
+    <DestinationStr>Guinea(CKY)-Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CLW</code>
+    <DestinationName>Clearwater</DestinationName>
+    <DestinationStr>Clearwater(CLW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CMG</code>
+    <DestinationName>Internacional Corumba</DestinationName>
+    <DestinationStr>Internacional Corumba(CMG)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CKC</code>
+    <DestinationName>Cherkassy</DestinationName>
+    <DestinationStr>Cherkassy(CKC)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CMU</code>
+    <DestinationName>Chimbu Airport</DestinationName>
+    <DestinationStr>Chimbu Airport(CMU)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CNQ</code>
+    <DestinationName>Camba Punta Arpt</DestinationName>
+    <DestinationStr>Camba Punta Arpt(CNQ)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CRW</code>
+    <DestinationName>Yeager Arpt</DestinationName>
+    <DestinationStr>Yeager Arpt(CRW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CSG</code>
+    <DestinationName>Columbus</DestinationName>
+    <DestinationStr>Columbus(CSG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OAL</code>
+    <DestinationName>Cacoal</DestinationName>
+    <DestinationStr>Cacoal(OAL)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WCA</code>
+    <DestinationName>Castro</DestinationName>
+    <DestinationStr>Castro(WCA)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CLL</code>
+    <DestinationName>Easterwood Field</DestinationName>
+    <DestinationStr>Easterwood Field(CLL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ERM</code>
+    <DestinationName>Comandante Kraemer Airport</DestinationName>
+    <DestinationStr>Comandante Kraemer Airport(ERM)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FCN</code>
+    <DestinationName>Cuxhaven Nordholz Arpt</DestinationName>
+    <DestinationStr>Cuxhaven Nordholz Arpt(FCN)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QPB</code>
+    <DestinationName>Campobasso</DestinationName>
+    <DestinationStr>Campobasso(QPB)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CIE</code>
+    <DestinationName>Collie</DestinationName>
+    <DestinationStr>Collie(CIE)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CNG</code>
+    <DestinationName>Parvaud Arpt</DestinationName>
+    <DestinationStr>Parvaud Arpt(CNG)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QCM</code>
+    <DestinationName>Como</DestinationName>
+    <DestinationStr>Como(QCM)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCS</code>
+    <DestinationName>Chesterfield Inlet</DestinationName>
+    <DestinationStr>Chesterfield Inlet(YCS)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CHS</code>
+    <DestinationName>Charleston Intl Arpt</DestinationName>
+    <DestinationStr>Charleston Intl Arpt(CHS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CME</code>
+    <DestinationName>Ciudad Del Carmen Arpt</DestinationName>
+    <DestinationStr>Ciudad Del Carmen Arpt(CME)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CRX</code>
+    <DestinationName>Corinth</DestinationName>
+    <DestinationStr>Corinth(CRX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SJF</code>
+    <DestinationName>Cruz Bay SPB</DestinationName>
+    <DestinationStr>Cruz Bay SPB(SJF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CGU</code>
+    <DestinationName>Ciudad Guayana</DestinationName>
+    <DestinationStr>Ciudad Guayana(CGU)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>COK</code>
+    <DestinationName>Kochi</DestinationName>
+    <DestinationStr>Kochi(COK)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CUG</code>
+    <DestinationName>Cudal</DestinationName>
+    <DestinationStr>Cudal(CUG)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QCZ</code>
+    <DestinationName>Catanzaro</DestinationName>
+    <DestinationStr>Catanzaro(QCZ)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QHI</code>
+    <DestinationName>Chon Buri</DestinationName>
+    <DestinationStr>Chon Buri(QHI)-Thailand</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>CBA</code>
+    <DestinationName>Corner Bay Arpt</DestinationName>
+    <DestinationStr>Corner Bay Arpt(CBA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CEQ</code>
+    <DestinationName>Cannes</DestinationName>
+    <DestinationStr>Cannes(CEQ)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CNX</code>
+    <DestinationName>Chiang Mai</DestinationName>
+    <DestinationStr>Chiang Mai(CNX)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CRM</code>
+    <DestinationName>Catarman</DestinationName>
+    <DestinationStr>Catarman(CRM)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CYS</code>
+    <DestinationName>Cheyenne</DestinationName>
+    <DestinationStr>Cheyenne(CYS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CFN</code>
+    <DestinationName>Donegal</DestinationName>
+    <DestinationStr>Donegal(CFN)-Ireland, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CCJ</code>
+    <DestinationName>Kozhikode Arpt</DestinationName>
+    <DestinationStr>Kozhikode Arpt(CCJ)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CEH</code>
+    <DestinationName>Chelinda Arpt</DestinationName>
+    <DestinationStr>Chelinda Arpt(CEH)-Malawi</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CUS</code>
+    <DestinationName>Columbus Municipal</DestinationName>
+    <DestinationStr>Columbus Municipal(CUS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CVQ</code>
+    <DestinationName>Carnarvon</DestinationName>
+    <DestinationStr>Carnarvon(CVQ)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZDT</code>
+    <DestinationName>Chur</DestinationName>
+    <DestinationStr>Chur(ZDT)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CJJ</code>
+    <DestinationName>Cheongju Arpt</DestinationName>
+    <DestinationStr>Cheongju Arpt(CJJ)-Korea, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CLQ</code>
+    <DestinationName>Colima</DestinationName>
+    <DestinationStr>Colima(CLQ)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CMF</code>
+    <DestinationName>Chambery Aix Les Bains Arpt</DestinationName>
+    <DestinationStr>Chambery Aix Les Bains Arpt(CMF)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>COH</code>
+    <DestinationName>Cooch Behar Airport</DestinationName>
+    <DestinationStr>Cooch Behar Airport(COH)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>COJ</code>
+    <DestinationName>Coonabarabran Arpt</DestinationName>
+    <DestinationStr>Coonabarabran Arpt(COJ)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CQF</code>
+    <DestinationName>Aeroport Calais Dunkerque</DestinationName>
+    <DestinationStr>Aeroport Calais Dunkerque(CQF)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CVR</code>
+    <DestinationName>Culver City</DestinationName>
+    <DestinationStr>Culver City(CVR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZUM</code>
+    <DestinationName>Churchhill Falls Arpt</DestinationName>
+    <DestinationStr>Churchhill Falls Arpt(ZUM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CDP</code>
+    <DestinationName>Cuddapah</DestinationName>
+    <DestinationStr>Cuddapah(CDP)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CEG</code>
+    <DestinationName>Chester</DestinationName>
+    <DestinationStr>Chester(CEG)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CHW</code>
+    <DestinationName>Jiuquan</DestinationName>
+    <DestinationStr>Jiuquan(CHW)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CRO</code>
+    <DestinationName>Corcoran Arpt</DestinationName>
+    <DestinationStr>Corcoran Arpt(CRO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CSK</code>
+    <DestinationName>Cap Skirring</DestinationName>
+    <DestinationStr>Cap Skirring(CSK)-Senegal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CZZ</code>
+    <DestinationName>Campo</DestinationName>
+    <DestinationStr>Campo(CZZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CZE</code>
+    <DestinationName>Coro</DestinationName>
+    <DestinationStr>Coro(CZE)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NCE</code>
+    <DestinationName>Cote D Azur Arpt</DestinationName>
+    <DestinationStr>Cote D Azur Arpt(NCE)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CBM</code>
+    <DestinationName>Columbus Air Force Base</DestinationName>
+    <DestinationStr>Columbus Air Force Base(CBM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CVS</code>
+    <DestinationName>Cannon Afbarpt</DestinationName>
+    <DestinationStr>Cannon Afbarpt(CVS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAP</code>
+    <DestinationName>Cap Haitien</DestinationName>
+    <DestinationStr>Cap Haitien(CAP)-Haiti</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CEM</code>
+    <DestinationName>Central</DestinationName>
+    <DestinationStr>Central(CEM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HPR</code>
+    <DestinationName>Central Hpr Arpt</DestinationName>
+    <DestinationStr>Central Hpr Arpt(HPR)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JCA</code>
+    <DestinationName>Croisette Heliport</DestinationName>
+    <DestinationStr>Croisette Heliport(JCA)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAS</code>
+    <DestinationName>Casablanca</DestinationName>
+    <DestinationStr>Casablanca(CAS)-Morocco</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CFC</code>
+    <DestinationName>Cacador</DestinationName>
+    <DestinationStr>Cacador(CFC)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CJA</code>
+    <DestinationName>Armando R Iglesias Arpt</DestinationName>
+    <DestinationStr>Armando R Iglesias Arpt(CJA)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CLC</code>
+    <DestinationName>Metroport</DestinationName>
+    <DestinationStr>Metroport(CLC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CVT</code>
+    <DestinationName>Baginton Arpt</DestinationName>
+    <DestinationStr>Baginton Arpt(CVT)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OAL</code>
+    <DestinationName>Cacoal Arpt</DestinationName>
+    <DestinationStr>Cacoal Arpt(OAL)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ODB</code>
+    <DestinationName>Cordoba</DestinationName>
+    <DestinationStr>Cordoba(ODB)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SXC</code>
+    <DestinationName>Catalina Arpt</DestinationName>
+    <DestinationStr>Catalina Arpt(SXC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CGR</code>
+    <DestinationName>Campogrande</DestinationName>
+    <DestinationStr>Campogrande(CGR)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CJM</code>
+    <DestinationName>Chumphon</DestinationName>
+    <DestinationStr>Chumphon(CJM)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CNX</code>
+    <DestinationName>Chiang Mai Intl Arpt</DestinationName>
+    <DestinationStr>Chiang Mai Intl Arpt(CNX)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CRV</code>
+    <DestinationName>Crotone Arpt</DestinationName>
+    <DestinationStr>Crotone Arpt(CRV)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CVN</code>
+    <DestinationName>Clovis</DestinationName>
+    <DestinationStr>Clovis(CVN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LGC</code>
+    <DestinationName>Calloway Arpt</DestinationName>
+    <DestinationStr>Calloway Arpt(LGC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XVC</code>
+    <DestinationName>Crewe</DestinationName>
+    <DestinationStr>Crewe(XVC)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CGY</code>
+    <DestinationName>Cagayan</DestinationName>
+    <DestinationStr>Cagayan(CGY)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CKV</code>
+    <DestinationName>Outlaw Field</DestinationName>
+    <DestinationStr>Outlaw Field(CKV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CQF</code>
+    <DestinationName>Calais</DestinationName>
+    <DestinationStr>Calais(CQF)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CUC</code>
+    <DestinationName>Camilo Dazo Arpt</DestinationName>
+    <DestinationStr>Camilo Dazo Arpt(CUC)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QDE</code>
+    <DestinationName>Catanduva</DestinationName>
+    <DestinationStr>Catanduva(QDE)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UDN</code>
+    <DestinationName>Campoformido Arpt</DestinationName>
+    <DestinationStr>Campoformido Arpt(UDN)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CFE</code>
+    <DestinationName>Aulnat Arpt</DestinationName>
+    <DestinationStr>Aulnat Arpt(CFE)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CTL</code>
+    <DestinationName>Charleville</DestinationName>
+    <DestinationStr>Charleville(CTL)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NGO</code>
+    <DestinationName>Chubu Centrair Intl Arpt</DestinationName>
+    <DestinationStr>Chubu Centrair Intl Arpt(NGO)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ODS</code>
+    <DestinationName>Central Arpt</DestinationName>
+    <DestinationStr>Central Arpt(ODS)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CBQ</code>
+    <DestinationName>Calabar</DestinationName>
+    <DestinationStr>Calabar(CBQ)-Nigeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CDP</code>
+    <DestinationName>Cuddapah Airport</DestinationName>
+    <DestinationStr>Cuddapah Airport(CDP)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CLD</code>
+    <DestinationName>Carlsbad Arpt</DestinationName>
+    <DestinationStr>Carlsbad Arpt(CLD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CSX</code>
+    <DestinationName>Changsha Arpt</DestinationName>
+    <DestinationStr>Changsha Arpt(CSX)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CUN</code>
+    <DestinationName>Cancun Aeropuerto Internacional</DestinationName>
+    <DestinationStr>Cancun Aeropuerto Internacional(CUN)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CBB</code>
+    <DestinationName>Cochabamba</DestinationName>
+    <DestinationStr>Cochabamba(CBB)-Bolivia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CEU</code>
+    <DestinationName>Clemson Oconee Cty Arpt</DestinationName>
+    <DestinationStr>Clemson Oconee Cty Arpt(CEU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CMX</code>
+    <DestinationName>Houghton Cty Memorial Arpt</DestinationName>
+    <DestinationStr>Houghton Cty Memorial Arpt(CMX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CTG</code>
+    <DestinationName>Cartagena</DestinationName>
+    <DestinationStr>Cartagena(CTG)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MSV</code>
+    <DestinationName>Catskills Sulivan</DestinationName>
+    <DestinationStr>Catskills Sulivan(MSV)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>CEE</code>
+    <DestinationName>Cherepovets</DestinationName>
+    <DestinationStr>Cherepovets(CEE)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CNQ</code>
+    <DestinationName>Corrientes</DestinationName>
+    <DestinationStr>Corrientes(CNQ)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GRO</code>
+    <DestinationName>Costa Brava Arpt</DestinationName>
+    <DestinationStr>Costa Brava Arpt(GRO)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HVR</code>
+    <DestinationName>City County</DestinationName>
+    <DestinationStr>City County(HVR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QTZ</code>
+    <DestinationName>Coatzacoalcos</DestinationName>
+    <DestinationStr>Coatzacoalcos(QTZ)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TET</code>
+    <DestinationName>Chingozi Airport</DestinationName>
+    <DestinationStr>Chingozi Airport(TET)-Mozambique</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYQ</code>
+    <DestinationName>Churchill Airport</DestinationName>
+    <DestinationStr>Churchill Airport(YYQ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CRM</code>
+    <DestinationName>National Airport</DestinationName>
+    <DestinationStr>National Airport(CRM)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KBW</code>
+    <DestinationName>Chignik Bay Arpt</DestinationName>
+    <DestinationStr>Chignik Bay Arpt(KBW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AVX</code>
+    <DestinationName>Catalina Island</DestinationName>
+    <DestinationStr>Catalina Island(AVX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAM</code>
+    <DestinationName>Choreti Arpt</DestinationName>
+    <DestinationStr>Choreti Arpt(CAM)-Bolivia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CBS</code>
+    <DestinationName>Oro Negro Arpt</DestinationName>
+    <DestinationStr>Oro Negro Arpt(CBS)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CFR</code>
+    <DestinationName>Carpiquet Arpt</DestinationName>
+    <DestinationStr>Carpiquet Arpt(CFR)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CGN</code>
+    <DestinationName>Cologne</DestinationName>
+    <DestinationStr>Cologne(CGN)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CLU</code>
+    <DestinationName>Columbus Municipal Arpt</DestinationName>
+    <DestinationStr>Columbus Municipal Arpt(CLU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CYI</code>
+    <DestinationName>Chiayi</DestinationName>
+    <DestinationStr>Chiayi(CYI)-Taiwan, Province of China</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>CAU</code>
+    <DestinationName>Caruaru</DestinationName>
+    <DestinationStr>Caruaru(CAU)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CIC</code>
+    <DestinationName>Chico</DestinationName>
+    <DestinationStr>Chico(CIC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JCJ</code>
+    <DestinationName>Chuja Heliport</DestinationName>
+    <DestinationStr>Chuja Heliport(JCJ)-Korea, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAB</code>
+    <DestinationName>Crown Point Arpt</DestinationName>
+    <DestinationStr>Crown Point Arpt(TAB)-Trinidad  Tobago</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CED</code>
+    <DestinationName>Ceduna Arpt</DestinationName>
+    <DestinationStr>Ceduna Arpt(CED)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CGB</code>
+    <DestinationName>Marechal Rondon Arpt</DestinationName>
+    <DestinationStr>Marechal Rondon Arpt(CGB)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CLK</code>
+    <DestinationName>Clinton Municipal Arpt</DestinationName>
+    <DestinationStr>Clinton Municipal Arpt(CLK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CMN</code>
+    <DestinationName>Mohamed V Arpt</DestinationName>
+    <DestinationStr>Mohamed V Arpt(CMN)-Morocco</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OOM</code>
+    <DestinationName>Cooma</DestinationName>
+    <DestinationStr>Cooma(OOM)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CCV</code>
+    <DestinationName>Craig Cove Arpt</DestinationName>
+    <DestinationStr>Craig Cove Arpt(CCV)-Vanuatu</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CFQ</code>
+    <DestinationName>Creston</DestinationName>
+    <DestinationStr>Creston(CFQ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CGR</code>
+    <DestinationName>Internacional</DestinationName>
+    <DestinationStr>Internacional(CGR)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CLO</code>
+    <DestinationName>Cali</DestinationName>
+    <DestinationStr>Cali(CLO)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CVJ</code>
+    <DestinationName>Cuernavaca</DestinationName>
+    <DestinationStr>Cuernavaca(CVJ)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IXC</code>
+    <DestinationName>Chandigarh Arpt</DestinationName>
+    <DestinationStr>Chandigarh Arpt(IXC)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LQM</code>
+    <DestinationName>Caucaya Airport</DestinationName>
+    <DestinationStr>Caucaya Airport(LQM)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZDS</code>
+    <DestinationName>Chiasso</DestinationName>
+    <DestinationStr>Chiasso(ZDS)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CIT</code>
+    <DestinationName>Shimkent Arpt</DestinationName>
+    <DestinationStr>Shimkent Arpt(CIT)-Kazakstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CUF</code>
+    <DestinationName>Cuneo</DestinationName>
+    <DestinationStr>Cuneo(CUF)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CWX</code>
+    <DestinationName>Cochise County Arpt</DestinationName>
+    <DestinationStr>Cochise County Arpt(CWX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JUH</code>
+    <DestinationName>Chizhou</DestinationName>
+    <DestinationStr>Chizhou(JUH)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YBL</code>
+    <DestinationName>Campbell River Municipal</DestinationName>
+    <DestinationStr>Campbell River Municipal(YBL)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>CVJ</code>
+    <DestinationName>Mariano Matamoros Arpt</DestinationName>
+    <DestinationStr>Mariano Matamoros Arpt(CVJ)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAM</code>
+    <DestinationName>Camiri</DestinationName>
+    <DestinationStr>Camiri(CAM)-Bolivia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CHD</code>
+    <DestinationName>Chandler</DestinationName>
+    <DestinationStr>Chandler(CHD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CPX</code>
+    <DestinationName>Culebra</DestinationName>
+    <DestinationStr>Culebra(CPX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CUR</code>
+    <DestinationName>Hato International</DestinationName>
+    <DestinationStr>Hato International(CUR)-Curacao</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CGC</code>
+    <DestinationName>Cape Gloucester</DestinationName>
+    <DestinationStr>Cape Gloucester(CGC)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CLO</code>
+    <DestinationName>Alfonso B Aragon Intl</DestinationName>
+    <DestinationStr>Alfonso B Aragon Intl(CLO)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CND</code>
+    <DestinationName>Kogalniceanu Arpt</DestinationName>
+    <DestinationStr>Kogalniceanu Arpt(CND)-Romania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CZL</code>
+    <DestinationName>Constantine</DestinationName>
+    <DestinationStr>Constantine(CZL)-Algeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EHM</code>
+    <DestinationName>Cape Newenham</DestinationName>
+    <DestinationStr>Cape Newenham(EHM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FWH</code>
+    <DestinationName>Carswell Airforce Base</DestinationName>
+    <DestinationStr>Carswell Airforce Base(FWH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OCC</code>
+    <DestinationName>Coca</DestinationName>
+    <DestinationStr>Coca(OCC)-Ecuador</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CNC</code>
+    <DestinationName>Coconut Island Arpt</DestinationName>
+    <DestinationStr>Coconut Island Arpt(CNC)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CRG</code>
+    <DestinationName>Craig Municipal Arpt</DestinationName>
+    <DestinationStr>Craig Municipal Arpt(CRG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ENL</code>
+    <DestinationName>Centralia</DestinationName>
+    <DestinationStr>Centralia(ENL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CDW</code>
+    <DestinationName>Caldwell</DestinationName>
+    <DestinationStr>Caldwell(CDW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JPA</code>
+    <DestinationName>Castro Pinto Arpt</DestinationName>
+    <DestinationStr>Castro Pinto Arpt(JPA)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XAZ</code>
+    <DestinationName>Campbellton</DestinationName>
+    <DestinationStr>Campbellton(XAZ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CMR</code>
+    <DestinationName>Colmar</DestinationName>
+    <DestinationStr>Colmar(CMR)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CRA</code>
+    <DestinationName>Craiova Arpt</DestinationName>
+    <DestinationStr>Craiova Arpt(CRA)-Romania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YZS</code>
+    <DestinationName>Coral Harbour Arpt</DestinationName>
+    <DestinationStr>Coral Harbour Arpt(YZS)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAY</code>
+    <DestinationName>Cayenne</DestinationName>
+    <DestinationStr>Cayenne(CAY)-French Guiana</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YAI</code>
+    <DestinationName>Chillan</DestinationName>
+    <DestinationStr>Chillan(YAI)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCC</code>
+    <DestinationName>Cornwall Regional Arpt</DestinationName>
+    <DestinationStr>Cornwall Regional Arpt(YCC)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAA</code>
+    <DestinationName>Catacamas</DestinationName>
+    <DestinationStr>Catacamas(CAA)-Honduras</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAI</code>
+    <DestinationName>Cairo</DestinationName>
+    <DestinationStr>Cairo(CAI)-Egypt</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CBN</code>
+    <DestinationName>Penggung Arpt</DestinationName>
+    <DestinationStr>Penggung Arpt(CBN)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CUP</code>
+    <DestinationName>Carupano</DestinationName>
+    <DestinationStr>Carupano(CUP)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GCC</code>
+    <DestinationName>Campbell Cty Arpt</DestinationName>
+    <DestinationStr>Campbell Cty Arpt(GCC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CDW</code>
+    <DestinationName>Caldwell Wright Arpt</DestinationName>
+    <DestinationStr>Caldwell Wright Arpt(CDW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CNJ</code>
+    <DestinationName>Cloncurry Arpt</DestinationName>
+    <DestinationStr>Cloncurry Arpt(CNJ)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CPE</code>
+    <DestinationName>Campeche Intl Arpt</DestinationName>
+    <DestinationStr>Campeche Intl Arpt(CPE)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CTM</code>
+    <DestinationName>Chetumal International</DestinationName>
+    <DestinationStr>Chetumal International(CTM)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OOM</code>
+    <DestinationName>Cooma Airport</DestinationName>
+    <DestinationStr>Cooma Airport(OOM)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYM</code>
+    <DestinationName>Cowley</DestinationName>
+    <DestinationStr>Cowley(YYM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CRI</code>
+    <DestinationName>Colonel Hill Arpt</DestinationName>
+    <DestinationStr>Colonel Hill Arpt(CRI)-Bahamas</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CZN</code>
+    <DestinationName>Chisana</DestinationName>
+    <DestinationStr>Chisana(CZN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DCF</code>
+    <DestinationName>Canefield Arpt</DestinationName>
+    <DestinationStr>Canefield Arpt(DCF)-Dominica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OTD</code>
+    <DestinationName>Contadora</DestinationName>
+    <DestinationStr>Contadora(OTD)-Panama</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CDC</code>
+    <DestinationName>Cedar City</DestinationName>
+    <DestinationStr>Cedar City(CDC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CKB</code>
+    <DestinationName>Clarksburg Benedum Arpt</DestinationName>
+    <DestinationStr>Clarksburg Benedum Arpt(CKB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CTL</code>
+    <DestinationName>Charleville Arpt</DestinationName>
+    <DestinationStr>Charleville Arpt(CTL)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CUM</code>
+    <DestinationName>Cumana</DestinationName>
+    <DestinationStr>Cumana(CUM)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CZS</code>
+    <DestinationName>Cruzeiro Do Sul</DestinationName>
+    <DestinationStr>Cruzeiro Do Sul(CZS)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QCB</code>
+    <DestinationName>Chiba</DestinationName>
+    <DestinationStr>Chiba(QCB)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CBR</code>
+    <DestinationName>Canberra Arpt</DestinationName>
+    <DestinationStr>Canberra Arpt(CBR)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CGI</code>
+    <DestinationName>Cape Girardeau</DestinationName>
+    <DestinationStr>Cape Girardeau(CGI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KCE</code>
+    <DestinationName>Collinsville Arpt</DestinationName>
+    <DestinationStr>Collinsville Arpt(KCE)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OLB</code>
+    <DestinationName>Costa Smeralda Arpt</DestinationName>
+    <DestinationStr>Costa Smeralda Arpt(OLB)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XCP</code>
+    <DestinationName>Compiegne</DestinationName>
+    <DestinationStr>Compiegne(XCP)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CWL</code>
+    <DestinationName>Cardiff Wales Arpt</DestinationName>
+    <DestinationStr>Cardiff Wales Arpt(CWL)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VPY</code>
+    <DestinationName>Chimoio</DestinationName>
+    <DestinationStr>Chimoio(VPY)-Mozambique</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CHX</code>
+    <DestinationName>Manuel Nino International</DestinationName>
+    <DestinationStr>Manuel Nino International(CHX)-Panama</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CLL</code>
+    <DestinationName>College Station</DestinationName>
+    <DestinationStr>College Station(CLL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CPO</code>
+    <DestinationName>Chamonate Arpt</DestinationName>
+    <DestinationStr>Chamonate Arpt(CPO)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CZA</code>
+    <DestinationName>Chichen Itza Arpt</DestinationName>
+    <DestinationStr>Chichen Itza Arpt(CZA)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LSD</code>
+    <DestinationName>Creech Army Air Field</DestinationName>
+    <DestinationStr>Creech Army Air Field(LSD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CHV</code>
+    <DestinationName>Chaves Arpt</DestinationName>
+    <DestinationStr>Chaves Arpt(CHV)-Portugal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CIJ</code>
+    <DestinationName>Captian Anibal Arab Arpt</DestinationName>
+    <DestinationStr>Captian Anibal Arab Arpt(CIJ)-Bolivia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CMI</code>
+    <DestinationName>Univ Of Illinois Willard Arpt</DestinationName>
+    <DestinationStr>Univ Of Illinois Willard Arpt(CMI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CNC</code>
+    <DestinationName>Coconut Island</DestinationName>
+    <DestinationStr>Coconut Island(CNC)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>COW</code>
+    <DestinationName>Coquimbo</DestinationName>
+    <DestinationStr>Coquimbo(COW)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CRK</code>
+    <DestinationName>Clark Field Arpt</DestinationName>
+    <DestinationStr>Clark Field Arpt(CRK)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CVF</code>
+    <DestinationName>Courchevel</DestinationName>
+    <DestinationStr>Courchevel(CVF)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XCH</code>
+    <DestinationName>Christmas Island</DestinationName>
+    <DestinationStr>Christmas Island(XCH)-Christmas Island</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CMY</code>
+    <DestinationName>Sparta</DestinationName>
+    <DestinationStr>Sparta(CMY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CPV</code>
+    <DestinationName>Campina Grande</DestinationName>
+    <DestinationStr>Campina Grande(CPV)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAG</code>
+    <DestinationName>Cagliari</DestinationName>
+    <DestinationStr>Cagliari(CAG)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CFG</code>
+    <DestinationName>Cienfuegos</DestinationName>
+    <DestinationStr>Cienfuegos(CFG)-Cuba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CXF</code>
+    <DestinationName>Coldfoot Arpt</DestinationName>
+    <DestinationStr>Coldfoot Arpt(CXF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RUY</code>
+    <DestinationName>Copan</DestinationName>
+    <DestinationStr>Copan(RUY)-Honduras</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZAO</code>
+    <DestinationName>Cahors</DestinationName>
+    <DestinationStr>Cahors(ZAO)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ADW</code>
+    <DestinationName>Camp Springs</DestinationName>
+    <DestinationStr>Camp Springs(ADW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAX</code>
+    <DestinationName>Carlisle</DestinationName>
+    <DestinationStr>Carlisle(CAX)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CGO</code>
+    <DestinationName>Zhengzhou Arpt</DestinationName>
+    <DestinationStr>Zhengzhou Arpt(CGO)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CHT</code>
+    <DestinationName>Chatham Island</DestinationName>
+    <DestinationStr>Chatham Island(CHT)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MTO</code>
+    <DestinationName>Coles County</DestinationName>
+    <DestinationStr>Coles County(MTO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XFF</code>
+    <DestinationName>Calais City</DestinationName>
+    <DestinationStr>Calais City(XFF)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CEC</code>
+    <DestinationName>Crescent City</DestinationName>
+    <DestinationStr>Crescent City(CEC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CYI</code>
+    <DestinationName>Chia Yi Airport</DestinationName>
+    <DestinationStr>Chia Yi Airport(CYI)-Taiwan, Province of China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GXQ</code>
+    <DestinationName>Coyhaique</DestinationName>
+    <DestinationStr>Coyhaique(GXQ)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KCO</code>
+    <DestinationName>Cengiz Topel Airport</DestinationName>
+    <DestinationStr>Cengiz Topel Airport(KCO)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CNO</code>
+    <DestinationName>Chino</DestinationName>
+    <DestinationStr>Chino(CNO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CTN</code>
+    <DestinationName>Cooktown</DestinationName>
+    <DestinationStr>Cooktown(CTN)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CUL</code>
+    <DestinationName>Culiacan</DestinationName>
+    <DestinationStr>Culiacan(CUL)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CCC</code>
+    <DestinationName>Cayo Coco</DestinationName>
+    <DestinationStr>Cayo Coco(CCC)-Cuba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CMF</code>
+    <DestinationName>Chambery</DestinationName>
+    <DestinationStr>Chambery(CMF)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CPM</code>
+    <DestinationName>Compton</DestinationName>
+    <DestinationStr>Compton(CPM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CZW</code>
+    <DestinationName>Czestochowa</DestinationName>
+    <DestinationStr>Czestochowa(CZW)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XON</code>
+    <DestinationName>Carleton</DestinationName>
+    <DestinationStr>Carleton(XON)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CIX</code>
+    <DestinationName>J A Quinones Gonzales Arpt</DestinationName>
+    <DestinationStr>J A Quinones Gonzales Arpt(CIX)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CJC</code>
+    <DestinationName>Calama</DestinationName>
+    <DestinationStr>Calama(CJC)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CWX</code>
+    <DestinationName>Cochise County</DestinationName>
+    <DestinationStr>Cochise County(CWX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCQ</code>
+    <DestinationName>Chetwynd</DestinationName>
+    <DestinationStr>Chetwynd(YCQ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BHI</code>
+    <DestinationName>Commandante Airport</DestinationName>
+    <DestinationStr>Commandante Airport(BHI)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CLJ</code>
+    <DestinationName>Cluj</DestinationName>
+    <DestinationStr>Cluj(CLJ)-Romania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CMB</code>
+    <DestinationName>Colombo</DestinationName>
+    <DestinationStr>Colombo(CMB)-Sri Lanka</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CPH</code>
+    <DestinationName>Copenhagen</DestinationName>
+    <DestinationStr>Copenhagen(CPH)-Denmark</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CZX</code>
+    <DestinationName>Changzhou</DestinationName>
+    <DestinationStr>Changzhou(CZX)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCF</code>
+    <DestinationName>Cortes Bay</DestinationName>
+    <DestinationStr>Cortes Bay(YCF)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CDV</code>
+    <DestinationName>Cordova</DestinationName>
+    <DestinationStr>Cordova(CDV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CER</code>
+    <DestinationName>Maupertius Arpt</DestinationName>
+    <DestinationStr>Maupertius Arpt(CER)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CFS</code>
+    <DestinationName>Coffs Harbour Arpt</DestinationName>
+    <DestinationStr>Coffs Harbour Arpt(CFS)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CGD</code>
+    <DestinationName>Changde Arpt</DestinationName>
+    <DestinationStr>Changde Arpt(CGD)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CLZ</code>
+    <DestinationName>Calabozo</DestinationName>
+    <DestinationStr>Calabozo(CLZ)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCG</code>
+    <DestinationName>Castlegar</DestinationName>
+    <DestinationStr>Castlegar(YCG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AHU</code>
+    <DestinationName>Charif Al Idrissi Arpt</DestinationName>
+    <DestinationStr>Charif Al Idrissi Arpt(AHU)-Morocco</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CCR</code>
+    <DestinationName>Concord</DestinationName>
+    <DestinationStr>Concord(CCR)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>CEZ</code>
+    <DestinationName>Montezuma County</DestinationName>
+    <DestinationStr>Montezuma County(CEZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NGW</code>
+    <DestinationName>Cabaniss Field Arpt</DestinationName>
+    <DestinationStr>Cabaniss Field Arpt(NGW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XCO</code>
+    <DestinationName>Colac Arpt</DestinationName>
+    <DestinationStr>Colac Arpt(XCO)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CHK</code>
+    <DestinationName>Chickasha</DestinationName>
+    <DestinationStr>Chickasha(CHK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>COI</code>
+    <DestinationName>Merrit Island Arpt</DestinationName>
+    <DestinationStr>Merrit Island Arpt(COI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CTC</code>
+    <DestinationName>Catamarca</DestinationName>
+    <DestinationStr>Catamarca(CTC)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CGY</code>
+    <DestinationName>Lumbia Arpt</DestinationName>
+    <DestinationStr>Lumbia Arpt(CGY)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCF</code>
+    <DestinationName>Cortes Bay Airport</DestinationName>
+    <DestinationStr>Cortes Bay Airport(YCF)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CMV</code>
+    <DestinationName>Coromandel Arpt</DestinationName>
+    <DestinationStr>Coromandel Arpt(CMV)-New Zealand</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>CJS</code>
+    <DestinationName>Abraham Gonzalez International</DestinationName>
+    <DestinationStr>Abraham Gonzalez International(CJS)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CSO</code>
+    <DestinationName>Magdeburg Cochstedt</DestinationName>
+    <DestinationStr>Magdeburg Cochstedt(CSO)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CTS</code>
+    <DestinationName>Sapporo City</DestinationName>
+    <DestinationStr>Sapporo City(CTS)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JKV</code>
+    <DestinationName>Cherokee County Arpt</DestinationName>
+    <DestinationStr>Cherokee County Arpt(JKV)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZFI</code>
+    <DestinationName>Chesterfield</DestinationName>
+    <DestinationStr>Chesterfield(ZFI)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CRX</code>
+    <DestinationName>Roscoe Turner Arpt</DestinationName>
+    <DestinationStr>Roscoe Turner Arpt(CRX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CWI</code>
+    <DestinationName>Clinton</DestinationName>
+    <DestinationStr>Clinton(CWI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CYS</code>
+    <DestinationName>Cheyenne Arpt</DestinationName>
+    <DestinationStr>Cheyenne Arpt(CYS)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>JOI</code>
+    <DestinationName>Cubatao Arpt</DestinationName>
+    <DestinationStr>Cubatao Arpt(JOI)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NZC</code>
+    <DestinationName>Cecil Field Nas</DestinationName>
+    <DestinationStr>Cecil Field Nas(NZC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QJO</code>
+    <DestinationName>Campos Do Jordao</DestinationName>
+    <DestinationStr>Campos Do Jordao(QJO)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CBP</code>
+    <DestinationName>Coimbra</DestinationName>
+    <DestinationStr>Coimbra(CBP)-Portugal</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>CGA</code>
+    <DestinationName>Craig</DestinationName>
+    <DestinationStr>Craig(CGA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CRZ</code>
+    <DestinationName>Turkmenabat Arpt</DestinationName>
+    <DestinationStr>Turkmenabat Arpt(CRZ)-Turkmenistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ERO</code>
+    <DestinationName>Coast Guard Arpt</DestinationName>
+    <DestinationStr>Coast Guard Arpt(ERO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NNR</code>
+    <DestinationName>Connemara Arpt</DestinationName>
+    <DestinationStr>Connemara Arpt(NNR)-Ireland, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ORK</code>
+    <DestinationName>Cork</DestinationName>
+    <DestinationStr>Cork(ORK)-Ireland, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CDG</code>
+    <DestinationName>Charles De Gaulle Intl Arpt</DestinationName>
+    <DestinationStr>Charles De Gaulle Intl Arpt(CDG)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CIT</code>
+    <DestinationName>Shimkent</DestinationName>
+    <DestinationStr>Shimkent(CIT)-Kazakstan</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>OLN</code>
+    <DestinationName>Colonia Sarmiento</DestinationName>
+    <DestinationStr>Colonia Sarmiento(OLN)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XCF</code>
+    <DestinationName>Chamonix Mont Blanc</DestinationName>
+    <DestinationStr>Chamonix Mont Blanc(XCF)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CHO</code>
+    <DestinationName>Charlottesville Albemarle Arpt</DestinationName>
+    <DestinationStr>Charlottesville Albemarle Arpt(CHO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CHP</code>
+    <DestinationName>Circle Hot Springs</DestinationName>
+    <DestinationStr>Circle Hot Springs(CHP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CSL</code>
+    <DestinationName>O Sullivan Army Air Field</DestinationName>
+    <DestinationStr>O Sullivan Army Air Field(CSL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CVF</code>
+    <DestinationName>Courchevel Arpt</DestinationName>
+    <DestinationStr>Courchevel Arpt(CVF)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YOD</code>
+    <DestinationName>Cold Lake Arpt</DestinationName>
+    <DestinationStr>Cold Lake Arpt(YOD)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAX</code>
+    <DestinationName>Carlisle Arpt</DestinationName>
+    <DestinationStr>Carlisle Arpt(CAX)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CHX</code>
+    <DestinationName>Changuinola</DestinationName>
+    <DestinationStr>Changuinola(CHX)-Panama</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CKZ</code>
+    <DestinationName>Canakkale</DestinationName>
+    <DestinationStr>Canakkale(CKZ)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CMY</code>
+    <DestinationName>Camp Mccoy Aaf</DestinationName>
+    <DestinationStr>Camp Mccoy Aaf(CMY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CQM</code>
+    <DestinationName>Ciudad Real</DestinationName>
+    <DestinationStr>Ciudad Real(CQM)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CVU</code>
+    <DestinationName>Corvo Arpt</DestinationName>
+    <DestinationStr>Corvo Arpt(CVU)-Portugal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CBF</code>
+    <DestinationName>Council Bluffs Municipal Arpt</DestinationName>
+    <DestinationStr>Council Bluffs Municipal Arpt(CBF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CBQ</code>
+    <DestinationName>Calabar Arpt</DestinationName>
+    <DestinationStr>Calabar Arpt(CBQ)-Nigeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CJL</code>
+    <DestinationName>Chitral</DestinationName>
+    <DestinationStr>Chitral(CJL)-Pakistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CLJ</code>
+    <DestinationName>Napoca Arpt</DestinationName>
+    <DestinationStr>Napoca Arpt(CLJ)-Romania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CSY</code>
+    <DestinationName>Cheboksary Arpt</DestinationName>
+    <DestinationStr>Cheboksary Arpt(CSY)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CUA</code>
+    <DestinationName>Ciudad Constitucion</DestinationName>
+    <DestinationStr>Ciudad Constitucion(CUA)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XAP</code>
+    <DestinationName>Chapeco Arpt</DestinationName>
+    <DestinationStr>Chapeco Arpt(XAP)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAW</code>
+    <DestinationName>Campos</DestinationName>
+    <DestinationStr>Campos(CAW)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CEF</code>
+    <DestinationName>Westover Metro</DestinationName>
+    <DestinationStr>Westover Metro(CEF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CJI</code>
+    <DestinationName>Ciudad Real City Arpt</DestinationName>
+    <DestinationStr>Ciudad Real City Arpt(CJI)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CLP</code>
+    <DestinationName>Clarks Point</DestinationName>
+    <DestinationStr>Clarks Point(CLP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IRC</code>
+    <DestinationName>Circle City Arpt</DestinationName>
+    <DestinationStr>Circle City Arpt(IRC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QUQ</code>
+    <DestinationName>Caceres</DestinationName>
+    <DestinationStr>Caceres(QUQ)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CUA</code>
+    <DestinationName>Ciudad Constitucion Arpt</DestinationName>
+    <DestinationStr>Ciudad Constitucion Arpt(CUA)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MRC</code>
+    <DestinationName>Columbia</DestinationName>
+    <DestinationStr>Columbia(MRC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XPL</code>
+    <DestinationName>Comayagua</DestinationName>
+    <DestinationStr>Comayagua(XPL)-Honduras</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CGO</code>
+    <DestinationName>Zhengzhou</DestinationName>
+    <DestinationStr>Zhengzhou(CGO)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CIO</code>
+    <DestinationName>Carmelo Peralta Arpt</DestinationName>
+    <DestinationStr>Carmelo Peralta Arpt(CIO)-Paraguay</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OLU</code>
+    <DestinationName>Columbus</DestinationName>
+    <DestinationStr>Columbus(OLU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ULN</code>
+    <DestinationName>Chinggis Khaan Intl Arpt</DestinationName>
+    <DestinationStr>Chinggis Khaan Intl Arpt(ULN)-Mongolia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CGZ</code>
+    <DestinationName>Casa Grande</DestinationName>
+    <DestinationStr>Casa Grande(CGZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CRT</code>
+    <DestinationName>Crossett</DestinationName>
+    <DestinationStr>Crossett(CRT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XZB</code>
+    <DestinationName>Casselman</DestinationName>
+    <DestinationStr>Casselman(XZB)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>CAP</code>
+    <DestinationName>Hugo Chavez Intl</DestinationName>
+    <DestinationStr>Hugo Chavez Intl(CAP)-Haiti</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>COV</code>
+    <DestinationName>Covilha</DestinationName>
+    <DestinationStr>Covilha(COV)-Portugal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CHC</code>
+    <DestinationName>Christchurch Arpt</DestinationName>
+    <DestinationStr>Christchurch Arpt(CHC)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CRW</code>
+    <DestinationName>Charleston</DestinationName>
+    <DestinationStr>Charleston(CRW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GWY</code>
+    <DestinationName>Carnmore Arpt</DestinationName>
+    <DestinationStr>Carnmore Arpt(GWY)-Ireland, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAE</code>
+    <DestinationName>Columbia</DestinationName>
+    <DestinationStr>Columbia(CAE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VSA</code>
+    <DestinationName>C Rovirosa Perez Intl</DestinationName>
+    <DestinationStr>C Rovirosa Perez Intl(VSA)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CLY</code>
+    <DestinationName>Ste Catherine Arpt</DestinationName>
+    <DestinationStr>Ste Catherine Arpt(CLY)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CXI</code>
+    <DestinationName>Cassidy</DestinationName>
+    <DestinationStr>Cassidy(CXI)-Kiribati</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CKB</code>
+    <DestinationName>Clarksburg</DestinationName>
+    <DestinationStr>Clarksburg(CKB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CRD</code>
+    <DestinationName>Comodoro Rivadavia</DestinationName>
+    <DestinationStr>Comodoro Rivadavia(CRD)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAC</code>
+    <DestinationName>Cascavel</DestinationName>
+    <DestinationStr>Cascavel(CAC)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAD</code>
+    <DestinationName>Wexford County Arpt</DestinationName>
+    <DestinationStr>Wexford County Arpt(CAD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAQ</code>
+    <DestinationName>Juan H White Arpt</DestinationName>
+    <DestinationStr>Juan H White Arpt(CAQ)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CBD</code>
+    <DestinationName>Car Nicobar Air Force Base</DestinationName>
+    <DestinationStr>Car Nicobar Air Force Base(CBD)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CIW</code>
+    <DestinationName>Canouan Arpt</DestinationName>
+    <DestinationStr>Canouan Arpt(CIW)-Dominica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PUC</code>
+    <DestinationName>Carbon Cty Municipal Arpt</DestinationName>
+    <DestinationStr>Carbon Cty Municipal Arpt(PUC)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>CKY</code>
+    <DestinationName>Conakry Airport</DestinationName>
+    <DestinationStr>Conakry Airport(CKY)-Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CNS</code>
+    <DestinationName>Cairns</DestinationName>
+    <DestinationStr>Cairns(CNS)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CRC</code>
+    <DestinationName>Cartago</DestinationName>
+    <DestinationStr>Cartago(CRC)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CSG</code>
+    <DestinationName>Columbus Metro Ft Benning Arpt</DestinationName>
+    <DestinationStr>Columbus Metro Ft Benning Arpt(CSG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KCQ</code>
+    <DestinationName>Chignik Airport</DestinationName>
+    <DestinationStr>Chignik Airport(KCQ)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>CSU</code>
+    <DestinationName>Santa Cruz Do Sul</DestinationName>
+    <DestinationStr>Santa Cruz Do Sul(CSU)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CSV</code>
+    <DestinationName>Crossville</DestinationName>
+    <DestinationStr>Crossville(CSV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DCM</code>
+    <DestinationName>Castres</DestinationName>
+    <DestinationStr>Castres(DCM)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NCP</code>
+    <DestinationName>Cubi Pt NAS</DestinationName>
+    <DestinationStr>Cubi Pt NAS(NCP)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CTC</code>
+    <DestinationName>Choya Arpt</DestinationName>
+    <DestinationStr>Choya Arpt(CTC)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZBR</code>
+    <DestinationName>Chah Bahar</DestinationName>
+    <DestinationStr>Chah Bahar(ZBR)-Iran</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CCC</code>
+    <DestinationName>Jardines Del Rey Arpt</DestinationName>
+    <DestinationStr>Jardines Del Rey Arpt(CCC)-Cuba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CDC</code>
+    <DestinationName>Cedar City Municipal</DestinationName>
+    <DestinationStr>Cedar City Municipal(CDC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CID</code>
+    <DestinationName>Cedar Rapids Municipal Arpt</DestinationName>
+    <DestinationStr>Cedar Rapids Municipal Arpt(CID)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CKY</code>
+    <DestinationName>Conakry</DestinationName>
+    <DestinationStr>Conakry(CKY)-Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CLG</code>
+    <DestinationName>Coalinga Arpt</DestinationName>
+    <DestinationStr>Coalinga Arpt(CLG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CUU</code>
+    <DestinationName>Chihuahua Airport</DestinationName>
+    <DestinationStr>Chihuahua Airport(CUU)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CZA</code>
+    <DestinationName>Chichen Itza</DestinationName>
+    <DestinationStr>Chichen Itza(CZA)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OTT</code>
+    <DestinationName>Cotriguacu</DestinationName>
+    <DestinationStr>Cotriguacu(OTT)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WEX</code>
+    <DestinationName>Castlebridge Arpt</DestinationName>
+    <DestinationStr>Castlebridge Arpt(WEX)-Ireland, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XCO</code>
+    <DestinationName>Colac</DestinationName>
+    <DestinationStr>Colac(XCO)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CBB</code>
+    <DestinationName>Jorge Wilsterman Intl</DestinationName>
+    <DestinationStr>Jorge Wilsterman Intl(CBB)-Bolivia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CMR</code>
+    <DestinationName>Colmar Houssen Arpt</DestinationName>
+    <DestinationStr>Colmar Houssen Arpt(CMR)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CUZ</code>
+    <DestinationName>A Velasco Astete Intl</DestinationName>
+    <DestinationStr>A Velasco Astete Intl(CUZ)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SIN</code>
+    <DestinationName>Changi Intl Arpt</DestinationName>
+    <DestinationStr>Changi Intl Arpt(SIN)-Singapore</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CBG</code>
+    <DestinationName>Cambridge</DestinationName>
+    <DestinationStr>Cambridge(CBG)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CNH</code>
+    <DestinationName>Claremont Municipal</DestinationName>
+    <DestinationStr>Claremont Municipal(CNH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CJJ</code>
+    <DestinationName>Cheongju</DestinationName>
+    <DestinationStr>Cheongju(CJJ)-Korea, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CUW</code>
+    <DestinationName>Cube Cove Arpt</DestinationName>
+    <DestinationStr>Cube Cove Arpt(CUW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XCD</code>
+    <DestinationName>Chalon Sur Saone</DestinationName>
+    <DestinationStr>Chalon Sur Saone(XCD)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CGA</code>
+    <DestinationName>Craig Seaplane Base</DestinationName>
+    <DestinationStr>Craig Seaplane Base(CGA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QEI</code>
+    <DestinationName>Crailsheim</DestinationName>
+    <DestinationStr>Crailsheim(QEI)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZOS</code>
+    <DestinationName>Canal Balo Arpt</DestinationName>
+    <DestinationStr>Canal Balo Arpt(ZOS)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CBA</code>
+    <DestinationName>Corner Bay</DestinationName>
+    <DestinationStr>Corner Bay(CBA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CES</code>
+    <DestinationName>Cessnock</DestinationName>
+    <DestinationStr>Cessnock(CES)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CPD</code>
+    <DestinationName>Coober Pedy Arpt</DestinationName>
+    <DestinationStr>Coober Pedy Arpt(CPD)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CZF</code>
+    <DestinationName>Cape Romanzof</DestinationName>
+    <DestinationStr>Cape Romanzof(CZF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PGD</code>
+    <DestinationName>Charlotte County</DestinationName>
+    <DestinationStr>Charlotte County(PGD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PYH</code>
+    <DestinationName>Cacique Aramare Arpt</DestinationName>
+    <DestinationStr>Cacique Aramare Arpt(PYH)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XCW</code>
+    <DestinationName>Chaumont</DestinationName>
+    <DestinationStr>Chaumont(XCW)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YBL</code>
+    <DestinationName>Campbell River</DestinationName>
+    <DestinationStr>Campbell River(YBL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>COC</code>
+    <DestinationName>Comodoro Pierrestegui Arpt</DestinationName>
+    <DestinationStr>Comodoro Pierrestegui Arpt(COC)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>COS</code>
+    <DestinationName>Colorado Springs Municipal Arpt</DestinationName>
+    <DestinationStr>Colorado Springs Municipal Arpt(COS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CPC</code>
+    <DestinationName>Chapelco</DestinationName>
+    <DestinationStr>Chapelco(CPC)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CPT</code>
+    <DestinationName>Cape Town</DestinationName>
+    <DestinationStr>Cape Town(CPT)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CCJ</code>
+    <DestinationName>CALICUT</DestinationName>
+    <DestinationStr>CALICUT(CCJ)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CIF</code>
+    <DestinationName>Yulong Arpt</DestinationName>
+    <DestinationStr>Yulong Arpt(CIF)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CRC</code>
+    <DestinationName>Santa Ana Arpt</DestinationName>
+    <DestinationStr>Santa Ana Arpt(CRC)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KCL</code>
+    <DestinationName>Chignik Lagoon</DestinationName>
+    <DestinationStr>Chignik Lagoon(KCL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AXA</code>
+    <DestinationName>Clayton J Lloyd International</DestinationName>
+    <DestinationStr>Clayton J Lloyd International(AXA)-Anguilla</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CNY</code>
+    <DestinationName>Moab Municipal</DestinationName>
+    <DestinationStr>Moab Municipal(CNY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CVU</code>
+    <DestinationName>Corvo Island</DestinationName>
+    <DestinationStr>Corvo Island(CVU)-Portugal</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>YCL</code>
+    <DestinationName>Charlo Municipal Arpt</DestinationName>
+    <DestinationStr>Charlo Municipal Arpt(YCL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CDJ</code>
+    <DestinationName>Conceicao Do Araguaia</DestinationName>
+    <DestinationStr>Conceicao Do Araguaia(CDJ)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ENL</code>
+    <DestinationName>Centralia Municipal Arpt</DestinationName>
+    <DestinationStr>Centralia Municipal Arpt(ENL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LOZ</code>
+    <DestinationName>Corbin London Arpt</DestinationName>
+    <DestinationStr>Corbin London Arpt(LOZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CCP</code>
+    <DestinationName>Carriel Sur Arpt</DestinationName>
+    <DestinationStr>Carriel Sur Arpt(CCP)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CPH</code>
+    <DestinationName>Copenhagen Arpt</DestinationName>
+    <DestinationStr>Copenhagen Arpt(CPH)-Denmark</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CVQ</code>
+    <DestinationName>Carnarvon Arpt</DestinationName>
+    <DestinationStr>Carnarvon Arpt(CVQ)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QFC</code>
+    <DestinationName>Creteil</DestinationName>
+    <DestinationStr>Creteil(QFC)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CBG</code>
+    <DestinationName>Cambridge Arpt</DestinationName>
+    <DestinationStr>Cambridge Arpt(CBG)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CCF</code>
+    <DestinationName>Salvaza</DestinationName>
+    <DestinationStr>Salvaza(CCF)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CEI</code>
+    <DestinationName>Chiang Rai</DestinationName>
+    <DestinationStr>Chiang Rai(CEI)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CPR</code>
+    <DestinationName>Casper</DestinationName>
+    <DestinationStr>Casper(CPR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ESM</code>
+    <DestinationName>C Concha Torres Intl</DestinationName>
+    <DestinationStr>C Concha Torres Intl(ESM)-Ecuador</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MMC</code>
+    <DestinationName>Ciudad Mante Arpt</DestinationName>
+    <DestinationStr>Ciudad Mante Arpt(MMC)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UBS</code>
+    <DestinationName>Columbus</DestinationName>
+    <DestinationStr>Columbus(UBS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CCT</code>
+    <DestinationName>Colonial Catriel</DestinationName>
+    <DestinationStr>Colonial Catriel(CCT)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LUK</code>
+    <DestinationName>Cincinnati Municipal Arpt</DestinationName>
+    <DestinationStr>Cincinnati Municipal Arpt(LUK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WWD</code>
+    <DestinationName>Cape May</DestinationName>
+    <DestinationStr>Cape May(WWD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAZ</code>
+    <DestinationName>Cobar Arpt</DestinationName>
+    <DestinationStr>Cobar Arpt(CAZ)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CGS</code>
+    <DestinationName>College Park</DestinationName>
+    <DestinationStr>College Park(CGS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>COK</code>
+    <DestinationName>COCHIN</DestinationName>
+    <DestinationStr>COCHIN(COK)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CXP</code>
+    <DestinationName>Cilacap</DestinationName>
+    <DestinationStr>Cilacap(CXP)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RHE</code>
+    <DestinationName>Champagne Arpt</DestinationName>
+    <DestinationStr>Champagne Arpt(RHE)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CCS</code>
+    <DestinationName>Simon Bolivar  Intl</DestinationName>
+    <DestinationStr>Simon Bolivar  Intl(CCS)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CIL</code>
+    <DestinationName>Council</DestinationName>
+    <DestinationStr>Council(CIL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CLQ</code>
+    <DestinationName>Colima Miguel De La Madrid Arpt</DestinationName>
+    <DestinationStr>Colima Miguel De La Madrid Arpt(CLQ)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CMQ</code>
+    <DestinationName>Clermont</DestinationName>
+    <DestinationStr>Clermont(CMQ)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CHQ</code>
+    <DestinationName>Souda Arpt</DestinationName>
+    <DestinationStr>Souda Arpt(CHQ)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CJB</code>
+    <DestinationName>Peelamedu Airport</DestinationName>
+    <DestinationStr>Peelamedu Airport(CJB)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CTW</code>
+    <DestinationName>Cottonwood Airport</DestinationName>
+    <DestinationStr>Cottonwood Airport(CTW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QTJ</code>
+    <DestinationName>Chartres</DestinationName>
+    <DestinationStr>Chartres(QTJ)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHG</code>
+    <DestinationName>Charlottetown</DestinationName>
+    <DestinationStr>Charlottetown(YHG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CEK</code>
+    <DestinationName>Chelyabinsk Arpt</DestinationName>
+    <DestinationStr>Chelyabinsk Arpt(CEK)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CJU</code>
+    <DestinationName>Jeju City</DestinationName>
+    <DestinationStr>Jeju City(CJU)-Korea, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FKL</code>
+    <DestinationName>Chess Lamberton Arpt</DestinationName>
+    <DestinationStr>Chess Lamberton Arpt(FKL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TZM</code>
+    <DestinationName>Cupul Airport</DestinationName>
+    <DestinationStr>Cupul Airport(TZM)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CEX</code>
+    <DestinationName>Chena Hot Springs Arpt</DestinationName>
+    <DestinationStr>Chena Hot Springs Arpt(CEX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CHC</code>
+    <DestinationName>Christchurch</DestinationName>
+    <DestinationStr>Christchurch(CHC)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CIC</code>
+    <DestinationName>Chico Municipal Arpt</DestinationName>
+    <DestinationStr>Chico Municipal Arpt(CIC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>COR</code>
+    <DestinationName>Pajas Blanco Arpt</DestinationName>
+    <DestinationStr>Pajas Blanco Arpt(COR)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LOH</code>
+    <DestinationName>Catamayo Arpt</DestinationName>
+    <DestinationStr>Catamayo Arpt(LOH)-Ecuador</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VCA</code>
+    <DestinationName>Can Tho</DestinationName>
+    <DestinationStr>Can Tho(VCA)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CYR</code>
+    <DestinationName>Colonia</DestinationName>
+    <DestinationStr>Colonia(CYR)-Uruguay</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZDR</code>
+    <DestinationName>Chateau D Oex</DestinationName>
+    <DestinationStr>Chateau D Oex(ZDR)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAE</code>
+    <DestinationName>Columbia Metro Arpt</DestinationName>
+    <DestinationStr>Columbia Metro Arpt(CAE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CBE</code>
+    <DestinationName>Cumberland</DestinationName>
+    <DestinationStr>Cumberland(CBE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CMA</code>
+    <DestinationName>Cunnamulla Arpt</DestinationName>
+    <DestinationStr>Cunnamulla Arpt(CMA)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CMP</code>
+    <DestinationName>Campo Alegre</DestinationName>
+    <DestinationStr>Campo Alegre(CMP)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CSS</code>
+    <DestinationName>Cassilandia</DestinationName>
+    <DestinationStr>Cassilandia(CSS)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCL</code>
+    <DestinationName>Charlo</DestinationName>
+    <DestinationStr>Charlo(YCL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>COC</code>
+    <DestinationName>Concordia</DestinationName>
+    <DestinationStr>Concordia(COC)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QFU</code>
+    <DestinationName>Corralejo</DestinationName>
+    <DestinationStr>Corralejo(QFU)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ANF</code>
+    <DestinationName>Cerro Moreno Arpt</DestinationName>
+    <DestinationStr>Cerro Moreno Arpt(ANF)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CFU</code>
+    <DestinationName>Corfu</DestinationName>
+    <DestinationStr>Corfu(CFU)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CLG</code>
+    <DestinationName>Coalinga</DestinationName>
+    <DestinationStr>Coalinga(CLG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CNA</code>
+    <DestinationName>Cananea</DestinationName>
+    <DestinationStr>Cananea(CNA)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CRV</code>
+    <DestinationName>Crotone</DestinationName>
+    <DestinationStr>Crotone(CRV)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CYO</code>
+    <DestinationName>Vilo Acuna International</DestinationName>
+    <DestinationStr>Vilo Acuna International(CYO)-Cuba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KIV</code>
+    <DestinationName>Chisinau Arpt</DestinationName>
+    <DestinationStr>Chisinau Arpt(KIV)-Moldova</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VHN</code>
+    <DestinationName>Culberson Cty Arpt</DestinationName>
+    <DestinationStr>Culberson Cty Arpt(VHN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YRF</code>
+    <DestinationName>Cartwright Arpt</DestinationName>
+    <DestinationStr>Cartwright Arpt(YRF)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>CAU</code>
+    <DestinationName>Caruaru Arpt</DestinationName>
+    <DestinationStr>Caruaru Arpt(CAU)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>COP</code>
+    <DestinationName>Cooperstown</DestinationName>
+    <DestinationStr>Cooperstown(COP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CRD</code>
+    <DestinationName>General E Mosconi Arpt</DestinationName>
+    <DestinationStr>General E Mosconi Arpt(CRD)-Argentina</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>CMC</code>
+    <DestinationName>Camocim</DestinationName>
+    <DestinationStr>Camocim(CMC)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CNM</code>
+    <DestinationName>Carlsbad</DestinationName>
+    <DestinationStr>Carlsbad(CNM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>COK</code>
+    <DestinationName>Cochin Internation Arpt</DestinationName>
+    <DestinationStr>Cochin Internation Arpt(COK)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CST</code>
+    <DestinationName>Castaway</DestinationName>
+    <DestinationStr>Castaway(CST)-Fiji Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CSX</code>
+    <DestinationName>Changsha</DestinationName>
+    <DestinationStr>Changsha(CSX)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CWT</code>
+    <DestinationName>Cowra Arpt</DestinationName>
+    <DestinationStr>Cowra Arpt(CWT)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DNZ</code>
+    <DestinationName>Cardak Arpt</DestinationName>
+    <DestinationStr>Cardak Arpt(DNZ)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CFT</code>
+    <DestinationName>Clifton</DestinationName>
+    <DestinationStr>Clifton(CFT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MVD</code>
+    <DestinationName>Carrasco Arpt</DestinationName>
+    <DestinationStr>Carrasco Arpt(MVD)-Uruguay</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZCM</code>
+    <DestinationName>Castrop Rauxel</DestinationName>
+    <DestinationStr>Castrop Rauxel(ZCM)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CCK</code>
+    <DestinationName>Cocos Islands Arpt</DestinationName>
+    <DestinationStr>Cocos Islands Arpt(CCK)-Cocos Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CFU</code>
+    <DestinationName>I Kapodistrias Arpt</DestinationName>
+    <DestinationStr>I Kapodistrias Arpt(CFU)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CVO</code>
+    <DestinationName>Corvallis</DestinationName>
+    <DestinationStr>Corvallis(CVO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ADJ</code>
+    <DestinationName>Civil Marka Arpt</DestinationName>
+    <DestinationStr>Civil Marka Arpt(ADJ)-Jordan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CID</code>
+    <DestinationName>Cedar Rapids</DestinationName>
+    <DestinationStr>Cedar Rapids(CID)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CYP</code>
+    <DestinationName>Calbayog</DestinationName>
+    <DestinationStr>Calbayog(CYP)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XHS</code>
+    <DestinationName>Chemainus</DestinationName>
+    <DestinationStr>Chemainus(XHS)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAY</code>
+    <DestinationName>French Guiana</DestinationName>
+    <DestinationStr>French Guiana(CAY)-French Guiana</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CCD</code>
+    <DestinationName>Century City</DestinationName>
+    <DestinationStr>Century City(CCD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CRA</code>
+    <DestinationName>Craiova</DestinationName>
+    <DestinationStr>Craiova(CRA)-Romania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CXJ</code>
+    <DestinationName>Campo Dos Bugres Arpt</DestinationName>
+    <DestinationStr>Campo Dos Bugres Arpt(CXJ)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IRC</code>
+    <DestinationName>Circle</DestinationName>
+    <DestinationStr>Circle(IRC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PVZ</code>
+    <DestinationName>Casement Arpt</DestinationName>
+    <DestinationStr>Casement Arpt(PVZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CEK</code>
+    <DestinationName>Chelyabinsk</DestinationName>
+    <DestinationStr>Chelyabinsk(CEK)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CNR</code>
+    <DestinationName>Chanaral</DestinationName>
+    <DestinationStr>Chanaral(CNR)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CWT</code>
+    <DestinationName>Cowra</DestinationName>
+    <DestinationStr>Cowra(CWT)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CYT</code>
+    <DestinationName>Cape Yakataga Arpt</DestinationName>
+    <DestinationStr>Cape Yakataga Arpt(CYT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IRJ</code>
+    <DestinationName>Captain V A Almonacid Arpt</DestinationName>
+    <DestinationStr>Captain V A Almonacid Arpt(IRJ)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CEB</code>
+    <DestinationName>Cebu Intl</DestinationName>
+    <DestinationStr>Cebu Intl(CEB)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CFK</code>
+    <DestinationName>Chlef</DestinationName>
+    <DestinationStr>Chlef(CFK)-Algeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CPX</code>
+    <DestinationName>Benjamin Rivera Noriega Arpt</DestinationName>
+    <DestinationStr>Benjamin Rivera Noriega Arpt(CPX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CUM</code>
+    <DestinationName>Antonio Jose De Sucre</DestinationName>
+    <DestinationStr>Antonio Jose De Sucre(CUM)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CDR</code>
+    <DestinationName>Chadron</DestinationName>
+    <DestinationStr>Chadron(CDR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CLE</code>
+    <DestinationName>Hopkins Intl Arpt</DestinationName>
+    <DestinationStr>Hopkins Intl Arpt(CLE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CSF</code>
+    <DestinationName>Creil</DestinationName>
+    <DestinationStr>Creil(CSF)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HTA</code>
+    <DestinationName>Chita Arpt</DestinationName>
+    <DestinationStr>Chita Arpt(HTA)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CBN</code>
+    <DestinationName>Cirebon</DestinationName>
+    <DestinationStr>Cirebon(CBN)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CIY</code>
+    <DestinationName>Comiso</DestinationName>
+    <DestinationStr>Comiso(CIY)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CMI</code>
+    <DestinationName>Champaign</DestinationName>
+    <DestinationStr>Champaign(CMI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MAA</code>
+    <DestinationName>Chennai</DestinationName>
+    <DestinationStr>Chennai(MAA)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QTL</code>
+    <DestinationName>Caratinga</DestinationName>
+    <DestinationStr>Caratinga(QTL)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHG</code>
+    <DestinationName>Charlottetown Municipal Arpt</DestinationName>
+    <DestinationStr>Charlottetown Municipal Arpt(YHG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYG</code>
+    <DestinationName>Charlottetown</DestinationName>
+    <DestinationStr>Charlottetown(YYG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CZH</code>
+    <DestinationName>Corozal</DestinationName>
+    <DestinationStr>Corozal(CZH)-Belize</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KCG</code>
+    <DestinationName>Chignik</DestinationName>
+    <DestinationStr>Chignik(KCG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WUZ</code>
+    <DestinationName>Changzhoudao Airport</DestinationName>
+    <DestinationStr>Changzhoudao Airport(WUZ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XCX</code>
+    <DestinationName>Chatellerault</DestinationName>
+    <DestinationStr>Chatellerault(XCX)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXC</code>
+    <DestinationName>Cranbrook Municipal</DestinationName>
+    <DestinationStr>Cranbrook Municipal(YXC)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CCX</code>
+    <DestinationName>Caceres</DestinationName>
+    <DestinationStr>Caceres(CCX)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CMD</code>
+    <DestinationName>Cootamundra</DestinationName>
+    <DestinationStr>Cootamundra(CMD)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>COE</code>
+    <DestinationName>Coeur d Alene Municipal Arpt</DestinationName>
+    <DestinationStr>Coeur d Alene Municipal Arpt(COE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IXU</code>
+    <DestinationName>Chikkalthana Arpt</DestinationName>
+    <DestinationStr>Chikkalthana Arpt(IXU)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AGT</code>
+    <DestinationName>Ciudad Del Este</DestinationName>
+    <DestinationStr>Ciudad Del Este(AGT)-Paraguay</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CCM</code>
+    <DestinationName>Criciuma Arpt</DestinationName>
+    <DestinationStr>Criciuma Arpt(CCM)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CEN</code>
+    <DestinationName>Ciudad Obregon</DestinationName>
+    <DestinationStr>Ciudad Obregon(CEN)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CJB</code>
+    <DestinationName>Coimbatore</DestinationName>
+    <DestinationStr>Coimbatore(CJB)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CLM</code>
+    <DestinationName>William Fairchild Intl Arpt</DestinationName>
+    <DestinationStr>William Fairchild Intl Arpt(CLM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CNB</code>
+    <DestinationName>Coonamble Arpt</DestinationName>
+    <DestinationStr>Coonamble Arpt(CNB)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CNS</code>
+    <DestinationName>Cairns Airport</DestinationName>
+    <DestinationStr>Cairns Airport(CNS)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CXL</code>
+    <DestinationName>Calexico Intl Arpt</DestinationName>
+    <DestinationStr>Calexico Intl Arpt(CXL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XAP</code>
+    <DestinationName>Chapeco</DestinationName>
+    <DestinationStr>Chapeco(XAP)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YMT</code>
+    <DestinationName>Chibougamau</DestinationName>
+    <DestinationStr>Chibougamau(YMT)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAK</code>
+    <DestinationName>Akron Canton Regional Arpt</DestinationName>
+    <DestinationStr>Akron Canton Regional Arpt(CAK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CBO</code>
+    <DestinationName>Awang Arpt</DestinationName>
+    <DestinationStr>Awang Arpt(CBO)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>COO</code>
+    <DestinationName>Cotonou</DestinationName>
+    <DestinationStr>Cotonou(COO)-Benin</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CTS</code>
+    <DestinationName>Chitose Arpt</DestinationName>
+    <DestinationStr>Chitose Arpt(CTS)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CZM</code>
+    <DestinationName>Cozumel International Arpt</DestinationName>
+    <DestinationStr>Cozumel International Arpt(CZM)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQQ</code>
+    <DestinationName>Comox</DestinationName>
+    <DestinationStr>Comox(YQQ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CIY</code>
+    <DestinationName>Comiso Arpt</DestinationName>
+    <DestinationStr>Comiso Arpt(CIY)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CWC</code>
+    <DestinationName>Chernovtsy</DestinationName>
+    <DestinationStr>Chernovtsy(CWC)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WWD</code>
+    <DestinationName>Cape May Arpt</DestinationName>
+    <DestinationStr>Cape May Arpt(WWD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZSA</code>
+    <DestinationName>Cockburn Town Arpt</DestinationName>
+    <DestinationStr>Cockburn Town Arpt(ZSA)-Bahamas</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CNE</code>
+    <DestinationName>Canon City Arpt</DestinationName>
+    <DestinationStr>Canon City Arpt(CNE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYC</code>
+    <DestinationName>Calgary</DestinationName>
+    <DestinationStr>Calgary(YYC)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CBL</code>
+    <DestinationName>Tomas De Heres Arpt</DestinationName>
+    <DestinationStr>Tomas De Heres Arpt(CBL)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CFT</code>
+    <DestinationName>Clifton Arpt</DestinationName>
+    <DestinationStr>Clifton Arpt(CFT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CEI</code>
+    <DestinationName>Chaing Rai Arpt</DestinationName>
+    <DestinationStr>Chaing Rai Arpt(CEI)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>COO</code>
+    <DestinationName>Cotonou Airport</DestinationName>
+    <DestinationStr>Cotonou Airport(COO)-Benin</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KAH</code>
+    <DestinationName>City Heliport</DestinationName>
+    <DestinationStr>City Heliport(KAH)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CEN</code>
+    <DestinationName>Ciudad Obregon International Arpt</DestinationName>
+    <DestinationStr>Ciudad Obregon International Arpt(CEN)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CUD</code>
+    <DestinationName>Caloundra</DestinationName>
+    <DestinationStr>Caloundra(CUD)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NGP</code>
+    <DestinationName>Corpus Christi Naval Air Station</DestinationName>
+    <DestinationStr>Corpus Christi Naval Air Station(NGP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PRJ</code>
+    <DestinationName>Capri</DestinationName>
+    <DestinationStr>Capri(PRJ)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TUN</code>
+    <DestinationName>Carthage Arpt</DestinationName>
+    <DestinationStr>Carthage Arpt(TUN)-Tunisia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CBP</code>
+    <DestinationName>Coimbra Arpt</DestinationName>
+    <DestinationStr>Coimbra Arpt(CBP)-Portugal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CIJ</code>
+    <DestinationName>Cobija</DestinationName>
+    <DestinationStr>Cobija(CIJ)-Bolivia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CKG</code>
+    <DestinationName>Chongqing</DestinationName>
+    <DestinationStr>Chongqing(CKG)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QIU</code>
+    <DestinationName>Ciudadela</DestinationName>
+    <DestinationStr>Ciudadela(QIU)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VCL</code>
+    <DestinationName>Chulai Arpt</DestinationName>
+    <DestinationStr>Chulai Arpt(VCL)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CEU</code>
+    <DestinationName>Clemson</DestinationName>
+    <DestinationStr>Clemson(CEU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CEY</code>
+    <DestinationName>Calloway Cty Arpt</DestinationName>
+    <DestinationStr>Calloway Cty Arpt(CEY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CMU</code>
+    <DestinationName>Kundiawa</DestinationName>
+    <DestinationStr>Kundiawa(CMU)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CPD</code>
+    <DestinationName>Coober Pedy</DestinationName>
+    <DestinationStr>Coober Pedy(CPD)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CWW</code>
+    <DestinationName>Corowa</DestinationName>
+    <DestinationStr>Corowa(CWW)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CZC</code>
+    <DestinationName>Copper Center</DestinationName>
+    <DestinationStr>Copper Center(CZC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JCC</code>
+    <DestinationName>China Basin Hlpt</DestinationName>
+    <DestinationStr>China Basin Hlpt(JCC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JKH</code>
+    <DestinationName>Chios Arpt</DestinationName>
+    <DestinationStr>Chios Arpt(JKH)-Greece</DestinationStr>
+  </Destination>   
+  <Destination>
+    <code>COG</code>
+    <DestinationName>Condoto</DestinationName>
+    <DestinationStr>Condoto(COG)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CRT</code>
+    <DestinationName>Crossett Arpt</DestinationName>
+    <DestinationStr>Crossett Arpt(CRT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CWI</code>
+    <DestinationName>Clinton Municipal</DestinationName>
+    <DestinationStr>Clinton Municipal(CWI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CBK</code>
+    <DestinationName>Colby Municipal Arpt</DestinationName>
+    <DestinationStr>Colby Municipal Arpt(CBK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CCW</code>
+    <DestinationName>Cowell</DestinationName>
+    <DestinationStr>Cowell(CCW)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CKS</code>
+    <DestinationName>Carajas</DestinationName>
+    <DestinationStr>Carajas(CKS)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DIL</code>
+    <DestinationName>Comoro Arpt</DestinationName>
+    <DestinationStr>Comoro Arpt(DIL)-Timor Leste</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CJN</code>
+    <DestinationName>El Cajon Arpt</DestinationName>
+    <DestinationStr>El Cajon Arpt(CJN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>COA</code>
+    <DestinationName>Columbia Arpt</DestinationName>
+    <DestinationStr>Columbia Arpt(COA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KCN</code>
+    <DestinationName>Chernofski</DestinationName>
+    <DestinationStr>Chernofski(KCN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QCK</code>
+    <DestinationName>Cabo Frio Br</DestinationName>
+    <DestinationStr>Cabo Frio Br(QCK)-Brazil</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>YXC</code>
+    <DestinationName>Cranbrook</DestinationName>
+    <DestinationStr>Cranbrook(YXC)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CBD</code>
+    <DestinationName>Car Nicobar</DestinationName>
+    <DestinationStr>Car Nicobar(CBD)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CIK</code>
+    <DestinationName>Chalkyitsik</DestinationName>
+    <DestinationStr>Chalkyitsik(CIK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CIW</code>
+    <DestinationName>Canouan Island</DestinationName>
+    <DestinationStr>Canouan Island(CIW)-Dominica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CZX</code>
+    <DestinationName>Changzhou Airport</DestinationName>
+    <DestinationStr>Changzhou Airport(CZX)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LQP</code>
+    <DestinationName>Chenzhou</DestinationName>
+    <DestinationStr>Chenzhou(LQP)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCC</code>
+    <DestinationName>Cornwall</DestinationName>
+    <DestinationStr>Cornwall(YCC)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CDH</code>
+    <DestinationName>Harrell Fieldsandro Arpt</DestinationName>
+    <DestinationStr>Harrell Fieldsandro Arpt(CDH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CGH</code>
+    <DestinationName>Congonhas Arpt</DestinationName>
+    <DestinationStr>Congonhas Arpt(CGH)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CMB</code>
+    <DestinationName>Sri Lanka</DestinationName>
+    <DestinationStr>Sri Lanka(CMB)-Sri Lanka</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TRU</code>
+    <DestinationName>C Martinez de Pinillos Arpt</DestinationName>
+    <DestinationStr>C Martinez de Pinillos Arpt(TRU)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VCA</code>
+    <DestinationName>Can Tho Arpt</DestinationName>
+    <DestinationStr>Can Tho Arpt(VCA)-Vietnam</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>CDD</code>
+    <DestinationName>Cauquira Arpt</DestinationName>
+    <DestinationStr>Cauquira Arpt(CDD)-Honduras</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CJU</code>
+    <DestinationName>Jeju Intl Arpt</DestinationName>
+    <DestinationStr>Jeju Intl Arpt(CJU)-Korea, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>COR</code>
+    <DestinationName>Cordoba</DestinationName>
+    <DestinationStr>Cordoba(COR)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CSP</code>
+    <DestinationName>Cape Spencer</DestinationName>
+    <DestinationStr>Cape Spencer(CSP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VHY</code>
+    <DestinationName>Charmeil Arpt</DestinationName>
+    <DestinationStr>Charmeil Arpt(VHY)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YLD</code>
+    <DestinationName>Chapleau</DestinationName>
+    <DestinationStr>Chapleau(YLD)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BYM</code>
+    <DestinationName>Carlos M De Cespedes Arpt</DestinationName>
+    <DestinationStr>Carlos M De Cespedes Arpt(BYM)-Cuba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CCA</code>
+    <DestinationName>Fort Chaffee</DestinationName>
+    <DestinationStr>Fort Chaffee(CCA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CED</code>
+    <DestinationName>Ceduna</DestinationName>
+    <DestinationStr>Ceduna(CED)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CTG</code>
+    <DestinationName>Rafael Nunez Arpt</DestinationName>
+    <DestinationStr>Rafael Nunez Arpt(CTG)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XAW</code>
+    <DestinationName>Capreol</DestinationName>
+    <DestinationStr>Capreol(XAW)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CBW</code>
+    <DestinationName>Campo Mourao</DestinationName>
+    <DestinationStr>Campo Mourao(CBW)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CEZ</code>
+    <DestinationName>Cortez</DestinationName>
+    <DestinationStr>Cortez(CEZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CNW</code>
+    <DestinationName>James Connall Arpt</DestinationName>
+    <DestinationStr>James Connall Arpt(CNW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>COI</code>
+    <DestinationName>Cocoa</DestinationName>
+    <DestinationStr>Cocoa(COI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CUQ</code>
+    <DestinationName>Coen Arpt</DestinationName>
+    <DestinationStr>Coen Arpt(CUQ)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WAL</code>
+    <DestinationName>Chincoteague</DestinationName>
+    <DestinationStr>Chincoteague(WAL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCB</code>
+    <DestinationName>Cambridge Bay Arpt</DestinationName>
+    <DestinationStr>Cambridge Bay Arpt(YCB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYC</code>
+    <DestinationName>Calgary Intl Arpt</DestinationName>
+    <DestinationStr>Calgary Intl Arpt(YYC)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CEI</code>
+    <DestinationName>Mae Fah Luang International</DestinationName>
+    <DestinationStr>Mae Fah Luang International(CEI)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CFE</code>
+    <DestinationName>Clermont  Ferrand</DestinationName>
+    <DestinationStr>Clermont  Ferrand(CFE)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CJN</code>
+    <DestinationName>El Cajon</DestinationName>
+    <DestinationStr>El Cajon(CJN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CPC</code>
+    <DestinationName>Chapelco Arpt</DestinationName>
+    <DestinationStr>Chapelco Arpt(CPC)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OTD</code>
+    <DestinationName>Contadora Island Arpt</DestinationName>
+    <DestinationStr>Contadora Island Arpt(OTD)-Panama</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>STT</code>
+    <DestinationName>Cyril E King Arpt</DestinationName>
+    <DestinationStr>Cyril E King Arpt(STT)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>CDL</code>
+    <DestinationName>Candle</DestinationName>
+    <DestinationStr>Candle(CDL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CRP</code>
+    <DestinationName>Corpus Christi Intl Arpt</DestinationName>
+    <DestinationStr>Corpus Christi Intl Arpt(CRP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FCN</code>
+    <DestinationName>Cuxhaven</DestinationName>
+    <DestinationStr>Cuxhaven(FCN)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CQD</code>
+    <DestinationName>Shahre Kord</DestinationName>
+    <DestinationStr>Shahre Kord(CQD)-Iran</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QCH</code>
+    <DestinationName>Colatina</DestinationName>
+    <DestinationStr>Colatina(QCH)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QCQ</code>
+    <DestinationName>Caraguatatuba</DestinationName>
+    <DestinationStr>Caraguatatuba(QCQ)-Brazil</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>CCM</code>
+    <DestinationName>Criciuma</DestinationName>
+    <DestinationStr>Criciuma(CCM)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CJM</code>
+    <DestinationName>Chumphon Arpt</DestinationName>
+    <DestinationStr>Chumphon Arpt(CJM)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CJU</code>
+    <DestinationName>Cheju Island</DestinationName>
+    <DestinationStr>Cheju Island(CJU)-Korea, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CNB</code>
+    <DestinationName>Coonamble</DestinationName>
+    <DestinationStr>Coonamble(CNB)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CSY</code>
+    <DestinationName>Cheboksary</DestinationName>
+    <DestinationStr>Cheboksary(CSY)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CUS</code>
+    <DestinationName>Columbus</DestinationName>
+    <DestinationStr>Columbus(CUS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CUT</code>
+    <DestinationName>Cutral Co</DestinationName>
+    <DestinationStr>Cutral Co(CUT)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CVL</code>
+    <DestinationName>Cape Vogel</DestinationName>
+    <DestinationStr>Cape Vogel(CVL)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ORK</code>
+    <DestinationName>Cork International Arpt</DestinationName>
+    <DestinationStr>Cork International Arpt(ORK)-Ireland, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TJA</code>
+    <DestinationName>Captain Oriel Lea Plaza Arpt</DestinationName>
+    <DestinationStr>Captain Oriel Lea Plaza Arpt(TJA)-Bolivia</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>YCS</code>
+    <DestinationName>Chesterfield Inlet Arpt</DestinationName>
+    <DestinationStr>Chesterfield Inlet Arpt(YCS)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAI</code>
+    <DestinationName>Cairo Intl Arpt</DestinationName>
+    <DestinationStr>Cairo Intl Arpt(CAI)-Egypt</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAK</code>
+    <DestinationName>Akron</DestinationName>
+    <DestinationStr>Akron(CAK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CBU</code>
+    <DestinationName>Cottbus</DestinationName>
+    <DestinationStr>Cottbus(CBU)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CBX</code>
+    <DestinationName>Condobolin</DestinationName>
+    <DestinationStr>Condobolin(CBX)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VAF</code>
+    <DestinationName>Chabeuil Airport</DestinationName>
+    <DestinationStr>Chabeuil Airport(VAF)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CLE</code>
+    <DestinationName>Cleveland</DestinationName>
+    <DestinationStr>Cleveland(CLE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CLV</code>
+    <DestinationName>Caldas Novas</DestinationName>
+    <DestinationStr>Caldas Novas(CLV)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>COU</code>
+    <DestinationName>Columbia</DestinationName>
+    <DestinationStr>Columbia(COU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CPS</code>
+    <DestinationName>East St Louis</DestinationName>
+    <DestinationStr>East St Louis(CPS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YVA</code>
+    <DestinationName>Comoros</DestinationName>
+    <DestinationStr>Comoros(YVA)-Comoros</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CGB</code>
+    <DestinationName>Cuiaba</DestinationName>
+    <DestinationStr>Cuiaba(CGB)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CHW</code>
+    <DestinationName>Jiuquan Arpt</DestinationName>
+    <DestinationStr>Jiuquan Arpt(CHW)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CWA</code>
+    <DestinationName>Central Wisconsin Arpt</DestinationName>
+    <DestinationStr>Central Wisconsin Arpt(CWA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CBK</code>
+    <DestinationName>Colby</DestinationName>
+    <DestinationStr>Colby(CBK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>COA</code>
+    <DestinationName>Columbia</DestinationName>
+    <DestinationStr>Columbia(COA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>COH</code>
+    <DestinationName>Cooch Behar</DestinationName>
+    <DestinationStr>Cooch Behar(COH)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KME</code>
+    <DestinationName>Cyangugu</DestinationName>
+    <DestinationStr>Cyangugu(KME)-Rwanda</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SXL</code>
+    <DestinationName>Collooney</DestinationName>
+    <DestinationStr>Collooney(SXL)-Ireland, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CEH</code>
+    <DestinationName>Chelinda</DestinationName>
+    <DestinationStr>Chelinda(CEH)-Malawi</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CFB</code>
+    <DestinationName>Cabo Frio Arpt</DestinationName>
+    <DestinationStr>Cabo Frio Arpt(CFB)-Brazil</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>CGE</code>
+    <DestinationName>Cambridge</DestinationName>
+    <DestinationStr>Cambridge(CGE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CGJ</code>
+    <DestinationName>Chingola</DestinationName>
+    <DestinationStr>Chingola(CGJ)-Zambia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CXY</code>
+    <DestinationName>Cat Cay</DestinationName>
+    <DestinationStr>Cat Cay(CXY)-Bahamas</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CZJ</code>
+    <DestinationName>Corazon De Jesus Arpt</DestinationName>
+    <DestinationStr>Corazon De Jesus Arpt(CZJ)-Panama</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CEB</code>
+    <DestinationName>Cebu</DestinationName>
+    <DestinationStr>Cebu(CEB)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CXL</code>
+    <DestinationName>Calexico</DestinationName>
+    <DestinationStr>Calexico(CXL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QNS</code>
+    <DestinationName>Canoas</DestinationName>
+    <DestinationStr>Canoas(QNS)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CPO</code>
+    <DestinationName>Copiapo</DestinationName>
+    <DestinationStr>Copiapo(CPO)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CUE</code>
+    <DestinationName>Cuenca</DestinationName>
+    <DestinationStr>Cuenca(CUE)-Ecuador</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CVM</code>
+    <DestinationName>Ciudad Victoria</DestinationName>
+    <DestinationStr>Ciudad Victoria(CVM)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CWR</code>
+    <DestinationName>Cowarie</DestinationName>
+    <DestinationStr>Cowarie(CWR)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CES</code>
+    <DestinationName>Cessnock Arpt</DestinationName>
+    <DestinationStr>Cessnock Arpt(CES)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CTU</code>
+    <DestinationName>Chengdu Arpt</DestinationName>
+    <DestinationStr>Chengdu Arpt(CTU)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CZZ</code>
+    <DestinationName>Campo Arpt</DestinationName>
+    <DestinationStr>Campo Arpt(CZZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EFL</code>
+    <DestinationName>Cephalonia</DestinationName>
+    <DestinationStr>Cephalonia(EFL)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CGP</code>
+    <DestinationName>Patenga Arpt</DestinationName>
+    <DestinationStr>Patenga Arpt(CGP)-Bangladesh</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CHV</code>
+    <DestinationName>Chaves</DestinationName>
+    <DestinationStr>Chaves(CHV)-Portugal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BGF</code>
+    <DestinationName>Central African Republic</DestinationName>
+    <DestinationStr>Central African Republic(BGF)-Central African Republic</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAZ</code>
+    <DestinationName>Cobar</DestinationName>
+    <DestinationStr>Cobar(CAZ)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TEQ</code>
+    <DestinationName>Corlu Airport</DestinationName>
+    <DestinationStr>Corlu Airport(TEQ)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XCZ</code>
+    <DestinationName>Charleville Mezieres</DestinationName>
+    <DestinationStr>Charleville Mezieres(XCZ)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAR</code>
+    <DestinationName>Caribou Municipal Arpt</DestinationName>
+    <DestinationStr>Caribou Municipal Arpt(CAR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CUR</code>
+    <DestinationName>Curacao</DestinationName>
+    <DestinationStr>Curacao(CUR)-Curacao</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QCN</code>
+    <DestinationName>Canela</DestinationName>
+    <DestinationStr>Canela(QCN)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CFK</code>
+    <DestinationName>Chlef Arpt</DestinationName>
+    <DestinationStr>Chlef Arpt(CFK)-Algeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>COU</code>
+    <DestinationName>Columbia Regional</DestinationName>
+    <DestinationStr>Columbia Regional(COU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SZF</code>
+    <DestinationName>Carsamba Arpt</DestinationName>
+    <DestinationStr>Carsamba Arpt(SZF)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CDI</code>
+    <DestinationName>Cachoeiro De Itapemirim</DestinationName>
+    <DestinationStr>Cachoeiro De Itapemirim(CDI)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CEY</code>
+    <DestinationName>Murray</DestinationName>
+    <DestinationStr>Murray(CEY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CFB</code>
+    <DestinationName>Cabo Frio</DestinationName>
+    <DestinationStr>Cabo Frio(CFB)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CLU</code>
+    <DestinationName>Columbus</DestinationName>
+    <DestinationStr>Columbus(CLU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QOI</code>
+    <DestinationName>Cotia</DestinationName>
+    <DestinationStr>Cotia(QOI)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CFQ</code>
+    <DestinationName>Creston Arpt</DestinationName>
+    <DestinationStr>Creston Arpt(CFQ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CUL</code>
+    <DestinationName>Fed De Bachigualato Arpt</DestinationName>
+    <DestinationStr>Fed De Bachigualato Arpt(CUL)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KCL</code>
+    <DestinationName>Chignik Lagoon Arpt</DestinationName>
+    <DestinationStr>Chignik Lagoon Arpt(KCL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YTE</code>
+    <DestinationName>Cape Dorset</DestinationName>
+    <DestinationStr>Cape Dorset(YTE)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CCU</code>
+    <DestinationName>CALCUTTA</DestinationName>
+    <DestinationStr>CALCUTTA(CCU)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CFC</code>
+    <DestinationName>Cacador Airport</DestinationName>
+    <DestinationStr>Cacador Airport(CFC)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CWB</code>
+    <DestinationName>Afonso Pena Arpt</DestinationName>
+    <DestinationStr>Afonso Pena Arpt(CWB)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CXT</code>
+    <DestinationName>Charters Towers</DestinationName>
+    <DestinationStr>Charters Towers(CXT)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CBE</code>
+    <DestinationName>Cumberland Municipal Arpt</DestinationName>
+    <DestinationStr>Cumberland Municipal Arpt(CBE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CKV</code>
+    <DestinationName>Clarksville</DestinationName>
+    <DestinationStr>Clarksville(CKV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CMA</code>
+    <DestinationName>Cunnamulla</DestinationName>
+    <DestinationStr>Cunnamulla(CMA)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DCN</code>
+    <DestinationName>Curtain Arpt</DestinationName>
+    <DestinationStr>Curtain Arpt(DCN)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CKZ</code>
+    <DestinationName>Canakkale Arpt</DestinationName>
+    <DestinationStr>Canakkale Arpt(CKZ)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CNF</code>
+    <DestinationName>Tancredo Neves Intl Arpt</DestinationName>
+    <DestinationStr>Tancredo Neves Intl Arpt(CNF)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>COE</code>
+    <DestinationName>Coeur D Alene</DestinationName>
+    <DestinationStr>Coeur D Alene(COE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CPQ</code>
+    <DestinationName>Campinas</DestinationName>
+    <DestinationStr>Campinas(CPQ)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CUE</code>
+    <DestinationName>Mariscal Lamar Intl</DestinationName>
+    <DestinationStr>Mariscal Lamar Intl(CUE)-Ecuador</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CXO</code>
+    <DestinationName>Montgomery Co Arpt</DestinationName>
+    <DestinationStr>Montgomery Co Arpt(CXO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BLZ</code>
+    <DestinationName>Chileka Airport</DestinationName>
+    <DestinationStr>Chileka Airport(BLZ)-Malawi</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CEA</code>
+    <DestinationName>Cessna Aircraft Field</DestinationName>
+    <DestinationStr>Cessna Aircraft Field(CEA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CHU</code>
+    <DestinationName>Chuathbaluk Arpt</DestinationName>
+    <DestinationStr>Chuathbaluk Arpt(CHU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CPB</code>
+    <DestinationName>Capurgana</DestinationName>
+    <DestinationStr>Capurgana(CPB)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OTR</code>
+    <DestinationName>Coto 47</DestinationName>
+    <DestinationStr>Coto 47(OTR)-Costa Rica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QKG</code>
+    <DestinationName>Chalkida</DestinationName>
+    <DestinationStr>Chalkida(QKG)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAY</code>
+    <DestinationName>Felix Eboue Airport</DestinationName>
+    <DestinationStr>Felix Eboue Airport(CAY)-French Guiana</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CDZ</code>
+    <DestinationName>Cadiz</DestinationName>
+    <DestinationStr>Cadiz(CDZ)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CIP</code>
+    <DestinationName>Chipata</DestinationName>
+    <DestinationStr>Chipata(CIP)-Zambia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CLY</code>
+    <DestinationName>Calvi</DestinationName>
+    <DestinationStr>Calvi(CLY)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CUQ</code>
+    <DestinationName>Coen</DestinationName>
+    <DestinationStr>Coen(CUQ)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CWL</code>
+    <DestinationName>Cardiff</DestinationName>
+    <DestinationStr>Cardiff(CWL)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAL</code>
+    <DestinationName>Machrihanish Arpt</DestinationName>
+    <DestinationStr>Machrihanish Arpt(CAL)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CTA</code>
+    <DestinationName>Fontanarossa Arpt</DestinationName>
+    <DestinationStr>Fontanarossa Arpt(CTA)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CQM</code>
+    <DestinationName>Ciudad Real Central Arpt</DestinationName>
+    <DestinationStr>Ciudad Real Central Arpt(CQM)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CXJ</code>
+    <DestinationName>Caxias Do Sul</DestinationName>
+    <DestinationStr>Caxias Do Sul(CXJ)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GTR</code>
+    <DestinationName>Columbus Gtr</DestinationName>
+    <DestinationStr>Columbus Gtr(GTR)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>CJS</code>
+    <DestinationName>Ciudad Juarez</DestinationName>
+    <DestinationStr>Ciudad Juarez(CJS)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CKC</code>
+    <DestinationName>Cherkassy Arpt</DestinationName>
+    <DestinationStr>Cherkassy Arpt(CKC)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CTJ</code>
+    <DestinationName>Caserta</DestinationName>
+    <DestinationStr>Caserta(CTJ)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CXC</code>
+    <DestinationName>Chitina Arpt</DestinationName>
+    <DestinationStr>Chitina Arpt(CXC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EAU</code>
+    <DestinationName>Chippewa Valley Regional Arpt</DestinationName>
+    <DestinationStr>Chippewa Valley Regional Arpt(EAU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAI</code>
+    <DestinationName>El Qahira</DestinationName>
+    <DestinationStr>El Qahira(CAI)-Egypt</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CLT</code>
+    <DestinationName>Charlotte Douglas Intl Arpt</DestinationName>
+    <DestinationStr>Charlotte Douglas Intl Arpt(CLT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CVG</code>
+    <DestinationName>Cincinnati</DestinationName>
+    <DestinationStr>Cincinnati(CVG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SEP</code>
+    <DestinationName>Clark Field</DestinationName>
+    <DestinationStr>Clark Field(SEP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WCR</code>
+    <DestinationName>Chandalar Arpt</DestinationName>
+    <DestinationStr>Chandalar Arpt(WCR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XGK</code>
+    <DestinationName>Coteau</DestinationName>
+    <DestinationStr>Coteau(XGK)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAC</code>
+    <DestinationName>Cascavel Arpt</DestinationName>
+    <DestinationStr>Cascavel Arpt(CAC)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CCB</code>
+    <DestinationName>UPLAND</DestinationName>
+    <DestinationStr>UPLAND(CCB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CGN</code>
+    <DestinationName>Koeln Bonn Arpt</DestinationName>
+    <DestinationStr>Koeln Bonn Arpt(CGN)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CHR</code>
+    <DestinationName>Chateauroux</DestinationName>
+    <DestinationStr>Chateauroux(CHR)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>COT</code>
+    <DestinationName>Cotulla</DestinationName>
+    <DestinationStr>Cotulla(COT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YKN</code>
+    <DestinationName>Chan Gurney Municipal</DestinationName>
+    <DestinationStr>Chan Gurney Municipal(YKN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CME</code>
+    <DestinationName>Ciudad Del Carmen</DestinationName>
+    <DestinationStr>Ciudad Del Carmen(CME)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CZU</code>
+    <DestinationName>Corozal</DestinationName>
+    <DestinationStr>Corozal(CZU)-Colombia</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>CCU</code>
+    <DestinationName>Netaji Subhas Chandra Bose Intl</DestinationName>
+    <DestinationStr>Netaji Subhas Chandra Bose Intl(CCU)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CTA</code>
+    <DestinationName>Catania</DestinationName>
+    <DestinationStr>Catania(CTA)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>STI</code>
+    <DestinationName>Cibao International</DestinationName>
+    <DestinationStr>Cibao International(STI)-Dominican Republic</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YRF</code>
+    <DestinationName>Cartwright</DestinationName>
+    <DestinationStr>Cartwright(YRF)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAG</code>
+    <DestinationName>Elmas Airport</DestinationName>
+    <DestinationStr>Elmas Airport(CAG)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CMV</code>
+    <DestinationName>Coromandel</DestinationName>
+    <DestinationStr>Coromandel(CMV)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CPT</code>
+    <DestinationName>Cape Town International</DestinationName>
+    <DestinationStr>Cape Town International(CPT)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CVG</code>
+    <DestinationName>Cincinnati No Kentucky Intl Arpt</DestinationName>
+    <DestinationStr>Cincinnati No Kentucky Intl Arpt(CVG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XCM</code>
+    <DestinationName>Chatham Airport</DestinationName>
+    <DestinationStr>Chatham Airport(XCM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CLR</code>
+    <DestinationName>Calipatria Arpt</DestinationName>
+    <DestinationStr>Calipatria Arpt(CLR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CXH</code>
+    <DestinationName>Coal Harbor Sea Plane Arpt</DestinationName>
+    <DestinationStr>Coal Harbor Sea Plane Arpt(CXH)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JHW</code>
+    <DestinationName>Chautauqua Cty Arpt</DestinationName>
+    <DestinationStr>Chautauqua Cty Arpt(JHW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CET</code>
+    <DestinationName>Cholet</DestinationName>
+    <DestinationStr>Cholet(CET)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CMQ</code>
+    <DestinationName>Clermont Arpt</DestinationName>
+    <DestinationStr>Clermont Arpt(CMQ)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CUF</code>
+    <DestinationName>Levaldigi Arpt</DestinationName>
+    <DestinationStr>Levaldigi Arpt(CUF)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MER</code>
+    <DestinationName>Castle Airfoce Base</DestinationName>
+    <DestinationStr>Castle Airfoce Base(MER)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XCH</code>
+    <DestinationName>Christmas Island Arpt</DestinationName>
+    <DestinationStr>Christmas Island Arpt(XCH)-Christmas Island</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CSV</code>
+    <DestinationName>Crossville Memorial Arpt</DestinationName>
+    <DestinationStr>Crossville Memorial Arpt(CSV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CUZ</code>
+    <DestinationName>Cuzco</DestinationName>
+    <DestinationStr>Cuzco(CUZ)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CYO</code>
+    <DestinationName>Cayo Largo Del Sur</DestinationName>
+    <DestinationStr>Cayo Largo Del Sur(CYO)-Cuba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YTE</code>
+    <DestinationName>Cape Dorset Arpt</DestinationName>
+    <DestinationStr>Cape Dorset Arpt(YTE)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CEG</code>
+    <DestinationName>Chester Arpt</DestinationName>
+    <DestinationStr>Chester Arpt(CEG)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CUB</code>
+    <DestinationName>Columbia Owens Downtown Arpt</DestinationName>
+    <DestinationStr>Columbia Owens Downtown Arpt(CUB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NSF</code>
+    <DestinationName>Camp Springs Andrew Air Force Base</DestinationName>
+    <DestinationStr>Camp Springs Andrew Air Force Base(NSF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SEM</code>
+    <DestinationName>Craig Field</DestinationName>
+    <DestinationStr>Craig Field(SEM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CMX</code>
+    <DestinationName>Houghton</DestinationName>
+    <DestinationStr>Houghton(CMX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CQD</code>
+    <DestinationName>Shahre Kord Arpt</DestinationName>
+    <DestinationStr>Shahre Kord Arpt(CQD)-Iran</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CRK</code>
+    <DestinationName>Angeles Mabalacat</DestinationName>
+    <DestinationStr>Angeles Mabalacat(CRK)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MTT</code>
+    <DestinationName>Coatzacoalcos Arpt</DestinationName>
+    <DestinationStr>Coatzacoalcos Arpt(MTT)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZUM</code>
+    <DestinationName>Churchhill Falls</DestinationName>
+    <DestinationStr>Churchhill Falls(ZUM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CEX</code>
+    <DestinationName>Chena Hot Springs</DestinationName>
+    <DestinationStr>Chena Hot Springs(CEX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CKX</code>
+    <DestinationName>Chicken</DestinationName>
+    <DestinationStr>Chicken(CKX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CHP</code>
+    <DestinationName>Circle Hot Springs Arpt</DestinationName>
+    <DestinationStr>Circle Hot Springs Arpt(CHP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RFD</code>
+    <DestinationName>Chicago Rockford Arpt</DestinationName>
+    <DestinationStr>Chicago Rockford Arpt(RFD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CEQ</code>
+    <DestinationName>Mandelieu Arpt</DestinationName>
+    <DestinationStr>Mandelieu Arpt(CEQ)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CYB</code>
+    <DestinationName>C Kirkconnell International</DestinationName>
+    <DestinationStr>C Kirkconnell International(CYB)-Cayman Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QWL</code>
+    <DestinationName>Crackenback Village</DestinationName>
+    <DestinationStr>Crackenback Village(QWL)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZCQ</code>
+    <DestinationName>Curico</DestinationName>
+    <DestinationStr>Curico(ZCQ)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CCV</code>
+    <DestinationName>Craig Cove</DestinationName>
+    <DestinationStr>Craig Cove(CCV)-Vanuatu</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CZC</code>
+    <DestinationName>Copper Center Arpt</DestinationName>
+    <DestinationStr>Copper Center Arpt(CZC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CBL</code>
+    <DestinationName>Ciudad Bolivar</DestinationName>
+    <DestinationStr>Ciudad Bolivar(CBL)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CFN</code>
+    <DestinationName>Donegal Arpt</DestinationName>
+    <DestinationStr>Donegal Arpt(CFN)-Ireland, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CFU</code>
+    <DestinationName>Kerkyra</DestinationName>
+    <DestinationStr>Kerkyra(CFU)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CKE</code>
+    <DestinationName>Clear Lake Arpt</DestinationName>
+    <DestinationStr>Clear Lake Arpt(CKE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CYF</code>
+    <DestinationName>Chefornak</DestinationName>
+    <DestinationStr>Chefornak(CYF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MAA</code>
+    <DestinationName>Chennai Arpt</DestinationName>
+    <DestinationStr>Chennai Arpt(MAA)-India</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>CGQ</code>
+    <DestinationName>Changchun</DestinationName>
+    <DestinationStr>Changchun(CGQ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>COF</code>
+    <DestinationName>Patrick AFB</DestinationName>
+    <DestinationStr>Patrick AFB(COF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CSM</code>
+    <DestinationName>Clinton</DestinationName>
+    <DestinationStr>Clinton(CSM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CWW</code>
+    <DestinationName>COROWA ARPT</DestinationName>
+    <DestinationStr>COROWA ARPT(CWW)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IGO</code>
+    <DestinationName>Chigoro</DestinationName>
+    <DestinationStr>Chigoro(IGO)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TUP</code>
+    <DestinationName>C D Lemons Municipal Arpt</DestinationName>
+    <DestinationStr>C D Lemons Municipal Arpt(TUP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CLW</code>
+    <DestinationName>Clearwater Executive Airpark</DestinationName>
+    <DestinationStr>Clearwater Executive Airpark(CLW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CPB</code>
+    <DestinationName>Capurgana Arpt</DestinationName>
+    <DestinationStr>Capurgana Arpt(CPB)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CSL</code>
+    <DestinationName>San Luis Obispo</DestinationName>
+    <DestinationStr>San Luis Obispo(CSL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CVT</code>
+    <DestinationName>Coventry</DestinationName>
+    <DestinationStr>Coventry(CVT)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QCE</code>
+    <DestinationName>Copper Mountain</DestinationName>
+    <DestinationStr>Copper Mountain(QCE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CTD</code>
+    <DestinationName>Chitre</DestinationName>
+    <DestinationStr>Chitre(CTD)-Panama</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CYM</code>
+    <DestinationName>Chatham SPB</DestinationName>
+    <DestinationStr>Chatham SPB(CYM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAN</code>
+    <DestinationName>Canton</DestinationName>
+    <DestinationStr>Canton(CAN)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CCE</code>
+    <DestinationName>Grand Case Arpt</DestinationName>
+    <DestinationStr>Grand Case Arpt(CCE)-St Martin</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CUX</code>
+    <DestinationName>Cuddihy Field Arpt</DestinationName>
+    <DestinationStr>Cuddihy Field Arpt(CUX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CYB</code>
+    <DestinationName>Cayman Brac</DestinationName>
+    <DestinationStr>Cayman Brac(CYB)-Cayman Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CNJ</code>
+    <DestinationName>Cloncurry</DestinationName>
+    <DestinationStr>Cloncurry(CNJ)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JCU</code>
+    <DestinationName>Ceuta</DestinationName>
+    <DestinationStr>Ceuta(JCU)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VCS</code>
+    <DestinationName>Coong Arpt</DestinationName>
+    <DestinationStr>Coong Arpt(VCS)-Vietnam</DestinationStr>
+  </Destination>
+</DestinationRoot>

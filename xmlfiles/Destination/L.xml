@@ -1,0 +1,4072 @@
+﻿<DestinationRoot>
+  <Destination>
+    <code>NORESULT</code>
+    <DestinationName>NORESULT</DestinationName>
+    <DestinationStr>No Result Found</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AAE</code>
+    <DestinationName>Les Salines Arpt</DestinationName>
+    <DestinationStr>Les Salines Arpt(AAE)-Algeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ABC</code>
+    <DestinationName>Los Llanos Arpt</DestinationName>
+    <DestinationStr>Los Llanos Arpt(ABC)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ABE</code>
+    <DestinationName>Lehigh Valley Intl Arpt</DestinationName>
+    <DestinationStr>Lehigh Valley Intl Arpt(ABE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ACE</code>
+    <DestinationName>Lanzarote Airport</DestinationName>
+    <DestinationStr>Lanzarote Airport(ACE)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ACE</code>
+    <DestinationName>Lanzarote</DestinationName>
+    <DestinationStr>Lanzarote(ACE)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ADG</code>
+    <DestinationName>Lenawee County Arpt</DestinationName>
+    <DestinationStr>Lenawee County Arpt(ADG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ADX</code>
+    <DestinationName>Leuchars Arpt</DestinationName>
+    <DestinationStr>Leuchars Arpt(ADX)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AGF</code>
+    <DestinationName>La Garenne Arpt</DestinationName>
+    <DestinationStr>La Garenne Arpt(AGF)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AIZ</code>
+    <DestinationName>Lake Of The Ozarks</DestinationName>
+    <DestinationStr>Lake Of The Ozarks(AIZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AIZ</code>
+    <DestinationName>Lee C Fine Memorial</DestinationName>
+    <DestinationStr>Lee C Fine Memorial(AIZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AJL</code>
+    <DestinationName>Lengpui Airport</DestinationName>
+    <DestinationStr>Lengpui Airport(AJL)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ALO</code>
+    <DestinationName>Livingston Betsworth Fld</DestinationName>
+    <DestinationStr>Livingston Betsworth Fld(ALO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ANP</code>
+    <DestinationName>Lee Annapolis Arpt</DestinationName>
+    <DestinationStr>Lee Annapolis Arpt(ANP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AOH</code>
+    <DestinationName>Lima</DestinationName>
+    <DestinationStr>Lima(AOH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BAG</code>
+    <DestinationName>Loakan Arpt</DestinationName>
+    <DestinationStr>Loakan Arpt(BAG)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BDA</code>
+    <DestinationName>LF Wade International</DestinationName>
+    <DestinationStr>LF Wade International(BDA)-Bermuda</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BEY</code>
+    <DestinationName>Lebanon</DestinationName>
+    <DestinationStr>Lebanon(BEY)-Lebanon</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BIL</code>
+    <DestinationName>Logan Field</DestinationName>
+    <DestinationStr>Logan Field(BIL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BJX</code>
+    <DestinationName>Leon</DestinationName>
+    <DestinationStr>Leon(BJX)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BOS</code>
+    <DestinationName>Logan Intl Arpt</DestinationName>
+    <DestinationStr>Logan Intl Arpt(BOS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BQH</code>
+    <DestinationName>London Biggin Hill Arpt</DestinationName>
+    <DestinationStr>London Biggin Hill Arpt(BQH)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BUD</code>
+    <DestinationName>Liszt Ferenc Arpt</DestinationName>
+    <DestinationStr>Liszt Ferenc Arpt(BUD)-Hungary</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BVE</code>
+    <DestinationName>Laroche Airport</DestinationName>
+    <DestinationStr>Laroche Airport(BVE)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BYR</code>
+    <DestinationName>Laeso Airport</DestinationName>
+    <DestinationStr>Laeso Airport(BYR)-Denmark</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BYR</code>
+    <DestinationName>Laeso Island</DestinationName>
+    <DestinationStr>Laeso Island(BYR)-Denmark</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CET</code>
+    <DestinationName>Le Pontreau Arpt</DestinationName>
+    <DestinationStr>Le Pontreau Arpt(CET)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CGY</code>
+    <DestinationName>Lumbia Arpt</DestinationName>
+    <DestinationStr>Lumbia Arpt(CGY)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CRK</code>
+    <DestinationName>Luzon Island</DestinationName>
+    <DestinationStr>Luzon Island(CRK)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CUF</code>
+    <DestinationName>Levaldigi Arpt</DestinationName>
+    <DestinationStr>Levaldigi Arpt(CUF)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CZU</code>
+    <DestinationName>Las Brujas Airport</DestinationName>
+    <DestinationStr>Las Brujas Airport(CZU)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DAL</code>
+    <DestinationName>Love Field</DestinationName>
+    <DestinationStr>Love Field(DAL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DIJ</code>
+    <DestinationName>Longvic Airport</DestinationName>
+    <DestinationStr>Longvic Airport(DIJ)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DIS</code>
+    <DestinationName>Loubomo</DestinationName>
+    <DestinationStr>Loubomo(DIS)-Congo</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DKR</code>
+    <DestinationName>Leopold Sedar Senghor Arpt</DestinationName>
+    <DestinationStr>Leopold Sedar Senghor Arpt(DKR)-Senegal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DLF</code>
+    <DestinationName>Laughlin AFB</DestinationName>
+    <DestinationStr>Laughlin AFB(DLF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DLI</code>
+    <DestinationName>Lienkhang</DestinationName>
+    <DestinationStr>Lienkhang(DLI)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DSD</code>
+    <DestinationName>La Desirade</DestinationName>
+    <DestinationStr>La Desirade(DSD)-Guadeloupe</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EDM</code>
+    <DestinationName>La Roche</DestinationName>
+    <DestinationStr>La Roche(EDM)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EDM</code>
+    <DestinationName>Les Ajoncs Arpt</DestinationName>
+    <DestinationStr>Les Ajoncs Arpt(EDM)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FBM</code>
+    <DestinationName>Luano</DestinationName>
+    <DestinationStr>Luano(FBM)-Congo Democratic Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FBM</code>
+    <DestinationName>Lubumbashi</DestinationName>
+    <DestinationStr>Lubumbashi(FBM)-Congo Democratic Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FCO</code>
+    <DestinationName>Leonardo da Vinci</DestinationName>
+    <DestinationStr>Leonardo da Vinci(FCO)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FNA</code>
+    <DestinationName>Lungi Intl Arpt</DestinationName>
+    <DestinationStr>Lungi Intl Arpt(FNA)-Sierra Leone</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FRL</code>
+    <DestinationName>Luigi Ridolfi Arpt</DestinationName>
+    <DestinationStr>Luigi Ridolfi Arpt(FRL)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GAU</code>
+    <DestinationName>Lokpriya Gopinath Bordoloi Intl Arpt</DestinationName>
+    <DestinationStr>Lokpriya Gopinath Bordoloi Intl Arpt(GAU)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GGG</code>
+    <DestinationName>Longview</DestinationName>
+    <DestinationStr>Longview(GGG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GMO</code>
+    <DestinationName>Lawanti Airport</DestinationName>
+    <DestinationStr>Lawanti Airport(GMO)-Nigeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GMZ</code>
+    <DestinationName>La Gomera Arpt</DestinationName>
+    <DestinationStr>La Gomera Arpt(GMZ)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GOT</code>
+    <DestinationName>Landvetter Arpt</DestinationName>
+    <DestinationStr>Landvetter Arpt(GOT)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GUA</code>
+    <DestinationName>La Aurora Intl Arpt</DestinationName>
+    <DestinationStr>La Aurora Intl Arpt(GUA)-Guatemala</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GVL</code>
+    <DestinationName>Lee Gilmer Memorial Arpt</DestinationName>
+    <DestinationStr>Lee Gilmer Memorial Arpt(GVL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GWO</code>
+    <DestinationName>Leflore Arpt</DestinationName>
+    <DestinationStr>Leflore Arpt(GWO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GYR</code>
+    <DestinationName>Litchfield Goodyear Arpt</DestinationName>
+    <DestinationStr>Litchfield Goodyear Arpt(GYR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HAP</code>
+    <DestinationName>Long Island Arpt</DestinationName>
+    <DestinationStr>Long Island Arpt(HAP)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HAP</code>
+    <DestinationName>Long Island</DestinationName>
+    <DestinationStr>Long Island(HAP)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HAV</code>
+    <DestinationName>La Habana</DestinationName>
+    <DestinationStr>La Habana(HAV)-Cuba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HIA</code>
+    <DestinationName>LIANSHUI</DestinationName>
+    <DestinationStr>LIANSHUI(HIA)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HII</code>
+    <DestinationName>Lake Havasu City Municipal Airport</DestinationName>
+    <DestinationStr>Lake Havasu City Municipal Airport(HII)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HII</code>
+    <DestinationName>Lake Havasu Cty</DestinationName>
+    <DestinationStr>Lake Havasu Cty(HII)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HLA</code>
+    <DestinationName>Lanseria International Arpt</DestinationName>
+    <DestinationStr>Lanseria International Arpt(HLA)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HOB</code>
+    <DestinationName>Lea County Arpt</DestinationName>
+    <DestinationStr>Lea County Arpt(HOB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HRT</code>
+    <DestinationName>Linton On Ouse</DestinationName>
+    <DestinationStr>Linton On Ouse(HRT)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IFP</code>
+    <DestinationName>Laughlin Bullhead Intl Arpt</DestinationName>
+    <DestinationStr>Laughlin Bullhead Intl Arpt(IFP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ILD</code>
+    <DestinationName>Lleida</DestinationName>
+    <DestinationStr>Lleida(ILD)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ING</code>
+    <DestinationName>Lago Argentino</DestinationName>
+    <DestinationStr>Lago Argentino(ING)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IRG</code>
+    <DestinationName>Lockhart River Arpt</DestinationName>
+    <DestinationStr>Lockhart River Arpt(IRG)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IRG</code>
+    <DestinationName>Lockhart</DestinationName>
+    <DestinationStr>Lockhart(IRG)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IRJ</code>
+    <DestinationName>La Rioja</DestinationName>
+    <DestinationStr>La Rioja(IRJ)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ISP</code>
+    <DestinationName>Long Island Macarthur Arpt</DestinationName>
+    <DestinationStr>Long Island Macarthur Arpt(ISP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IXI</code>
+    <DestinationName>Lilabari Arpt</DestinationName>
+    <DestinationStr>Lilabari Arpt(IXI)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IXI</code>
+    <DestinationName>Lilabari</DestinationName>
+    <DestinationStr>Lilabari(IXI)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IXL</code>
+    <DestinationName>Leh IN</DestinationName>
+    <DestinationStr>Leh IN(IXL)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IXL</code>
+    <DestinationName>Leh Kushok Bakula Rimpochee Arpt</DestinationName>
+    <DestinationStr>Leh Kushok Bakula Rimpochee Arpt(IXL)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IXL</code>
+    <DestinationName>LEH</DestinationName>
+    <DestinationStr>LEH(IXL)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JLD</code>
+    <DestinationName>Landskrona Heliport</DestinationName>
+    <DestinationStr>Landskrona Heliport(JLD)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JLD</code>
+    <DestinationName>Landskrona</DestinationName>
+    <DestinationStr>Landskrona(JLD)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KLL</code>
+    <DestinationName>Levelock</DestinationName>
+    <DestinationStr>Levelock(KLL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KLN</code>
+    <DestinationName>Larsen Bay</DestinationName>
+    <DestinationStr>Larsen Bay(KLN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LAA</code>
+    <DestinationName>Lamar Arpt</DestinationName>
+    <DestinationStr>Lamar Arpt(LAA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LAA</code>
+    <DestinationName>Lamar</DestinationName>
+    <DestinationStr>Lamar(LAA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LAB</code>
+    <DestinationName>Lablab</DestinationName>
+    <DestinationStr>Lablab(LAB)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LAD</code>
+    <DestinationName>Angola</DestinationName>
+    <DestinationStr>Angola(LAD)-Angola</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LAD</code>
+    <DestinationName>Four De Fevereiro Arpt</DestinationName>
+    <DestinationStr>Four De Fevereiro Arpt(LAD)-Angola</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LAD</code>
+    <DestinationName>Luanda</DestinationName>
+    <DestinationStr>Luanda(LAD)-Angola</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LAE</code>
+    <DestinationName>Lae Pg</DestinationName>
+    <DestinationStr>Lae Pg(LAE)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LAE</code>
+    <DestinationName>Nadzab Arpt</DestinationName>
+    <DestinationStr>Nadzab Arpt(LAE)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LAF</code>
+    <DestinationName>Lafayette Arpt</DestinationName>
+    <DestinationStr>Lafayette Arpt(LAF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LAF</code>
+    <DestinationName>Lafayette</DestinationName>
+    <DestinationStr>Lafayette(LAF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LAG</code>
+    <DestinationName>La Guaira</DestinationName>
+    <DestinationStr>La Guaira(LAG)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LAH</code>
+    <DestinationName>Labuha</DestinationName>
+    <DestinationStr>Labuha(LAH)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LAI</code>
+    <DestinationName>Lannion</DestinationName>
+    <DestinationStr>Lannion(LAI)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LAI</code>
+    <DestinationName>Servel Airport</DestinationName>
+    <DestinationStr>Servel Airport(LAI)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LAJ</code>
+    <DestinationName>Lages Arpt</DestinationName>
+    <DestinationStr>Lages Arpt(LAJ)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LAJ</code>
+    <DestinationName>Lajes</DestinationName>
+    <DestinationStr>Lajes(LAJ)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LAL</code>
+    <DestinationName>Lakeland Arpt</DestinationName>
+    <DestinationStr>Lakeland Arpt(LAL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LAL</code>
+    <DestinationName>Lakeland</DestinationName>
+    <DestinationStr>Lakeland(LAL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LAM</code>
+    <DestinationName>Los Alamos Municipal</DestinationName>
+    <DestinationStr>Los Alamos Municipal(LAM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LAM</code>
+    <DestinationName>Los Alamos</DestinationName>
+    <DestinationStr>Los Alamos(LAM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LAN</code>
+    <DestinationName>Lansing Arpt</DestinationName>
+    <DestinationStr>Lansing Arpt(LAN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LAN</code>
+    <DestinationName>Lansing</DestinationName>
+    <DestinationStr>Lansing(LAN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LAO</code>
+    <DestinationName>Laoag Arpt</DestinationName>
+    <DestinationStr>Laoag Arpt(LAO)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LAO</code>
+    <DestinationName>Laoag</DestinationName>
+    <DestinationStr>Laoag(LAO)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LAP</code>
+    <DestinationName>La Paz</DestinationName>
+    <DestinationStr>La Paz(LAP)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LAP</code>
+    <DestinationName>Manuel Marquez de Leon Arpt</DestinationName>
+    <DestinationStr>Manuel Marquez de Leon Arpt(LAP)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LAQ</code>
+    <DestinationName>Beida</DestinationName>
+    <DestinationStr>Beida(LAQ)-Libyan Arab Jamahiriya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LAR</code>
+    <DestinationName>General Brees Fld</DestinationName>
+    <DestinationStr>General Brees Fld(LAR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LAR</code>
+    <DestinationName>Laramie</DestinationName>
+    <DestinationStr>Laramie(LAR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LAS</code>
+    <DestinationName>Las Vegas</DestinationName>
+    <DestinationStr>Las Vegas(LAS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LAS</code>
+    <DestinationName>McCarran Intl</DestinationName>
+    <DestinationStr>McCarran Intl(LAS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LAU</code>
+    <DestinationName>Lamu Arpt</DestinationName>
+    <DestinationStr>Lamu Arpt(LAU)-Kenya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LAU</code>
+    <DestinationName>Lamu</DestinationName>
+    <DestinationStr>Lamu(LAU)-Kenya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LAW</code>
+    <DestinationName>Lawton Municipal</DestinationName>
+    <DestinationStr>Lawton Municipal(LAW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LAW</code>
+    <DestinationName>Lawton</DestinationName>
+    <DestinationStr>Lawton(LAW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LAX</code>
+    <DestinationName>Los Angeles Intl Arpt</DestinationName>
+    <DestinationStr>Los Angeles Intl Arpt(LAX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LAX</code>
+    <DestinationName>Los Angeles</DestinationName>
+    <DestinationStr>Los Angeles(LAX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LAY</code>
+    <DestinationName>Ladysmith Arpt</DestinationName>
+    <DestinationStr>Ladysmith Arpt(LAY)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LAY</code>
+    <DestinationName>Ladysmith</DestinationName>
+    <DestinationStr>Ladysmith(LAY)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LBA</code>
+    <DestinationName>Leeds Bradford Arpt</DestinationName>
+    <DestinationStr>Leeds Bradford Arpt(LBA)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LBA</code>
+    <DestinationName>Leeds</DestinationName>
+    <DestinationStr>Leeds(LBA)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LBB</code>
+    <DestinationName>Lubbock Preston Smith Intl Arpt</DestinationName>
+    <DestinationStr>Lubbock Preston Smith Intl Arpt(LBB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LBB</code>
+    <DestinationName>Lubbock</DestinationName>
+    <DestinationStr>Lubbock(LBB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LBC</code>
+    <DestinationName>Blankensee Arpt</DestinationName>
+    <DestinationStr>Blankensee Arpt(LBC)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LBC</code>
+    <DestinationName>Luebeck</DestinationName>
+    <DestinationStr>Luebeck(LBC)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LBD</code>
+    <DestinationName>Khujand Airport</DestinationName>
+    <DestinationStr>Khujand Airport(LBD)-Tajikistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LBD</code>
+    <DestinationName>Khujand</DestinationName>
+    <DestinationStr>Khujand(LBD)-Tajikistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LBE</code>
+    <DestinationName>Latrobe</DestinationName>
+    <DestinationStr>Latrobe(LBE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LBE</code>
+    <DestinationName>Westmorland County</DestinationName>
+    <DestinationStr>Westmorland County(LBE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LBF</code>
+    <DestinationName>Lee Bird Field</DestinationName>
+    <DestinationStr>Lee Bird Field(LBF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LBF</code>
+    <DestinationName>North Platte</DestinationName>
+    <DestinationStr>North Platte(LBF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LBG</code>
+    <DestinationName>Le Bourget Arpt</DestinationName>
+    <DestinationStr>Le Bourget Arpt(LBG)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LBH</code>
+    <DestinationName>Palm Beach Arpt</DestinationName>
+    <DestinationStr>Palm Beach Arpt(LBH)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LBI</code>
+    <DestinationName>Albi</DestinationName>
+    <DestinationStr>Albi(LBI)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LBI</code>
+    <DestinationName>Le Sequestre Arpt</DestinationName>
+    <DestinationStr>Le Sequestre Arpt(LBI)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LBJ</code>
+    <DestinationName>Komodo Airport</DestinationName>
+    <DestinationStr>Komodo Airport(LBJ)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LBJ</code>
+    <DestinationName>Labuan Bajo Airport</DestinationName>
+    <DestinationStr>Labuan Bajo Airport(LBJ)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LBJ</code>
+    <DestinationName>Labuan Bajo</DestinationName>
+    <DestinationStr>Labuan Bajo(LBJ)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LBL</code>
+    <DestinationName>Liberal Municipal</DestinationName>
+    <DestinationStr>Liberal Municipal(LBL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LBL</code>
+    <DestinationName>Liberal</DestinationName>
+    <DestinationStr>Liberal(LBL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LBP</code>
+    <DestinationName>Long Banga Airfield Arpt</DestinationName>
+    <DestinationStr>Long Banga Airfield Arpt(LBP)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LBP</code>
+    <DestinationName>Long Banga</DestinationName>
+    <DestinationStr>Long Banga(LBP)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LBQ</code>
+    <DestinationName>Lambarene</DestinationName>
+    <DestinationStr>Lambarene(LBQ)-Gabon</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LBS</code>
+    <DestinationName>Labasa Arpt</DestinationName>
+    <DestinationStr>Labasa Arpt(LBS)-Fiji Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LBS</code>
+    <DestinationName>Labasa</DestinationName>
+    <DestinationStr>Labasa(LBS)-Fiji Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LBT</code>
+    <DestinationName>Lumberton Arpt</DestinationName>
+    <DestinationStr>Lumberton Arpt(LBT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LBT</code>
+    <DestinationName>Lumberton</DestinationName>
+    <DestinationStr>Lumberton(LBT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LBU</code>
+    <DestinationName>Labuan Arpt</DestinationName>
+    <DestinationStr>Labuan Arpt(LBU)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LBU</code>
+    <DestinationName>Labuan</DestinationName>
+    <DestinationStr>Labuan(LBU)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LBV</code>
+    <DestinationName>Libreville Arpt</DestinationName>
+    <DestinationStr>Libreville Arpt(LBV)-Gabon</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LBV</code>
+    <DestinationName>Libreville</DestinationName>
+    <DestinationStr>Libreville(LBV)-Gabon</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LBW</code>
+    <DestinationName>Long Bawan</DestinationName>
+    <DestinationStr>Long Bawan(LBW)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LBY</code>
+    <DestinationName>La Baule</DestinationName>
+    <DestinationStr>La Baule(LBY)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LBY</code>
+    <DestinationName>Montoir Arpt</DestinationName>
+    <DestinationStr>Montoir Arpt(LBY)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LCA</code>
+    <DestinationName>Larnaca Intl</DestinationName>
+    <DestinationStr>Larnaca Intl(LCA)-Cyprus</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LCA</code>
+    <DestinationName>Larnaca</DestinationName>
+    <DestinationStr>Larnaca(LCA)-Cyprus</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LCC</code>
+    <DestinationName>Galatina Arpt</DestinationName>
+    <DestinationStr>Galatina Arpt(LCC)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LCC</code>
+    <DestinationName>Lecce</DestinationName>
+    <DestinationStr>Lecce(LCC)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LCE</code>
+    <DestinationName>Goloson Intl Arpt</DestinationName>
+    <DestinationStr>Goloson Intl Arpt(LCE)-Honduras</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LCE</code>
+    <DestinationName>La Ceiba</DestinationName>
+    <DestinationStr>La Ceiba(LCE)-Honduras</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LCF</code>
+    <DestinationName>Las Vegas  Arpt</DestinationName>
+    <DestinationStr>Las Vegas  Arpt(LCF)-Guatemala</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LCF</code>
+    <DestinationName>Rio Dulce</DestinationName>
+    <DestinationStr>Rio Dulce(LCF)-Guatemala</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LCG</code>
+    <DestinationName>La Coruna Arpt</DestinationName>
+    <DestinationStr>La Coruna Arpt(LCG)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LCG</code>
+    <DestinationName>La Coruna</DestinationName>
+    <DestinationStr>La Coruna(LCG)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LCH</code>
+    <DestinationName>Lake Charles Municipal</DestinationName>
+    <DestinationStr>Lake Charles Municipal(LCH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LCH</code>
+    <DestinationName>Lake Charles</DestinationName>
+    <DestinationStr>Lake Charles(LCH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LCI</code>
+    <DestinationName>Laconia Municipal Arpt</DestinationName>
+    <DestinationStr>Laconia Municipal Arpt(LCI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LCI</code>
+    <DestinationName>Laconia</DestinationName>
+    <DestinationStr>Laconia(LCI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LCJ</code>
+    <DestinationName>Lodz Lublinek Arpt</DestinationName>
+    <DestinationStr>Lodz Lublinek Arpt(LCJ)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LCJ</code>
+    <DestinationName>Lodz</DestinationName>
+    <DestinationStr>Lodz(LCJ)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LCK</code>
+    <DestinationName>Rickenbacker Intl Arpt</DestinationName>
+    <DestinationStr>Rickenbacker Intl Arpt(LCK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LCR</code>
+    <DestinationName>La Chorrera Arpt</DestinationName>
+    <DestinationStr>La Chorrera Arpt(LCR)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LCR</code>
+    <DestinationName>La Chorrera</DestinationName>
+    <DestinationStr>La Chorrera(LCR)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LCV</code>
+    <DestinationName>Lucca Arpt</DestinationName>
+    <DestinationStr>Lucca Arpt(LCV)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LCV</code>
+    <DestinationName>Lucca</DestinationName>
+    <DestinationStr>Lucca(LCV)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LCY</code>
+    <DestinationName>London City Arpt</DestinationName>
+    <DestinationStr>London City Arpt(LCY)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LDA</code>
+    <DestinationName>Malda Airport</DestinationName>
+    <DestinationStr>Malda Airport(LDA)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LDA</code>
+    <DestinationName>Malda</DestinationName>
+    <DestinationStr>Malda(LDA)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LDB</code>
+    <DestinationName>Londrina Arpt</DestinationName>
+    <DestinationStr>Londrina Arpt(LDB)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LDB</code>
+    <DestinationName>Londrina</DestinationName>
+    <DestinationStr>Londrina(LDB)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LDE</code>
+    <DestinationName>Lourdes</DestinationName>
+    <DestinationStr>Lourdes(LDE)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LDE</code>
+    <DestinationName>Tarbes Intl Arpt</DestinationName>
+    <DestinationStr>Tarbes Intl Arpt(LDE)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LDH</code>
+    <DestinationName>Lord Howe Island Arpt</DestinationName>
+    <DestinationStr>Lord Howe Island Arpt(LDH)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LDH</code>
+    <DestinationName>Lord Howe Island</DestinationName>
+    <DestinationStr>Lord Howe Island(LDH)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LDI</code>
+    <DestinationName>Lindi</DestinationName>
+    <DestinationStr>Lindi(LDI)-Tanzania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LDJ</code>
+    <DestinationName>Linden Municipal</DestinationName>
+    <DestinationStr>Linden Municipal(LDJ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LDJ</code>
+    <DestinationName>Linden</DestinationName>
+    <DestinationStr>Linden(LDJ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LDK</code>
+    <DestinationName>Hovby Airport</DestinationName>
+    <DestinationStr>Hovby Airport(LDK)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LDK</code>
+    <DestinationName>Lidkoping</DestinationName>
+    <DestinationStr>Lidkoping(LDK)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LDM</code>
+    <DestinationName>Ludington</DestinationName>
+    <DestinationStr>Ludington(LDM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LDS</code>
+    <DestinationName>Yichun Lindu Airport</DestinationName>
+    <DestinationStr>Yichun Lindu Airport(LDS)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LDS</code>
+    <DestinationName>Yichun Shi</DestinationName>
+    <DestinationStr>Yichun Shi(LDS)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LDU</code>
+    <DestinationName>Lahad Datu Arpt</DestinationName>
+    <DestinationStr>Lahad Datu Arpt(LDU)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LDU</code>
+    <DestinationName>Lahad Datu</DestinationName>
+    <DestinationStr>Lahad Datu(LDU)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LDX</code>
+    <DestinationName>Saint Laurent du Maroni Arpt</DestinationName>
+    <DestinationStr>Saint Laurent du Maroni Arpt(LDX)-French Guiana</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LDX</code>
+    <DestinationName>Saint Laurent du Maroni</DestinationName>
+    <DestinationStr>Saint Laurent du Maroni(LDX)-French Guiana</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LDX</code>
+    <DestinationName>St Laurent Du Maroni Arpt</DestinationName>
+    <DestinationStr>St Laurent Du Maroni Arpt(LDX)-French Guiana</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LDY</code>
+    <DestinationName>Eglinton Arpt</DestinationName>
+    <DestinationStr>Eglinton Arpt(LDY)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LDY</code>
+    <DestinationName>Londonderry</DestinationName>
+    <DestinationStr>Londonderry(LDY)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LEA</code>
+    <DestinationName>Learmonth Arpt</DestinationName>
+    <DestinationStr>Learmonth Arpt(LEA)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LEA</code>
+    <DestinationName>Learmonth</DestinationName>
+    <DestinationStr>Learmonth(LEA)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LEB</code>
+    <DestinationName>Lebanon Regional</DestinationName>
+    <DestinationStr>Lebanon Regional(LEB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LEB</code>
+    <DestinationName>Lebanon</DestinationName>
+    <DestinationStr>Lebanon(LEB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LEC</code>
+    <DestinationName>Chapada Diamantina Arpt</DestinationName>
+    <DestinationStr>Chapada Diamantina Arpt(LEC)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LEC</code>
+    <DestinationName>Lencois</DestinationName>
+    <DestinationStr>Lencois(LEC)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LED</code>
+    <DestinationName>Pulkovo Airport</DestinationName>
+    <DestinationStr>Pulkovo Airport(LED)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LED</code>
+    <DestinationName>Saint Petersburg</DestinationName>
+    <DestinationStr>Saint Petersburg(LED)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LED</code>
+    <DestinationName>St Petersburg</DestinationName>
+    <DestinationStr>St Petersburg(LED)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LEE</code>
+    <DestinationName>Leesburg Municipal Arpt</DestinationName>
+    <DestinationStr>Leesburg Municipal Arpt(LEE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LEE</code>
+    <DestinationName>Leesburg</DestinationName>
+    <DestinationStr>Leesburg(LEE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LEF</code>
+    <DestinationName>Lebakeng</DestinationName>
+    <DestinationStr>Lebakeng(LEF)-Lesotho</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LEH</code>
+    <DestinationName>Le Havre</DestinationName>
+    <DestinationStr>Le Havre(LEH)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LEH</code>
+    <DestinationName>Octeville Arpt</DestinationName>
+    <DestinationStr>Octeville Arpt(LEH)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LEI</code>
+    <DestinationName>Almeria Arpt</DestinationName>
+    <DestinationStr>Almeria Arpt(LEI)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LEI</code>
+    <DestinationName>Almeria</DestinationName>
+    <DestinationStr>Almeria(LEI)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LEJ</code>
+    <DestinationName>Leipzig Arpt</DestinationName>
+    <DestinationStr>Leipzig Arpt(LEJ)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LEJ</code>
+    <DestinationName>Leipzig</DestinationName>
+    <DestinationStr>Leipzig(LEJ)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LEL</code>
+    <DestinationName>Lake Evella</DestinationName>
+    <DestinationStr>Lake Evella(LEL)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LEN</code>
+    <DestinationName>Leon Arpt</DestinationName>
+    <DestinationStr>Leon Arpt(LEN)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LEN</code>
+    <DestinationName>Leon</DestinationName>
+    <DestinationStr>Leon(LEN)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LEQ</code>
+    <DestinationName>Lands End</DestinationName>
+    <DestinationStr>Lands End(LEQ)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LEQ</code>
+    <DestinationName>St Just Arpt</DestinationName>
+    <DestinationStr>St Just Arpt(LEQ)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LER</code>
+    <DestinationName>Leinster Arpt</DestinationName>
+    <DestinationStr>Leinster Arpt(LER)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LER</code>
+    <DestinationName>Leinster</DestinationName>
+    <DestinationStr>Leinster(LER)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LES</code>
+    <DestinationName>Lesobeng Arpt</DestinationName>
+    <DestinationStr>Lesobeng Arpt(LES)-Lesotho</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LES</code>
+    <DestinationName>Lesobeng</DestinationName>
+    <DestinationStr>Lesobeng(LES)-Lesotho</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LET</code>
+    <DestinationName>Alfredo V Cobo Intl</DestinationName>
+    <DestinationStr>Alfredo V Cobo Intl(LET)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LET</code>
+    <DestinationName>Leticia</DestinationName>
+    <DestinationStr>Leticia(LET)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LEU</code>
+    <DestinationName>Seo de Urgel</DestinationName>
+    <DestinationStr>Seo de Urgel(LEU)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LEV</code>
+    <DestinationName>Levuka</DestinationName>
+    <DestinationStr>Levuka(LEV)-Fiji Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LEW</code>
+    <DestinationName>Auburn Lewiston Arpt</DestinationName>
+    <DestinationStr>Auburn Lewiston Arpt(LEW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LEW</code>
+    <DestinationName>Lewiston</DestinationName>
+    <DestinationStr>Lewiston(LEW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LEX</code>
+    <DestinationName>Blue Grass Field</DestinationName>
+    <DestinationStr>Blue Grass Field(LEX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LEX</code>
+    <DestinationName>Lexington</DestinationName>
+    <DestinationStr>Lexington(LEX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LEY</code>
+    <DestinationName>Lelystad Arpt</DestinationName>
+    <DestinationStr>Lelystad Arpt(LEY)-Netherlands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LEY</code>
+    <DestinationName>Lelystad</DestinationName>
+    <DestinationStr>Lelystad(LEY)-Netherlands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LFI</code>
+    <DestinationName>Hampton</DestinationName>
+    <DestinationStr>Hampton(LFI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LFI</code>
+    <DestinationName>Langley Air Force Base</DestinationName>
+    <DestinationStr>Langley Air Force Base(LFI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LFK</code>
+    <DestinationName>Angelina Cty Arpt</DestinationName>
+    <DestinationStr>Angelina Cty Arpt(LFK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LFK</code>
+    <DestinationName>Lufkin</DestinationName>
+    <DestinationStr>Lufkin(LFK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LFO</code>
+    <DestinationName>Kelafo</DestinationName>
+    <DestinationStr>Kelafo(LFO)-Ethiopia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LFR</code>
+    <DestinationName>La Fria</DestinationName>
+    <DestinationStr>La Fria(LFR)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LFT</code>
+    <DestinationName>Lafayette Municipal</DestinationName>
+    <DestinationStr>Lafayette Municipal(LFT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LFT</code>
+    <DestinationName>Lafayette</DestinationName>
+    <DestinationStr>Lafayette(LFT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LFW</code>
+    <DestinationName>Lome Airport</DestinationName>
+    <DestinationStr>Lome Airport(LFW)-Togo</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LFW</code>
+    <DestinationName>Lome</DestinationName>
+    <DestinationStr>Lome(LFW)-Togo</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LFW</code>
+    <DestinationName>Togo</DestinationName>
+    <DestinationStr>Togo(LFW)-Togo</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LGA</code>
+    <DestinationName>La Guardia</DestinationName>
+    <DestinationStr>La Guardia(LGA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LGB</code>
+    <DestinationName>Long Beach Municipal</DestinationName>
+    <DestinationStr>Long Beach Municipal(LGB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LGB</code>
+    <DestinationName>Long Beach</DestinationName>
+    <DestinationStr>Long Beach(LGB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LGC</code>
+    <DestinationName>Calloway Arpt</DestinationName>
+    <DestinationStr>Calloway Arpt(LGC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LGC</code>
+    <DestinationName>La Grange</DestinationName>
+    <DestinationStr>La Grange(LGC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LGD</code>
+    <DestinationName>La Grande Union County Arpt</DestinationName>
+    <DestinationStr>La Grande Union County Arpt(LGD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LGD</code>
+    <DestinationName>La Grande</DestinationName>
+    <DestinationStr>La Grande(LGD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LGF</code>
+    <DestinationName>Laguna AAF</DestinationName>
+    <DestinationStr>Laguna AAF(LGF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LGG</code>
+    <DestinationName>Bierset Airport</DestinationName>
+    <DestinationStr>Bierset Airport(LGG)-Belgium</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LGG</code>
+    <DestinationName>Liege</DestinationName>
+    <DestinationStr>Liege(LGG)-Belgium</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LGG</code>
+    <DestinationName>Luik</DestinationName>
+    <DestinationStr>Luik(LGG)-Belgium</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LGH</code>
+    <DestinationName>Leigh Creek</DestinationName>
+    <DestinationStr>Leigh Creek(LGH)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LGI</code>
+    <DestinationName>Deadmans Cay Arpt</DestinationName>
+    <DestinationStr>Deadmans Cay Arpt(LGI)-Bahamas</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LGI</code>
+    <DestinationName>Deadmans Cay</DestinationName>
+    <DestinationStr>Deadmans Cay(LGI)-Bahamas</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LGK</code>
+    <DestinationName>Langkawi Arpt</DestinationName>
+    <DestinationStr>Langkawi Arpt(LGK)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LGK</code>
+    <DestinationName>Langkawi</DestinationName>
+    <DestinationStr>Langkawi(LGK)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LGL</code>
+    <DestinationName>Long Lellang Arpt</DestinationName>
+    <DestinationStr>Long Lellang Arpt(LGL)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LGL</code>
+    <DestinationName>Long Lellang</DestinationName>
+    <DestinationStr>Long Lellang(LGL)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LGO</code>
+    <DestinationName>Langeoog</DestinationName>
+    <DestinationStr>Langeoog(LGO)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LGP</code>
+    <DestinationName>Legaspi Arpt</DestinationName>
+    <DestinationStr>Legaspi Arpt(LGP)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LGP</code>
+    <DestinationName>Legaspi</DestinationName>
+    <DestinationStr>Legaspi(LGP)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LGQ</code>
+    <DestinationName>Lago Agrio</DestinationName>
+    <DestinationStr>Lago Agrio(LGQ)-Ecuador</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LGS</code>
+    <DestinationName>Comodoro D R Salomon Arpt</DestinationName>
+    <DestinationStr>Comodoro D R Salomon Arpt(LGS)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LGS</code>
+    <DestinationName>Malargue</DestinationName>
+    <DestinationStr>Malargue(LGS)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LGU</code>
+    <DestinationName>Logan Arpt</DestinationName>
+    <DestinationStr>Logan Arpt(LGU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LGU</code>
+    <DestinationName>Logan</DestinationName>
+    <DestinationStr>Logan(LGU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LGW</code>
+    <DestinationName>Gatwick Arpt</DestinationName>
+    <DestinationStr>Gatwick Arpt(LGW)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LHA</code>
+    <DestinationName>Lahr Arpt</DestinationName>
+    <DestinationStr>Lahr Arpt(LHA)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LHA</code>
+    <DestinationName>Lahr</DestinationName>
+    <DestinationStr>Lahr(LHA)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LHE</code>
+    <DestinationName>Lahore Arpt</DestinationName>
+    <DestinationStr>Lahore Arpt(LHE)-Pakistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LHE</code>
+    <DestinationName>Lahore</DestinationName>
+    <DestinationStr>Lahore(LHE)-Pakistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LHG</code>
+    <DestinationName>Lightning Ridge Arpt</DestinationName>
+    <DestinationStr>Lightning Ridge Arpt(LHG)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LHG</code>
+    <DestinationName>Lightning Ridge</DestinationName>
+    <DestinationStr>Lightning Ridge(LHG)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LHR</code>
+    <DestinationName>Heathrow</DestinationName>
+    <DestinationStr>Heathrow(LHR)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LHW</code>
+    <DestinationName>Lanzhou Arpt</DestinationName>
+    <DestinationStr>Lanzhou Arpt(LHW)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LHW</code>
+    <DestinationName>Lanzhou</DestinationName>
+    <DestinationStr>Lanzhou(LHW)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LIA</code>
+    <DestinationName>Lianping Arpt</DestinationName>
+    <DestinationStr>Lianping Arpt(LIA)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LIA</code>
+    <DestinationName>Lianping</DestinationName>
+    <DestinationStr>Lianping(LIA)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LIC</code>
+    <DestinationName>Limon Municipal Arpt</DestinationName>
+    <DestinationStr>Limon Municipal Arpt(LIC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LIC</code>
+    <DestinationName>Limon</DestinationName>
+    <DestinationStr>Limon(LIC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LID</code>
+    <DestinationName>Leiden</DestinationName>
+    <DestinationStr>Leiden(LID)-Netherlands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LIF</code>
+    <DestinationName>Lifou Ouanaham Arpt</DestinationName>
+    <DestinationStr>Lifou Ouanaham Arpt(LIF)-New Caledonia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LIF</code>
+    <DestinationName>Lifou</DestinationName>
+    <DestinationStr>Lifou(LIF)-New Caledonia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LIG</code>
+    <DestinationName>Bellegarde Arpt</DestinationName>
+    <DestinationStr>Bellegarde Arpt(LIG)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LIG</code>
+    <DestinationName>Limoges</DestinationName>
+    <DestinationStr>Limoges(LIG)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LIH</code>
+    <DestinationName>Kauai</DestinationName>
+    <DestinationStr>Kauai(LIH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LIH</code>
+    <DestinationName>Lihue Municipal</DestinationName>
+    <DestinationStr>Lihue Municipal(LIH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LIH</code>
+    <DestinationName>Lihue</DestinationName>
+    <DestinationStr>Lihue(LIH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LII</code>
+    <DestinationName>Mulia</DestinationName>
+    <DestinationStr>Mulia(LII)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LIL</code>
+    <DestinationName>Lesquin Arpt</DestinationName>
+    <DestinationStr>Lesquin Arpt(LIL)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LIL</code>
+    <DestinationName>Lille</DestinationName>
+    <DestinationStr>Lille(LIL)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LIM</code>
+    <DestinationName>Jorge Chavez International Arpt</DestinationName>
+    <DestinationStr>Jorge Chavez International Arpt(LIM)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LIM</code>
+    <DestinationName>Lima</DestinationName>
+    <DestinationStr>Lima(LIM)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LIN</code>
+    <DestinationName>Linate Arpt</DestinationName>
+    <DestinationStr>Linate Arpt(LIN)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LIO</code>
+    <DestinationName>Limon International Arpt</DestinationName>
+    <DestinationStr>Limon International Arpt(LIO)-Costa Rica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LIO</code>
+    <DestinationName>Limon</DestinationName>
+    <DestinationStr>Limon(LIO)-Costa Rica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LIP</code>
+    <DestinationName>Lins</DestinationName>
+    <DestinationStr>Lins(LIP)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LIQ</code>
+    <DestinationName>Lisala</DestinationName>
+    <DestinationStr>Lisala(LIQ)-Congo Democratic Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LIR</code>
+    <DestinationName>D Oduber Quiros Intl Arpt</DestinationName>
+    <DestinationStr>D Oduber Quiros Intl Arpt(LIR)-Costa Rica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LIR</code>
+    <DestinationName>Liberia</DestinationName>
+    <DestinationStr>Liberia(LIR)-Costa Rica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LIS</code>
+    <DestinationName>Lisboa</DestinationName>
+    <DestinationStr>Lisboa(LIS)-Portugal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LIS</code>
+    <DestinationName>Lisbon</DestinationName>
+    <DestinationStr>Lisbon(LIS)-Portugal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LIT</code>
+    <DestinationName>Little Rock Clinton National</DestinationName>
+    <DestinationStr>Little Rock Clinton National(LIT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LIT</code>
+    <DestinationName>Little Rock</DestinationName>
+    <DestinationStr>Little Rock(LIT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LIV</code>
+    <DestinationName>Livengood Arpt</DestinationName>
+    <DestinationStr>Livengood Arpt(LIV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LIV</code>
+    <DestinationName>Livengood</DestinationName>
+    <DestinationStr>Livengood(LIV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LIY</code>
+    <DestinationName>Hinesville</DestinationName>
+    <DestinationStr>Hinesville(LIY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LJA</code>
+    <DestinationName>Lodja</DestinationName>
+    <DestinationStr>Lodja(LJA)-Congo Democratic Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LJG</code>
+    <DestinationName>Lijiang Arpt</DestinationName>
+    <DestinationStr>Lijiang Arpt(LJG)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LJG</code>
+    <DestinationName>Lijiang City</DestinationName>
+    <DestinationStr>Lijiang City(LJG)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LJN</code>
+    <DestinationName>Lake Jackson Arpt</DestinationName>
+    <DestinationStr>Lake Jackson Arpt(LJN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LJN</code>
+    <DestinationName>Lake Jackson</DestinationName>
+    <DestinationStr>Lake Jackson(LJN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LJU</code>
+    <DestinationName>Brnik Airport</DestinationName>
+    <DestinationStr>Brnik Airport(LJU)-Slovenia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LJU</code>
+    <DestinationName>Ljubljana</DestinationName>
+    <DestinationStr>Ljubljana(LJU)-Slovenia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LKA</code>
+    <DestinationName>Larantuka</DestinationName>
+    <DestinationStr>Larantuka(LKA)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LKB</code>
+    <DestinationName>Lakeba</DestinationName>
+    <DestinationStr>Lakeba(LKB)-Fiji Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LKC</code>
+    <DestinationName>Lekana</DestinationName>
+    <DestinationStr>Lekana(LKC)-Congo</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LKE</code>
+    <DestinationName>Lake Union Seaplane Base</DestinationName>
+    <DestinationStr>Lake Union Seaplane Base(LKE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LKG</code>
+    <DestinationName>Lokichoggio Arpt</DestinationName>
+    <DestinationStr>Lokichoggio Arpt(LKG)-Kenya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LKG</code>
+    <DestinationName>Lokichoggio</DestinationName>
+    <DestinationStr>Lokichoggio(LKG)-Kenya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LKH</code>
+    <DestinationName>Long Akah Arpt</DestinationName>
+    <DestinationStr>Long Akah Arpt(LKH)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LKH</code>
+    <DestinationName>Long Akah</DestinationName>
+    <DestinationStr>Long Akah(LKH)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LKI</code>
+    <DestinationName>Lakeside USAF</DestinationName>
+    <DestinationStr>Lakeside USAF(LKI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LKL</code>
+    <DestinationName>Banak Airport</DestinationName>
+    <DestinationStr>Banak Airport(LKL)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LKL</code>
+    <DestinationName>Lakselv</DestinationName>
+    <DestinationStr>Lakselv(LKL)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LKN</code>
+    <DestinationName>Leknes Arpt</DestinationName>
+    <DestinationStr>Leknes Arpt(LKN)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LKN</code>
+    <DestinationName>Leknes</DestinationName>
+    <DestinationStr>Leknes(LKN)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LKO</code>
+    <DestinationName>Amausi Arpt</DestinationName>
+    <DestinationStr>Amausi Arpt(LKO)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LKO</code>
+    <DestinationName>Lucknow</DestinationName>
+    <DestinationStr>Lucknow(LKO)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LKP</code>
+    <DestinationName>Lake Placid</DestinationName>
+    <DestinationStr>Lake Placid(LKP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LLA</code>
+    <DestinationName>Kallax Airport</DestinationName>
+    <DestinationStr>Kallax Airport(LLA)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LLA</code>
+    <DestinationName>Lulea</DestinationName>
+    <DestinationStr>Lulea(LLA)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LLE</code>
+    <DestinationName>Malelane</DestinationName>
+    <DestinationStr>Malelane(LLE)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LLE</code>
+    <DestinationName>Municipal Arpt</DestinationName>
+    <DestinationStr>Municipal Arpt(LLE)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LLF</code>
+    <DestinationName>Ling Ling Arpt</DestinationName>
+    <DestinationStr>Ling Ling Arpt(LLF)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LLF</code>
+    <DestinationName>Ling Ling</DestinationName>
+    <DestinationStr>Ling Ling(LLF)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LLH</code>
+    <DestinationName>Las Limas</DestinationName>
+    <DestinationStr>Las Limas(LLH)-Honduras</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LLI</code>
+    <DestinationName>Lalibela Airport</DestinationName>
+    <DestinationStr>Lalibela Airport(LLI)-Ethiopia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LLI</code>
+    <DestinationName>Lalibela</DestinationName>
+    <DestinationStr>Lalibela(LLI)-Ethiopia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LLK</code>
+    <DestinationName>Lankaran Intl Arpt</DestinationName>
+    <DestinationStr>Lankaran Intl Arpt(LLK)-Azerbaijan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LLK</code>
+    <DestinationName>Lankaran</DestinationName>
+    <DestinationStr>Lankaran(LLK)-Azerbaijan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LLU</code>
+    <DestinationName>Alluitsup Paa Arpt</DestinationName>
+    <DestinationStr>Alluitsup Paa Arpt(LLU)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LLU</code>
+    <DestinationName>Alluitsup Paa</DestinationName>
+    <DestinationStr>Alluitsup Paa(LLU)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LLV</code>
+    <DestinationName>LuLiang Airport</DestinationName>
+    <DestinationStr>LuLiang Airport(LLV)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LLV</code>
+    <DestinationName>Luliang</DestinationName>
+    <DestinationStr>Luliang(LLV)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LLW</code>
+    <DestinationName>Lilongwe Intl Arpt</DestinationName>
+    <DestinationStr>Lilongwe Intl Arpt(LLW)-Malawi</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LLW</code>
+    <DestinationName>Lilongwe</DestinationName>
+    <DestinationStr>Lilongwe(LLW)-Malawi</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LLY</code>
+    <DestinationName>Burlington Country Arpt</DestinationName>
+    <DestinationStr>Burlington Country Arpt(LLY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LLY</code>
+    <DestinationName>Mount Holly</DestinationName>
+    <DestinationStr>Mount Holly(LLY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LLY</code>
+    <DestinationName>Mt Holly</DestinationName>
+    <DestinationStr>Mt Holly(LLY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LMA</code>
+    <DestinationName>Lake Minchumina</DestinationName>
+    <DestinationStr>Lake Minchumina(LMA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LMB</code>
+    <DestinationName>Salima Arpt</DestinationName>
+    <DestinationStr>Salima Arpt(LMB)-Malawi</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LMB</code>
+    <DestinationName>Salima</DestinationName>
+    <DestinationStr>Salima(LMB)-Malawi</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LMC</code>
+    <DestinationName>La Macarena Arpt</DestinationName>
+    <DestinationStr>La Macarena Arpt(LMC)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LMC</code>
+    <DestinationName>Lamacarena</DestinationName>
+    <DestinationStr>Lamacarena(LMC)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LME</code>
+    <DestinationName>Arnage Arpt</DestinationName>
+    <DestinationStr>Arnage Arpt(LME)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LME</code>
+    <DestinationName>Le Mans</DestinationName>
+    <DestinationStr>Le Mans(LME)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LMI</code>
+    <DestinationName>Lumi</DestinationName>
+    <DestinationStr>Lumi(LMI)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LMK</code>
+    <DestinationName>Limerick</DestinationName>
+    <DestinationStr>Limerick(LMK)-Ireland, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LMM</code>
+    <DestinationName>Federal Valle del Fuerte Arpt</DestinationName>
+    <DestinationStr>Federal Valle del Fuerte Arpt(LMM)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LMM</code>
+    <DestinationName>Los Mochis</DestinationName>
+    <DestinationStr>Los Mochis(LMM)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LMN</code>
+    <DestinationName>Limbang Arpt</DestinationName>
+    <DestinationStr>Limbang Arpt(LMN)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LMN</code>
+    <DestinationName>Limbang</DestinationName>
+    <DestinationStr>Limbang(LMN)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LMP</code>
+    <DestinationName>Lampedusa Arpt</DestinationName>
+    <DestinationStr>Lampedusa Arpt(LMP)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LMP</code>
+    <DestinationName>Lampedusa</DestinationName>
+    <DestinationStr>Lampedusa(LMP)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LMS</code>
+    <DestinationName>Louisville Winston County Arpt</DestinationName>
+    <DestinationStr>Louisville Winston County Arpt(LMS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LMS</code>
+    <DestinationName>Louisville</DestinationName>
+    <DestinationStr>Louisville(LMS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LMT</code>
+    <DestinationName>Kingsley Field</DestinationName>
+    <DestinationStr>Kingsley Field(LMT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LMT</code>
+    <DestinationName>Klamath Falls</DestinationName>
+    <DestinationStr>Klamath Falls(LMT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LMY</code>
+    <DestinationName>Lake Murray</DestinationName>
+    <DestinationStr>Lake Murray(LMY)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LNA</code>
+    <DestinationName>Palm Beach County Arpt</DestinationName>
+    <DestinationStr>Palm Beach County Arpt(LNA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LNB</code>
+    <DestinationName>Lamen Bay</DestinationName>
+    <DestinationStr>Lamen Bay(LNB)-Vanuatu</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LNE</code>
+    <DestinationName>Lonorore</DestinationName>
+    <DestinationStr>Lonorore(LNE)-Vanuatu</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LNG</code>
+    <DestinationName>Lese</DestinationName>
+    <DestinationStr>Lese(LNG)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LNJ</code>
+    <DestinationName>Lincang Airport</DestinationName>
+    <DestinationStr>Lincang Airport(LNJ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LNJ</code>
+    <DestinationName>LINCANG</DestinationName>
+    <DestinationStr>LINCANG(LNJ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LNK</code>
+    <DestinationName>Lincoln Municipal</DestinationName>
+    <DestinationStr>Lincoln Municipal(LNK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LNK</code>
+    <DestinationName>Lincoln</DestinationName>
+    <DestinationStr>Lincoln(LNK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LNO</code>
+    <DestinationName>Leonora Arpt</DestinationName>
+    <DestinationStr>Leonora Arpt(LNO)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LNO</code>
+    <DestinationName>Leonora</DestinationName>
+    <DestinationStr>Leonora(LNO)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LNS</code>
+    <DestinationName>Lancaster Arpt</DestinationName>
+    <DestinationStr>Lancaster Arpt(LNS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LNS</code>
+    <DestinationName>Lancaster</DestinationName>
+    <DestinationStr>Lancaster(LNS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LNV</code>
+    <DestinationName>Lihir Island Arpt</DestinationName>
+    <DestinationStr>Lihir Island Arpt(LNV)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LNV</code>
+    <DestinationName>Lihir Island</DestinationName>
+    <DestinationStr>Lihir Island(LNV)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LNX</code>
+    <DestinationName>Smolensk</DestinationName>
+    <DestinationStr>Smolensk(LNX)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LNY</code>
+    <DestinationName>Lanai Airport</DestinationName>
+    <DestinationStr>Lanai Airport(LNY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LNY</code>
+    <DestinationName>Lanai</DestinationName>
+    <DestinationStr>Lanai(LNY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LNZ</code>
+    <DestinationName>Hoersching Arpt</DestinationName>
+    <DestinationStr>Hoersching Arpt(LNZ)-Austria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LNZ</code>
+    <DestinationName>Linz</DestinationName>
+    <DestinationStr>Linz(LNZ)-Austria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LOD</code>
+    <DestinationName>Longana Airport</DestinationName>
+    <DestinationStr>Longana Airport(LOD)-Vanuatu</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LOD</code>
+    <DestinationName>Longana</DestinationName>
+    <DestinationStr>Longana(LOD)-Vanuatu</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LOE</code>
+    <DestinationName>Loei Arpt</DestinationName>
+    <DestinationStr>Loei Arpt(LOE)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LOE</code>
+    <DestinationName>Loei</DestinationName>
+    <DestinationStr>Loei(LOE)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LOG</code>
+    <DestinationName>Longview</DestinationName>
+    <DestinationStr>Longview(LOG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LOH</code>
+    <DestinationName>Catamayo Arpt</DestinationName>
+    <DestinationStr>Catamayo Arpt(LOH)-Ecuador</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LOH</code>
+    <DestinationName>Loja</DestinationName>
+    <DestinationStr>Loja(LOH)-Ecuador</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LOK</code>
+    <DestinationName>Lodwar Airport</DestinationName>
+    <DestinationStr>Lodwar Airport(LOK)-Kenya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LOK</code>
+    <DestinationName>Lodwar</DestinationName>
+    <DestinationStr>Lodwar(LOK)-Kenya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LOM</code>
+    <DestinationName>F Primo De Verdad Airport</DestinationName>
+    <DestinationStr>F Primo De Verdad Airport(LOM)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LOM</code>
+    <DestinationName>Lagos De Moreno</DestinationName>
+    <DestinationStr>Lagos De Moreno(LOM)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LON</code>
+    <DestinationName>London</DestinationName>
+    <DestinationStr>London(LON)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LOP</code>
+    <DestinationName>Lombok International Airport</DestinationName>
+    <DestinationStr>Lombok International Airport(LOP)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LOP</code>
+    <DestinationName>Praya</DestinationName>
+    <DestinationStr>Praya(LOP)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LOR</code>
+    <DestinationName>Lowe Army Heliport</DestinationName>
+    <DestinationStr>Lowe Army Heliport(LOR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LOS</code>
+    <DestinationName>Lagos</DestinationName>
+    <DestinationStr>Lagos(LOS)-Nigeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LOS</code>
+    <DestinationName>Murtala Muhammed Arpt</DestinationName>
+    <DestinationStr>Murtala Muhammed Arpt(LOS)-Nigeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LOT</code>
+    <DestinationName>Lockport</DestinationName>
+    <DestinationStr>Lockport(LOT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LOU</code>
+    <DestinationName>Bowman Field Arpt</DestinationName>
+    <DestinationStr>Bowman Field Arpt(LOU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LOV</code>
+    <DestinationName>Monclova</DestinationName>
+    <DestinationStr>Monclova(LOV)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LOV</code>
+    <DestinationName>V Carranza International</DestinationName>
+    <DestinationStr>V Carranza International(LOV)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LOY</code>
+    <DestinationName>Loyangalani Airport</DestinationName>
+    <DestinationStr>Loyangalani Airport(LOY)-Kenya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LOY</code>
+    <DestinationName>Loyangalani</DestinationName>
+    <DestinationStr>Loyangalani(LOY)-Kenya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LOZ</code>
+    <DestinationName>Corbin London Arpt</DestinationName>
+    <DestinationStr>Corbin London Arpt(LOZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LOZ</code>
+    <DestinationName>London</DestinationName>
+    <DestinationStr>London(LOZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LPA</code>
+    <DestinationName>Aeropuerto De Gran Canaria</DestinationName>
+    <DestinationStr>Aeropuerto De Gran Canaria(LPA)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LPA</code>
+    <DestinationName>Gran Canaria</DestinationName>
+    <DestinationStr>Gran Canaria(LPA)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LPA</code>
+    <DestinationName>Las Palmas</DestinationName>
+    <DestinationStr>Las Palmas(LPA)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LPB</code>
+    <DestinationName>El Alto Intl</DestinationName>
+    <DestinationStr>El Alto Intl(LPB)-Bolivia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LPB</code>
+    <DestinationName>La Paz</DestinationName>
+    <DestinationStr>La Paz(LPB)-Bolivia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LPC</code>
+    <DestinationName>Lompoc Arpt</DestinationName>
+    <DestinationStr>Lompoc Arpt(LPC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LPC</code>
+    <DestinationName>Lompoc</DestinationName>
+    <DestinationStr>Lompoc(LPC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LPD</code>
+    <DestinationName>La Pedrera Arpt</DestinationName>
+    <DestinationStr>La Pedrera Arpt(LPD)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LPD</code>
+    <DestinationName>La Pedrera</DestinationName>
+    <DestinationStr>La Pedrera(LPD)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LPF</code>
+    <DestinationName>Liupanshui</DestinationName>
+    <DestinationStr>Liupanshui(LPF)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LPG</code>
+    <DestinationName>La Plata Arpt</DestinationName>
+    <DestinationStr>La Plata Arpt(LPG)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LPG</code>
+    <DestinationName>La Plata</DestinationName>
+    <DestinationStr>La Plata(LPG)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LPH</code>
+    <DestinationName>Lochgilphead Heliport</DestinationName>
+    <DestinationStr>Lochgilphead Heliport(LPH)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LPH</code>
+    <DestinationName>Lochgilphead</DestinationName>
+    <DestinationStr>Lochgilphead(LPH)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LPI</code>
+    <DestinationName>Linkoping</DestinationName>
+    <DestinationStr>Linkoping(LPI)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LPI</code>
+    <DestinationName>Saab Airport</DestinationName>
+    <DestinationStr>Saab Airport(LPI)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LPK</code>
+    <DestinationName>Lipetsk Arpt</DestinationName>
+    <DestinationStr>Lipetsk Arpt(LPK)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LPK</code>
+    <DestinationName>Lipetsk</DestinationName>
+    <DestinationStr>Lipetsk(LPK)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LPL</code>
+    <DestinationName>Liverpool Arpt</DestinationName>
+    <DestinationStr>Liverpool Arpt(LPL)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LPL</code>
+    <DestinationName>Liverpool</DestinationName>
+    <DestinationStr>Liverpool(LPL)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LPM</code>
+    <DestinationName>Lamap Malekoula Airport</DestinationName>
+    <DestinationStr>Lamap Malekoula Airport(LPM)-Vanuatu</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LPM</code>
+    <DestinationName>Lamap</DestinationName>
+    <DestinationStr>Lamap(LPM)-Vanuatu</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LPO</code>
+    <DestinationName>La Porte Arpt</DestinationName>
+    <DestinationStr>La Porte Arpt(LPO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LPO</code>
+    <DestinationName>La Porte</DestinationName>
+    <DestinationStr>La Porte(LPO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LPP</code>
+    <DestinationName>Lappeenranta Arpt</DestinationName>
+    <DestinationStr>Lappeenranta Arpt(LPP)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LPP</code>
+    <DestinationName>Lappeenranta</DestinationName>
+    <DestinationStr>Lappeenranta(LPP)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LPQ</code>
+    <DestinationName>Louangphrabang Arpt</DestinationName>
+    <DestinationStr>Louangphrabang Arpt(LPQ)-Lao, People's Dem. Rep.</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LPQ</code>
+    <DestinationName>Louangphrabang</DestinationName>
+    <DestinationStr>Louangphrabang(LPQ)-Lao, People's Dem. Rep.</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LPQ</code>
+    <DestinationName>Luang Prabang Arpt</DestinationName>
+    <DestinationStr>Luang Prabang Arpt(LPQ)-Lao, People's Dem. Rep.</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LPQ</code>
+    <DestinationName>Luang Prabang</DestinationName>
+    <DestinationStr>Luang Prabang(LPQ)-Lao, People's Dem. Rep.</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LPS</code>
+    <DestinationName>Lopez Island Arpt</DestinationName>
+    <DestinationStr>Lopez Island Arpt(LPS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LPS</code>
+    <DestinationName>Lopez Island</DestinationName>
+    <DestinationStr>Lopez Island(LPS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LPT</code>
+    <DestinationName>Lampang Arpt</DestinationName>
+    <DestinationStr>Lampang Arpt(LPT)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LPT</code>
+    <DestinationName>Lampang</DestinationName>
+    <DestinationStr>Lampang(LPT)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LPW</code>
+    <DestinationName>Little Port Walter Arpt</DestinationName>
+    <DestinationStr>Little Port Walter Arpt(LPW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LPW</code>
+    <DestinationName>Little Port Walter</DestinationName>
+    <DestinationStr>Little Port Walter(LPW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LPX</code>
+    <DestinationName>Liepaja</DestinationName>
+    <DestinationStr>Liepaja(LPX)-Latvia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LPX</code>
+    <DestinationName>Liepaya Arpt</DestinationName>
+    <DestinationStr>Liepaya Arpt(LPX)-Latvia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LPY</code>
+    <DestinationName>Le Puy</DestinationName>
+    <DestinationStr>Le Puy(LPY)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LPY</code>
+    <DestinationName>Loudes Airport</DestinationName>
+    <DestinationStr>Loudes Airport(LPY)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LQM</code>
+    <DestinationName>Caucaya Airport</DestinationName>
+    <DestinationStr>Caucaya Airport(LQM)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LQM</code>
+    <DestinationName>Puerto Leguizamo</DestinationName>
+    <DestinationStr>Puerto Leguizamo(LQM)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LQP</code>
+    <DestinationName>Chenzhou</DestinationName>
+    <DestinationStr>Chenzhou(LQP)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LQQ</code>
+    <DestinationName>Liaoyang</DestinationName>
+    <DestinationStr>Liaoyang(LQQ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LQS</code>
+    <DestinationName>Lingshui</DestinationName>
+    <DestinationStr>Lingshui(LQS)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LRA</code>
+    <DestinationName>Larisa Arpt</DestinationName>
+    <DestinationStr>Larisa Arpt(LRA)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LRA</code>
+    <DestinationName>Larisa</DestinationName>
+    <DestinationStr>Larisa(LRA)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LRB</code>
+    <DestinationName>Leribe</DestinationName>
+    <DestinationStr>Leribe(LRB)-Lesotho</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LRD</code>
+    <DestinationName>Laredo Intl</DestinationName>
+    <DestinationStr>Laredo Intl(LRD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LRD</code>
+    <DestinationName>Laredo</DestinationName>
+    <DestinationStr>Laredo(LRD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LRE</code>
+    <DestinationName>Longreach Arpt</DestinationName>
+    <DestinationStr>Longreach Arpt(LRE)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LRE</code>
+    <DestinationName>Longreach</DestinationName>
+    <DestinationStr>Longreach(LRE)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LRF</code>
+    <DestinationName>Jacksonville</DestinationName>
+    <DestinationStr>Jacksonville(LRF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LRF</code>
+    <DestinationName>Little Rock Arpt</DestinationName>
+    <DestinationStr>Little Rock Arpt(LRF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LRH</code>
+    <DestinationName>La Rochelle</DestinationName>
+    <DestinationStr>La Rochelle(LRH)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LRH</code>
+    <DestinationName>Laleu Airport</DestinationName>
+    <DestinationStr>Laleu Airport(LRH)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LRJ</code>
+    <DestinationName>Le Mars</DestinationName>
+    <DestinationStr>Le Mars(LRJ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LRM</code>
+    <DestinationName>Casa De Campo International</DestinationName>
+    <DestinationStr>Casa De Campo International(LRM)-Dominican Republic</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LRM</code>
+    <DestinationName>La Romana</DestinationName>
+    <DestinationStr>La Romana(LRM)-Dominican Republic</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LRN</code>
+    <DestinationName>Larson AFB</DestinationName>
+    <DestinationStr>Larson AFB(LRN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LRO</code>
+    <DestinationName>Lathrop</DestinationName>
+    <DestinationStr>Lathrop(LRO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LRS</code>
+    <DestinationName>Leros Arpt</DestinationName>
+    <DestinationStr>Leros Arpt(LRS)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LRS</code>
+    <DestinationName>Leros</DestinationName>
+    <DestinationStr>Leros(LRS)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LRT</code>
+    <DestinationName>Lann Bihoue Arpt</DestinationName>
+    <DestinationStr>Lann Bihoue Arpt(LRT)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LRT</code>
+    <DestinationName>Lorient</DestinationName>
+    <DestinationStr>Lorient(LRT)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LRU</code>
+    <DestinationName>Las Cruces Crawford Arpt</DestinationName>
+    <DestinationStr>Las Cruces Crawford Arpt(LRU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LRU</code>
+    <DestinationName>Las Cruces</DestinationName>
+    <DestinationStr>Las Cruces(LRU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LSA</code>
+    <DestinationName>Kiriwina Airport</DestinationName>
+    <DestinationStr>Kiriwina Airport(LSA)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LSA</code>
+    <DestinationName>Losuia</DestinationName>
+    <DestinationStr>Losuia(LSA)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LSB</code>
+    <DestinationName>Lordsburg</DestinationName>
+    <DestinationStr>Lordsburg(LSB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LSC</code>
+    <DestinationName>La Florida</DestinationName>
+    <DestinationStr>La Florida(LSC)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LSC</code>
+    <DestinationName>La Serena</DestinationName>
+    <DestinationStr>La Serena(LSC)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LSD</code>
+    <DestinationName>Creech Army Air Field</DestinationName>
+    <DestinationStr>Creech Army Air Field(LSD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LSE</code>
+    <DestinationName>La Crosse Municipal</DestinationName>
+    <DestinationStr>La Crosse Municipal(LSE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LSE</code>
+    <DestinationName>La Crosse</DestinationName>
+    <DestinationStr>La Crosse(LSE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LSF</code>
+    <DestinationName>Lawson AAF</DestinationName>
+    <DestinationStr>Lawson AAF(LSF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LSH</code>
+    <DestinationName>Lashio</DestinationName>
+    <DestinationStr>Lashio(LSH)-Myanmar</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LSI</code>
+    <DestinationName>Lerwick</DestinationName>
+    <DestinationStr>Lerwick(LSI)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LSI</code>
+    <DestinationName>Sumburgh Airport</DestinationName>
+    <DestinationStr>Sumburgh Airport(LSI)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LSL</code>
+    <DestinationName>Los Chiles</DestinationName>
+    <DestinationStr>Los Chiles(LSL)-Costa Rica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LSM</code>
+    <DestinationName>Long Semado</DestinationName>
+    <DestinationStr>Long Semado(LSM)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LSN</code>
+    <DestinationName>Los Banos Arpt</DestinationName>
+    <DestinationStr>Los Banos Arpt(LSN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LSN</code>
+    <DestinationName>Los Banos</DestinationName>
+    <DestinationStr>Los Banos(LSN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LSO</code>
+    <DestinationName>Les Sables</DestinationName>
+    <DestinationStr>Les Sables(LSO)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LSO</code>
+    <DestinationName>Talmont Arpt</DestinationName>
+    <DestinationStr>Talmont Arpt(LSO)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LSP</code>
+    <DestinationName>Josefa Camejo iNTL</DestinationName>
+    <DestinationStr>Josefa Camejo iNTL(LSP)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LSP</code>
+    <DestinationName>Las Piedras</DestinationName>
+    <DestinationStr>Las Piedras(LSP)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LSQ</code>
+    <DestinationName>Los Angeles</DestinationName>
+    <DestinationStr>Los Angeles(LSQ)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LSQ</code>
+    <DestinationName>Maria Dolores Arpt</DestinationName>
+    <DestinationStr>Maria Dolores Arpt(LSQ)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LSS</code>
+    <DestinationName>Les Saintes</DestinationName>
+    <DestinationStr>Les Saintes(LSS)-Guadeloupe</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LST</code>
+    <DestinationName>Launceston Arpt</DestinationName>
+    <DestinationStr>Launceston Arpt(LST)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LST</code>
+    <DestinationName>Launceston</DestinationName>
+    <DestinationStr>Launceston(LST)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LSV</code>
+    <DestinationName>Nellis Air Force Base</DestinationName>
+    <DestinationStr>Nellis Air Force Base(LSV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LSY</code>
+    <DestinationName>Lismore Airport</DestinationName>
+    <DestinationStr>Lismore Airport(LSY)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LSY</code>
+    <DestinationName>Lismore</DestinationName>
+    <DestinationStr>Lismore(LSY)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LTA</code>
+    <DestinationName>Tzaneen Arpt</DestinationName>
+    <DestinationStr>Tzaneen Arpt(LTA)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LTA</code>
+    <DestinationName>Tzaneen</DestinationName>
+    <DestinationStr>Tzaneen(LTA)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LTD</code>
+    <DestinationName>Ghadames</DestinationName>
+    <DestinationStr>Ghadames(LTD)-Libyan Arab Jamahiriya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LTH</code>
+    <DestinationName>Lathrop Wells</DestinationName>
+    <DestinationStr>Lathrop Wells(LTH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LTK</code>
+    <DestinationName>Hmelmin Airport</DestinationName>
+    <DestinationStr>Hmelmin Airport(LTK)-Syrian Arab Rep.</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LTK</code>
+    <DestinationName>Latakia</DestinationName>
+    <DestinationStr>Latakia(LTK)-Syrian Arab Rep.</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LTL</code>
+    <DestinationName>Lastourville</DestinationName>
+    <DestinationStr>Lastourville(LTL)-Gabon</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LTN</code>
+    <DestinationName>Luton Arpt</DestinationName>
+    <DestinationStr>Luton Arpt(LTN)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LTN</code>
+    <DestinationName>Luton</DestinationName>
+    <DestinationStr>Luton(LTN)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LTO</code>
+    <DestinationName>Loreto Intl Arpt</DestinationName>
+    <DestinationStr>Loreto Intl Arpt(LTO)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LTO</code>
+    <DestinationName>Loreto</DestinationName>
+    <DestinationStr>Loreto(LTO)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LTQ</code>
+    <DestinationName>Le Touquet Arpt</DestinationName>
+    <DestinationStr>Le Touquet Arpt(LTQ)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LTQ</code>
+    <DestinationName>Le Touquet</DestinationName>
+    <DestinationStr>Le Touquet(LTQ)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LTR</code>
+    <DestinationName>Letterkenny</DestinationName>
+    <DestinationStr>Letterkenny(LTR)-Ireland, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LTS</code>
+    <DestinationName>Altus Airforce Base</DestinationName>
+    <DestinationStr>Altus Airforce Base(LTS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LTS</code>
+    <DestinationName>Altus</DestinationName>
+    <DestinationStr>Altus(LTS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LTT</code>
+    <DestinationName>La Mole Arpt</DestinationName>
+    <DestinationStr>La Mole Arpt(LTT)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LTT</code>
+    <DestinationName>Saint Tropez</DestinationName>
+    <DestinationStr>Saint Tropez(LTT)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LTT</code>
+    <DestinationName>St Tropez</DestinationName>
+    <DestinationStr>St Tropez(LTT)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LTU</code>
+    <DestinationName>Latur Arpt</DestinationName>
+    <DestinationStr>Latur Arpt(LTU)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LTU</code>
+    <DestinationName>Latur</DestinationName>
+    <DestinationStr>Latur(LTU)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LTW</code>
+    <DestinationName>Leonardtown</DestinationName>
+    <DestinationStr>Leonardtown(LTW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LTX</code>
+    <DestinationName>Cotapaxi Intl Arpt</DestinationName>
+    <DestinationStr>Cotapaxi Intl Arpt(LTX)-Ecuador</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LTX</code>
+    <DestinationName>Latacunga</DestinationName>
+    <DestinationStr>Latacunga(LTX)-Ecuador</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LUA</code>
+    <DestinationName>Lukla</DestinationName>
+    <DestinationStr>Lukla(LUA)-Nepal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LUD</code>
+    <DestinationName>Luderitz Arpt</DestinationName>
+    <DestinationStr>Luderitz Arpt(LUD)-Namibia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LUD</code>
+    <DestinationName>Luderitz</DestinationName>
+    <DestinationStr>Luderitz(LUD)-Namibia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LUF</code>
+    <DestinationName>Luke AFB</DestinationName>
+    <DestinationStr>Luke AFB(LUF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LUG</code>
+    <DestinationName>Agno Airport</DestinationName>
+    <DestinationStr>Agno Airport(LUG)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LUG</code>
+    <DestinationName>Lugano</DestinationName>
+    <DestinationStr>Lugano(LUG)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LUH</code>
+    <DestinationName>Ludhiana Arpt</DestinationName>
+    <DestinationStr>Ludhiana Arpt(LUH)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LUH</code>
+    <DestinationName>Ludhiana</DestinationName>
+    <DestinationStr>Ludhiana(LUH)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LUK</code>
+    <DestinationName>Cincinnati Municipal Arpt</DestinationName>
+    <DestinationStr>Cincinnati Municipal Arpt(LUK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LUL</code>
+    <DestinationName>Hesler Noble Field</DestinationName>
+    <DestinationStr>Hesler Noble Field(LUL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LUL</code>
+    <DestinationName>Laurel</DestinationName>
+    <DestinationStr>Laurel(LUL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LUM</code>
+    <DestinationName>Luxi</DestinationName>
+    <DestinationStr>Luxi(LUM)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LUM</code>
+    <DestinationName>Mangshi</DestinationName>
+    <DestinationStr>Mangshi(LUM)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LUN</code>
+    <DestinationName>Lusaka Airport</DestinationName>
+    <DestinationStr>Lusaka Airport(LUN)-Zambia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LUN</code>
+    <DestinationName>Lusaka</DestinationName>
+    <DestinationStr>Lusaka(LUN)-Zambia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LUO</code>
+    <DestinationName>Luena</DestinationName>
+    <DestinationStr>Luena(LUO)-Angola</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LUP</code>
+    <DestinationName>Kalaupapa Municipal</DestinationName>
+    <DestinationStr>Kalaupapa Municipal(LUP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LUP</code>
+    <DestinationName>Kalaupapa</DestinationName>
+    <DestinationStr>Kalaupapa(LUP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LUP</code>
+    <DestinationName>Molokai</DestinationName>
+    <DestinationStr>Molokai(LUP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LUQ</code>
+    <DestinationName>San Luis Cty Arpt</DestinationName>
+    <DestinationStr>San Luis Cty Arpt(LUQ)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LUQ</code>
+    <DestinationName>San Luis</DestinationName>
+    <DestinationStr>San Luis(LUQ)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LUR</code>
+    <DestinationName>Cape Lisburne</DestinationName>
+    <DestinationStr>Cape Lisburne(LUR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LUV</code>
+    <DestinationName>Langgur</DestinationName>
+    <DestinationStr>Langgur(LUV)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LUW</code>
+    <DestinationName>Luwuk Airport</DestinationName>
+    <DestinationStr>Luwuk Airport(LUW)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LUW</code>
+    <DestinationName>Luwuk</DestinationName>
+    <DestinationStr>Luwuk(LUW)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LUW</code>
+    <DestinationName>Syukuran Aminuddin Amir Arpt</DestinationName>
+    <DestinationStr>Syukuran Aminuddin Amir Arpt(LUW)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LUX</code>
+    <DestinationName>Luxembourg Arpt</DestinationName>
+    <DestinationStr>Luxembourg Arpt(LUX)-Luxembourg</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LUX</code>
+    <DestinationName>Luxembourg</DestinationName>
+    <DestinationStr>Luxembourg(LUX)-Luxembourg</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LUY</code>
+    <DestinationName>Lugo</DestinationName>
+    <DestinationStr>Lugo(LUY)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LUZ</code>
+    <DestinationName>Lublin Arpt</DestinationName>
+    <DestinationStr>Lublin Arpt(LUZ)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LUZ</code>
+    <DestinationName>Lublin</DestinationName>
+    <DestinationStr>Lublin(LUZ)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LVA</code>
+    <DestinationName>Entrammes</DestinationName>
+    <DestinationStr>Entrammes(LVA)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LVA</code>
+    <DestinationName>Laval</DestinationName>
+    <DestinationStr>Laval(LVA)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LVB</code>
+    <DestinationName>Livramento</DestinationName>
+    <DestinationStr>Livramento(LVB)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LVD</code>
+    <DestinationName>Lime Village Arpt</DestinationName>
+    <DestinationStr>Lime Village Arpt(LVD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LVD</code>
+    <DestinationName>Lime Village</DestinationName>
+    <DestinationStr>Lime Village(LVD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LVI</code>
+    <DestinationName>Livingstone Arpt</DestinationName>
+    <DestinationStr>Livingstone Arpt(LVI)-Zambia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LVI</code>
+    <DestinationName>Livingstone</DestinationName>
+    <DestinationStr>Livingstone(LVI)-Zambia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LVK</code>
+    <DestinationName>Bron Airport</DestinationName>
+    <DestinationStr>Bron Airport(LVK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LVK</code>
+    <DestinationName>Livermore</DestinationName>
+    <DestinationStr>Livermore(LVK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LVM</code>
+    <DestinationName>Livingston</DestinationName>
+    <DestinationStr>Livingston(LVM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LVM</code>
+    <DestinationName>Mission Field</DestinationName>
+    <DestinationStr>Mission Field(LVM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LVO</code>
+    <DestinationName>Laverton Airport</DestinationName>
+    <DestinationStr>Laverton Airport(LVO)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LVO</code>
+    <DestinationName>Laverton</DestinationName>
+    <DestinationStr>Laverton(LVO)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LVR</code>
+    <DestinationName>Lucas Do Rio Verde</DestinationName>
+    <DestinationStr>Lucas Do Rio Verde(LVR)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LVS</code>
+    <DestinationName>Las Vegas Arpt</DestinationName>
+    <DestinationStr>Las Vegas Arpt(LVS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LVS</code>
+    <DestinationName>Las Vegas</DestinationName>
+    <DestinationStr>Las Vegas(LVS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LWB</code>
+    <DestinationName>Greenbrier Valley Arpt</DestinationName>
+    <DestinationStr>Greenbrier Valley Arpt(LWB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LWB</code>
+    <DestinationName>Lewisburg</DestinationName>
+    <DestinationStr>Lewisburg(LWB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LWC</code>
+    <DestinationName>Lawrence Municipal</DestinationName>
+    <DestinationStr>Lawrence Municipal(LWC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LWC</code>
+    <DestinationName>Lawrence</DestinationName>
+    <DestinationStr>Lawrence(LWC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LWK</code>
+    <DestinationName>Tingwall Arpt</DestinationName>
+    <DestinationStr>Tingwall Arpt(LWK)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LWL</code>
+    <DestinationName>Wells</DestinationName>
+    <DestinationStr>Wells(LWL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LWM</code>
+    <DestinationName>Lawrence Arpt</DestinationName>
+    <DestinationStr>Lawrence Arpt(LWM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LWM</code>
+    <DestinationName>Lawrence</DestinationName>
+    <DestinationStr>Lawrence(LWM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LWO</code>
+    <DestinationName>Lvov</DestinationName>
+    <DestinationStr>Lvov(LWO)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LWO</code>
+    <DestinationName>Snilow Arpt</DestinationName>
+    <DestinationStr>Snilow Arpt(LWO)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LWR</code>
+    <DestinationName>Leeuwarden</DestinationName>
+    <DestinationStr>Leeuwarden(LWR)-Netherlands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LWS</code>
+    <DestinationName>Lewiston Nez Pierce Arpt</DestinationName>
+    <DestinationStr>Lewiston Nez Pierce Arpt(LWS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LWS</code>
+    <DestinationName>Lewiston</DestinationName>
+    <DestinationStr>Lewiston(LWS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LWT</code>
+    <DestinationName>Lewistown Municipal</DestinationName>
+    <DestinationStr>Lewistown Municipal(LWT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LWT</code>
+    <DestinationName>Lewistown</DestinationName>
+    <DestinationStr>Lewistown(LWT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LWY</code>
+    <DestinationName>Lawas Arpt</DestinationName>
+    <DestinationStr>Lawas Arpt(LWY)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LWY</code>
+    <DestinationName>Lawas</DestinationName>
+    <DestinationStr>Lawas(LWY)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LXA</code>
+    <DestinationName>Lhasa Arpt</DestinationName>
+    <DestinationStr>Lhasa Arpt(LXA)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LXA</code>
+    <DestinationName>Lhasa</DestinationName>
+    <DestinationStr>Lhasa(LXA)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LXG</code>
+    <DestinationName>Luang Namtha Airport</DestinationName>
+    <DestinationStr>Luang Namtha Airport(LXG)-Lao, People's Dem. Rep.</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LXG</code>
+    <DestinationName>Luang Namtha</DestinationName>
+    <DestinationStr>Luang Namtha(LXG)-Lao, People's Dem. Rep.</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LXH</code>
+    <DestinationName>Luchon</DestinationName>
+    <DestinationStr>Luchon(LXH)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LXN</code>
+    <DestinationName>Jim Kelley Field</DestinationName>
+    <DestinationStr>Jim Kelley Field(LXN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LXN</code>
+    <DestinationName>Lexington</DestinationName>
+    <DestinationStr>Lexington(LXN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LXR</code>
+    <DestinationName>Luxor Airport</DestinationName>
+    <DestinationStr>Luxor Airport(LXR)-Egypt</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LXR</code>
+    <DestinationName>Luxor</DestinationName>
+    <DestinationStr>Luxor(LXR)-Egypt</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LXS</code>
+    <DestinationName>Limnos Airport</DestinationName>
+    <DestinationStr>Limnos Airport(LXS)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LXS</code>
+    <DestinationName>Limnos</DestinationName>
+    <DestinationStr>Limnos(LXS)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LXV</code>
+    <DestinationName>Leadville Arpt</DestinationName>
+    <DestinationStr>Leadville Arpt(LXV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LXV</code>
+    <DestinationName>Leadville</DestinationName>
+    <DestinationStr>Leadville(LXV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LYA</code>
+    <DestinationName>Luoyang Arpt</DestinationName>
+    <DestinationStr>Luoyang Arpt(LYA)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LYA</code>
+    <DestinationName>Luoyang</DestinationName>
+    <DestinationStr>Luoyang(LYA)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LYB</code>
+    <DestinationName>Edward Bodden Arpt</DestinationName>
+    <DestinationStr>Edward Bodden Arpt(LYB)-Cayman Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LYB</code>
+    <DestinationName>Little Cayman</DestinationName>
+    <DestinationStr>Little Cayman(LYB)-Cayman Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LYC</code>
+    <DestinationName>Hedlunda Arpt</DestinationName>
+    <DestinationStr>Hedlunda Arpt(LYC)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LYC</code>
+    <DestinationName>Lycksele</DestinationName>
+    <DestinationStr>Lycksele(LYC)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LYG</code>
+    <DestinationName>Lianyungang Arpt</DestinationName>
+    <DestinationStr>Lianyungang Arpt(LYG)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LYG</code>
+    <DestinationName>Lianyungang</DestinationName>
+    <DestinationStr>Lianyungang(LYG)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LYH</code>
+    <DestinationName>Lynchburg Municipal</DestinationName>
+    <DestinationStr>Lynchburg Municipal(LYH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LYH</code>
+    <DestinationName>Lynchburg</DestinationName>
+    <DestinationStr>Lynchburg(LYH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LYI</code>
+    <DestinationName>Linyi Arpt</DestinationName>
+    <DestinationStr>Linyi Arpt(LYI)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LYI</code>
+    <DestinationName>Linyi</DestinationName>
+    <DestinationStr>Linyi(LYI)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LYN</code>
+    <DestinationName>Bron Arpt</DestinationName>
+    <DestinationStr>Bron Arpt(LYN)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LYP</code>
+    <DestinationName>Faisalabad International Arpt</DestinationName>
+    <DestinationStr>Faisalabad International Arpt(LYP)-Pakistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LYP</code>
+    <DestinationName>Faisalabad</DestinationName>
+    <DestinationStr>Faisalabad(LYP)-Pakistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LYR</code>
+    <DestinationName>Longyearbyen</DestinationName>
+    <DestinationStr>Longyearbyen(LYR)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LYR</code>
+    <DestinationName>Svalbard Arpt</DestinationName>
+    <DestinationStr>Svalbard Arpt(LYR)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LYS</code>
+    <DestinationName>Lyon Saint Exupery Arpt</DestinationName>
+    <DestinationStr>Lyon Saint Exupery Arpt(LYS)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LYS</code>
+    <DestinationName>Lyon</DestinationName>
+    <DestinationStr>Lyon(LYS)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LYU</code>
+    <DestinationName>Ely Mn</DestinationName>
+    <DestinationStr>Ely Mn(LYU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LYU</code>
+    <DestinationName>Ely Municipal Arpt</DestinationName>
+    <DestinationStr>Ely Municipal Arpt(LYU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LYX</code>
+    <DestinationName>Lydd Intl Arpt</DestinationName>
+    <DestinationStr>Lydd Intl Arpt(LYX)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LYX</code>
+    <DestinationName>Lydd</DestinationName>
+    <DestinationStr>Lydd(LYX)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LZC</code>
+    <DestinationName>Lazaro Cardenas Arpt</DestinationName>
+    <DestinationStr>Lazaro Cardenas Arpt(LZC)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LZC</code>
+    <DestinationName>Lazaro Cardenas Michoacan</DestinationName>
+    <DestinationStr>Lazaro Cardenas Michoacan(LZC)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LZD</code>
+    <DestinationName>Lanzhoudong Airport</DestinationName>
+    <DestinationStr>Lanzhoudong Airport(LZD)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LZH</code>
+    <DestinationName>Liuzhou Airport</DestinationName>
+    <DestinationStr>Liuzhou Airport(LZH)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LZH</code>
+    <DestinationName>Liuzhou</DestinationName>
+    <DestinationStr>Liuzhou(LZH)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LZO</code>
+    <DestinationName>Luzhou Arpt</DestinationName>
+    <DestinationStr>Luzhou Arpt(LZO)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LZO</code>
+    <DestinationName>Luzhou</DestinationName>
+    <DestinationStr>Luzhou(LZO)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LZR</code>
+    <DestinationName>Lizard Island Arpt</DestinationName>
+    <DestinationStr>Lizard Island Arpt(LZR)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LZR</code>
+    <DestinationName>Lizard Island</DestinationName>
+    <DestinationStr>Lizard Island(LZR)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LZU</code>
+    <DestinationName>Lawrenceville</DestinationName>
+    <DestinationStr>Lawrenceville(LZU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LZY</code>
+    <DestinationName>Linzhi Airport</DestinationName>
+    <DestinationStr>Linzhi Airport(LZY)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LZY</code>
+    <DestinationName>Nyingchi Mainling Arpt</DestinationName>
+    <DestinationStr>Nyingchi Mainling Arpt(LZY)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LZY</code>
+    <DestinationName>Nyingchi</DestinationName>
+    <DestinationStr>Nyingchi(LZY)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MAR</code>
+    <DestinationName>La Chinita Intl</DestinationName>
+    <DestinationStr>La Chinita Intl(MAR)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MCN</code>
+    <DestinationName>Lewis B Wilson</DestinationName>
+    <DestinationStr>Lewis B Wilson(MCN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MLA</code>
+    <DestinationName>Luqa Airport</DestinationName>
+    <DestinationStr>Luqa Airport(MLA)-Malta</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MSY</code>
+    <DestinationName>Louis Armstrong Intl Arpt</DestinationName>
+    <DestinationStr>Louis Armstrong Intl Arpt(MSY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MTR</code>
+    <DestinationName>Los Garzones Arpt</DestinationName>
+    <DestinationStr>Los Garzones Arpt(MTR)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MWC</code>
+    <DestinationName>Lawrence J Timmerman Arpt</DestinationName>
+    <DestinationStr>Lawrence J Timmerman Arpt(MWC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MZL</code>
+    <DestinationName>La Nubia Arpt</DestinationName>
+    <DestinationStr>La Nubia Arpt(MZL)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NAS</code>
+    <DestinationName>Lynden Pindling Intl</DestinationName>
+    <DestinationStr>Lynden Pindling Intl(NAS)-Bahamas</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NDO</code>
+    <DestinationName>La Palma del Condado</DestinationName>
+    <DestinationStr>La Palma del Condado(NDO)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NLC</code>
+    <DestinationName>Lemoore</DestinationName>
+    <DestinationStr>Lemoore(NLC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ODN</code>
+    <DestinationName>Long Seridan Arpt</DestinationName>
+    <DestinationStr>Long Seridan Arpt(ODN)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ODN</code>
+    <DestinationName>Long Seridan</DestinationName>
+    <DestinationStr>Long Seridan(ODN)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OSR</code>
+    <DestinationName>Leos Janacek Airport</DestinationName>
+    <DestinationStr>Leos Janacek Airport(OSR)-Czech Republic</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OUD</code>
+    <DestinationName>Les Angades Arpt</DestinationName>
+    <DestinationStr>Les Angades Arpt(OUD)-Morocco</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OZC</code>
+    <DestinationName>Labo Airport</DestinationName>
+    <DestinationStr>Labo Airport(OZC)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PGF</code>
+    <DestinationName>Llabanere Arpt</DestinationName>
+    <DestinationStr>Llabanere Arpt(PGF)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PLG</code>
+    <DestinationName>La Plagne</DestinationName>
+    <DestinationStr>La Plagne(PLG)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PMD</code>
+    <DestinationName>La Palmdale Regional Arpt</DestinationName>
+    <DestinationStr>La Palmdale Regional Arpt(PMD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PNQ</code>
+    <DestinationName>Lohegaon Arpt</DestinationName>
+    <DestinationStr>Lohegaon Arpt(PNQ)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POC</code>
+    <DestinationName>La Verne</DestinationName>
+    <DestinationStr>La Verne(POC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POZ</code>
+    <DestinationName>Lawica Arpt</DestinationName>
+    <DestinationStr>Lawica Arpt(POZ)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PSR</code>
+    <DestinationName>Liberi Airport</DestinationName>
+    <DestinationStr>Liberi Airport(PSR)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PTP</code>
+    <DestinationName>Le Raizet Arpt</DestinationName>
+    <DestinationStr>Le Raizet Arpt(PTP)-Guadeloupe</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QAQ</code>
+    <DestinationName>Laquila</DestinationName>
+    <DestinationStr>Laquila(QAQ)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QBH</code>
+    <DestinationName>Levallois</DestinationName>
+    <DestinationStr>Levallois(QBH)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QEW</code>
+    <DestinationName>Leicester</DestinationName>
+    <DestinationStr>Leicester(QEW)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QGB</code>
+    <DestinationName>Limeira</DestinationName>
+    <DestinationStr>Limeira(QGB)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QGC</code>
+    <DestinationName>Lencois Paulista</DestinationName>
+    <DestinationStr>Lencois Paulista(QGC)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QII</code>
+    <DestinationName>Lindau</DestinationName>
+    <DestinationStr>Lindau(QII)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QLB</code>
+    <DestinationName>Lajeado</DestinationName>
+    <DestinationStr>Lajeado(QLB)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QLE</code>
+    <DestinationName>Leeton Arpt</DestinationName>
+    <DestinationStr>Leeton Arpt(QLE)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QLE</code>
+    <DestinationName>Leeton</DestinationName>
+    <DestinationStr>Leeton(QLE)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QLF</code>
+    <DestinationName>Lahti</DestinationName>
+    <DestinationStr>Lahti(QLF)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QLG</code>
+    <DestinationName>Landshut</DestinationName>
+    <DestinationStr>Landshut(QLG)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QLI</code>
+    <DestinationName>Limassol</DestinationName>
+    <DestinationStr>Limassol(QLI)-Cyprus</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QLJ</code>
+    <DestinationName>Lucerne</DestinationName>
+    <DestinationStr>Lucerne(QLJ)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QLJ</code>
+    <DestinationName>Luzern</DestinationName>
+    <DestinationStr>Luzern(QLJ)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QLP</code>
+    <DestinationName>La Spezia</DestinationName>
+    <DestinationStr>La Spezia(QLP)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QLQ</code>
+    <DestinationName>Lerida</DestinationName>
+    <DestinationStr>Lerida(QLQ)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QLR</code>
+    <DestinationName>Leiria</DestinationName>
+    <DestinationStr>Leiria(QLR)-Portugal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QLS</code>
+    <DestinationName>Lausanne</DestinationName>
+    <DestinationStr>Lausanne(QLS)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QLT</code>
+    <DestinationName>Latina</DestinationName>
+    <DestinationStr>Latina(QLT)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QLW</code>
+    <DestinationName>Lavras</DestinationName>
+    <DestinationStr>Lavras(QLW)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QWM</code>
+    <DestinationName>Longmont</DestinationName>
+    <DestinationStr>Longmont(QWM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QYW</code>
+    <DestinationName>Le Vieux Port Harbour</DestinationName>
+    <DestinationStr>Le Vieux Port Harbour(QYW)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RAO</code>
+    <DestinationName>Leite Lopes</DestinationName>
+    <DestinationStr>Leite Lopes(RAO)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RDN</code>
+    <DestinationName>Lts Pulau Redang Arpt</DestinationName>
+    <DestinationStr>Lts Pulau Redang Arpt(RDN)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>REX</code>
+    <DestinationName>Lucio Blanco International</DestinationName>
+    <DestinationStr>Lucio Blanco International(REX)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RJL</code>
+    <DestinationName>Logrono</DestinationName>
+    <DestinationStr>Logrono(RJL)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RLG</code>
+    <DestinationName>Laage Arpt</DestinationName>
+    <DestinationStr>Laage Arpt(RLG)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RVE</code>
+    <DestinationName>Los Colonizadores Arpt</DestinationName>
+    <DestinationStr>Los Colonizadores Arpt(RVE)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RYL</code>
+    <DestinationName>Lower Zambezi Nat Park</DestinationName>
+    <DestinationStr>Lower Zambezi Nat Park(RYL)-Zambia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SAA</code>
+    <DestinationName>Lar Shively Arpt</DestinationName>
+    <DestinationStr>Lar Shively Arpt(SAA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SAN</code>
+    <DestinationName>Lindbergh Field Arpt</DestinationName>
+    <DestinationStr>Lindbergh Field Arpt(SAN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SDB</code>
+    <DestinationName>Langebaanweg Arpt</DestinationName>
+    <DestinationStr>Langebaanweg Arpt(SDB)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SDD</code>
+    <DestinationName>Lubango</DestinationName>
+    <DestinationStr>Lubango(SDD)-Angola</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SDF</code>
+    <DestinationName>Louisville International Arpt</DestinationName>
+    <DestinationStr>Louisville International Arpt(SDF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SDF</code>
+    <DestinationName>Louisville</DestinationName>
+    <DestinationStr>Louisville(SDF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SFD</code>
+    <DestinationName>Las Flecheras Arpt</DestinationName>
+    <DestinationStr>Las Flecheras Arpt(SFD)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SJD</code>
+    <DestinationName>Los Cabos International</DestinationName>
+    <DestinationStr>Los Cabos International(SJD)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SJU</code>
+    <DestinationName>Luiz Munoz Marin Intl</DestinationName>
+    <DestinationStr>Luiz Munoz Marin Intl(SJU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SPC</code>
+    <DestinationName>La Palma Arpt</DestinationName>
+    <DestinationStr>La Palma Arpt(SPC)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SSA</code>
+    <DestinationName>Luis E Magalhaes Arpt</DestinationName>
+    <DestinationStr>Luis E Magalhaes Arpt(SSA)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SSQ</code>
+    <DestinationName>La Sarre</DestinationName>
+    <DestinationStr>La Sarre(SSQ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>STL</code>
+    <DestinationName>Lambert St Louis Intl</DestinationName>
+    <DestinationStr>Lambert St Louis Intl(STL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SUF</code>
+    <DestinationName>Lamezia Terme</DestinationName>
+    <DestinationStr>Lamezia Terme(SUF)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAD</code>
+    <DestinationName>Las Animas Arpt</DestinationName>
+    <DestinationStr>Las Animas Arpt(TAD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAO</code>
+    <DestinationName>Liuting Arpt</DestinationName>
+    <DestinationStr>Liuting Arpt(TAO)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TCO</code>
+    <DestinationName>La Florida Arpt</DestinationName>
+    <DestinationStr>La Florida Arpt(TCO)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TER</code>
+    <DestinationName>Lajes Arpt</DestinationName>
+    <DestinationStr>Lajes Arpt(TER)-Portugal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TGN</code>
+    <DestinationName>La Trobe Traralgon Arpt</DestinationName>
+    <DestinationStr>La Trobe Traralgon Arpt(TGN)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TLD</code>
+    <DestinationName>Limpopo Valley Arpt</DestinationName>
+    <DestinationStr>Limpopo Valley Arpt(TLD)-Botswana</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TLL</code>
+    <DestinationName>Lennart Meri Airport</DestinationName>
+    <DestinationStr>Lennart Meri Airport(TLL)-Estonia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TLN</code>
+    <DestinationName>Le Palyvestre Arpt</DestinationName>
+    <DestinationStr>Le Palyvestre Arpt(TLN)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TUA</code>
+    <DestinationName>Luis A mantilla intl</DestinationName>
+    <DestinationStr>Luis A mantilla intl(TUA)-Ecuador</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TVL</code>
+    <DestinationName>Lake Tahoe Arpt</DestinationName>
+    <DestinationStr>Lake Tahoe Arpt(TVL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TVL</code>
+    <DestinationName>Lake Tahoe</DestinationName>
+    <DestinationStr>Lake Tahoe(TVL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UBS</code>
+    <DestinationName>Lowndes Cty Arpt</DestinationName>
+    <DestinationStr>Lowndes Cty Arpt(UBS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UCK</code>
+    <DestinationName>Lutsk Arpt</DestinationName>
+    <DestinationStr>Lutsk Arpt(UCK)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UCK</code>
+    <DestinationName>Lutsk</DestinationName>
+    <DestinationStr>Lutsk(UCK)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ULC</code>
+    <DestinationName>Los Cerrillos</DestinationName>
+    <DestinationStr>Los Cerrillos(ULC)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ULK</code>
+    <DestinationName>Lensk Airport</DestinationName>
+    <DestinationStr>Lensk Airport(ULK)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ULK</code>
+    <DestinationName>Lensk</DestinationName>
+    <DestinationStr>Lensk(ULK)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VAV</code>
+    <DestinationName>Lupepau U Arpt</DestinationName>
+    <DestinationStr>Lupepau U Arpt(VAV)-Tonga</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VGT</code>
+    <DestinationName>Las Vegas North Air Terminal</DestinationName>
+    <DestinationStr>Las Vegas North Air Terminal(VGT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VNS</code>
+    <DestinationName>Lal Bahadur Shastri Arpt</DestinationName>
+    <DestinationStr>Lal Bahadur Shastri Arpt(VNS)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VSG</code>
+    <DestinationName>Lugansk Arpt</DestinationName>
+    <DestinationStr>Lugansk Arpt(VSG)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VSG</code>
+    <DestinationName>Lugansk</DestinationName>
+    <DestinationStr>Lugansk(VSG)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VTU</code>
+    <DestinationName>Las Tunas</DestinationName>
+    <DestinationStr>Las Tunas(VTU)-Cuba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VXC</code>
+    <DestinationName>Lichinga Airport</DestinationName>
+    <DestinationStr>Lichinga Airport(VXC)-Mozambique</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VXC</code>
+    <DestinationName>Lichinga</DestinationName>
+    <DestinationStr>Lichinga(VXC)-Mozambique</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WJF</code>
+    <DestinationName>Lancaster</DestinationName>
+    <DestinationStr>Lancaster(WJF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WLB</code>
+    <DestinationName>Labouchere Bay Arpt</DestinationName>
+    <DestinationStr>Labouchere Bay Arpt(WLB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WLB</code>
+    <DestinationName>Labouchere Bay</DestinationName>
+    <DestinationStr>Labouchere Bay(WLB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XCC</code>
+    <DestinationName>Le Creusot</DestinationName>
+    <DestinationStr>Le Creusot(XCC)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XCT</code>
+    <DestinationName>La Ciotat</DestinationName>
+    <DestinationStr>La Ciotat(XCT)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XEE</code>
+    <DestinationName>Lac Edouard</DestinationName>
+    <DestinationStr>Lac Edouard(XEE)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XEH</code>
+    <DestinationName>Ladysmith</DestinationName>
+    <DestinationStr>Ladysmith(XEH)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XEJ</code>
+    <DestinationName>Langford</DestinationName>
+    <DestinationStr>Langford(XEJ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XGC</code>
+    <DestinationName>Lund C</DestinationName>
+    <DestinationStr>Lund C(XGC)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XGX</code>
+    <DestinationName>Levi</DestinationName>
+    <DestinationStr>Levi(XGX)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XKI</code>
+    <DestinationName>Lillestrom</DestinationName>
+    <DestinationStr>Lillestrom(XKI)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XKK</code>
+    <DestinationName>Larvik</DestinationName>
+    <DestinationStr>Larvik(XKK)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XLD</code>
+    <DestinationName>Landerneau</DestinationName>
+    <DestinationStr>Landerneau(XLD)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XLE</code>
+    <DestinationName>Lens</DestinationName>
+    <DestinationStr>Lens(XLE)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XLG</code>
+    <DestinationName>Lognes</DestinationName>
+    <DestinationStr>Lognes(XLG)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XLL</code>
+    <DestinationName>Lons Le Saunier</DestinationName>
+    <DestinationStr>Lons Le Saunier(XLL)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XLN</code>
+    <DestinationName>Laon</DestinationName>
+    <DestinationStr>Laon(XLN)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XLR</code>
+    <DestinationName>Libourne</DestinationName>
+    <DestinationStr>Libourne(XLR)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XLX</code>
+    <DestinationName>Lisieux</DestinationName>
+    <DestinationStr>Lisieux(XLX)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XQI</code>
+    <DestinationName>Loughborough</DestinationName>
+    <DestinationStr>Loughborough(XQI)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XQL</code>
+    <DestinationName>Lancaster</DestinationName>
+    <DestinationStr>Lancaster(XQL)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XQP</code>
+    <DestinationName>La Managua Arpt</DestinationName>
+    <DestinationStr>La Managua Arpt(XQP)-Costa Rica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XQT</code>
+    <DestinationName>Lichfield</DestinationName>
+    <DestinationStr>Lichfield(XQT)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XRO</code>
+    <DestinationName>La Roche Sur Yon</DestinationName>
+    <DestinationStr>La Roche Sur Yon(XRO)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XRY</code>
+    <DestinationName>La Parra Arpt</DestinationName>
+    <DestinationStr>La Parra Arpt(XRY)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XUH</code>
+    <DestinationName>Levanger</DestinationName>
+    <DestinationStr>Levanger(XUH)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XUI</code>
+    <DestinationName>Lysaker</DestinationName>
+    <DestinationStr>Lysaker(XUI)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XXL</code>
+    <DestinationName>Lille Hammer</DestinationName>
+    <DestinationStr>Lille Hammer(XXL)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XXO</code>
+    <DestinationName>Leksand</DestinationName>
+    <DestinationStr>Leksand(XXO)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XYD</code>
+    <DestinationName>Lyon Cty</DestinationName>
+    <DestinationStr>Lyon Cty(XYD)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XYL</code>
+    <DestinationName>Lyon City</DestinationName>
+    <DestinationStr>Lyon City(XYL)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YDN</code>
+    <DestinationName>Lt W G (Billiy) Barker Airport</DestinationName>
+    <DestinationStr>Lt W G (Billiy) Barker Airport(YDN)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YGL</code>
+    <DestinationName>La Grande Municipal Arpt</DestinationName>
+    <DestinationStr>La Grande Municipal Arpt(YGL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YGL</code>
+    <DestinationName>La Grande</DestinationName>
+    <DestinationStr>La Grande(YGL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YLH</code>
+    <DestinationName>Lansdowne</DestinationName>
+    <DestinationStr>Lansdowne(YLH)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YLL</code>
+    <DestinationName>Lloydminster Arpt</DestinationName>
+    <DestinationStr>Lloydminster Arpt(YLL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YLL</code>
+    <DestinationName>Lloydminster</DestinationName>
+    <DestinationStr>Lloydminster(YLL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YLQ</code>
+    <DestinationName>La Tuque</DestinationName>
+    <DestinationStr>La Tuque(YLQ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YLY</code>
+    <DestinationName>Langley Regional Arpt</DestinationName>
+    <DestinationStr>Langley Regional Arpt(YLY)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YLY</code>
+    <DestinationName>Langley</DestinationName>
+    <DestinationStr>Langley(YLY)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YML</code>
+    <DestinationName>La Malbaie</DestinationName>
+    <DestinationStr>La Malbaie(YML)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YNT</code>
+    <DestinationName>Laishan Arpt</DestinationName>
+    <DestinationStr>Laishan Arpt(YNT)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQL</code>
+    <DestinationName>Lethbridge County Airport</DestinationName>
+    <DestinationStr>Lethbridge County Airport(YQL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQL</code>
+    <DestinationName>Lethbridge</DestinationName>
+    <DestinationStr>Lethbridge(YQL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YVC</code>
+    <DestinationName>Lac La Ronge</DestinationName>
+    <DestinationStr>Lac La Ronge(YVC)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXU</code>
+    <DestinationName>London International</DestinationName>
+    <DestinationStr>London International(YXU)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXU</code>
+    <DestinationName>London</DestinationName>
+    <DestinationStr>London(YXU)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYL</code>
+    <DestinationName>Lynn Lake</DestinationName>
+    <DestinationStr>Lynn Lake(YYL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYZ</code>
+    <DestinationName>Lester B Pearson Intl</DestinationName>
+    <DestinationStr>Lester B Pearson Intl(YYZ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZAO</code>
+    <DestinationName>Laberandie Arpt</DestinationName>
+    <DestinationStr>Laberandie Arpt(ZAO)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZCL</code>
+    <DestinationName>Leobardo C Ruiz International</DestinationName>
+    <DestinationStr>Leobardo C Ruiz International(ZCL)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZGK</code>
+    <DestinationName>Leuven</DestinationName>
+    <DestinationStr>Leuven(ZGK)-Belgium</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZHV</code>
+    <DestinationName>La Chaux de Fonds</DestinationName>
+    <DestinationStr>La Chaux de Fonds(ZHV)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZHW</code>
+    <DestinationName>Langenthal</DestinationName>
+    <DestinationStr>Langenthal(ZHW)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZJA</code>
+    <DestinationName>Le Locle</DestinationName>
+    <DestinationStr>Le Locle(ZJA)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZJC</code>
+    <DestinationName>Lenzburg</DestinationName>
+    <DestinationStr>Lenzburg(ZJC)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZJD</code>
+    <DestinationName>Lenzerheide</DestinationName>
+    <DestinationStr>Lenzerheide(ZJD)-Switzerland</DestinationStr>
+  </Destination> 
+  <Destination>
+    <code>ZJI</code>
+    <DestinationName>Locarno</DestinationName>
+    <DestinationStr>Locarno(ZJI)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZJL</code>
+    <DestinationName>Lyss</DestinationName>
+    <DestinationStr>Lyss(ZJL)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZLR</code>
+    <DestinationName>Linares</DestinationName>
+    <DestinationStr>Linares(ZLR)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZLT</code>
+    <DestinationName>La Tabatiere Arpt</DestinationName>
+    <DestinationStr>La Tabatiere Arpt(ZLT)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZLT</code>
+    <DestinationName>La Tabatiere</DestinationName>
+    <DestinationStr>La Tabatiere(ZLT)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZLU</code>
+    <DestinationName>Ludwigslust</DestinationName>
+    <DestinationStr>Ludwigslust(ZLU)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZNW</code>
+    <DestinationName>Limburg</DestinationName>
+    <DestinationStr>Limburg(ZNW)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZOA</code>
+    <DestinationName>Leverkusen</DestinationName>
+    <DestinationStr>Leverkusen(ZOA)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZOB</code>
+    <DestinationName>Lippstadt</DestinationName>
+    <DestinationStr>Lippstadt(ZOB)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZOC</code>
+    <DestinationName>Ludenscheid</DestinationName>
+    <DestinationStr>Ludenscheid(ZOC)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZOD</code>
+    <DestinationName>Ludwigsburg</DestinationName>
+    <DestinationStr>Ludwigsburg(ZOD)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZOE</code>
+    <DestinationName>Ludwigshafen</DestinationName>
+    <DestinationStr>Ludwigshafen(ZOE)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZOG</code>
+    <DestinationName>Lueneburg</DestinationName>
+    <DestinationStr>Lueneburg(ZOG)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZOH</code>
+    <DestinationName>Luenen</DestinationName>
+    <DestinationStr>Luenen(ZOH)-Germany</DestinationStr>
+  </Destination>
+</DestinationRoot>

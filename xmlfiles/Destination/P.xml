@@ -1,0 +1,4537 @@
+﻿<DestinationRoot>
+  <Destination>
+    <code>NORESULT</code>
+    <DestinationName>NORESULT</DestinationName>
+    <DestinationStr>No Result Found</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AML</code>
+    <DestinationName>Puerto Armuelles</DestinationName>
+    <DestinationStr>Puerto Armuelles(AML)-Panama</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AMQ</code>
+    <DestinationName>Pattimura Arpt</DestinationName>
+    <DestinationStr>Pattimura Arpt(AMQ)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AOL</code>
+    <DestinationName>Paso De Los Libres Arpt</DestinationName>
+    <DestinationStr>Paso De Los Libres Arpt(AOL)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AOL</code>
+    <DestinationName>Paso De Los Libres</DestinationName>
+    <DestinationStr>Paso De Los Libres(AOL)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>APG</code>
+    <DestinationName>Phillips Army Air Field</DestinationName>
+    <DestinationStr>Phillips Army Air Field(APG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>APN</code>
+    <DestinationName>Phelps Collins Arpt</DestinationName>
+    <DestinationStr>Phelps Collins Arpt(APN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ASE</code>
+    <DestinationName>Pitkin Cty Arptt Sardy Fld</DestinationName>
+    <DestinationStr>Pitkin Cty Arptt Sardy Fld(ASE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AZA</code>
+    <DestinationName>Phoenix City</DestinationName>
+    <DestinationStr>Phoenix City(AZA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AZA</code>
+    <DestinationName>Phoenix Mesa Gateway Arpt</DestinationName>
+    <DestinationStr>Phoenix Mesa Gateway Arpt(AZA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BDS</code>
+    <DestinationName>Papola Casale Arpt</DestinationName>
+    <DestinationStr>Papola Casale Arpt(BDS)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BEK</code>
+    <DestinationName>PUTTAPARTHI</DestinationName>
+    <DestinationStr>PUTTAPARTHI(BEK)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BGA</code>
+    <DestinationName>Palonegro International</DestinationName>
+    <DestinationStr>Palonegro International(BGA)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BIA</code>
+    <DestinationName>Poretta Airport</DestinationName>
+    <DestinationStr>Poretta Airport(BIA)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BKS</code>
+    <DestinationName>Padangkemiling Arpt</DestinationName>
+    <DestinationStr>Padangkemiling Arpt(BKS)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BMV</code>
+    <DestinationName>Phung Duc Arpt</DestinationName>
+    <DestinationStr>Phung Duc Arpt(BMV)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BPS</code>
+    <DestinationName>Porto Seguro Arpt</DestinationName>
+    <DestinationStr>Porto Seguro Arpt(BPS)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BPS</code>
+    <DestinationName>Porto Seguro</DestinationName>
+    <DestinationStr>Porto Seguro(BPS)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BQU</code>
+    <DestinationName>Port Elizabeth</DestinationName>
+    <DestinationStr>Port Elizabeth(BQU)-Saint Vincent And The Grenadines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CBN</code>
+    <DestinationName>Penggung Arpt</DestinationName>
+    <DestinationStr>Penggung Arpt(CBN)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CGP</code>
+    <DestinationName>Patenga Arpt</DestinationName>
+    <DestinationStr>Patenga Arpt(CGP)-Bangladesh</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CJB</code>
+    <DestinationName>Peelamedu Airport</DestinationName>
+    <DestinationStr>Peelamedu Airport(CJB)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CLM</code>
+    <DestinationName>Port Angeles</DestinationName>
+    <DestinationStr>Port Angeles(CLM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CMH</code>
+    <DestinationName>Port Columbus Intl Arpt</DestinationName>
+    <DestinationStr>Port Columbus Intl Arpt(CMH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CNG</code>
+    <DestinationName>Parvaud Arpt</DestinationName>
+    <DestinationStr>Parvaud Arpt(CNG)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>COF</code>
+    <DestinationName>Patrick AFB</DestinationName>
+    <DestinationStr>Patrick AFB(COF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>COR</code>
+    <DestinationName>Pajas Blanco Arpt</DestinationName>
+    <DestinationStr>Pajas Blanco Arpt(COR)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CVM</code>
+    <DestinationName>Pedro J Mendez International</DestinationName>
+    <DestinationStr>Pedro J Mendez International(CVM)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DBL</code>
+    <DestinationName>PANAJI</DestinationName>
+    <DestinationStr>PANAJI(DBL)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DCU</code>
+    <DestinationName>Pyor Arpt</DestinationName>
+    <DestinationStr>Pyor Arpt(DCU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DIL</code>
+    <DestinationName>Presidente Nicolau Lobato Intl Arpt</DestinationName>
+    <DestinationStr>Presidente Nicolau Lobato Intl Arpt(DIL)-Timor Leste</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DNR</code>
+    <DestinationName>Pleurtuit Arpt</DestinationName>
+    <DestinationStr>Pleurtuit Arpt(DNR)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DVT</code>
+    <DestinationName>Phoenix Deer Valley Airport</DestinationName>
+    <DestinationStr>Phoenix Deer Valley Airport(DVT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EAN</code>
+    <DestinationName>Phifer Field Arpt</DestinationName>
+    <DestinationStr>Phifer Field Arpt(EAN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EAT</code>
+    <DestinationName>Pangborn Memorial Fld</DestinationName>
+    <DestinationStr>Pangborn Memorial Fld(EAT)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>EPU</code>
+    <DestinationName>Parnu Arpt</DestinationName>
+    <DestinationStr>Parnu Arpt(EPU)-Estonia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EPU</code>
+    <DestinationName>Parnu</DestinationName>
+    <DestinationStr>Parnu(EPU)-Estonia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FFO</code>
+    <DestinationName>Patterson AFB</DestinationName>
+    <DestinationStr>Patterson AFB(FFO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FLR</code>
+    <DestinationName>Peretola Arpt</DestinationName>
+    <DestinationStr>Peretola Arpt(FLR)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FMY</code>
+    <DestinationName>Page Field Airport</DestinationName>
+    <DestinationStr>Page Field Airport(FMY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FNJ</code>
+    <DestinationName>Pyongyang</DestinationName>
+    <DestinationStr>Pyongyang(FNJ)-Korea, Democratic Peoples Republic</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FOR</code>
+    <DestinationName>Pinto Martines Arpt</DestinationName>
+    <DestinationStr>Pinto Martines Arpt(FOR)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FST</code>
+    <DestinationName>Pecos County Arpt</DestinationName>
+    <DestinationStr>Pecos County Arpt(FST)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FUE</code>
+    <DestinationName>Puerto Del Rosario</DestinationName>
+    <DestinationStr>Puerto Del Rosario(FUE)-Spain</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>GEN</code>
+    <DestinationName>Puente Genil</DestinationName>
+    <DestinationStr>Puente Genil(GEN)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GPA</code>
+    <DestinationName>Patras</DestinationName>
+    <DestinationStr>Patras(GPA)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GSO</code>
+    <DestinationName>Piedmont Triad Intl</DestinationName>
+    <DestinationStr>Piedmont Triad Intl(GSO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GZA</code>
+    <DestinationName>Palestine</DestinationName>
+    <DestinationStr>Palestine(GZA)-State of Palestine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HAH</code>
+    <DestinationName>Prince Said Ibrahim In</DestinationName>
+    <DestinationStr>Prince Said Ibrahim In(HAH)-Comoros</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HIO</code>
+    <DestinationName>Portland Hillsboro Arpt</DestinationName>
+    <DestinationStr>Portland Hillsboro Arpt(HIO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HKT</code>
+    <DestinationName>Phuket Intl Airport</DestinationName>
+    <DestinationStr>Phuket Intl Airport(HKT)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HKT</code>
+    <DestinationName>Phuket</DestinationName>
+    <DestinationStr>Phuket(HKT)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HLM</code>
+    <DestinationName>Park Township</DestinationName>
+    <DestinationStr>Park Township(HLM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HPP</code>
+    <DestinationName>Poipet</DestinationName>
+    <DestinationStr>Poipet(HPP)-Cambodia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HPV</code>
+    <DestinationName>Princeville Arpt</DestinationName>
+    <DestinationStr>Princeville Arpt(HPV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HPV</code>
+    <DestinationName>Princeville</DestinationName>
+    <DestinationStr>Princeville(HPV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HSK</code>
+    <DestinationName>Pirineos Airport</DestinationName>
+    <DestinationStr>Pirineos Airport(HSK)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HUI</code>
+    <DestinationName>Phu Bai Arpt</DestinationName>
+    <DestinationStr>Phu Bai Arpt(HUI)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IBE</code>
+    <DestinationName>Perales Airport</DestinationName>
+    <DestinationStr>Perales Airport(IBE)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IXP</code>
+    <DestinationName>Pathankot Arpt</DestinationName>
+    <DestinationStr>Pathankot Arpt(IXP)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IXP</code>
+    <DestinationName>Pathankot</DestinationName>
+    <DestinationStr>Pathankot(IXP)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IXT</code>
+    <DestinationName>Pasighat Airport</DestinationName>
+    <DestinationStr>Pasighat Airport(IXT)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IXT</code>
+    <DestinationName>Pasighat</DestinationName>
+    <DestinationStr>Pasighat(IXT)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IXT</code>
+    <DestinationName>PASSIGHAT</DestinationName>
+    <DestinationStr>PASSIGHAT(IXT)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IXZ</code>
+    <DestinationName>Port Blair</DestinationName>
+    <DestinationStr>Port Blair(IXZ)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JAJ</code>
+    <DestinationName>Perimeter Hlpt</DestinationName>
+    <DestinationStr>Perimeter Hlpt(JAJ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JAP</code>
+    <DestinationName>Punta Renes</DestinationName>
+    <DestinationStr>Punta Renes(JAP)-Costa Rica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JAP</code>
+    <DestinationName>Puntarenes Chacarita Arpt</DestinationName>
+    <DestinationStr>Puntarenes Chacarita Arpt(JAP)-Costa Rica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JBS</code>
+    <DestinationName>Pleasanton</DestinationName>
+    <DestinationStr>Pleasanton(JBS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JFR</code>
+    <DestinationName>Paamiut</DestinationName>
+    <DestinationStr>Paamiut(JFR)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JPD</code>
+    <DestinationName>Pasadena</DestinationName>
+    <DestinationStr>Pasadena(JPD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JPT</code>
+    <DestinationName>Park Ten Heliport</DestinationName>
+    <DestinationStr>Park Ten Heliport(JPT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KBR</code>
+    <DestinationName>Pengkalan Chepa</DestinationName>
+    <DestinationStr>Pengkalan Chepa(KBR)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KPB</code>
+    <DestinationName>Point Baker Arpt</DestinationName>
+    <DestinationStr>Point Baker Arpt(KPB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KPB</code>
+    <DestinationName>Point Baker</DestinationName>
+    <DestinationStr>Point Baker(KPB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KPC</code>
+    <DestinationName>Port Clarence</DestinationName>
+    <DestinationStr>Port Clarence(KPC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KPH</code>
+    <DestinationName>Pauloff Arpt</DestinationName>
+    <DestinationStr>Pauloff Arpt(KPH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KPH</code>
+    <DestinationName>Pauloff Harbor</DestinationName>
+    <DestinationStr>Pauloff Harbor(KPH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KPK</code>
+    <DestinationName>Parks</DestinationName>
+    <DestinationStr>Parks(KPK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KPO</code>
+    <DestinationName>Pohang Arpt</DestinationName>
+    <DestinationStr>Pohang Arpt(KPO)-Korea, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KPO</code>
+    <DestinationName>Pohang</DestinationName>
+    <DestinationStr>Pohang(KPO)-Korea, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KPR</code>
+    <DestinationName>Port Williams</DestinationName>
+    <DestinationStr>Port Williams(KPR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KPV</code>
+    <DestinationName>Perryville</DestinationName>
+    <DestinationStr>Perryville(KPV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KPY</code>
+    <DestinationName>Port Bailey</DestinationName>
+    <DestinationStr>Port Bailey(KPY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KTW</code>
+    <DestinationName>Pyrzowice</DestinationName>
+    <DestinationStr>Pyrzowice(KTW)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KYL</code>
+    <DestinationName>Port Largo Arpt</DestinationName>
+    <DestinationStr>Port Largo Arpt(KYL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KZI</code>
+    <DestinationName>Philippos Arpt</DestinationName>
+    <DestinationStr>Philippos Arpt(KZI)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LBH</code>
+    <DestinationName>Palm Beach Arpt</DestinationName>
+    <DestinationStr>Palm Beach Arpt(LBH)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LED</code>
+    <DestinationName>Pulkovo Airport</DestinationName>
+    <DestinationStr>Pulkovo Airport(LED)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LNA</code>
+    <DestinationName>Palm Beach County Arpt</DestinationName>
+    <DestinationStr>Palm Beach County Arpt(LNA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LOP</code>
+    <DestinationName>Praya</DestinationName>
+    <DestinationStr>Praya(LOP)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LQM</code>
+    <DestinationName>Puerto Leguizamo</DestinationName>
+    <DestinationStr>Puerto Leguizamo(LQM)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MCZ</code>
+    <DestinationName>Palmeres Airport</DestinationName>
+    <DestinationStr>Palmeres Airport(MCZ)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MED</code>
+    <DestinationName>Prince Mohammad Bin Abdulaziz Arpt</DestinationName>
+    <DestinationStr>Prince Mohammad Bin Abdulaziz Arpt(MED)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MES</code>
+    <DestinationName>Polonia Arpt</DestinationName>
+    <DestinationStr>Polonia Arpt(MES)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MRU</code>
+    <DestinationName>Plaisance Arptt</DestinationName>
+    <DestinationStr>Plaisance Arptt(MRU)-Mauritius</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NAR</code>
+    <DestinationName>Puerto Nare Airport</DestinationName>
+    <DestinationStr>Puerto Nare Airport(NAR)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NDP</code>
+    <DestinationName>Pensacola Ellyson Naval Air Station</DestinationName>
+    <DestinationStr>Pensacola Ellyson Naval Air Station(NDP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NHK</code>
+    <DestinationName>Patuxent River</DestinationName>
+    <DestinationStr>Patuxent River(NHK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NPA</code>
+    <DestinationName>Pensacola Naval Air Station</DestinationName>
+    <DestinationStr>Pensacola Naval Air Station(NPA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NQN</code>
+    <DestinationName>Presidente Peron Arpt</DestinationName>
+    <DestinationStr>Presidente Peron Arpt(NQN)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NTD</code>
+    <DestinationName>Point Mugu</DestinationName>
+    <DestinationStr>Point Mugu(NTD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NTD</code>
+    <DestinationName>Port Hueneme</DestinationName>
+    <DestinationStr>Port Hueneme(NTD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NTY</code>
+    <DestinationName>Pilansberg Arpt</DestinationName>
+    <DestinationStr>Pilansberg Arpt(NTY)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NWS</code>
+    <DestinationName>Pier 11 Wall St Seaplane Base</DestinationName>
+    <DestinationStr>Pier 11 Wall St Seaplane Base(NWS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OPO</code>
+    <DestinationName>Porto Airport</DestinationName>
+    <DestinationStr>Porto Airport(OPO)-Portugal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OPO</code>
+    <DestinationName>Porto</DestinationName>
+    <DestinationStr>Porto(OPO)-Portugal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ORI</code>
+    <DestinationName>Port Lions</DestinationName>
+    <DestinationStr>Port Lions(ORI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PAB</code>
+    <DestinationName>Bilaspur Airport</DestinationName>
+    <DestinationStr>Bilaspur Airport(PAB)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PAB</code>
+    <DestinationName>Bilaspur</DestinationName>
+    <DestinationStr>Bilaspur(PAB)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PAC</code>
+    <DestinationName>Marcos A Gelabert Intl</DestinationName>
+    <DestinationStr>Marcos A Gelabert Intl(PAC)-Panama</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PAD</code>
+    <DestinationName>Paderborn Airport</DestinationName>
+    <DestinationStr>Paderborn Airport(PAD)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PAD</code>
+    <DestinationName>Paderborn</DestinationName>
+    <DestinationStr>Paderborn(PAD)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PAE</code>
+    <DestinationName>Everett</DestinationName>
+    <DestinationStr>Everett(PAE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PAE</code>
+    <DestinationName>Snohomish Cty Arpt</DestinationName>
+    <DestinationStr>Snohomish Cty Arpt(PAE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PAH</code>
+    <DestinationName>Barkley Regional</DestinationName>
+    <DestinationStr>Barkley Regional(PAH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PAH</code>
+    <DestinationName>Paducah</DestinationName>
+    <DestinationStr>Paducah(PAH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PAM</code>
+    <DestinationName>Tyndall Air Force Base</DestinationName>
+    <DestinationStr>Tyndall Air Force Base(PAM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PAN</code>
+    <DestinationName>Pattani</DestinationName>
+    <DestinationStr>Pattani(PAN)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PAO</code>
+    <DestinationName>Palo Alto Arpt</DestinationName>
+    <DestinationStr>Palo Alto Arpt(PAO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PAO</code>
+    <DestinationName>Palo Alto</DestinationName>
+    <DestinationStr>Palo Alto(PAO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PAP</code>
+    <DestinationName>Port Au Prince</DestinationName>
+    <DestinationStr>Port Au Prince(PAP)-Haiti</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PAP</code>
+    <DestinationName>Toussaint Louverture Arpt</DestinationName>
+    <DestinationStr>Toussaint Louverture Arpt(PAP)-Haiti</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PAQ</code>
+    <DestinationName>Palmer Municipal</DestinationName>
+    <DestinationStr>Palmer Municipal(PAQ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PAQ</code>
+    <DestinationName>Palmer</DestinationName>
+    <DestinationStr>Palmer(PAQ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PAR</code>
+    <DestinationName>Paris</DestinationName>
+    <DestinationStr>Paris(PAR)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PAS</code>
+    <DestinationName>Paros Community Arpt</DestinationName>
+    <DestinationStr>Paros Community Arpt(PAS)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PAS</code>
+    <DestinationName>Paros</DestinationName>
+    <DestinationStr>Paros(PAS)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PAT</code>
+    <DestinationName>Jai Prakash Narayan Arpt</DestinationName>
+    <DestinationStr>Jai Prakash Narayan Arpt(PAT)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PAT</code>
+    <DestinationName>Patna</DestinationName>
+    <DestinationStr>Patna(PAT)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PAU</code>
+    <DestinationName>Pauk Airport</DestinationName>
+    <DestinationStr>Pauk Airport(PAU)-Myanmar</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PAU</code>
+    <DestinationName>Pauk</DestinationName>
+    <DestinationStr>Pauk(PAU)-Myanmar</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PAV</code>
+    <DestinationName>Paulo Afonso</DestinationName>
+    <DestinationStr>Paulo Afonso(PAV)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PAW</code>
+    <DestinationName>Pambwa</DestinationName>
+    <DestinationStr>Pambwa(PAW)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PAY</code>
+    <DestinationName>Pamol</DestinationName>
+    <DestinationStr>Pamol(PAY)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PAZ</code>
+    <DestinationName>El Tajin Arpt</DestinationName>
+    <DestinationStr>El Tajin Arpt(PAZ)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PAZ</code>
+    <DestinationName>Poza Rica</DestinationName>
+    <DestinationStr>Poza Rica(PAZ)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PBA</code>
+    <DestinationName>Point Barrow Arpt</DestinationName>
+    <DestinationStr>Point Barrow Arpt(PBA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PBB</code>
+    <DestinationName>Paranaiba</DestinationName>
+    <DestinationStr>Paranaiba(PBB)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PBC</code>
+    <DestinationName>Hermanos Serdan Intl</DestinationName>
+    <DestinationStr>Hermanos Serdan Intl(PBC)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PBC</code>
+    <DestinationName>Puebla</DestinationName>
+    <DestinationStr>Puebla(PBC)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PBD</code>
+    <DestinationName>Porbandar Arpt</DestinationName>
+    <DestinationStr>Porbandar Arpt(PBD)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PBD</code>
+    <DestinationName>Porbandar</DestinationName>
+    <DestinationStr>Porbandar(PBD)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PBE</code>
+    <DestinationName>Puerto Berrio Arpt</DestinationName>
+    <DestinationStr>Puerto Berrio Arpt(PBE)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PBE</code>
+    <DestinationName>Puerto Berrio</DestinationName>
+    <DestinationStr>Puerto Berrio(PBE)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PBF</code>
+    <DestinationName>Pine Bluff Arpt</DestinationName>
+    <DestinationStr>Pine Bluff Arpt(PBF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PBF</code>
+    <DestinationName>Pine Bluff</DestinationName>
+    <DestinationStr>Pine Bluff(PBF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PBG</code>
+    <DestinationName>Plattsburgh Intl Arpt</DestinationName>
+    <DestinationStr>Plattsburgh Intl Arpt(PBG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PBG</code>
+    <DestinationName>Plattsburgh</DestinationName>
+    <DestinationStr>Plattsburgh(PBG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PBH</code>
+    <DestinationName>Paro Arpt</DestinationName>
+    <DestinationStr>Paro Arpt(PBH)-Bhutan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PBH</code>
+    <DestinationName>Paro</DestinationName>
+    <DestinationStr>Paro(PBH)-Bhutan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PBI</code>
+    <DestinationName>Palm Beach Intl Arpt</DestinationName>
+    <DestinationStr>Palm Beach Intl Arpt(PBI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PBI</code>
+    <DestinationName>West Palm Beach</DestinationName>
+    <DestinationStr>West Palm Beach(PBI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PBL</code>
+    <DestinationName>Bartolome Salom Intl</DestinationName>
+    <DestinationStr>Bartolome Salom Intl(PBL)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PBL</code>
+    <DestinationName>Puerto Cabello</DestinationName>
+    <DestinationStr>Puerto Cabello(PBL)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PBM</code>
+    <DestinationName>Paramaribo Johan A Pengel Intl</DestinationName>
+    <DestinationStr>Paramaribo Johan A Pengel Intl(PBM)-Suriname</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PBM</code>
+    <DestinationName>Paramaribo</DestinationName>
+    <DestinationStr>Paramaribo(PBM)-Suriname</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PBO</code>
+    <DestinationName>Paraburdoo Arpt</DestinationName>
+    <DestinationStr>Paraburdoo Arpt(PBO)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PBO</code>
+    <DestinationName>Paraburdoo</DestinationName>
+    <DestinationStr>Paraburdoo(PBO)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PBP</code>
+    <DestinationName>Punta Islita</DestinationName>
+    <DestinationStr>Punta Islita(PBP)-Costa Rica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PBR</code>
+    <DestinationName>Puerto Barrios Arpt</DestinationName>
+    <DestinationStr>Puerto Barrios Arpt(PBR)-Guatemala</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PBR</code>
+    <DestinationName>Puerto Barrios</DestinationName>
+    <DestinationStr>Puerto Barrios(PBR)-Guatemala</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PBS</code>
+    <DestinationName>Patong Beach</DestinationName>
+    <DestinationStr>Patong Beach(PBS)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PBZ</code>
+    <DestinationName>Plettenberg Bay Arpt</DestinationName>
+    <DestinationStr>Plettenberg Bay Arpt(PBZ)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PBZ</code>
+    <DestinationName>Plettenberg Bay</DestinationName>
+    <DestinationStr>Plettenberg Bay(PBZ)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PCA</code>
+    <DestinationName>Portage Creek</DestinationName>
+    <DestinationStr>Portage Creek(PCA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PCD</code>
+    <DestinationName>Prairie Du Chien Municipal Arpt</DestinationName>
+    <DestinationStr>Prairie Du Chien Municipal Arpt(PCD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PCD</code>
+    <DestinationName>Prairie Du Chien</DestinationName>
+    <DestinationStr>Prairie Du Chien(PCD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PCF</code>
+    <DestinationName>Potchefstroom</DestinationName>
+    <DestinationStr>Potchefstroom(PCF)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PCH</code>
+    <DestinationName>Palacios</DestinationName>
+    <DestinationStr>Palacios(PCH)-Honduras</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>PCI</code>
+    <DestinationName>Palencia</DestinationName>
+    <DestinationStr>Palencia(PCI)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PCJ</code>
+    <DestinationName>Puerto La Victoria Arpt</DestinationName>
+    <DestinationStr>Puerto La Victoria Arpt(PCJ)-Paraguay</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PCJ</code>
+    <DestinationName>Puerto La Victoria</DestinationName>
+    <DestinationStr>Puerto La Victoria(PCJ)-Paraguay</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PCL</code>
+    <DestinationName>D Abenzur Rengifo Arpt</DestinationName>
+    <DestinationStr>D Abenzur Rengifo Arpt(PCL)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PCL</code>
+    <DestinationName>Pucallpa</DestinationName>
+    <DestinationStr>Pucallpa(PCL)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PCM</code>
+    <DestinationName>Playa Del Carmen Arpt</DestinationName>
+    <DestinationStr>Playa Del Carmen Arpt(PCM)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PCM</code>
+    <DestinationName>Playa Del Carmen</DestinationName>
+    <DestinationStr>Playa Del Carmen(PCM)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PCN</code>
+    <DestinationName>Koromiko</DestinationName>
+    <DestinationStr>Koromiko(PCN)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PCN</code>
+    <DestinationName>Picton</DestinationName>
+    <DestinationStr>Picton(PCN)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PCR</code>
+    <DestinationName>German Olano Arpt</DestinationName>
+    <DestinationStr>German Olano Arpt(PCR)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PCR</code>
+    <DestinationName>Puerto Carreno</DestinationName>
+    <DestinationStr>Puerto Carreno(PCR)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PCT</code>
+    <DestinationName>Princeton Arpt</DestinationName>
+    <DestinationStr>Princeton Arpt(PCT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PCT</code>
+    <DestinationName>Princeton</DestinationName>
+    <DestinationStr>Princeton(PCT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PCU</code>
+    <DestinationName>Picayune</DestinationName>
+    <DestinationStr>Picayune(PCU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PCW</code>
+    <DestinationName>Par GB</DestinationName>
+    <DestinationStr>Par GB(PCW)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>PDA</code>
+    <DestinationName>Obando Airport</DestinationName>
+    <DestinationStr>Obando Airport(PDA)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PDA</code>
+    <DestinationName>Puerto Inirida</DestinationName>
+    <DestinationStr>Puerto Inirida(PDA)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PDB</code>
+    <DestinationName>Pedro Bay</DestinationName>
+    <DestinationStr>Pedro Bay(PDB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PDE</code>
+    <DestinationName>Pandie Pandie</DestinationName>
+    <DestinationStr>Pandie Pandie(PDE)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PDG</code>
+    <DestinationName>Padang</DestinationName>
+    <DestinationStr>Padang(PDG)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PDG</code>
+    <DestinationName>Tabing Arpt</DestinationName>
+    <DestinationStr>Tabing Arpt(PDG)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PDK</code>
+    <DestinationName>Dekalb Peachtree</DestinationName>
+    <DestinationStr>Dekalb Peachtree(PDK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PDL</code>
+    <DestinationName>Nordela Arpt</DestinationName>
+    <DestinationStr>Nordela Arpt(PDL)-Portugal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PDL</code>
+    <DestinationName>Ponta Delgada</DestinationName>
+    <DestinationStr>Ponta Delgada(PDL)-Portugal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PDM</code>
+    <DestinationName>Pedasi</DestinationName>
+    <DestinationStr>Pedasi(PDM)-Panama</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PDP</code>
+    <DestinationName>Cap Curbelo Arpt</DestinationName>
+    <DestinationStr>Cap Curbelo Arpt(PDP)-Uruguay</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PDP</code>
+    <DestinationName>Punta Del Este</DestinationName>
+    <DestinationStr>Punta Del Este(PDP)-Uruguay</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PDS</code>
+    <DestinationName>Piedras Negras International</DestinationName>
+    <DestinationStr>Piedras Negras International(PDS)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PDS</code>
+    <DestinationName>Piedras Negras</DestinationName>
+    <DestinationStr>Piedras Negras(PDS)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PDT</code>
+    <DestinationName>Pendleton Municipal</DestinationName>
+    <DestinationStr>Pendleton Municipal(PDT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PDT</code>
+    <DestinationName>Pendleton</DestinationName>
+    <DestinationStr>Pendleton(PDT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PDU</code>
+    <DestinationName>Paysandu Arpt</DestinationName>
+    <DestinationStr>Paysandu Arpt(PDU)-Uruguay</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PDU</code>
+    <DestinationName>Paysandu</DestinationName>
+    <DestinationStr>Paysandu(PDU)-Uruguay</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PDV</code>
+    <DestinationName>Plovdiv Arpt</DestinationName>
+    <DestinationStr>Plovdiv Arpt(PDV)-Bulgaria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PDV</code>
+    <DestinationName>Plovdiv</DestinationName>
+    <DestinationStr>Plovdiv(PDV)-Bulgaria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PDX</code>
+    <DestinationName>Portland Intl Arpt</DestinationName>
+    <DestinationStr>Portland Intl Arpt(PDX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PDX</code>
+    <DestinationName>Portland</DestinationName>
+    <DestinationStr>Portland(PDX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PEA</code>
+    <DestinationName>Penneshaw</DestinationName>
+    <DestinationStr>Penneshaw(PEA)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PEC</code>
+    <DestinationName>Pelican</DestinationName>
+    <DestinationStr>Pelican(PEC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PED</code>
+    <DestinationName>Pardubice Arpt</DestinationName>
+    <DestinationStr>Pardubice Arpt(PED)-Czech Republic</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PED</code>
+    <DestinationName>Pardubice</DestinationName>
+    <DestinationStr>Pardubice(PED)-Czech Republic</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PEE</code>
+    <DestinationName>Perm Arpt</DestinationName>
+    <DestinationStr>Perm Arpt(PEE)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PEE</code>
+    <DestinationName>Perm</DestinationName>
+    <DestinationStr>Perm(PEE)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PEF</code>
+    <DestinationName>Peenemuende Arpt</DestinationName>
+    <DestinationStr>Peenemuende Arpt(PEF)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PEF</code>
+    <DestinationName>Peenemuende</DestinationName>
+    <DestinationStr>Peenemuende(PEF)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PEG</code>
+    <DestinationName>Perugia</DestinationName>
+    <DestinationStr>Perugia(PEG)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PEG</code>
+    <DestinationName>Sant Egidio Arpt</DestinationName>
+    <DestinationStr>Sant Egidio Arpt(PEG)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PEI</code>
+    <DestinationName>Matecana International</DestinationName>
+    <DestinationStr>Matecana International(PEI)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PEI</code>
+    <DestinationName>Pereira</DestinationName>
+    <DestinationStr>Pereira(PEI)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PEJ</code>
+    <DestinationName>Peschiei Arpt</DestinationName>
+    <DestinationStr>Peschiei Arpt(PEJ)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PEJ</code>
+    <DestinationName>Peschiei</DestinationName>
+    <DestinationStr>Peschiei(PEJ)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PEK</code>
+    <DestinationName>Beijing Capital Arpt</DestinationName>
+    <DestinationStr>Beijing Capital Arpt(PEK)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PEL</code>
+    <DestinationName>Pelaneng</DestinationName>
+    <DestinationStr>Pelaneng(PEL)-Lesotho</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PEM</code>
+    <DestinationName>Padre Aldamiz Intl</DestinationName>
+    <DestinationStr>Padre Aldamiz Intl(PEM)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PEM</code>
+    <DestinationName>Puerto Maldonado</DestinationName>
+    <DestinationStr>Puerto Maldonado(PEM)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PEN</code>
+    <DestinationName>Penang Intl Arpt</DestinationName>
+    <DestinationStr>Penang Intl Arpt(PEN)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PEN</code>
+    <DestinationName>Penang</DestinationName>
+    <DestinationStr>Penang(PEN)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PEQ</code>
+    <DestinationName>Pecos Arpt</DestinationName>
+    <DestinationStr>Pecos Arpt(PEQ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PEQ</code>
+    <DestinationName>PECOS</DestinationName>
+    <DestinationStr>PECOS(PEQ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PER</code>
+    <DestinationName>Perth Arpt</DestinationName>
+    <DestinationStr>Perth Arpt(PER)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PER</code>
+    <DestinationName>Perth</DestinationName>
+    <DestinationStr>Perth(PER)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PES</code>
+    <DestinationName>Petrozavodsk Arpt</DestinationName>
+    <DestinationStr>Petrozavodsk Arpt(PES)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PES</code>
+    <DestinationName>Petrozavodsk</DestinationName>
+    <DestinationStr>Petrozavodsk(PES)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PET</code>
+    <DestinationName>Pelotas Federal Arpt</DestinationName>
+    <DestinationStr>Pelotas Federal Arpt(PET)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PET</code>
+    <DestinationName>Pelotas</DestinationName>
+    <DestinationStr>Pelotas(PET)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PEV</code>
+    <DestinationName>Pecs Arpt</DestinationName>
+    <DestinationStr>Pecs Arpt(PEV)-Hungary</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PEV</code>
+    <DestinationName>Pecs</DestinationName>
+    <DestinationStr>Pecs(PEV)-Hungary</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PEW</code>
+    <DestinationName>Peshawar Arpt</DestinationName>
+    <DestinationStr>Peshawar Arpt(PEW)-Pakistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PEW</code>
+    <DestinationName>Peshawar</DestinationName>
+    <DestinationStr>Peshawar(PEW)-Pakistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PEZ</code>
+    <DestinationName>Penza Arpt</DestinationName>
+    <DestinationStr>Penza Arpt(PEZ)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PEZ</code>
+    <DestinationName>Penza</DestinationName>
+    <DestinationStr>Penza(PEZ)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PFB</code>
+    <DestinationName>Passo Fundo Arpt</DestinationName>
+    <DestinationStr>Passo Fundo Arpt(PFB)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PFB</code>
+    <DestinationName>Passo Fundo</DestinationName>
+    <DestinationStr>Passo Fundo(PFB)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PFD</code>
+    <DestinationName>Port Frederick Arpt</DestinationName>
+    <DestinationStr>Port Frederick Arpt(PFD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PFD</code>
+    <DestinationName>Port Frederick</DestinationName>
+    <DestinationStr>Port Frederick(PFD)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>PFE</code>
+    <DestinationName>Ponferrada</DestinationName>
+    <DestinationStr>Ponferrada(PFE)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PFJ</code>
+    <DestinationName>Patreksfjordur</DestinationName>
+    <DestinationStr>Patreksfjordur(PFJ)-Iceland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>PFN</code>
+    <DestinationName>Bay County Arpt</DestinationName>
+    <DestinationStr>Bay County Arpt(PFN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PFN</code>
+    <DestinationName>Panama City</DestinationName>
+    <DestinationStr>Panama City(PFN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PFO</code>
+    <DestinationName>Paphos Intl Airport</DestinationName>
+    <DestinationStr>Paphos Intl Airport(PFO)-Cyprus</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PFO</code>
+    <DestinationName>Paphos</DestinationName>
+    <DestinationStr>Paphos(PFO)-Cyprus</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PGA</code>
+    <DestinationName>Page Airport</DestinationName>
+    <DestinationStr>Page Airport(PGA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PGA</code>
+    <DestinationName>Page</DestinationName>
+    <DestinationStr>Page(PGA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PGD</code>
+    <DestinationName>Charlotte County</DestinationName>
+    <DestinationStr>Charlotte County(PGD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PGD</code>
+    <DestinationName>Punta Gorda</DestinationName>
+    <DestinationStr>Punta Gorda(PGD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PGF</code>
+    <DestinationName>Llabanere Arpt</DestinationName>
+    <DestinationStr>Llabanere Arpt(PGF)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PGF</code>
+    <DestinationName>Perpignan</DestinationName>
+    <DestinationStr>Perpignan(PGF)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PGH</code>
+    <DestinationName>Pantnagar Arpt</DestinationName>
+    <DestinationStr>Pantnagar Arpt(PGH)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PGH</code>
+    <DestinationName>Pantnagar</DestinationName>
+    <DestinationStr>Pantnagar(PGH)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PGK</code>
+    <DestinationName>Pangkalpinang Arpt</DestinationName>
+    <DestinationStr>Pangkalpinang Arpt(PGK)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PGK</code>
+    <DestinationName>Pangkalpinang</DestinationName>
+    <DestinationStr>Pangkalpinang(PGK)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PGL</code>
+    <DestinationName>Jackson Cnty</DestinationName>
+    <DestinationStr>Jackson Cnty(PGL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PGL</code>
+    <DestinationName>Pascagoula</DestinationName>
+    <DestinationStr>Pascagoula(PGL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PGM</code>
+    <DestinationName>Port Graham Arpt</DestinationName>
+    <DestinationStr>Port Graham Arpt(PGM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PGM</code>
+    <DestinationName>Port Graham</DestinationName>
+    <DestinationStr>Port Graham(PGM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PGO</code>
+    <DestinationName>Pagosa Springs</DestinationName>
+    <DestinationStr>Pagosa Springs(PGO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PGO</code>
+    <DestinationName>Stevens Field Arpt</DestinationName>
+    <DestinationStr>Stevens Field Arpt(PGO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PGR</code>
+    <DestinationName>Paragould Municipal</DestinationName>
+    <DestinationStr>Paragould Municipal(PGR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PGR</code>
+    <DestinationName>Paragould</DestinationName>
+    <DestinationStr>Paragould(PGR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PGS</code>
+    <DestinationName>Peach Springs</DestinationName>
+    <DestinationStr>Peach Springs(PGS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PGV</code>
+    <DestinationName>Greenville</DestinationName>
+    <DestinationStr>Greenville(PGV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PGV</code>
+    <DestinationName>Pitt Greenville Arpt</DestinationName>
+    <DestinationStr>Pitt Greenville Arpt(PGV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PGX</code>
+    <DestinationName>Perigueux Arpt</DestinationName>
+    <DestinationStr>Perigueux Arpt(PGX)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PGX</code>
+    <DestinationName>Perigueux</DestinationName>
+    <DestinationStr>Perigueux(PGX)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PGZ</code>
+    <DestinationName>Ponta Grossa</DestinationName>
+    <DestinationStr>Ponta Grossa(PGZ)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PHB</code>
+    <DestinationName>Parnaiba</DestinationName>
+    <DestinationStr>Parnaiba(PHB)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PHB</code>
+    <DestinationName>Santos Dumont Airport</DestinationName>
+    <DestinationStr>Santos Dumont Airport(PHB)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PHC</code>
+    <DestinationName>Port Harcourt Arpt</DestinationName>
+    <DestinationStr>Port Harcourt Arpt(PHC)-Nigeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PHC</code>
+    <DestinationName>Port Harcourt</DestinationName>
+    <DestinationStr>Port Harcourt(PHC)-Nigeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PHE</code>
+    <DestinationName>Port Hedland  Arpt</DestinationName>
+    <DestinationStr>Port Hedland  Arpt(PHE)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PHE</code>
+    <DestinationName>Port Hedland</DestinationName>
+    <DestinationStr>Port Hedland(PHE)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PHF</code>
+    <DestinationName>Newport News</DestinationName>
+    <DestinationStr>Newport News(PHF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PHF</code>
+    <DestinationName>Williamsburg Intl Arpt</DestinationName>
+    <DestinationStr>Williamsburg Intl Arpt(PHF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PHG</code>
+    <DestinationName>Port Harcourt City Arpt</DestinationName>
+    <DestinationStr>Port Harcourt City Arpt(PHG)-Nigeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PHH</code>
+    <DestinationName>Phan Thiet Arpt</DestinationName>
+    <DestinationStr>Phan Thiet Arpt(PHH)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PHH</code>
+    <DestinationName>Phan Thiet</DestinationName>
+    <DestinationStr>Phan Thiet(PHH)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PHK</code>
+    <DestinationName>Pahokee</DestinationName>
+    <DestinationStr>Pahokee(PHK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PHK</code>
+    <DestinationName>Palm Beach County Glades Arpt</DestinationName>
+    <DestinationStr>Palm Beach County Glades Arpt(PHK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PHL</code>
+    <DestinationName>Philadelphia Intl Arpt</DestinationName>
+    <DestinationStr>Philadelphia Intl Arpt(PHL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PHL</code>
+    <DestinationName>Philadelphia</DestinationName>
+    <DestinationStr>Philadelphia(PHL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PHM</code>
+    <DestinationName>Boeblingen</DestinationName>
+    <DestinationStr>Boeblingen(PHM)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PHN</code>
+    <DestinationName>Port Huron</DestinationName>
+    <DestinationStr>Port Huron(PHN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PHN</code>
+    <DestinationName>Saint Clair County Intl Arpt</DestinationName>
+    <DestinationStr>Saint Clair County Intl Arpt(PHN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PHN</code>
+    <DestinationName>St Clair County Intl Arpt</DestinationName>
+    <DestinationStr>St Clair County Intl Arpt(PHN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PHO</code>
+    <DestinationName>Point Hope</DestinationName>
+    <DestinationStr>Point Hope(PHO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PHR</code>
+    <DestinationName>Pacific Harbour</DestinationName>
+    <DestinationStr>Pacific Harbour(PHR)-Fiji Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PHS</code>
+    <DestinationName>Phitsanulok Arpt</DestinationName>
+    <DestinationStr>Phitsanulok Arpt(PHS)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PHS</code>
+    <DestinationName>Phitsanulok</DestinationName>
+    <DestinationStr>Phitsanulok(PHS)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PHT</code>
+    <DestinationName>Henry County Arpt</DestinationName>
+    <DestinationStr>Henry County Arpt(PHT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PHT</code>
+    <DestinationName>Paris</DestinationName>
+    <DestinationStr>Paris(PHT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PHW</code>
+    <DestinationName>Phalaborwa Arpt</DestinationName>
+    <DestinationStr>Phalaborwa Arpt(PHW)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PHW</code>
+    <DestinationName>Phalaborwa</DestinationName>
+    <DestinationStr>Phalaborwa(PHW)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PHX</code>
+    <DestinationName>Phoenix</DestinationName>
+    <DestinationStr>Phoenix(PHX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PHX</code>
+    <DestinationName>Sky Harbor Intl Arpt</DestinationName>
+    <DestinationStr>Sky Harbor Intl Arpt(PHX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PIA</code>
+    <DestinationName>Greater Peoria Arpt</DestinationName>
+    <DestinationStr>Greater Peoria Arpt(PIA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PIA</code>
+    <DestinationName>Peoria</DestinationName>
+    <DestinationStr>Peoria(PIA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PIB</code>
+    <DestinationName>Hattiesburg Laurel Regional Arpt</DestinationName>
+    <DestinationStr>Hattiesburg Laurel Regional Arpt(PIB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PID</code>
+    <DestinationName>Nassau Paradise Island Arpt</DestinationName>
+    <DestinationStr>Nassau Paradise Island Arpt(PID)-Bahamas</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PIE</code>
+    <DestinationName>Saint Petersburg Clearwater Arpt</DestinationName>
+    <DestinationStr>Saint Petersburg Clearwater Arpt(PIE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PIE</code>
+    <DestinationName>St Petersburg Clearwater Arpt</DestinationName>
+    <DestinationStr>St Petersburg Clearwater Arpt(PIE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PIH</code>
+    <DestinationName>Pocatello Municipal Arpt</DestinationName>
+    <DestinationStr>Pocatello Municipal Arpt(PIH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PIH</code>
+    <DestinationName>Pocatello</DestinationName>
+    <DestinationStr>Pocatello(PIH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PII</code>
+    <DestinationName>Fairbanks Phillips Airport</DestinationName>
+    <DestinationStr>Fairbanks Phillips Airport(PII)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PIK</code>
+    <DestinationName>Prestwick Arpt</DestinationName>
+    <DestinationStr>Prestwick Arpt(PIK)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PIN</code>
+    <DestinationName>Parintins</DestinationName>
+    <DestinationStr>Parintins(PIN)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PIO</code>
+    <DestinationName>Pisco</DestinationName>
+    <DestinationStr>Pisco(PIO)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PIO</code>
+    <DestinationName>Renan Elias Olivera arpt</DestinationName>
+    <DestinationStr>Renan Elias Olivera arpt(PIO)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PIP</code>
+    <DestinationName>Pilot Point Airport</DestinationName>
+    <DestinationStr>Pilot Point Airport(PIP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PIP</code>
+    <DestinationName>Pilot Point</DestinationName>
+    <DestinationStr>Pilot Point(PIP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PIR</code>
+    <DestinationName>Pierre Municipal</DestinationName>
+    <DestinationStr>Pierre Municipal(PIR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PIR</code>
+    <DestinationName>Pierre</DestinationName>
+    <DestinationStr>Pierre(PIR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PIS</code>
+    <DestinationName>Biard Airport</DestinationName>
+    <DestinationStr>Biard Airport(PIS)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PIS</code>
+    <DestinationName>Poitiers</DestinationName>
+    <DestinationStr>Poitiers(PIS)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PIT</code>
+    <DestinationName>Pittsburgh Intl Arpt</DestinationName>
+    <DestinationStr>Pittsburgh Intl Arpt(PIT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PIT</code>
+    <DestinationName>Pittsburgh</DestinationName>
+    <DestinationStr>Pittsburgh(PIT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PIU</code>
+    <DestinationName>G Concha Iberico Intl</DestinationName>
+    <DestinationStr>G Concha Iberico Intl(PIU)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PIU</code>
+    <DestinationName>Piura</DestinationName>
+    <DestinationStr>Piura(PIU)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PIV</code>
+    <DestinationName>Pirapora</DestinationName>
+    <DestinationStr>Pirapora(PIV)-Brazil</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>PIW</code>
+    <DestinationName>Pikwitonei</DestinationName>
+    <DestinationStr>Pikwitonei(PIW)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PIX</code>
+    <DestinationName>Pico Arpt</DestinationName>
+    <DestinationStr>Pico Arpt(PIX)-Portugal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PIX</code>
+    <DestinationName>Pico Island</DestinationName>
+    <DestinationStr>Pico Island(PIX)-Portugal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PIZ</code>
+    <DestinationName>Dew Station Arpt</DestinationName>
+    <DestinationStr>Dew Station Arpt(PIZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PIZ</code>
+    <DestinationName>Point Lay</DestinationName>
+    <DestinationStr>Point Lay(PIZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PJA</code>
+    <DestinationName>Pajala Arpt</DestinationName>
+    <DestinationStr>Pajala Arpt(PJA)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PJA</code>
+    <DestinationName>Pajala</DestinationName>
+    <DestinationStr>Pajala(PJA)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PJB</code>
+    <DestinationName>Payson Arpt</DestinationName>
+    <DestinationStr>Payson Arpt(PJB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PJB</code>
+    <DestinationName>Payson</DestinationName>
+    <DestinationStr>Payson(PJB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PJG</code>
+    <DestinationName>Panjgur</DestinationName>
+    <DestinationStr>Panjgur(PJG)-Pakistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PJM</code>
+    <DestinationName>Puerto Jimenez ARPT</DestinationName>
+    <DestinationStr>Puerto Jimenez ARPT(PJM)-Costa Rica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PJM</code>
+    <DestinationName>Puerto Jimenez</DestinationName>
+    <DestinationStr>Puerto Jimenez(PJM)-Costa Rica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PJZ</code>
+    <DestinationName>Puerto Juarez</DestinationName>
+    <DestinationStr>Puerto Juarez(PJZ)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PKA</code>
+    <DestinationName>Napaskiak</DestinationName>
+    <DestinationStr>Napaskiak(PKA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PKB</code>
+    <DestinationName>Parkersburg</DestinationName>
+    <DestinationStr>Parkersburg(PKB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PKB</code>
+    <DestinationName>Wood County</DestinationName>
+    <DestinationStr>Wood County(PKB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PKC</code>
+    <DestinationName>Petropavlovsk Kamchatskiy Arpt</DestinationName>
+    <DestinationStr>Petropavlovsk Kamchatskiy Arpt(PKC)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PKC</code>
+    <DestinationName>Petropavlovsk Kamchatskiy</DestinationName>
+    <DestinationStr>Petropavlovsk Kamchatskiy(PKC)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PKD</code>
+    <DestinationName>Park Rapids Municipal Arpt</DestinationName>
+    <DestinationStr>Park Rapids Municipal Arpt(PKD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PKD</code>
+    <DestinationName>Park Rapids</DestinationName>
+    <DestinationStr>Park Rapids(PKD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PKE</code>
+    <DestinationName>Parkes Arpt</DestinationName>
+    <DestinationStr>Parkes Arpt(PKE)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PKE</code>
+    <DestinationName>Parkes</DestinationName>
+    <DestinationStr>Parkes(PKE)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PKG</code>
+    <DestinationName>Pangkor Arpt</DestinationName>
+    <DestinationStr>Pangkor Arpt(PKG)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PKG</code>
+    <DestinationName>Pangkor</DestinationName>
+    <DestinationStr>Pangkor(PKG)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PKH</code>
+    <DestinationName>Alexion Arpt</DestinationName>
+    <DestinationStr>Alexion Arpt(PKH)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PKH</code>
+    <DestinationName>Portoheli</DestinationName>
+    <DestinationStr>Portoheli(PKH)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PKJ</code>
+    <DestinationName>Playa Grand Arpt</DestinationName>
+    <DestinationStr>Playa Grand Arpt(PKJ)-Guatemala</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PKJ</code>
+    <DestinationName>Playa Grande</DestinationName>
+    <DestinationStr>Playa Grande(PKJ)-Guatemala</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PKN</code>
+    <DestinationName>Iskandar Arpt</DestinationName>
+    <DestinationStr>Iskandar Arpt(PKN)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PKN</code>
+    <DestinationName>Pangkalanbuun</DestinationName>
+    <DestinationStr>Pangkalanbuun(PKN)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PKP</code>
+    <DestinationName>Pukapuka</DestinationName>
+    <DestinationStr>Pukapuka(PKP)-French Polynesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PKR</code>
+    <DestinationName>Pokhara Arpt</DestinationName>
+    <DestinationStr>Pokhara Arpt(PKR)-Nepal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PKR</code>
+    <DestinationName>Pokhara</DestinationName>
+    <DestinationStr>Pokhara(PKR)-Nepal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PKU</code>
+    <DestinationName>Pekanbaru</DestinationName>
+    <DestinationStr>Pekanbaru(PKU)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PKU</code>
+    <DestinationName>Simpang Tiga Arpt</DestinationName>
+    <DestinationStr>Simpang Tiga Arpt(PKU)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PKV</code>
+    <DestinationName>Pskov Arpt</DestinationName>
+    <DestinationStr>Pskov Arpt(PKV)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PKV</code>
+    <DestinationName>Pskov</DestinationName>
+    <DestinationStr>Pskov(PKV)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PKW</code>
+    <DestinationName>Selebi Phikwe Arpt</DestinationName>
+    <DestinationStr>Selebi Phikwe Arpt(PKW)-Botswana</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PKW</code>
+    <DestinationName>Selebi Phikwe</DestinationName>
+    <DestinationStr>Selebi Phikwe(PKW)-Botswana</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PKY</code>
+    <DestinationName>Palangkaraya Airport</DestinationName>
+    <DestinationStr>Palangkaraya Airport(PKY)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PKY</code>
+    <DestinationName>Palangkaraya</DestinationName>
+    <DestinationStr>Palangkaraya(PKY)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PKZ</code>
+    <DestinationName>Pakse Arpt</DestinationName>
+    <DestinationStr>Pakse Arpt(PKZ)-Lao, People's Dem. Rep.</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PKZ</code>
+    <DestinationName>Pakse</DestinationName>
+    <DestinationStr>Pakse(PKZ)-Lao, People's Dem. Rep.</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PLB</code>
+    <DestinationName>Clinton County Arpt</DestinationName>
+    <DestinationStr>Clinton County Arpt(PLB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PLC</code>
+    <DestinationName>Planeta Rica</DestinationName>
+    <DestinationStr>Planeta Rica(PLC)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PLD</code>
+    <DestinationName>Playa Samara Carrillo Arpt</DestinationName>
+    <DestinationStr>Playa Samara Carrillo Arpt(PLD)-Costa Rica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PLD</code>
+    <DestinationName>Playa Samara</DestinationName>
+    <DestinationStr>Playa Samara(PLD)-Costa Rica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PLG</code>
+    <DestinationName>La Plagne</DestinationName>
+    <DestinationStr>La Plagne(PLG)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PLH</code>
+    <DestinationName>Plymouth</DestinationName>
+    <DestinationStr>Plymouth(PLH)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PLH</code>
+    <DestinationName>Roborough Arpt</DestinationName>
+    <DestinationStr>Roborough Arpt(PLH)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PLJ</code>
+    <DestinationName>Placencia Arpt</DestinationName>
+    <DestinationStr>Placencia Arpt(PLJ)-Belize</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PLJ</code>
+    <DestinationName>Placencia</DestinationName>
+    <DestinationStr>Placencia(PLJ)-Belize</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PLK</code>
+    <DestinationName>M Graham Clark Arpt</DestinationName>
+    <DestinationStr>M Graham Clark Arpt(PLK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PLK</code>
+    <DestinationName>Point Lookout</DestinationName>
+    <DestinationStr>Point Lookout(PLK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PLM</code>
+    <DestinationName>Mahmud Badaruddin Li Arpt</DestinationName>
+    <DestinationStr>Mahmud Badaruddin Li Arpt(PLM)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PLM</code>
+    <DestinationName>Palembang</DestinationName>
+    <DestinationStr>Palembang(PLM)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PLN</code>
+    <DestinationName>Emmet Cty Arpt</DestinationName>
+    <DestinationStr>Emmet Cty Arpt(PLN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PLN</code>
+    <DestinationName>Pellston</DestinationName>
+    <DestinationStr>Pellston(PLN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PLO</code>
+    <DestinationName>Port Lincoln Arpt</DestinationName>
+    <DestinationStr>Port Lincoln Arpt(PLO)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PLO</code>
+    <DestinationName>Port Lincoln</DestinationName>
+    <DestinationStr>Port Lincoln(PLO)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PLQ</code>
+    <DestinationName>Palanga Intl Arpt</DestinationName>
+    <DestinationStr>Palanga Intl Arpt(PLQ)-Lithuania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PLQ</code>
+    <DestinationName>Palanga</DestinationName>
+    <DestinationStr>Palanga(PLQ)-Lithuania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PLR</code>
+    <DestinationName>Pell City</DestinationName>
+    <DestinationStr>Pell City(PLR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PLR</code>
+    <DestinationName>Saint Clair County</DestinationName>
+    <DestinationStr>Saint Clair County(PLR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PLS</code>
+    <DestinationName>Providenciales Intl</DestinationName>
+    <DestinationStr>Providenciales Intl(PLS)-Turks And Caicos Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PLS</code>
+    <DestinationName>Providenciales</DestinationName>
+    <DestinationStr>Providenciales(PLS)-Turks And Caicos Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PLU</code>
+    <DestinationName>Pampulha Arpt</DestinationName>
+    <DestinationStr>Pampulha Arpt(PLU)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PLV</code>
+    <DestinationName>Poltava Arpt</DestinationName>
+    <DestinationStr>Poltava Arpt(PLV)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PLV</code>
+    <DestinationName>Poltava</DestinationName>
+    <DestinationStr>Poltava(PLV)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PLW</code>
+    <DestinationName>Mutiara Arpt</DestinationName>
+    <DestinationStr>Mutiara Arpt(PLW)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PLW</code>
+    <DestinationName>Palu</DestinationName>
+    <DestinationStr>Palu(PLW)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PLX</code>
+    <DestinationName>Semey Arpt</DestinationName>
+    <DestinationStr>Semey Arpt(PLX)-Kazakstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PLX</code>
+    <DestinationName>SEMEY</DestinationName>
+    <DestinationStr>SEMEY(PLX)-Kazakstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PLX</code>
+    <DestinationName>Semipalatinsk Arpt</DestinationName>
+    <DestinationStr>Semipalatinsk Arpt(PLX)-Kazakstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PLX</code>
+    <DestinationName>SEMIPALATINSK</DestinationName>
+    <DestinationStr>SEMIPALATINSK(PLX)-Kazakstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PLY</code>
+    <DestinationName>Plymouth Municipal Arpt</DestinationName>
+    <DestinationStr>Plymouth Municipal Arpt(PLY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PLY</code>
+    <DestinationName>Plymouth</DestinationName>
+    <DestinationStr>Plymouth(PLY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PLZ</code>
+    <DestinationName>Port Elizabeth Airport</DestinationName>
+    <DestinationStr>Port Elizabeth Airport(PLZ)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PLZ</code>
+    <DestinationName>Port Elizabeth</DestinationName>
+    <DestinationStr>Port Elizabeth(PLZ)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PMA</code>
+    <DestinationName>Pemba</DestinationName>
+    <DestinationStr>Pemba(PMA)-Tanzania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PMC</code>
+    <DestinationName>Puerto Montt</DestinationName>
+    <DestinationStr>Puerto Montt(PMC)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PMC</code>
+    <DestinationName>Tepual Arpt</DestinationName>
+    <DestinationStr>Tepual Arpt(PMC)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PMD</code>
+    <DestinationName>La Palmdale Regional Arpt</DestinationName>
+    <DestinationStr>La Palmdale Regional Arpt(PMD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PMD</code>
+    <DestinationName>Palmdale</DestinationName>
+    <DestinationStr>Palmdale(PMD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PME</code>
+    <DestinationName>Portsmouth Arpt</DestinationName>
+    <DestinationStr>Portsmouth Arpt(PME)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PME</code>
+    <DestinationName>Portsmouth</DestinationName>
+    <DestinationStr>Portsmouth(PME)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PMF</code>
+    <DestinationName>Parma Arpt</DestinationName>
+    <DestinationStr>Parma Arpt(PMF)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PMF</code>
+    <DestinationName>Parma</DestinationName>
+    <DestinationStr>Parma(PMF)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PMG</code>
+    <DestinationName>International</DestinationName>
+    <DestinationStr>International(PMG)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PMG</code>
+    <DestinationName>Ponta Pora</DestinationName>
+    <DestinationStr>Ponta Pora(PMG)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PMH</code>
+    <DestinationName>Portsmith Regional</DestinationName>
+    <DestinationStr>Portsmith Regional(PMH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PMH</code>
+    <DestinationName>Portsmouth</DestinationName>
+    <DestinationStr>Portsmouth(PMH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PMI</code>
+    <DestinationName>Palma Mallorca Arpt</DestinationName>
+    <DestinationStr>Palma Mallorca Arpt(PMI)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PMI</code>
+    <DestinationName>Palma Mallorca</DestinationName>
+    <DestinationStr>Palma Mallorca(PMI)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PMK</code>
+    <DestinationName>Palm Island Arpt</DestinationName>
+    <DestinationStr>Palm Island Arpt(PMK)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PMK</code>
+    <DestinationName>Palm Island</DestinationName>
+    <DestinationStr>Palm Island(PMK)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PML</code>
+    <DestinationName>Port Moller</DestinationName>
+    <DestinationStr>Port Moller(PML)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PMN</code>
+    <DestinationName>Pumani</DestinationName>
+    <DestinationStr>Pumani(PMN)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PMO</code>
+    <DestinationName>Palermo</DestinationName>
+    <DestinationStr>Palermo(PMO)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PMO</code>
+    <DestinationName>Punta Raisi Arpt</DestinationName>
+    <DestinationStr>Punta Raisi Arpt(PMO)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PMQ</code>
+    <DestinationName>Perito Moreno</DestinationName>
+    <DestinationStr>Perito Moreno(PMQ)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PMR</code>
+    <DestinationName>Palmerston North Arpt</DestinationName>
+    <DestinationStr>Palmerston North Arpt(PMR)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PMR</code>
+    <DestinationName>Palmerston</DestinationName>
+    <DestinationStr>Palmerston(PMR)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PMS</code>
+    <DestinationName>Palmyra Arpt</DestinationName>
+    <DestinationStr>Palmyra Arpt(PMS)-Syrian Arab Rep.</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PMS</code>
+    <DestinationName>Palmyra</DestinationName>
+    <DestinationStr>Palmyra(PMS)-Syrian Arab Rep.</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PMT</code>
+    <DestinationName>Paramakatoi</DestinationName>
+    <DestinationStr>Paramakatoi(PMT)-Guyana</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PMU</code>
+    <DestinationName>Paimiut</DestinationName>
+    <DestinationStr>Paimiut(PMU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PMU</code>
+    <DestinationName>Sea Plane Base Airport</DestinationName>
+    <DestinationStr>Sea Plane Base Airport(PMU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PMV</code>
+    <DestinationName>Del Caribe Intl</DestinationName>
+    <DestinationStr>Del Caribe Intl(PMV)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PMV</code>
+    <DestinationName>Porlamar</DestinationName>
+    <DestinationStr>Porlamar(PMV)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PMW</code>
+    <DestinationName>Palmas Arpt</DestinationName>
+    <DestinationStr>Palmas Arpt(PMW)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PMW</code>
+    <DestinationName>Palmas</DestinationName>
+    <DestinationStr>Palmas(PMW)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PMY</code>
+    <DestinationName>El Tehuelche Arpt</DestinationName>
+    <DestinationStr>El Tehuelche Arpt(PMY)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PMY</code>
+    <DestinationName>Puerto Madryn</DestinationName>
+    <DestinationStr>Puerto Madryn(PMY)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PMZ</code>
+    <DestinationName>Palmar Airport</DestinationName>
+    <DestinationStr>Palmar Airport(PMZ)-Costa Rica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PMZ</code>
+    <DestinationName>Palmar</DestinationName>
+    <DestinationStr>Palmar(PMZ)-Costa Rica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PNA</code>
+    <DestinationName>Pamplona Noain Arpt</DestinationName>
+    <DestinationStr>Pamplona Noain Arpt(PNA)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PNA</code>
+    <DestinationName>Pamplona</DestinationName>
+    <DestinationStr>Pamplona(PNA)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PNC</code>
+    <DestinationName>Ponca City Municipal Arpt</DestinationName>
+    <DestinationStr>Ponca City Municipal Arpt(PNC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PNC</code>
+    <DestinationName>Ponca City</DestinationName>
+    <DestinationStr>Ponca City(PNC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PND</code>
+    <DestinationName>Punta Gorda</DestinationName>
+    <DestinationStr>Punta Gorda(PND)-Belize</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PNE</code>
+    <DestinationName>N Philadelphia</DestinationName>
+    <DestinationStr>N Philadelphia(PNE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PNG</code>
+    <DestinationName>Paranagua Municipal</DestinationName>
+    <DestinationStr>Paranagua Municipal(PNG)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PNG</code>
+    <DestinationName>Paranagua</DestinationName>
+    <DestinationStr>Paranagua(PNG)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PNH</code>
+    <DestinationName>Phnom Penh Intl Arpt</DestinationName>
+    <DestinationStr>Phnom Penh Intl Arpt(PNH)-Cambodia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PNH</code>
+    <DestinationName>Phnom Penh</DestinationName>
+    <DestinationStr>Phnom Penh(PNH)-Cambodia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PNI</code>
+    <DestinationName>Pohnpei International Arpt</DestinationName>
+    <DestinationStr>Pohnpei International Arpt(PNI)-Micronesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PNI</code>
+    <DestinationName>Pohnpei</DestinationName>
+    <DestinationStr>Pohnpei(PNI)-Micronesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PNJ</code>
+    <DestinationName>Penglai</DestinationName>
+    <DestinationStr>Penglai(PNJ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PNJ</code>
+    <DestinationName>Sha He Kou Arpt</DestinationName>
+    <DestinationStr>Sha He Kou Arpt(PNJ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PNK</code>
+    <DestinationName>Pontianak</DestinationName>
+    <DestinationStr>Pontianak(PNK)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PNK</code>
+    <DestinationName>Supadio Arpt</DestinationName>
+    <DestinationStr>Supadio Arpt(PNK)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PNL</code>
+    <DestinationName>Pantelleria Airport</DestinationName>
+    <DestinationStr>Pantelleria Airport(PNL)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PNL</code>
+    <DestinationName>Pantelleria</DestinationName>
+    <DestinationStr>Pantelleria(PNL)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PNO</code>
+    <DestinationName>Pinotepa Nacional</DestinationName>
+    <DestinationStr>Pinotepa Nacional(PNO)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PNP</code>
+    <DestinationName>Girua Arpt</DestinationName>
+    <DestinationStr>Girua Arpt(PNP)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PNP</code>
+    <DestinationName>Popondetta</DestinationName>
+    <DestinationStr>Popondetta(PNP)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PNQ</code>
+    <DestinationName>Lohegaon Arpt</DestinationName>
+    <DestinationStr>Lohegaon Arpt(PNQ)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PNQ</code>
+    <DestinationName>POONA</DestinationName>
+    <DestinationStr>POONA(PNQ)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PNQ</code>
+    <DestinationName>Pune</DestinationName>
+    <DestinationStr>Pune(PNQ)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PNR</code>
+    <DestinationName>Pointe Noire Arpt</DestinationName>
+    <DestinationStr>Pointe Noire Arpt(PNR)-Congo</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PNR</code>
+    <DestinationName>Pointe Noire</DestinationName>
+    <DestinationStr>Pointe Noire(PNR)-Congo</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PNS</code>
+    <DestinationName>Pensacola Regional Municipal</DestinationName>
+    <DestinationStr>Pensacola Regional Municipal(PNS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PNS</code>
+    <DestinationName>Pensacola</DestinationName>
+    <DestinationStr>Pensacola(PNS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PNT</code>
+    <DestinationName>Puerto Natales</DestinationName>
+    <DestinationStr>Puerto Natales(PNT)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PNT</code>
+    <DestinationName>Teniente Julio Gallardo Arpt</DestinationName>
+    <DestinationStr>Teniente Julio Gallardo Arpt(PNT)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PNU</code>
+    <DestinationName>Panguitch</DestinationName>
+    <DestinationStr>Panguitch(PNU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PNV</code>
+    <DestinationName>Panevezys</DestinationName>
+    <DestinationStr>Panevezys(PNV)-Lithuania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PNX</code>
+    <DestinationName>Grayson County Arpt</DestinationName>
+    <DestinationStr>Grayson County Arpt(PNX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PNX</code>
+    <DestinationName>Sherman</DestinationName>
+    <DestinationStr>Sherman(PNX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PNY</code>
+    <DestinationName>Pondicherry Airport</DestinationName>
+    <DestinationStr>Pondicherry Airport(PNY)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PNY</code>
+    <DestinationName>Pondicherry</DestinationName>
+    <DestinationStr>Pondicherry(PNY)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PNZ</code>
+    <DestinationName>Petrolina Internacional Arpt</DestinationName>
+    <DestinationStr>Petrolina Internacional Arpt(PNZ)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PNZ</code>
+    <DestinationName>Petrolina</DestinationName>
+    <DestinationStr>Petrolina(PNZ)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POA</code>
+    <DestinationName>Porto Alegre Airport</DestinationName>
+    <DestinationStr>Porto Alegre Airport(POA)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POA</code>
+    <DestinationName>Porto Alegre</DestinationName>
+    <DestinationStr>Porto Alegre(POA)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POB</code>
+    <DestinationName>Pope Airforce Base</DestinationName>
+    <DestinationStr>Pope Airforce Base(POB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POC</code>
+    <DestinationName>Brackett Field</DestinationName>
+    <DestinationStr>Brackett Field(POC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POC</code>
+    <DestinationName>La Verne</DestinationName>
+    <DestinationStr>La Verne(POC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POD</code>
+    <DestinationName>Podor</DestinationName>
+    <DestinationStr>Podor(POD)-Senegal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POE</code>
+    <DestinationName>Fort Polk Arpt</DestinationName>
+    <DestinationStr>Fort Polk Arpt(POE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POE</code>
+    <DestinationName>Fort Polk</DestinationName>
+    <DestinationStr>Fort Polk(POE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POE</code>
+    <DestinationName>Ft Polk Arpt</DestinationName>
+    <DestinationStr>Ft Polk Arpt(POE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POE</code>
+    <DestinationName>Ft Polk</DestinationName>
+    <DestinationStr>Ft Polk(POE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POF</code>
+    <DestinationName>Earl Fields Memorial</DestinationName>
+    <DestinationStr>Earl Fields Memorial(POF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POF</code>
+    <DestinationName>Poplar Bluff</DestinationName>
+    <DestinationStr>Poplar Bluff(POF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POG</code>
+    <DestinationName>Port Gentil Arpt</DestinationName>
+    <DestinationStr>Port Gentil Arpt(POG)-Gabon</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POG</code>
+    <DestinationName>Port Gentil</DestinationName>
+    <DestinationStr>Port Gentil(POG)-Gabon</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POI</code>
+    <DestinationName>Captain Nicolas Rojas Arpt</DestinationName>
+    <DestinationStr>Captain Nicolas Rojas Arpt(POI)-Bolivia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POI</code>
+    <DestinationName>Potosi</DestinationName>
+    <DestinationStr>Potosi(POI)-Bolivia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POJ</code>
+    <DestinationName>Patos De Minas Airport</DestinationName>
+    <DestinationStr>Patos De Minas Airport(POJ)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POJ</code>
+    <DestinationName>Patos De Minas</DestinationName>
+    <DestinationStr>Patos De Minas(POJ)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POJ</code>
+    <DestinationName>Pedro Pereira Dos Santos Arpt</DestinationName>
+    <DestinationStr>Pedro Pereira Dos Santos Arpt(POJ)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POL</code>
+    <DestinationName>Pemba Arpt</DestinationName>
+    <DestinationStr>Pemba Arpt(POL)-Mozambique</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POL</code>
+    <DestinationName>Pemba</DestinationName>
+    <DestinationStr>Pemba(POL)-Mozambique</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POM</code>
+    <DestinationName>Jackson Field</DestinationName>
+    <DestinationStr>Jackson Field(POM)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POM</code>
+    <DestinationName>Port Moresby</DestinationName>
+    <DestinationStr>Port Moresby(POM)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POO</code>
+    <DestinationName>Pocos De Caldas</DestinationName>
+    <DestinationStr>Pocos De Caldas(POO)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POP</code>
+    <DestinationName>Gregorio Luperon Intl</DestinationName>
+    <DestinationStr>Gregorio Luperon Intl(POP)-Dominican Republic</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POP</code>
+    <DestinationName>Puerto Plata</DestinationName>
+    <DestinationStr>Puerto Plata(POP)-Dominican Republic</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POQ</code>
+    <DestinationName>Polk Inlet Arpt</DestinationName>
+    <DestinationStr>Polk Inlet Arpt(POQ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POQ</code>
+    <DestinationName>Polk Inlet</DestinationName>
+    <DestinationStr>Polk Inlet(POQ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POR</code>
+    <DestinationName>Pori Airport</DestinationName>
+    <DestinationStr>Pori Airport(POR)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POR</code>
+    <DestinationName>Pori</DestinationName>
+    <DestinationStr>Pori(POR)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POS</code>
+    <DestinationName>Piarco International Arpt</DestinationName>
+    <DestinationStr>Piarco International Arpt(POS)-Trinidad  Tobago</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POS</code>
+    <DestinationName>Port Of Spain</DestinationName>
+    <DestinationStr>Port Of Spain(POS)-Trinidad  Tobago</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POT</code>
+    <DestinationName>Port Antonio</DestinationName>
+    <DestinationStr>Port Antonio(POT)-Jamaica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POU</code>
+    <DestinationName>Dutchess County</DestinationName>
+    <DestinationStr>Dutchess County(POU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POU</code>
+    <DestinationName>Poughkeepsie</DestinationName>
+    <DestinationStr>Poughkeepsie(POU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POW</code>
+    <DestinationName>Portoroz Airport</DestinationName>
+    <DestinationStr>Portoroz Airport(POW)-Slovenia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POW</code>
+    <DestinationName>Portoroz</DestinationName>
+    <DestinationStr>Portoroz(POW)-Slovenia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POX</code>
+    <DestinationName>Cormeille En Vexin</DestinationName>
+    <DestinationStr>Cormeille En Vexin(POX)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POX</code>
+    <DestinationName>Pontoise</DestinationName>
+    <DestinationStr>Pontoise(POX)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POZ</code>
+    <DestinationName>Lawica Arpt</DestinationName>
+    <DestinationStr>Lawica Arpt(POZ)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POZ</code>
+    <DestinationName>Poznan</DestinationName>
+    <DestinationStr>Poznan(POZ)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PPB</code>
+    <DestinationName>A De Barros</DestinationName>
+    <DestinationStr>A De Barros(PPB)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PPB</code>
+    <DestinationName>Presidente Prudente</DestinationName>
+    <DestinationStr>Presidente Prudente(PPB)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PPC</code>
+    <DestinationName>Prospect Creek</DestinationName>
+    <DestinationStr>Prospect Creek(PPC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PPD</code>
+    <DestinationName>Palmas Del Mar</DestinationName>
+    <DestinationStr>Palmas Del Mar(PPD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PPE</code>
+    <DestinationName>Puerto Penasco Intl</DestinationName>
+    <DestinationStr>Puerto Penasco Intl(PPE)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PPE</code>
+    <DestinationName>Puerto Penasco</DestinationName>
+    <DestinationStr>Puerto Penasco(PPE)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PPF</code>
+    <DestinationName>Parsons</DestinationName>
+    <DestinationStr>Parsons(PPF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PPF</code>
+    <DestinationName>Tri City</DestinationName>
+    <DestinationStr>Tri City(PPF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PPG</code>
+    <DestinationName>Pago Pago Arpt</DestinationName>
+    <DestinationStr>Pago Pago Arpt(PPG)-Samoa, American</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PPG</code>
+    <DestinationName>Pago Pago</DestinationName>
+    <DestinationStr>Pago Pago(PPG)-Samoa, American</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PPI</code>
+    <DestinationName>Port Pirie</DestinationName>
+    <DestinationStr>Port Pirie(PPI)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PPI</code>
+    <DestinationName>Port Porie Arpt</DestinationName>
+    <DestinationStr>Port Porie Arpt(PPI)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PPK</code>
+    <DestinationName>Petropavlovsk Arpt</DestinationName>
+    <DestinationStr>Petropavlovsk Arpt(PPK)-Kazakstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PPK</code>
+    <DestinationName>Petropavlovsk</DestinationName>
+    <DestinationStr>Petropavlovsk(PPK)-Kazakstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PPL</code>
+    <DestinationName>Phaplu Airport</DestinationName>
+    <DestinationStr>Phaplu Airport(PPL)-Nepal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PPL</code>
+    <DestinationName>Phaplu</DestinationName>
+    <DestinationStr>Phaplu(PPL)-Nepal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PPM</code>
+    <DestinationName>Pompano Beach Arpt</DestinationName>
+    <DestinationStr>Pompano Beach Arpt(PPM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PPM</code>
+    <DestinationName>Pompano Beach</DestinationName>
+    <DestinationStr>Pompano Beach(PPM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PPN</code>
+    <DestinationName>Guillermo L Valencia Arpt</DestinationName>
+    <DestinationStr>Guillermo L Valencia Arpt(PPN)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PPN</code>
+    <DestinationName>Popayan</DestinationName>
+    <DestinationStr>Popayan(PPN)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PPP</code>
+    <DestinationName>Proserpine</DestinationName>
+    <DestinationStr>Proserpine(PPP)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PPP</code>
+    <DestinationName>Whitsunday Coast Arpt</DestinationName>
+    <DestinationStr>Whitsunday Coast Arpt(PPP)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PPQ</code>
+    <DestinationName>Kapiti Coast Airport</DestinationName>
+    <DestinationStr>Kapiti Coast Airport(PPQ)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PPQ</code>
+    <DestinationName>Paraparaumu Arpt</DestinationName>
+    <DestinationStr>Paraparaumu Arpt(PPQ)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PPQ</code>
+    <DestinationName>Paraparaumu</DestinationName>
+    <DestinationStr>Paraparaumu(PPQ)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PPS</code>
+    <DestinationName>Puerto Princesa Arpt</DestinationName>
+    <DestinationStr>Puerto Princesa Arpt(PPS)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PPS</code>
+    <DestinationName>Puerto Princesa</DestinationName>
+    <DestinationStr>Puerto Princesa(PPS)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PPT</code>
+    <DestinationName>Intl Tahiti Faaa</DestinationName>
+    <DestinationStr>Intl Tahiti Faaa(PPT)-French Polynesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PPT</code>
+    <DestinationName>Papeete</DestinationName>
+    <DestinationStr>Papeete(PPT)-French Polynesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PPT</code>
+    <DestinationName>Tahiti</DestinationName>
+    <DestinationStr>Tahiti(PPT)-French Polynesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PPV</code>
+    <DestinationName>Port Protection Arpt</DestinationName>
+    <DestinationStr>Port Protection Arpt(PPV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PPV</code>
+    <DestinationName>Port Protection</DestinationName>
+    <DestinationStr>Port Protection(PPV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PPW</code>
+    <DestinationName>Papa Westray Arpt</DestinationName>
+    <DestinationStr>Papa Westray Arpt(PPW)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PPW</code>
+    <DestinationName>Papa Westray</DestinationName>
+    <DestinationStr>Papa Westray(PPW)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PPY</code>
+    <DestinationName>Pouso Alegre</DestinationName>
+    <DestinationStr>Pouso Alegre(PPY)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PQC</code>
+    <DestinationName>Duong Dang Arpt</DestinationName>
+    <DestinationStr>Duong Dang Arpt(PQC)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PQC</code>
+    <DestinationName>Phu Quoc</DestinationName>
+    <DestinationStr>Phu Quoc(PQC)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PQI</code>
+    <DestinationName>Northern Maine Regional</DestinationName>
+    <DestinationStr>Northern Maine Regional(PQI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PQI</code>
+    <DestinationName>Presque Isle</DestinationName>
+    <DestinationStr>Presque Isle(PQI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PQM</code>
+    <DestinationName>Palenque International</DestinationName>
+    <DestinationStr>Palenque International(PQM)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PQM</code>
+    <DestinationName>Palenque</DestinationName>
+    <DestinationStr>Palenque(PQM)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PQQ</code>
+    <DestinationName>Port Macquarie Arpt</DestinationName>
+    <DestinationStr>Port Macquarie Arpt(PQQ)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PQQ</code>
+    <DestinationName>Port Macquarie</DestinationName>
+    <DestinationStr>Port Macquarie(PQQ)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PQQ</code>
+    <DestinationName>Pt Macquarie</DestinationName>
+    <DestinationStr>Pt Macquarie(PQQ)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PQS</code>
+    <DestinationName>Pilot Station</DestinationName>
+    <DestinationStr>Pilot Station(PQS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PRA</code>
+    <DestinationName>Parana Arpt</DestinationName>
+    <DestinationStr>Parana Arpt(PRA)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PRA</code>
+    <DestinationName>Parana</DestinationName>
+    <DestinationStr>Parana(PRA)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PRB</code>
+    <DestinationName>Paso Robles Cty</DestinationName>
+    <DestinationStr>Paso Robles Cty(PRB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PRB</code>
+    <DestinationName>Paso Robles</DestinationName>
+    <DestinationStr>Paso Robles(PRB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PRC</code>
+    <DestinationName>Prescott Municipal</DestinationName>
+    <DestinationStr>Prescott Municipal(PRC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PRC</code>
+    <DestinationName>Prescott</DestinationName>
+    <DestinationStr>Prescott(PRC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PRG</code>
+    <DestinationName>Prague</DestinationName>
+    <DestinationStr>Prague(PRG)-Czech Republic</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PRG</code>
+    <DestinationName>Ruzyne Arpt</DestinationName>
+    <DestinationStr>Ruzyne Arpt(PRG)-Czech Republic</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PRH</code>
+    <DestinationName>Phrae Arpt</DestinationName>
+    <DestinationStr>Phrae Arpt(PRH)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PRH</code>
+    <DestinationName>Phrae</DestinationName>
+    <DestinationStr>Phrae(PRH)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PRI</code>
+    <DestinationName>Praslin Island Arpt</DestinationName>
+    <DestinationStr>Praslin Island Arpt(PRI)-Seychelles Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PRI</code>
+    <DestinationName>Praslin Island</DestinationName>
+    <DestinationStr>Praslin Island(PRI)-Seychelles Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PRJ</code>
+    <DestinationName>Capri</DestinationName>
+    <DestinationStr>Capri(PRJ)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PRJ</code>
+    <DestinationName>Harbour Airport</DestinationName>
+    <DestinationStr>Harbour Airport(PRJ)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PRM</code>
+    <DestinationName>Portimao Airport</DestinationName>
+    <DestinationStr>Portimao Airport(PRM)-Portugal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PRM</code>
+    <DestinationName>Portimao</DestinationName>
+    <DestinationStr>Portimao(PRM)-Portugal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PRN</code>
+    <DestinationName>Pristina Arpt</DestinationName>
+    <DestinationStr>Pristina Arpt(PRN)-Kosovo</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PRN</code>
+    <DestinationName>Pristina</DestinationName>
+    <DestinationStr>Pristina(PRN)-Kosovo</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PRO</code>
+    <DestinationName>Perry</DestinationName>
+    <DestinationStr>Perry(PRO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PRP</code>
+    <DestinationName>Propriano Arpt</DestinationName>
+    <DestinationStr>Propriano Arpt(PRP)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PRP</code>
+    <DestinationName>Propriano</DestinationName>
+    <DestinationStr>Propriano(PRP)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PRS</code>
+    <DestinationName>Parasi</DestinationName>
+    <DestinationStr>Parasi(PRS)-Solomon Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PRU</code>
+    <DestinationName>Prome</DestinationName>
+    <DestinationStr>Prome(PRU)-Myanmar</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PRX</code>
+    <DestinationName>Paris Cox Field Arpt</DestinationName>
+    <DestinationStr>Paris Cox Field Arpt(PRX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PRX</code>
+    <DestinationName>Paris</DestinationName>
+    <DestinationStr>Paris(PRX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PRY</code>
+    <DestinationName>Pretoria</DestinationName>
+    <DestinationStr>Pretoria(PRY)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PRY</code>
+    <DestinationName>Wonderboom Arpt</DestinationName>
+    <DestinationStr>Wonderboom Arpt(PRY)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PSA</code>
+    <DestinationName>Gal Galilei Arpt</DestinationName>
+    <DestinationStr>Gal Galilei Arpt(PSA)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PSA</code>
+    <DestinationName>Pisa</DestinationName>
+    <DestinationStr>Pisa(PSA)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PSB</code>
+    <DestinationName>Midstate Arpt</DestinationName>
+    <DestinationStr>Midstate Arpt(PSB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PSB</code>
+    <DestinationName>Philipsburg</DestinationName>
+    <DestinationStr>Philipsburg(PSB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PSC</code>
+    <DestinationName>Pasco</DestinationName>
+    <DestinationStr>Pasco(PSC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PSC</code>
+    <DestinationName>Tri Cities Arpt</DestinationName>
+    <DestinationStr>Tri Cities Arpt(PSC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PSD</code>
+    <DestinationName>Port Said</DestinationName>
+    <DestinationStr>Port Said(PSD)-Egypt</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PSE</code>
+    <DestinationName>Mercedita Arpt</DestinationName>
+    <DestinationStr>Mercedita Arpt(PSE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PSE</code>
+    <DestinationName>Ponce</DestinationName>
+    <DestinationStr>Ponce(PSE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PSF</code>
+    <DestinationName>Pittsfield Municipal</DestinationName>
+    <DestinationStr>Pittsfield Municipal(PSF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PSF</code>
+    <DestinationName>Pittsfield</DestinationName>
+    <DestinationStr>Pittsfield(PSF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PSG</code>
+    <DestinationName>Petersburg Municipal</DestinationName>
+    <DestinationStr>Petersburg Municipal(PSG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PSG</code>
+    <DestinationName>Petersburg</DestinationName>
+    <DestinationStr>Petersburg(PSG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PSH</code>
+    <DestinationName>Saint Peter</DestinationName>
+    <DestinationStr>Saint Peter(PSH)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PSH</code>
+    <DestinationName>St Peter</DestinationName>
+    <DestinationStr>St Peter(PSH)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PSI</code>
+    <DestinationName>Pasni</DestinationName>
+    <DestinationStr>Pasni(PSI)-Pakistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PSJ</code>
+    <DestinationName>Poso</DestinationName>
+    <DestinationStr>Poso(PSJ)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PSK</code>
+    <DestinationName>Dublin</DestinationName>
+    <DestinationStr>Dublin(PSK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PSK</code>
+    <DestinationName>New River Valley Arpt</DestinationName>
+    <DestinationStr>New River Valley Arpt(PSK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PSL</code>
+    <DestinationName>Perth Airport</DestinationName>
+    <DestinationStr>Perth Airport(PSL)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PSL</code>
+    <DestinationName>Perth</DestinationName>
+    <DestinationStr>Perth(PSL)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PSM</code>
+    <DestinationName>Portsmouth Pease Intl Arpt</DestinationName>
+    <DestinationStr>Portsmouth Pease Intl Arpt(PSM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PSM</code>
+    <DestinationName>Portsmouth</DestinationName>
+    <DestinationStr>Portsmouth(PSM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PSN</code>
+    <DestinationName>Palestine</DestinationName>
+    <DestinationStr>Palestine(PSN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PSO</code>
+    <DestinationName>Antonio Narino Arpt</DestinationName>
+    <DestinationStr>Antonio Narino Arpt(PSO)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PSO</code>
+    <DestinationName>Pasto</DestinationName>
+    <DestinationStr>Pasto(PSO)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PSP</code>
+    <DestinationName>Palm Springs Municipal</DestinationName>
+    <DestinationStr>Palm Springs Municipal(PSP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PSP</code>
+    <DestinationName>Palm Springs</DestinationName>
+    <DestinationStr>Palm Springs(PSP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PSQ</code>
+    <DestinationName>Essington Philadelphia Seaplane Base</DestinationName>
+    <DestinationStr>Essington Philadelphia Seaplane Base(PSQ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PSR</code>
+    <DestinationName>Liberi Airport</DestinationName>
+    <DestinationStr>Liberi Airport(PSR)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PSR</code>
+    <DestinationName>Pescara</DestinationName>
+    <DestinationStr>Pescara(PSR)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PSS</code>
+    <DestinationName>Posadas Arpt</DestinationName>
+    <DestinationStr>Posadas Arpt(PSS)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PSS</code>
+    <DestinationName>Posadas</DestinationName>
+    <DestinationStr>Posadas(PSS)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PSW</code>
+    <DestinationName>Passos</DestinationName>
+    <DestinationStr>Passos(PSW)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PSY</code>
+    <DestinationName>Port Stanley</DestinationName>
+    <DestinationStr>Port Stanley(PSY)-Falkland Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PSZ</code>
+    <DestinationName>Puerto Suarez Intl</DestinationName>
+    <DestinationStr>Puerto Suarez Intl(PSZ)-Bolivia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PSZ</code>
+    <DestinationName>Puerto Suarez</DestinationName>
+    <DestinationStr>Puerto Suarez(PSZ)-Bolivia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PTA</code>
+    <DestinationName>Port Alsworth</DestinationName>
+    <DestinationStr>Port Alsworth(PTA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PTB</code>
+    <DestinationName>Petersburg Municipal Arpt</DestinationName>
+    <DestinationStr>Petersburg Municipal Arpt(PTB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PTB</code>
+    <DestinationName>Petersburg</DestinationName>
+    <DestinationStr>Petersburg(PTB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PTC</code>
+    <DestinationName>Port Alice Arpt</DestinationName>
+    <DestinationStr>Port Alice Arpt(PTC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PTC</code>
+    <DestinationName>Port Alice</DestinationName>
+    <DestinationStr>Port Alice(PTC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PTD</code>
+    <DestinationName>Port Alexander Arpt</DestinationName>
+    <DestinationStr>Port Alexander Arpt(PTD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PTD</code>
+    <DestinationName>Port Alexander</DestinationName>
+    <DestinationStr>Port Alexander(PTD)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>PTE</code>
+    <DestinationName>Pontevedra</DestinationName>
+    <DestinationStr>Pontevedra(PTE)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PTF</code>
+    <DestinationName>Malololailai Arpt</DestinationName>
+    <DestinationStr>Malololailai Arpt(PTF)-Fiji Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PTF</code>
+    <DestinationName>Malololailai</DestinationName>
+    <DestinationStr>Malololailai(PTF)-Fiji Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PTG</code>
+    <DestinationName>Polokwane International Arpt</DestinationName>
+    <DestinationStr>Polokwane International Arpt(PTG)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PTG</code>
+    <DestinationName>Polokwane</DestinationName>
+    <DestinationStr>Polokwane(PTG)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PTH</code>
+    <DestinationName>Port Heiden</DestinationName>
+    <DestinationStr>Port Heiden(PTH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PTI</code>
+    <DestinationName>Port Douglas Arpt</DestinationName>
+    <DestinationStr>Port Douglas Arpt(PTI)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PTI</code>
+    <DestinationName>Port Douglas</DestinationName>
+    <DestinationStr>Port Douglas(PTI)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PTJ</code>
+    <DestinationName>Portland Arpt</DestinationName>
+    <DestinationStr>Portland Arpt(PTJ)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PTJ</code>
+    <DestinationName>Portland</DestinationName>
+    <DestinationStr>Portland(PTJ)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PTK</code>
+    <DestinationName>Oakland Pontiac Arpt</DestinationName>
+    <DestinationStr>Oakland Pontiac Arpt(PTK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PTK</code>
+    <DestinationName>Pontiac</DestinationName>
+    <DestinationStr>Pontiac(PTK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PTL</code>
+    <DestinationName>Port Armstrong Arpt</DestinationName>
+    <DestinationStr>Port Armstrong Arpt(PTL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PTL</code>
+    <DestinationName>Port Armstrong</DestinationName>
+    <DestinationStr>Port Armstrong(PTL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PTN</code>
+    <DestinationName>Morgan City</DestinationName>
+    <DestinationStr>Morgan City(PTN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PTN</code>
+    <DestinationName>Williams Memorial Arpt</DestinationName>
+    <DestinationStr>Williams Memorial Arpt(PTN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PTO</code>
+    <DestinationName>Pato Branco Municipal</DestinationName>
+    <DestinationStr>Pato Branco Municipal(PTO)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PTO</code>
+    <DestinationName>Pato Branco</DestinationName>
+    <DestinationStr>Pato Branco(PTO)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PTP</code>
+    <DestinationName>Le Raizet Arpt</DestinationName>
+    <DestinationStr>Le Raizet Arpt(PTP)-Guadeloupe</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PTP</code>
+    <DestinationName>Pointe A Pitre</DestinationName>
+    <DestinationStr>Pointe A Pitre(PTP)-Guadeloupe</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PTS</code>
+    <DestinationName>Atkinson Municipal Arpt</DestinationName>
+    <DestinationStr>Atkinson Municipal Arpt(PTS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PTS</code>
+    <DestinationName>Pittsburg</DestinationName>
+    <DestinationStr>Pittsburg(PTS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PTU</code>
+    <DestinationName>Platinum</DestinationName>
+    <DestinationStr>Platinum(PTU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PTV</code>
+    <DestinationName>Porterville Arpt</DestinationName>
+    <DestinationStr>Porterville Arpt(PTV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PTV</code>
+    <DestinationName>Porterville</DestinationName>
+    <DestinationStr>Porterville(PTV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PTW</code>
+    <DestinationName>Pottstown Limerick</DestinationName>
+    <DestinationStr>Pottstown Limerick(PTW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PTW</code>
+    <DestinationName>Pottstown</DestinationName>
+    <DestinationStr>Pottstown(PTW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PTY</code>
+    <DestinationName>Panama City</DestinationName>
+    <DestinationStr>Panama City(PTY)-Panama</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PTY</code>
+    <DestinationName>Tocumen Intl Arpt</DestinationName>
+    <DestinationStr>Tocumen Intl Arpt(PTY)-Panama</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PTZ</code>
+    <DestinationName>Pastaza</DestinationName>
+    <DestinationStr>Pastaza(PTZ)-Ecuador</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PUB</code>
+    <DestinationName>Pueblo Arpt</DestinationName>
+    <DestinationStr>Pueblo Arpt(PUB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PUB</code>
+    <DestinationName>Pueblo</DestinationName>
+    <DestinationStr>Pueblo(PUB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PUC</code>
+    <DestinationName>Carbon Cty Municipal Arpt</DestinationName>
+    <DestinationStr>Carbon Cty Municipal Arpt(PUC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PUC</code>
+    <DestinationName>Price</DestinationName>
+    <DestinationStr>Price(PUC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PUD</code>
+    <DestinationName>Puerto Deseado</DestinationName>
+    <DestinationStr>Puerto Deseado(PUD)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PUE</code>
+    <DestinationName>Puerto Obaldia</DestinationName>
+    <DestinationStr>Puerto Obaldia(PUE)-Panama</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PUF</code>
+    <DestinationName>Pau Fr</DestinationName>
+    <DestinationStr>Pau Fr(PUF)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PUF</code>
+    <DestinationName>Uzein Airport</DestinationName>
+    <DestinationStr>Uzein Airport(PUF)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PUG</code>
+    <DestinationName>Port Augusta Arpt</DestinationName>
+    <DestinationStr>Port Augusta Arpt(PUG)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PUG</code>
+    <DestinationName>Port Augusta</DestinationName>
+    <DestinationStr>Port Augusta(PUG)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PUI</code>
+    <DestinationName>Purnea Airport</DestinationName>
+    <DestinationStr>Purnea Airport(PUI)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PUI</code>
+    <DestinationName>Purnea</DestinationName>
+    <DestinationStr>Purnea(PUI)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PUJ</code>
+    <DestinationName>Punta Cana International</DestinationName>
+    <DestinationStr>Punta Cana International(PUJ)-Dominican Republic</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PUJ</code>
+    <DestinationName>Punta Cana</DestinationName>
+    <DestinationStr>Punta Cana(PUJ)-Dominican Republic</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PUK</code>
+    <DestinationName>Pukarua</DestinationName>
+    <DestinationStr>Pukarua(PUK)-French Polynesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PUL</code>
+    <DestinationName>Poulsbo</DestinationName>
+    <DestinationStr>Poulsbo(PUL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PUM</code>
+    <DestinationName>Pomala</DestinationName>
+    <DestinationStr>Pomala(PUM)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PUN</code>
+    <DestinationName>Punia</DestinationName>
+    <DestinationStr>Punia(PUN)-Congo Democratic Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PUO</code>
+    <DestinationName>Prudhoe Bay</DestinationName>
+    <DestinationStr>Prudhoe Bay(PUO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PUQ</code>
+    <DestinationName>Presidente Ibanez Arpt</DestinationName>
+    <DestinationStr>Presidente Ibanez Arpt(PUQ)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PUQ</code>
+    <DestinationName>Punta Arenas</DestinationName>
+    <DestinationStr>Punta Arenas(PUQ)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PUS</code>
+    <DestinationName>Busan</DestinationName>
+    <DestinationStr>Busan(PUS)-Korea, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PUS</code>
+    <DestinationName>Kimhae Arpt</DestinationName>
+    <DestinationStr>Kimhae Arpt(PUS)-Korea, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PUS</code>
+    <DestinationName>Pusan</DestinationName>
+    <DestinationStr>Pusan(PUS)-Korea, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PUT</code>
+    <DestinationName>RAE BARELI</DestinationName>
+    <DestinationStr>RAE BARELI(PUT)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PUU</code>
+    <DestinationName>Puerto Asis</DestinationName>
+    <DestinationStr>Puerto Asis(PUU)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PUU</code>
+    <DestinationName>Tres De Mayo Arpt</DestinationName>
+    <DestinationStr>Tres De Mayo Arpt(PUU)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PUV</code>
+    <DestinationName>Poum</DestinationName>
+    <DestinationStr>Poum(PUV)-New Caledonia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PUW</code>
+    <DestinationName>Pullman Moscow Arpt</DestinationName>
+    <DestinationStr>Pullman Moscow Arpt(PUW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PUW</code>
+    <DestinationName>Pullman</DestinationName>
+    <DestinationStr>Pullman(PUW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PUX</code>
+    <DestinationName>Puerto Varas Arpt</DestinationName>
+    <DestinationStr>Puerto Varas Arpt(PUX)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PUX</code>
+    <DestinationName>Puerto Varas</DestinationName>
+    <DestinationStr>Puerto Varas(PUX)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PUY</code>
+    <DestinationName>Pula Arpt</DestinationName>
+    <DestinationStr>Pula Arpt(PUY)-Croatia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PUY</code>
+    <DestinationName>Pula</DestinationName>
+    <DestinationStr>Pula(PUY)-Croatia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PVA</code>
+    <DestinationName>El Embrujo Arpt</DestinationName>
+    <DestinationStr>El Embrujo Arpt(PVA)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PVA</code>
+    <DestinationName>Providencia</DestinationName>
+    <DestinationStr>Providencia(PVA)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PVC</code>
+    <DestinationName>Provincetown Municipal</DestinationName>
+    <DestinationStr>Provincetown Municipal(PVC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PVC</code>
+    <DestinationName>Provincetown</DestinationName>
+    <DestinationStr>Provincetown(PVC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PVD</code>
+    <DestinationName>Providence</DestinationName>
+    <DestinationStr>Providence(PVD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PVD</code>
+    <DestinationName>T F Green St Arpt</DestinationName>
+    <DestinationStr>T F Green St Arpt(PVD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PVF</code>
+    <DestinationName>Placerville Arpt</DestinationName>
+    <DestinationStr>Placerville Arpt(PVF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PVF</code>
+    <DestinationName>Placerville</DestinationName>
+    <DestinationStr>Placerville(PVF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PVG</code>
+    <DestinationName>Pudong International Arpt</DestinationName>
+    <DestinationStr>Pudong International Arpt(PVG)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PVG</code>
+    <DestinationName>Shanghai CN</DestinationName>
+    <DestinationStr>Shanghai CN(PVG)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PVH</code>
+    <DestinationName>Belmonte Arpt</DestinationName>
+    <DestinationStr>Belmonte Arpt(PVH)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PVH</code>
+    <DestinationName>Porto Velho</DestinationName>
+    <DestinationStr>Porto Velho(PVH)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PVK</code>
+    <DestinationName>Aktion Arpt</DestinationName>
+    <DestinationStr>Aktion Arpt(PVK)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PVK</code>
+    <DestinationName>Preveza</DestinationName>
+    <DestinationStr>Preveza(PVK)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PVL</code>
+    <DestinationName>Pikeville</DestinationName>
+    <DestinationStr>Pikeville(PVL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PVN</code>
+    <DestinationName>Pleven</DestinationName>
+    <DestinationStr>Pleven(PVN)-Bulgaria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PVO</code>
+    <DestinationName>Portoviejo</DestinationName>
+    <DestinationStr>Portoviejo(PVO)-Ecuador</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PVR</code>
+    <DestinationName>G Diaz Ordaz International</DestinationName>
+    <DestinationStr>G Diaz Ordaz International(PVR)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PVR</code>
+    <DestinationName>Puerto Vallarta</DestinationName>
+    <DestinationStr>Puerto Vallarta(PVR)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PVU</code>
+    <DestinationName>Provo Arpt</DestinationName>
+    <DestinationStr>Provo Arpt(PVU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PVU</code>
+    <DestinationName>Provo</DestinationName>
+    <DestinationStr>Provo(PVU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PVW</code>
+    <DestinationName>Hale County Arpt</DestinationName>
+    <DestinationStr>Hale County Arpt(PVW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PVW</code>
+    <DestinationName>Plainview</DestinationName>
+    <DestinationStr>Plainview(PVW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PVZ</code>
+    <DestinationName>Casement Arpt</DestinationName>
+    <DestinationStr>Casement Arpt(PVZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PVZ</code>
+    <DestinationName>Painesville</DestinationName>
+    <DestinationStr>Painesville(PVZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PWA</code>
+    <DestinationName>Wiley Post Arpt</DestinationName>
+    <DestinationStr>Wiley Post Arpt(PWA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PWK</code>
+    <DestinationName>Pal Waukee Arpt</DestinationName>
+    <DestinationStr>Pal Waukee Arpt(PWK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PWM</code>
+    <DestinationName>Portland Intl Jetport</DestinationName>
+    <DestinationStr>Portland Intl Jetport(PWM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PWM</code>
+    <DestinationName>Portland</DestinationName>
+    <DestinationStr>Portland(PWM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PWQ</code>
+    <DestinationName>Pavlodar Arpt</DestinationName>
+    <DestinationStr>Pavlodar Arpt(PWQ)-Kazakstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PWQ</code>
+    <DestinationName>Pavlodar</DestinationName>
+    <DestinationStr>Pavlodar(PWQ)-Kazakstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PWR</code>
+    <DestinationName>Port Walter Arpt</DestinationName>
+    <DestinationStr>Port Walter Arpt(PWR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PWR</code>
+    <DestinationName>Port Walter</DestinationName>
+    <DestinationStr>Port Walter(PWR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PWT</code>
+    <DestinationName>Bremerton Municipal</DestinationName>
+    <DestinationStr>Bremerton Municipal(PWT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PWT</code>
+    <DestinationName>Bremerton</DestinationName>
+    <DestinationStr>Bremerton(PWT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PXL</code>
+    <DestinationName>Polacca Arpt</DestinationName>
+    <DestinationStr>Polacca Arpt(PXL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PXL</code>
+    <DestinationName>Polacca</DestinationName>
+    <DestinationStr>Polacca(PXL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PXM</code>
+    <DestinationName>Puerto Escondido Intl</DestinationName>
+    <DestinationStr>Puerto Escondido Intl(PXM)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PXM</code>
+    <DestinationName>Puerto Escondido</DestinationName>
+    <DestinationStr>Puerto Escondido(PXM)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PXO</code>
+    <DestinationName>Porto Santo Arpt</DestinationName>
+    <DestinationStr>Porto Santo Arpt(PXO)-Portugal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PXO</code>
+    <DestinationName>Porto Santo</DestinationName>
+    <DestinationStr>Porto Santo(PXO)-Portugal</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>PXS</code>
+    <DestinationName>Puerto de Santa Maria</DestinationName>
+    <DestinationStr>Puerto de Santa Maria(PXS)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PXU</code>
+    <DestinationName>Pleiku Arpt</DestinationName>
+    <DestinationStr>Pleiku Arpt(PXU)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PXU</code>
+    <DestinationName>Pleiku</DestinationName>
+    <DestinationStr>Pleiku(PXU)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PYA</code>
+    <DestinationName>Puerto Boyaca</DestinationName>
+    <DestinationStr>Puerto Boyaca(PYA)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PYB</code>
+    <DestinationName>JEYPORE</DestinationName>
+    <DestinationStr>JEYPORE(PYB)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PYH</code>
+    <DestinationName>Cacique Aramare Arpt</DestinationName>
+    <DestinationStr>Cacique Aramare Arpt(PYH)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PYH</code>
+    <DestinationName>Puerto Ayacucho</DestinationName>
+    <DestinationStr>Puerto Ayacucho(PYH)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PYM</code>
+    <DestinationName>Plymouth Arpt</DestinationName>
+    <DestinationStr>Plymouth Arpt(PYM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PYM</code>
+    <DestinationName>Plymouth</DestinationName>
+    <DestinationStr>Plymouth(PYM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PYR</code>
+    <DestinationName>Andravida Arpt</DestinationName>
+    <DestinationStr>Andravida Arpt(PYR)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PYR</code>
+    <DestinationName>Pyrgos</DestinationName>
+    <DestinationStr>Pyrgos(PYR)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PYX</code>
+    <DestinationName>Pattaya Arpt</DestinationName>
+    <DestinationStr>Pattaya Arpt(PYX)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PYX</code>
+    <DestinationName>Pattaya</DestinationName>
+    <DestinationStr>Pattaya(PYX)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PYY</code>
+    <DestinationName>Pai Arpt</DestinationName>
+    <DestinationStr>Pai Arpt(PYY)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PYY</code>
+    <DestinationName>Pai City</DestinationName>
+    <DestinationStr>Pai City(PYY)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PZB</code>
+    <DestinationName>Pietermaritzburg Arpt</DestinationName>
+    <DestinationStr>Pietermaritzburg Arpt(PZB)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PZB</code>
+    <DestinationName>Pietermaritzburg</DestinationName>
+    <DestinationStr>Pietermaritzburg(PZB)-South Africa</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>PZE</code>
+    <DestinationName>Penzance Arpt</DestinationName>
+    <DestinationStr>Penzance Arpt(PZE)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PZE</code>
+    <DestinationName>Penzance</DestinationName>
+    <DestinationStr>Penzance(PZE)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PZH</code>
+    <DestinationName>Zhob</DestinationName>
+    <DestinationStr>Zhob(PZH)-Pakistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PZI</code>
+    <DestinationName>Pan Zhi Hua Bao An Ying Arpt</DestinationName>
+    <DestinationStr>Pan Zhi Hua Bao An Ying Arpt(PZI)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PZI</code>
+    <DestinationName>Panzhihua</DestinationName>
+    <DestinationStr>Panzhihua(PZI)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PZK</code>
+    <DestinationName>Pukapuka Island</DestinationName>
+    <DestinationStr>Pukapuka Island(PZK)-Cook Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PZO</code>
+    <DestinationName>Manuel Carlos Piar Arpt</DestinationName>
+    <DestinationStr>Manuel Carlos Piar Arpt(PZO)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PZO</code>
+    <DestinationName>Puerto Ordaz</DestinationName>
+    <DestinationStr>Puerto Ordaz(PZO)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PZU</code>
+    <DestinationName>Port Sudan New intl Arpt</DestinationName>
+    <DestinationStr>Port Sudan New intl Arpt(PZU)-Sudan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PZU</code>
+    <DestinationName>Port Sudan</DestinationName>
+    <DestinationStr>Port Sudan(PZU)-Sudan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PZY</code>
+    <DestinationName>Piestany Arpt</DestinationName>
+    <DestinationStr>Piestany Arpt(PZY)-Slovakia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PZY</code>
+    <DestinationName>Piestany</DestinationName>
+    <DestinationStr>Piestany(PZY)-Slovakia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QAD</code>
+    <DestinationName>Pordenone</DestinationName>
+    <DestinationStr>Pordenone(QAD)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QBG</code>
+    <DestinationName>Pancevo</DestinationName>
+    <DestinationStr>Pancevo(QBG)-Serbia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QCI</code>
+    <DestinationName>Playa de los Cristianos</DestinationName>
+    <DestinationStr>Playa de los Cristianos(QCI)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QEZ</code>
+    <DestinationName>Pomezia</DestinationName>
+    <DestinationStr>Pomezia(QEZ)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QHB</code>
+    <DestinationName>Piracicaba</DestinationName>
+    <DestinationStr>Piracicaba(QHB)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QLY</code>
+    <DestinationName>Playa Blanca</DestinationName>
+    <DestinationStr>Playa Blanca(QLY)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QMB</code>
+    <DestinationName>Panambi</DestinationName>
+    <DestinationStr>Panambi(QMB)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QPA</code>
+    <DestinationName>Padova Arpt</DestinationName>
+    <DestinationStr>Padova Arpt(QPA)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QPA</code>
+    <DestinationName>Padova</DestinationName>
+    <DestinationStr>Padova(QPA)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QPC</code>
+    <DestinationName>Plock</DestinationName>
+    <DestinationStr>Plock(QPC)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QPE</code>
+    <DestinationName>Petropolis</DestinationName>
+    <DestinationStr>Petropolis(QPE)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QPG</code>
+    <DestinationName>Paya Lebar Arpt</DestinationName>
+    <DestinationStr>Paya Lebar Arpt(QPG)-Singapore</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QPH</code>
+    <DestinationName>Palapye</DestinationName>
+    <DestinationStr>Palapye(QPH)-Botswana</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QPL</code>
+    <DestinationName>Ploiesti</DestinationName>
+    <DestinationStr>Ploiesti(QPL)-Romania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QPN</code>
+    <DestinationName>Piatra Neamt</DestinationName>
+    <DestinationStr>Piatra Neamt(QPN)-Romania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QPO</code>
+    <DestinationName>Potenza</DestinationName>
+    <DestinationStr>Potenza(QPO)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QPR</code>
+    <DestinationName>Prato</DestinationName>
+    <DestinationStr>Prato(QPR)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QPS</code>
+    <DestinationName>Pirassununga</DestinationName>
+    <DestinationStr>Pirassununga(QPS)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QPZ</code>
+    <DestinationName>Piacenza</DestinationName>
+    <DestinationStr>Piacenza(QPZ)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QUZ</code>
+    <DestinationName>Puerto de la Luz</DestinationName>
+    <DestinationStr>Puerto de la Luz(QUZ)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QXJ</code>
+    <DestinationName>Porvoo</DestinationName>
+    <DestinationStr>Porvoo(QXJ)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RAI</code>
+    <DestinationName>Praia</DestinationName>
+    <DestinationStr>Praia(RAI)-Cape Verde, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RBR</code>
+    <DestinationName>Pres Medici Arpt</DestinationName>
+    <DestinationStr>Pres Medici Arpt(RBR)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RCY</code>
+    <DestinationName>Port Nelson Arpt</DestinationName>
+    <DestinationStr>Port Nelson Arpt(RCY)-Bahamas</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RGE</code>
+    <DestinationName>Porgera</DestinationName>
+    <DestinationStr>Porgera(RGE)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ROR</code>
+    <DestinationName>Palau</DestinationName>
+    <DestinationStr>Palau(ROR)-Palau</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SCC</code>
+    <DestinationName>Prudhoe Bay Deadhorse Arpt</DestinationName>
+    <DestinationStr>Prudhoe Bay Deadhorse Arpt(SCC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SCC</code>
+    <DestinationName>Prudhoe Bay Deadhorse</DestinationName>
+    <DestinationStr>Prudhoe Bay Deadhorse(SCC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SCI</code>
+    <DestinationName>Paramillo Arpt</DestinationName>
+    <DestinationStr>Paramillo Arpt(SCI)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SLP</code>
+    <DestinationName>Ponciano Arriaga Intl</DestinationName>
+    <DestinationStr>Ponciano Arriaga Intl(SLP)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SLW</code>
+    <DestinationName>Plan de Guadalupe Intl</DestinationName>
+    <DestinationStr>Plan de Guadalupe Intl(SLW)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SME</code>
+    <DestinationName>Pulaski County Arpt</DestinationName>
+    <DestinationStr>Pulaski County Arpt(SME)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SNE</code>
+    <DestinationName>Preguica Arpt</DestinationName>
+    <DestinationStr>Preguica Arpt(SNE)-Cape Verde, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SON</code>
+    <DestinationName>Pekoa Arpt</DestinationName>
+    <DestinationStr>Pekoa Arpt(SON)-Vanuatu</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SOP</code>
+    <DestinationName>Pinehurst Arpt</DestinationName>
+    <DestinationStr>Pinehurst Arpt(SOP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SOP</code>
+    <DestinationName>Pinehurst</DestinationName>
+    <DestinationStr>Pinehurst(SOP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SRL</code>
+    <DestinationName>Palo Verde Airport</DestinationName>
+    <DestinationStr>Palo Verde Airport(SRL)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SXM</code>
+    <DestinationName>Princ Juliana Arpt</DestinationName>
+    <DestinationStr>Princ Juliana Arpt(SXM)-St Maarten</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SZW</code>
+    <DestinationName>Parchim Arpt</DestinationName>
+    <DestinationStr>Parchim Arpt(SZW)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAT</code>
+    <DestinationName>Poprad Tatry Arpt</DestinationName>
+    <DestinationStr>Poprad Tatry Arpt(TAT)-Slovakia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAT</code>
+    <DestinationName>Poprad Tatry</DestinationName>
+    <DestinationStr>Poprad Tatry(TAT)-Slovakia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TBP</code>
+    <DestinationName>Pedro Canga Rodriguez Arpt</DestinationName>
+    <DestinationStr>Pedro Canga Rodriguez Arpt(TBP)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TGD</code>
+    <DestinationName>Podgorica</DestinationName>
+    <DestinationStr>Podgorica(TGD)-Montenegro</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TGP</code>
+    <DestinationName>Podkamennaya Tunguska</DestinationName>
+    <DestinationStr>Podkamennaya Tunguska(TGP)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>THY</code>
+    <DestinationName>P R Mphephu Airport</DestinationName>
+    <DestinationStr>P R Mphephu Airport(THY)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TMS</code>
+    <DestinationName>Principe</DestinationName>
+    <DestinationStr>Principe(TMS)-Sao Tome  Principe</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TOP</code>
+    <DestinationName>Phillip Billard Arpt</DestinationName>
+    <DestinationStr>Phillip Billard Arpt(TOP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TPF</code>
+    <DestinationName>Peter O Knight Arpt</DestinationName>
+    <DestinationStr>Peter O Knight Arpt(TPF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TWD</code>
+    <DestinationName>Port Townsend</DestinationName>
+    <DestinationStr>Port Townsend(TWD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TWZ</code>
+    <DestinationName>Pukaki Twizelarpt</DestinationName>
+    <DestinationStr>Pukaki Twizelarpt(TWZ)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TYR</code>
+    <DestinationName>Pounds Field</DestinationName>
+    <DestinationStr>Pounds Field(TYR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UDD</code>
+    <DestinationName>Palm Desert</DestinationName>
+    <DestinationStr>Palm Desert(UDD)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>UER</code>
+    <DestinationName>Puertollano</DestinationName>
+    <DestinationStr>Puertollano(UER)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UIP</code>
+    <DestinationName>Pluguffan Arpt</DestinationName>
+    <DestinationStr>Pluguffan Arpt(UIP)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UPF</code>
+    <DestinationName>Pforzheim</DestinationName>
+    <DestinationStr>Pforzheim(UPF)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UZC</code>
+    <DestinationName>Ponikvearpt</DestinationName>
+    <DestinationStr>Ponikvearpt(UZC)-Serbia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VLI</code>
+    <DestinationName>Port Vila</DestinationName>
+    <DestinationStr>Port Vila(VLI)-Vanuatu</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VPZ</code>
+    <DestinationName>Porter County</DestinationName>
+    <DestinationStr>Porter County(VPZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VYS</code>
+    <DestinationName>Peru</DestinationName>
+    <DestinationStr>Peru(VYS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WEA</code>
+    <DestinationName>Parker County Airport</DestinationName>
+    <DestinationStr>Parker County Airport(WEA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WPA</code>
+    <DestinationName>Puerto Aisen Arpt</DestinationName>
+    <DestinationStr>Puerto Aisen Arpt(WPA)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WPA</code>
+    <DestinationName>Puerto Aisen</DestinationName>
+    <DestinationStr>Puerto Aisen(WPA)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WPB</code>
+    <DestinationName>Port Berge</DestinationName>
+    <DestinationStr>Port Berge(WPB)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WPO</code>
+    <DestinationName>Paonia</DestinationName>
+    <DestinationStr>Paonia(WPO)-United States</DestinationStr>
+  </Destination>    
+  <Destination>
+    <code>XFE</code>
+    <DestinationName>Parent</DestinationName>
+    <DestinationStr>Parent(XFE)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XFG</code>
+    <DestinationName>Perce</DestinationName>
+    <DestinationStr>Perce(XFG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XFI</code>
+    <DestinationName>Port Daniel</DestinationName>
+    <DestinationStr>Port Daniel(XFI)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XGF</code>
+    <DestinationName>Percex</DestinationName>
+    <DestinationStr>Percex(XGF)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XII</code>
+    <DestinationName>Prescott</DestinationName>
+    <DestinationStr>Prescott(XII)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XJY</code>
+    <DestinationName>Paris City</DestinationName>
+    <DestinationStr>Paris City(XJY)-France</DestinationStr>
+  </Destination>    
+  <Destination>
+    <code>XKP</code>
+    <DestinationName>Porsgrunn</DestinationName>
+    <DestinationStr>Porsgrunn(XKP)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XPB</code>
+    <DestinationName>Parksville</DestinationName>
+    <DestinationStr>Parksville(XPB)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XPF</code>
+    <DestinationName>Penrith</DestinationName>
+    <DestinationStr>Penrith(XPF)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XPH</code>
+    <DestinationName>Port Hope</DestinationName>
+    <DestinationStr>Port Hope(XPH)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XPK</code>
+    <DestinationName>Pukatawagan</DestinationName>
+    <DestinationStr>Pukatawagan(XPK)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XPS</code>
+    <DestinationName>Provins</DestinationName>
+    <DestinationStr>Provins(XPS)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XPT</code>
+    <DestinationName>Preston</DestinationName>
+    <DestinationStr>Preston(XPT)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XPX</code>
+    <DestinationName>Pointe Aux Trembles</DestinationName>
+    <DestinationStr>Pointe Aux Trembles(XPX)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XVH</code>
+    <DestinationName>Peterborough</DestinationName>
+    <DestinationStr>Peterborough(XVH)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XXP</code>
+    <DestinationName>Potsdam</DestinationName>
+    <DestinationStr>Potsdam(XXP)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XZP</code>
+    <DestinationName>Pass</DestinationName>
+    <DestinationStr>Pass(XZP)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YBB</code>
+    <DestinationName>Pelly Bay</DestinationName>
+    <DestinationStr>Pelly Bay(YBB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YGW</code>
+    <DestinationName>Poste De La Baleine</DestinationName>
+    <DestinationStr>Poste De La Baleine(YGW)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHA</code>
+    <DestinationName>Port Hope Simpson Arpt</DestinationName>
+    <DestinationStr>Port Hope Simpson Arpt(YHA)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHA</code>
+    <DestinationName>Port Hope Simpson</DestinationName>
+    <DestinationStr>Port Hope Simpson(YHA)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YIF</code>
+    <DestinationName>Pakuashipi Arpt</DestinationName>
+    <DestinationStr>Pakuashipi Arpt(YIF)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YIF</code>
+    <DestinationName>Pakuashipi</DestinationName>
+    <DestinationStr>Pakuashipi(YIF)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YIO</code>
+    <DestinationName>Pond Inlet Arpt</DestinationName>
+    <DestinationStr>Pond Inlet Arpt(YIO)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YIO</code>
+    <DestinationName>Pond Inlet</DestinationName>
+    <DestinationStr>Pond Inlet(YIO)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPA</code>
+    <DestinationName>Prince Albert Glass Field Arpt</DestinationName>
+    <DestinationStr>Prince Albert Glass Field Arpt(YPA)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPA</code>
+    <DestinationName>Prince Albert</DestinationName>
+    <DestinationStr>Prince Albert(YPA)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPB</code>
+    <DestinationName>Port Alberni Arpt</DestinationName>
+    <DestinationStr>Port Alberni Arpt(YPB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPB</code>
+    <DestinationName>Port Alberni</DestinationName>
+    <DestinationStr>Port Alberni(YPB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPD</code>
+    <DestinationName>Parry Sound Municipal Arpt</DestinationName>
+    <DestinationStr>Parry Sound Municipal Arpt(YPD)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPD</code>
+    <DestinationName>Parry Sound</DestinationName>
+    <DestinationStr>Parry Sound(YPD)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPE</code>
+    <DestinationName>Peace River</DestinationName>
+    <DestinationStr>Peace River(YPE)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>YPG</code>
+    <DestinationName>Portage La Prairie</DestinationName>
+    <DestinationStr>Portage La Prairie(YPG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPL</code>
+    <DestinationName>Pickle Lake Arpt</DestinationName>
+    <DestinationStr>Pickle Lake Arpt(YPL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPL</code>
+    <DestinationName>Pickle Lake</DestinationName>
+    <DestinationStr>Pickle Lake(YPL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPM</code>
+    <DestinationName>Pikangikum Arpt</DestinationName>
+    <DestinationStr>Pikangikum Arpt(YPM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPN</code>
+    <DestinationName>Port Menier Arpt</DestinationName>
+    <DestinationStr>Port Menier Arpt(YPN)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPN</code>
+    <DestinationName>Port Menier</DestinationName>
+    <DestinationStr>Port Menier(YPN)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPQ</code>
+    <DestinationName>Peterborough Arpt</DestinationName>
+    <DestinationStr>Peterborough Arpt(YPQ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPQ</code>
+    <DestinationName>Peterborough</DestinationName>
+    <DestinationStr>Peterborough(YPQ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPR</code>
+    <DestinationName>Prince Rupert</DestinationName>
+    <DestinationStr>Prince Rupert(YPR)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPS</code>
+    <DestinationName>Port Hawkesbury Arpt</DestinationName>
+    <DestinationStr>Port Hawkesbury Arpt(YPS)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPS</code>
+    <DestinationName>Port Hawkesbury</DestinationName>
+    <DestinationStr>Port Hawkesbury(YPS)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPW</code>
+    <DestinationName>Powell River</DestinationName>
+    <DestinationStr>Powell River(YPW)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPX</code>
+    <DestinationName>Povungnituk Arpt</DestinationName>
+    <DestinationStr>Povungnituk Arpt(YPX)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPX</code>
+    <DestinationName>Puvirnituq</DestinationName>
+    <DestinationStr>Puvirnituq(YPX)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YSO</code>
+    <DestinationName>Postville Arpt</DestinationName>
+    <DestinationStr>Postville Arpt(YSO)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YSO</code>
+    <DestinationName>Postville</DestinationName>
+    <DestinationStr>Postville(YSO)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YTA</code>
+    <DestinationName>Pembroke Airport</DestinationName>
+    <DestinationStr>Pembroke Airport(YTA)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YTA</code>
+    <DestinationName>Pembroke</DestinationName>
+    <DestinationStr>Pembroke(YTA)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YUL</code>
+    <DestinationName>Pierre Elliott Trudeau Intl Arpt</DestinationName>
+    <DestinationStr>Pierre Elliott Trudeau Intl Arpt(YUL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YWA</code>
+    <DestinationName>Petawawa</DestinationName>
+    <DestinationStr>Petawawa(YWA)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXP</code>
+    <DestinationName>Pangnirtung Arpt</DestinationName>
+    <DestinationStr>Pangnirtung Arpt(YXP)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXP</code>
+    <DestinationName>Pangnirtung</DestinationName>
+    <DestinationStr>Pangnirtung(YXP)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXS</code>
+    <DestinationName>Prince George Municipal</DestinationName>
+    <DestinationStr>Prince George Municipal(YXS)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXS</code>
+    <DestinationName>Prince George</DestinationName>
+    <DestinationStr>Prince George(YXS)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYF</code>
+    <DestinationName>Penticton Municipal Arpt</DestinationName>
+    <DestinationStr>Penticton Municipal Arpt(YYF)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYF</code>
+    <DestinationName>Penticton</DestinationName>
+    <DestinationStr>Penticton(YYF)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YZT</code>
+    <DestinationName>Port Hardy Municipal</DestinationName>
+    <DestinationStr>Port Hardy Municipal(YZT)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YZT</code>
+    <DestinationName>Port Hardy</DestinationName>
+    <DestinationStr>Port Hardy(YZT)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZAL</code>
+    <DestinationName>Pichoy</DestinationName>
+    <DestinationStr>Pichoy(ZAL)-Chile</DestinationStr>
+  </Destination>    
+  <Destination>
+    <code>ZJJ</code>
+    <DestinationName>Procida</DestinationName>
+    <DestinationStr>Procida(ZJJ)-Italy</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZJV</code>
+    <DestinationName>Pontresina</DestinationName>
+    <DestinationStr>Pontresina(ZJV)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZLO</code>
+    <DestinationName>Playa de Oro Intl</DestinationName>
+    <DestinationStr>Playa de Oro Intl(ZLO)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZPC</code>
+    <DestinationName>Pucon Arpt</DestinationName>
+    <DestinationStr>Pucon Arpt(ZPC)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZPC</code>
+    <DestinationName>Pucon</DestinationName>
+    <DestinationStr>Pucon(ZPC)-Chile</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZPF</code>
+    <DestinationName>Passau</DestinationName>
+    <DestinationStr>Passau(ZPF)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZPG</code>
+    <DestinationName>Peine</DestinationName>
+    <DestinationStr>Peine(ZPG)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZPI</code>
+    <DestinationName>Pirmasens</DestinationName>
+    <DestinationStr>Pirmasens(ZPI)-Germany</DestinationStr>
+  </Destination>    
+  <Destination>
+    <code>ZSK</code>
+    <DestinationName>Pasewalk</DestinationName>
+    <DestinationStr>Pasewalk(ZSK)-Germany</DestinationStr>
+  </Destination>  
+</DestinationRoot>

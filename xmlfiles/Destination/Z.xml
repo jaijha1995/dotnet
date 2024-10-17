@@ -1,0 +1,2317 @@
+﻿<DestinationRoot>
+  <Destination>
+    <code>NORESULT</code>
+    <DestinationName>NORESULT</DestinationName>
+    <DestinationStr>No Result Found</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AFS</code>
+    <DestinationName>Zarafsan</DestinationName>
+    <DestinationStr>Zarafsan(AFS)-Uzbekistan Sum</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AFS</code>
+    <DestinationName>Zarafshan Airport</DestinationName>
+    <DestinationStr>Zarafshan Airport(AFS)-Uzbekistan Sum</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ANJ</code>
+    <DestinationName>Zanaga</DestinationName>
+    <DestinationStr>Zanaga(ANJ)-Congo</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>APZ</code>
+    <DestinationName>Zapala</DestinationName>
+    <DestinationStr>Zapala(APZ)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CGO</code>
+    <DestinationName>Zhengzhou Arpt</DestinationName>
+    <DestinationStr>Zhengzhou Arpt(CGO)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CGO</code>
+    <DestinationName>Zhengzhou</DestinationName>
+    <DestinationStr>Zhengzhou(CGO)-China</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>DHU</code>
+    <DestinationName>Zhuzhou</DestinationName>
+    <DestinationStr>Zhuzhou(DHU)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DYG</code>
+    <DestinationName>Zhangjiajie</DestinationName>
+    <DestinationStr>Zhangjiajie(DYG)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DZN</code>
+    <DestinationName>ZHEZKAZGAN ARPT</DestinationName>
+    <DestinationStr>ZHEZKAZGAN ARPT(DZN)-Kazakstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DZN</code>
+    <DestinationName>ZHEZKAZGAN</DestinationName>
+    <DestinationStr>ZHEZKAZGAN(DZN)-Kazakstan</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>GJN</code>
+    <DestinationName>Zhijiang</DestinationName>
+    <DestinationStr>Zhijiang(GJN)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GTW</code>
+    <DestinationName>Zlin</DestinationName>
+    <DestinationStr>Zlin(GTW)-Czech Republic</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HJJ</code>
+    <DestinationName>Zhi Jiang Airport</DestinationName>
+    <DestinationStr>Zhi Jiang Airport(HJJ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HJJ</code>
+    <DestinationName>Zhi Jiang</DestinationName>
+    <DestinationStr>Zhi Jiang(HJJ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HSN</code>
+    <DestinationName>Zhoushan Arpt</DestinationName>
+    <DestinationStr>Zhoushan Arpt(HSN)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HSN</code>
+    <DestinationName>Zhoushan</DestinationName>
+    <DestinationStr>Zhoushan(HSN)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IEG</code>
+    <DestinationName>Zielona</DestinationName>
+    <DestinationStr>Zielona(IEG)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ILZ</code>
+    <DestinationName>Zilina Arpt</DestinationName>
+    <DestinationStr>Zilina Arpt(ILZ)-Slovakia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ILZ</code>
+    <DestinationName>Zilina</DestinationName>
+    <DestinationStr>Zilina(ILZ)-Slovakia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IMO</code>
+    <DestinationName>Zemio Arpt</DestinationName>
+    <DestinationStr>Zemio Arpt(IMO)-Central African Republic</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IMO</code>
+    <DestinationName>Zemio</DestinationName>
+    <DestinationStr>Zemio(IMO)-Central African Republic</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JWN</code>
+    <DestinationName>Zanjan Arpt</DestinationName>
+    <DestinationStr>Zanjan Arpt(JWN)-Iran</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JWN</code>
+    <DestinationName>Zanjan</DestinationName>
+    <DestinationStr>Zanjan(JWN)-Iran</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KZB</code>
+    <DestinationName>Zachar Bay</DestinationName>
+    <DestinationStr>Zachar Bay(KZB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KZR</code>
+    <DestinationName>Zafer Airport</DestinationName>
+    <DestinationStr>Zafer Airport(KZR)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NBE</code>
+    <DestinationName>Zine Elabidine Ben Ali</DestinationName>
+    <DestinationStr>Zine Elabidine Ben Ali(NBE)-Tunisia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OBL</code>
+    <DestinationName>Zoersel</DestinationName>
+    <DestinationStr>Zoersel(OBL)-Belgium</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ONQ</code>
+    <DestinationName>Zonguldak</DestinationName>
+    <DestinationStr>Zonguldak(ONQ)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ORG</code>
+    <DestinationName>Zorg En Hoop Arpt</DestinationName>
+    <DestinationStr>Zorg En Hoop Arpt(ORG)-Suriname</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OUZ</code>
+    <DestinationName>Zouerate Arpt</DestinationName>
+    <DestinationStr>Zouerate Arpt(OUZ)-Mauritania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OUZ</code>
+    <DestinationName>Zouerate</DestinationName>
+    <DestinationStr>Zouerate(OUZ)-Mauritania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OZG</code>
+    <DestinationName>Zagora Arpt</DestinationName>
+    <DestinationStr>Zagora Arpt(OZG)-Morocco</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OZG</code>
+    <DestinationName>Zagora</DestinationName>
+    <DestinationStr>Zagora(OZG)-Morocco</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OZH</code>
+    <DestinationName>Zaporozhe</DestinationName>
+    <DestinationStr>Zaporozhe(OZH)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OZH</code>
+    <DestinationName>Zaporozhye Arpt</DestinationName>
+    <DestinationStr>Zaporozhye Arpt(OZH)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PZH</code>
+    <DestinationName>Zhob</DestinationName>
+    <DestinationStr>Zhob(PZH)-Pakistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QAZ</code>
+    <DestinationName>Zakopane</DestinationName>
+    <DestinationStr>Zakopane(QAZ)-Poland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QZB</code>
+    <DestinationName>Zermatt</DestinationName>
+    <DestinationStr>Zermatt(QZB)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QZQ</code>
+    <DestinationName>Zahle</DestinationName>
+    <DestinationStr>Zahle(QZQ)-Lebanon</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>TLM</code>
+    <DestinationName>Zenata Messali El Hadj Airport</DestinationName>
+    <DestinationStr>Zenata Messali El Hadj Airport(TLM)-Algeria</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZAD</code>
+    <DestinationName>Zadar Arpt</DestinationName>
+    <DestinationStr>Zadar Arpt(ZAD)-Croatia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZAD</code>
+    <DestinationName>Zadar</DestinationName>
+    <DestinationStr>Zadar(ZAD)-Croatia</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZAF</code>
+    <DestinationName>Arles</DestinationName>
+    <DestinationStr>Arles(ZAF)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZAG</code>
+    <DestinationName>Zagreb Arpt</DestinationName>
+    <DestinationStr>Zagreb Arpt(ZAG)-Croatia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZAG</code>
+    <DestinationName>Zagreb</DestinationName>
+    <DestinationStr>Zagreb(ZAG)-Croatia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZAH</code>
+    <DestinationName>Zahedan</DestinationName>
+    <DestinationStr>Zahedan(ZAH)-Iran</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZAK</code>
+    <DestinationName>Chiusa Klausen</DestinationName>
+    <DestinationStr>Chiusa Klausen(ZAK)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZAL</code>
+    <DestinationName>Pichoy</DestinationName>
+    <DestinationStr>Pichoy(ZAL)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZAL</code>
+    <DestinationName>Valdivia</DestinationName>
+    <DestinationStr>Valdivia(ZAL)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZAM</code>
+    <DestinationName>Zamboanga Airport</DestinationName>
+    <DestinationStr>Zamboanga Airport(ZAM)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZAM</code>
+    <DestinationName>Zamboanga</DestinationName>
+    <DestinationStr>Zamboanga(ZAM)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZAN</code>
+    <DestinationName>Aghios Nicolaos</DestinationName>
+    <DestinationStr>Aghios Nicolaos(ZAN)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZAO</code>
+    <DestinationName>Cahors</DestinationName>
+    <DestinationStr>Cahors(ZAO)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZAO</code>
+    <DestinationName>Laberandie Arpt</DestinationName>
+    <DestinationStr>Laberandie Arpt(ZAO)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZAP</code>
+    <DestinationName>Appenzell</DestinationName>
+    <DestinationStr>Appenzell(ZAP)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZAU</code>
+    <DestinationName>Aue De</DestinationName>
+    <DestinationStr>Aue De(ZAU)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZAV</code>
+    <DestinationName>Aveiro</DestinationName>
+    <DestinationStr>Aveiro(ZAV)-Portugal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZAW</code>
+    <DestinationName>NYKOBING MORS</DestinationName>
+    <DestinationStr>NYKOBING MORS(ZAW)-Denmark</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZAX</code>
+    <DestinationName>Angermuende</DestinationName>
+    <DestinationStr>Angermuende(ZAX)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZAZ</code>
+    <DestinationName>Zaragoza Airport</DestinationName>
+    <DestinationStr>Zaragoza Airport(ZAZ)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZAZ</code>
+    <DestinationName>Zaragoza</DestinationName>
+    <DestinationStr>Zaragoza(ZAZ)-Spain</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZBD</code>
+    <DestinationName>Jiang Men Ferry</DestinationName>
+    <DestinationStr>Jiang Men Ferry(ZBD)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZBD</code>
+    <DestinationName>Jiang Men</DestinationName>
+    <DestinationStr>Jiang Men(ZBD)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZBF</code>
+    <DestinationName>Bathurst Arpt</DestinationName>
+    <DestinationStr>Bathurst Arpt(ZBF)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZBF</code>
+    <DestinationName>Bathurst</DestinationName>
+    <DestinationStr>Bathurst(ZBF)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZBG</code>
+    <DestinationName>Elblag Airport</DestinationName>
+    <DestinationStr>Elblag Airport(ZBG)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZBG</code>
+    <DestinationName>Elblag</DestinationName>
+    <DestinationStr>Elblag(ZBG)-Poland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZBH</code>
+    <DestinationName>Severac Le Chateau</DestinationName>
+    <DestinationStr>Severac Le Chateau(ZBH)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZBJ</code>
+    <DestinationName>Fredericia</DestinationName>
+    <DestinationStr>Fredericia(ZBJ)-Denmark</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZBK</code>
+    <DestinationName>Zabljak</DestinationName>
+    <DestinationStr>Zabljak(ZBK)-Montenegro</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZBL</code>
+    <DestinationName>Biloela Arpt</DestinationName>
+    <DestinationStr>Biloela Arpt(ZBL)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZBL</code>
+    <DestinationName>Biloela</DestinationName>
+    <DestinationStr>Biloela(ZBL)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZBM</code>
+    <DestinationName>Bromont Regional Arpt</DestinationName>
+    <DestinationStr>Bromont Regional Arpt(ZBM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZBM</code>
+    <DestinationName>Bromont</DestinationName>
+    <DestinationStr>Bromont(ZBM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZBO</code>
+    <DestinationName>Bowen</DestinationName>
+    <DestinationStr>Bowen(ZBO)-Australia</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZBR</code>
+    <DestinationName>Chah Bahar</DestinationName>
+    <DestinationStr>Chah Bahar(ZBR)-Iran</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZBT</code>
+    <DestinationName>Kolding</DestinationName>
+    <DestinationStr>Kolding(ZBT)-Denmark</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZBV</code>
+    <DestinationName>Beaver Creek Van Service</DestinationName>
+    <DestinationStr>Beaver Creek Van Service(ZBV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZBV</code>
+    <DestinationName>Beaver Creek</DestinationName>
+    <DestinationStr>Beaver Creek(ZBV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZBW</code>
+    <DestinationName>Atibaia Arpt</DestinationName>
+    <DestinationStr>Atibaia Arpt(ZBW)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZBW</code>
+    <DestinationName>Atibaia</DestinationName>
+    <DestinationStr>Atibaia(ZBW)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZBX</code>
+    <DestinationName>Szombathely</DestinationName>
+    <DestinationStr>Szombathely(ZBX)-Hungary</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZBZ</code>
+    <DestinationName>Xin Hui Ferry Arpt</DestinationName>
+    <DestinationStr>Xin Hui Ferry Arpt(ZBZ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZBZ</code>
+    <DestinationName>Xin Hui</DestinationName>
+    <DestinationStr>Xin Hui(ZBZ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZCA</code>
+    <DestinationName>Arnsberg</DestinationName>
+    <DestinationStr>Arnsberg(ZCA)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZCB</code>
+    <DestinationName>Aschaffenburg</DestinationName>
+    <DestinationStr>Aschaffenburg(ZCB)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZCC</code>
+    <DestinationName>Baden Baden</DestinationName>
+    <DestinationStr>Baden Baden(ZCC)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZCD</code>
+    <DestinationName>Bamberg</DestinationName>
+    <DestinationStr>Bamberg(ZCD)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZCF</code>
+    <DestinationName>Bergheim</DestinationName>
+    <DestinationStr>Bergheim(ZCF)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZCG</code>
+    <DestinationName>Bergisch Gladbach</DestinationName>
+    <DestinationStr>Bergisch Gladbach(ZCG)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZCH</code>
+    <DestinationName>Bergkamen</DestinationName>
+    <DestinationStr>Bergkamen(ZCH)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZCI</code>
+    <DestinationName>Bocholt</DestinationName>
+    <DestinationStr>Bocholt(ZCI)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZCJ</code>
+    <DestinationName>Bottrop</DestinationName>
+    <DestinationStr>Bottrop(ZCJ)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZCK</code>
+    <DestinationName>Bruehl</DestinationName>
+    <DestinationStr>Bruehl(ZCK)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZCK</code>
+    <DestinationName>Bruel</DestinationName>
+    <DestinationStr>Bruel(ZCK)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZCL</code>
+    <DestinationName>Leobardo C Ruiz International</DestinationName>
+    <DestinationStr>Leobardo C Ruiz International(ZCL)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZCL</code>
+    <DestinationName>Zacatecas</DestinationName>
+    <DestinationStr>Zacatecas(ZCL)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZCM</code>
+    <DestinationName>Castrop Rauxel</DestinationName>
+    <DestinationStr>Castrop Rauxel(ZCM)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZCN</code>
+    <DestinationName>Celle</DestinationName>
+    <DestinationStr>Celle(ZCN)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZCO</code>
+    <DestinationName>Manquehue Arpt</DestinationName>
+    <DestinationStr>Manquehue Arpt(ZCO)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZCO</code>
+    <DestinationName>Temuco</DestinationName>
+    <DestinationStr>Temuco(ZCO)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZCP</code>
+    <DestinationName>Foshan</DestinationName>
+    <DestinationStr>Foshan(ZCP)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZCQ</code>
+    <DestinationName>Curico</DestinationName>
+    <DestinationStr>Curico(ZCQ)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZCR</code>
+    <DestinationName>Dachau</DestinationName>
+    <DestinationStr>Dachau(ZCR)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZCS</code>
+    <DestinationName>Darmstadt</DestinationName>
+    <DestinationStr>Darmstadt(ZCS)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZCT</code>
+    <DestinationName>Delmenhorst</DestinationName>
+    <DestinationStr>Delmenhorst(ZCT)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZCU</code>
+    <DestinationName>She Kou Ferry</DestinationName>
+    <DestinationStr>She Kou Ferry(ZCU)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZCU</code>
+    <DestinationName>She Kou</DestinationName>
+    <DestinationStr>She Kou(ZCU)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZCW</code>
+    <DestinationName>Dormagen</DestinationName>
+    <DestinationStr>Dormagen(ZCW)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZCY</code>
+    <DestinationName>Dueren</DestinationName>
+    <DestinationStr>Dueren(ZCY)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZCZ</code>
+    <DestinationName>Erlangen</DestinationName>
+    <DestinationStr>Erlangen(ZCZ)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZDA</code>
+    <DestinationName>AARAU</DestinationName>
+    <DestinationStr>AARAU(ZDA)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZDB</code>
+    <DestinationName>Adelboden</DestinationName>
+    <DestinationStr>Adelboden(ZDB)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZDC</code>
+    <DestinationName>Aigle</DestinationName>
+    <DestinationStr>Aigle(ZDC)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZDD</code>
+    <DestinationName>Arbon</DestinationName>
+    <DestinationStr>Arbon(ZDD)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZDE</code>
+    <DestinationName>Arosa</DestinationName>
+    <DestinationStr>Arosa(ZDE)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZDG</code>
+    <DestinationName>Baden</DestinationName>
+    <DestinationStr>Baden(ZDG)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZDI</code>
+    <DestinationName>Bellinzona</DestinationName>
+    <DestinationStr>Bellinzona(ZDI)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZDK</code>
+    <DestinationName>Biel Bienne</DestinationName>
+    <DestinationStr>Biel Bienne(ZDK)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZDL</code>
+    <DestinationName>Brig</DestinationName>
+    <DestinationStr>Brig(ZDL)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZDO</code>
+    <DestinationName>Buch Sg</DestinationName>
+    <DestinationStr>Buch Sg(ZDO)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZDP</code>
+    <DestinationName>Burgdorf</DestinationName>
+    <DestinationStr>Burgdorf(ZDP)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZDQ</code>
+    <DestinationName>Champery</DestinationName>
+    <DestinationStr>Champery(ZDQ)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZDR</code>
+    <DestinationName>Chateau D Oex</DestinationName>
+    <DestinationStr>Chateau D Oex(ZDR)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZDS</code>
+    <DestinationName>Chiasso</DestinationName>
+    <DestinationStr>Chiasso(ZDS)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZDT</code>
+    <DestinationName>Chur</DestinationName>
+    <DestinationStr>Chur(ZDT)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZDV</code>
+    <DestinationName>Davos</DestinationName>
+    <DestinationStr>Davos(ZDV)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZDW</code>
+    <DestinationName>Delemont</DestinationName>
+    <DestinationStr>Delemont(ZDW)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZDX</code>
+    <DestinationName>Dietikon</DestinationName>
+    <DestinationStr>Dietikon(ZDX)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZDZ</code>
+    <DestinationName>Einsiedeln</DestinationName>
+    <DestinationStr>Einsiedeln(ZDZ)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZEA</code>
+    <DestinationName>Eschweiler</DestinationName>
+    <DestinationStr>Eschweiler(ZEA)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZEB</code>
+    <DestinationName>Esslingen</DestinationName>
+    <DestinationStr>Esslingen(ZEB)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZEC</code>
+    <DestinationName>Secunda Arpt</DestinationName>
+    <DestinationStr>Secunda Arpt(ZEC)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZEC</code>
+    <DestinationName>Secunda</DestinationName>
+    <DestinationStr>Secunda(ZEC)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZED</code>
+    <DestinationName>Euskirchen</DestinationName>
+    <DestinationStr>Euskirchen(ZED)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZEE</code>
+    <DestinationName>Fulda</DestinationName>
+    <DestinationStr>Fulda(ZEE)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZEF</code>
+    <DestinationName>Fuerth</DestinationName>
+    <DestinationStr>Fuerth(ZEF)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZEH</code>
+    <DestinationName>Garbsen</DestinationName>
+    <DestinationStr>Garbsen(ZEH)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZEI</code>
+    <DestinationName>Garmisch Partenkirchen</DestinationName>
+    <DestinationStr>Garmisch Partenkirchen(ZEI)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZEJ</code>
+    <DestinationName>Gelsenkirchen</DestinationName>
+    <DestinationStr>Gelsenkirchen(ZEJ)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZEK</code>
+    <DestinationName>Gladbeck</DestinationName>
+    <DestinationStr>Gladbeck(ZEK)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZER</code>
+    <DestinationName>Zero Airport</DestinationName>
+    <DestinationStr>Zero Airport(ZER)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZER</code>
+    <DestinationName>Zero</DestinationName>
+    <DestinationStr>Zero(ZER)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZES</code>
+    <DestinationName>Goeppingen</DestinationName>
+    <DestinationStr>Goeppingen(ZES)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZET</code>
+    <DestinationName>Goslar</DestinationName>
+    <DestinationStr>Goslar(ZET)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZEU</code>
+    <DestinationName>Goettingen</DestinationName>
+    <DestinationStr>Goettingen(ZEU)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZEW</code>
+    <DestinationName>Gummersbach</DestinationName>
+    <DestinationStr>Gummersbach(ZEW)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZEY</code>
+    <DestinationName>Hagen</DestinationName>
+    <DestinationStr>Hagen(ZEY)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZEZ</code>
+    <DestinationName>Hameln</DestinationName>
+    <DestinationStr>Hameln(ZEZ)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZFI</code>
+    <DestinationName>Chesterfield</DestinationName>
+    <DestinationStr>Chesterfield(ZFI)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZFP</code>
+    <DestinationName>Veszprem</DestinationName>
+    <DestinationStr>Veszprem(ZFP)-Hungary</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZFR</code>
+    <DestinationName>Frankfurt An Der Oder</DestinationName>
+    <DestinationStr>Frankfurt An Der Oder(ZFR)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZGA</code>
+    <DestinationName>Gera</DestinationName>
+    <DestinationStr>Gera(ZGA)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZGC</code>
+    <DestinationName>Zhongchuan Airport</DestinationName>
+    <DestinationStr>Zhongchuan Airport(ZGC)-China</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZGE</code>
+    <DestinationName>Goerlitz</DestinationName>
+    <DestinationStr>Goerlitz(ZGE)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZGF</code>
+    <DestinationName>Grand Forks</DestinationName>
+    <DestinationStr>Grand Forks(ZGF)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZGJ</code>
+    <DestinationName>Brugge</DestinationName>
+    <DestinationStr>Brugge(ZGJ)-Belgium</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZGK</code>
+    <DestinationName>Leuven</DestinationName>
+    <DestinationStr>Leuven(ZGK)-Belgium</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZGO</code>
+    <DestinationName>Gotha</DestinationName>
+    <DestinationStr>Gotha(ZGO)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZGP</code>
+    <DestinationName>Mechelen</DestinationName>
+    <DestinationStr>Mechelen(ZGP)-Belgium</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZGQ</code>
+    <DestinationName>Tournai</DestinationName>
+    <DestinationStr>Tournai(ZGQ)-Belgium</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZGS</code>
+    <DestinationName>Gethsemanie Arpt</DestinationName>
+    <DestinationStr>Gethsemanie Arpt(ZGS)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZGS</code>
+    <DestinationName>Gethsemanie</DestinationName>
+    <DestinationStr>Gethsemanie(ZGS)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZGV</code>
+    <DestinationName>Wavre</DestinationName>
+    <DestinationStr>Wavre(ZGV)-Belgium</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZGW</code>
+    <DestinationName>Greifswald</DestinationName>
+    <DestinationStr>Greifswald(ZGW)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZGX</code>
+    <DestinationName>Viborg</DestinationName>
+    <DestinationStr>Viborg(ZGX)-Denmark</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZHA</code>
+    <DestinationName>Zhanjiang Airport</DestinationName>
+    <DestinationStr>Zhanjiang Airport(ZHA)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZHA</code>
+    <DestinationName>Zhanjiang</DestinationName>
+    <DestinationStr>Zhanjiang(ZHA)-China</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZHB</code>
+    <DestinationName>Engelberg</DestinationName>
+    <DestinationStr>Engelberg(ZHB)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZHD</code>
+    <DestinationName>Fluelen</DestinationName>
+    <DestinationStr>Fluelen(ZHD)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZHE</code>
+    <DestinationName>Frauenfeld</DestinationName>
+    <DestinationStr>Frauenfeld(ZHE)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZHF</code>
+    <DestinationName>Fribourg</DestinationName>
+    <DestinationStr>Fribourg(ZHF)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZHG</code>
+    <DestinationName>Glarus</DestinationName>
+    <DestinationStr>Glarus(ZHG)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZHH</code>
+    <DestinationName>Gossau</DestinationName>
+    <DestinationStr>Gossau(ZHH)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZHI</code>
+    <DestinationName>Grenchen</DestinationName>
+    <DestinationStr>Grenchen(ZHI)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZHJ</code>
+    <DestinationName>GRINDELWALD</DestinationName>
+    <DestinationStr>GRINDELWALD(ZHJ)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZHK</code>
+    <DestinationName>Gstaad</DestinationName>
+    <DestinationStr>Gstaad(ZHK)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZHL</code>
+    <DestinationName>Heerbrugg</DestinationName>
+    <DestinationStr>Heerbrugg(ZHL)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZHN</code>
+    <DestinationName>Herzogenbuchsee</DestinationName>
+    <DestinationStr>Herzogenbuchsee(ZHN)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZHO</code>
+    <DestinationName>Houston</DestinationName>
+    <DestinationStr>Houston(ZHO)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZHQ</code>
+    <DestinationName>Halberstadt</DestinationName>
+    <DestinationStr>Halberstadt(ZHQ)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZHR</code>
+    <DestinationName>Kandersteg</DestinationName>
+    <DestinationStr>Kandersteg(ZHR)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZHS</code>
+    <DestinationName>Klosters</DestinationName>
+    <DestinationStr>Klosters(ZHS)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZHU</code>
+    <DestinationName>Kreuzlingen</DestinationName>
+    <DestinationStr>Kreuzlingen(ZHU)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZHV</code>
+    <DestinationName>La Chaux de Fonds</DestinationName>
+    <DestinationStr>La Chaux de Fonds(ZHV)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZHW</code>
+    <DestinationName>Langenthal</DestinationName>
+    <DestinationStr>Langenthal(ZHW)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZHX</code>
+    <DestinationName>Tubarao</DestinationName>
+    <DestinationStr>Tubarao(ZHX)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZHY</code>
+    <DestinationName>Xiangshan Airport</DestinationName>
+    <DestinationStr>Xiangshan Airport(ZHY)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZHY</code>
+    <DestinationName>Zhongwei Airport</DestinationName>
+    <DestinationStr>Zhongwei Airport(ZHY)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZHY</code>
+    <DestinationName>Zhongwei</DestinationName>
+    <DestinationStr>Zhongwei(ZHY)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZHZ</code>
+    <DestinationName>Halle</DestinationName>
+    <DestinationStr>Halle(ZHZ)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZIA</code>
+    <DestinationName>Trento</DestinationName>
+    <DestinationStr>Trento(ZIA)-Italy</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZIB</code>
+    <DestinationName>Nyborg</DestinationName>
+    <DestinationStr>Nyborg(ZIB)-Denmark</DestinationStr>
+  </Destination>   
+  <Destination>
+    <code>ZIG</code>
+    <DestinationName>Ziguinchor Arpt</DestinationName>
+    <DestinationStr>Ziguinchor Arpt(ZIG)-Senegal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZIG</code>
+    <DestinationName>Ziguinchor</DestinationName>
+    <DestinationStr>Ziguinchor(ZIG)-Senegal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZIH</code>
+    <DestinationName>Ixtapa</DestinationName>
+    <DestinationStr>Ixtapa(ZIH)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZIH</code>
+    <DestinationName>Zihuatanejo Intl</DestinationName>
+    <DestinationStr>Zihuatanejo Intl(ZIH)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZIH</code>
+    <DestinationName>Zihuatanejo</DestinationName>
+    <DestinationStr>Zihuatanejo(ZIH)-Mexico</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZIJ</code>
+    <DestinationName>Nykoing Sjaelland</DestinationName>
+    <DestinationStr>Nykoing Sjaelland(ZIJ)-Denmark</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZIL</code>
+    <DestinationName>Horsens</DestinationName>
+    <DestinationStr>Horsens(ZIL)-Denmark</DestinationStr>
+  </Destination>    
+  <Destination>
+    <code>ZIN</code>
+    <DestinationName>Interlaken</DestinationName>
+    <DestinationStr>Interlaken(ZIN)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZIQ</code>
+    <DestinationName>Salina</DestinationName>
+    <DestinationStr>Salina(ZIQ)-Italy</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZIR</code>
+    <DestinationName>Randers</DestinationName>
+    <DestinationStr>Randers(ZIR)-Denmark</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZIS</code>
+    <DestinationName>Zhongshan</DestinationName>
+    <DestinationStr>Zhongshan(ZIS)-China</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZIT</code>
+    <DestinationName>Zittau</DestinationName>
+    <DestinationStr>Zittau(ZIT)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZIW</code>
+    <DestinationName>Kehl</DestinationName>
+    <DestinationStr>Kehl(ZIW)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZIX</code>
+    <DestinationName>Zhigansk Airport</DestinationName>
+    <DestinationStr>Zhigansk Airport(ZIX)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZIX</code>
+    <DestinationName>Zhigansk</DestinationName>
+    <DestinationStr>Zhigansk(ZIX)-Russian Federation</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZJA</code>
+    <DestinationName>Le Locle</DestinationName>
+    <DestinationStr>Le Locle(ZJA)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZJC</code>
+    <DestinationName>Lenzburg</DestinationName>
+    <DestinationStr>Lenzburg(ZJC)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZJD</code>
+    <DestinationName>Lenzerheide</DestinationName>
+    <DestinationStr>Lenzerheide(ZJD)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZJI</code>
+    <DestinationName>Locarno</DestinationName>
+    <DestinationStr>Locarno(ZJI)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZJJ</code>
+    <DestinationName>Procida</DestinationName>
+    <DestinationStr>Procida(ZJJ)-Italy</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZJL</code>
+    <DestinationName>Lyss</DestinationName>
+    <DestinationStr>Lyss(ZJL)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZJM</code>
+    <DestinationName>Martigny</DestinationName>
+    <DestinationStr>Martigny(ZJM)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZJN</code>
+    <DestinationName>Swan River Municipal Arpt</DestinationName>
+    <DestinationStr>Swan River Municipal Arpt(ZJN)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZJN</code>
+    <DestinationName>Swan River</DestinationName>
+    <DestinationStr>Swan River(ZJN)-Canada</DestinationStr>
+  </Destination>    
+  <Destination>
+    <code>ZJP</code>
+    <DestinationName>Montreux</DestinationName>
+    <DestinationStr>Montreux(ZJP)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZJQ</code>
+    <DestinationName>Morges</DestinationName>
+    <DestinationStr>Morges(ZJQ)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZJS</code>
+    <DestinationName>Jena</DestinationName>
+    <DestinationStr>Jena(ZJS)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZJU</code>
+    <DestinationName>OLTEN</DestinationName>
+    <DestinationStr>OLTEN(ZJU)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZJV</code>
+    <DestinationName>Pontresina</DestinationName>
+    <DestinationStr>Pontresina(ZJV)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZJW</code>
+    <DestinationName>Rapperswil</DestinationName>
+    <DestinationStr>Rapperswil(ZJW)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZJZ</code>
+    <DestinationName>Rorschach</DestinationName>
+    <DestinationStr>Rorschach(ZJZ)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZKA</code>
+    <DestinationName>Sargans</DestinationName>
+    <DestinationStr>Sargans(ZKA)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZKB</code>
+    <DestinationName>Kasaba Bay</DestinationName>
+    <DestinationStr>Kasaba Bay(ZKB)-Zambia</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZKC</code>
+    <DestinationName>Sarnen</DestinationName>
+    <DestinationStr>Sarnen(ZKC)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZKE</code>
+    <DestinationName>Kashechewan Airport</DestinationName>
+    <DestinationStr>Kashechewan Airport(ZKE)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZKE</code>
+    <DestinationName>Kashechewan</DestinationName>
+    <DestinationStr>Kashechewan(ZKE)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZKF</code>
+    <DestinationName>St Margrethen</DestinationName>
+    <DestinationStr>St Margrethen(ZKF)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZKG</code>
+    <DestinationName>Kegaska Arpt</DestinationName>
+    <DestinationStr>Kegaska Arpt(ZKG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZKG</code>
+    <DestinationName>Kegaska</DestinationName>
+    <DestinationStr>Kegaska(ZKG)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZKI</code>
+    <DestinationName>SAAS FEE</DestinationName>
+    <DestinationStr>SAAS FEE(ZKI)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZKJ</code>
+    <DestinationName>Schaffhausen</DestinationName>
+    <DestinationStr>Schaffhausen(ZKJ)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZKK</code>
+    <DestinationName>Schwyz</DestinationName>
+    <DestinationStr>Schwyz(ZKK)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZKO</code>
+    <DestinationName>Sierre</DestinationName>
+    <DestinationStr>Sierre(ZKO)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZKP</code>
+    <DestinationName>Zyryanka Airport</DestinationName>
+    <DestinationStr>Zyryanka Airport(ZKP)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZKP</code>
+    <DestinationName>Zyryanka</DestinationName>
+    <DestinationStr>Zyryanka(ZKP)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZKQ</code>
+    <DestinationName>Kotor</DestinationName>
+    <DestinationStr>Kotor(ZKQ)-Montenegro</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZKS</code>
+    <DestinationName>SOLOTHURN</DestinationName>
+    <DestinationStr>SOLOTHURN(ZKS)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZKT</code>
+    <DestinationName>Komotini</DestinationName>
+    <DestinationStr>Komotini(ZKT)-Greece</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZKU</code>
+    <DestinationName>Sursee</DestinationName>
+    <DestinationStr>Sursee(ZKU)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZKV</code>
+    <DestinationName>Thalwil</DestinationName>
+    <DestinationStr>Thalwil(ZKV)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZKW</code>
+    <DestinationName>Wetzikon</DestinationName>
+    <DestinationStr>Wetzikon(ZKW)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZKX</code>
+    <DestinationName>Uzwil</DestinationName>
+    <DestinationStr>Uzwil(ZKX)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZKY</code>
+    <DestinationName>Verbier</DestinationName>
+    <DestinationStr>Verbier(ZKY)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZKZ</code>
+    <DestinationName>Vevey</DestinationName>
+    <DestinationStr>Vevey(ZKZ)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZLA</code>
+    <DestinationName>Villars sur Ollon</DestinationName>
+    <DestinationStr>Villars sur Ollon(ZLA)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZLA</code>
+    <DestinationName>Villars</DestinationName>
+    <DestinationStr>Villars(ZLA)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZLB</code>
+    <DestinationName>Visp</DestinationName>
+    <DestinationStr>Visp(ZLB)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZLC</code>
+    <DestinationName>Waedenswil</DestinationName>
+    <DestinationStr>Waedenswil(ZLC)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZLD</code>
+    <DestinationName>Weinfelden</DestinationName>
+    <DestinationStr>Weinfelden(ZLD)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZLE</code>
+    <DestinationName>WENGEN</DestinationName>
+    <DestinationStr>WENGEN(ZLE)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZLF</code>
+    <DestinationName>Wettingen</DestinationName>
+    <DestinationStr>Wettingen(ZLF)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZLG</code>
+    <DestinationName>Zalaegerszeg</DestinationName>
+    <DestinationStr>Zalaegerszeg(ZLG)-Hungary</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZLH</code>
+    <DestinationName>Wil CH</DestinationName>
+    <DestinationStr>Wil CH(ZLH)-Switzerland</DestinationStr>
+  </Destination>   
+  <Destination>
+    <code>ZLI</code>
+    <DestinationName>WINTERTHUR</DestinationName>
+    <DestinationStr>WINTERTHUR(ZLI)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZLJ</code>
+    <DestinationName>Yverdon Les Bains</DestinationName>
+    <DestinationStr>Yverdon Les Bains(ZLJ)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZLJ</code>
+    <DestinationName>Yverdon</DestinationName>
+    <DestinationStr>Yverdon(ZLJ)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZLL</code>
+    <DestinationName>Zofingen</DestinationName>
+    <DestinationStr>Zofingen(ZLL)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZLM</code>
+    <DestinationName>Zug Ch</DestinationName>
+    <DestinationStr>Zug Ch(ZLM)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZLO</code>
+    <DestinationName>Manzanillo</DestinationName>
+    <DestinationStr>Manzanillo(ZLO)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZLO</code>
+    <DestinationName>Playa de Oro Intl</DestinationName>
+    <DestinationStr>Playa de Oro Intl(ZLO)-Mexico</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZLR</code>
+    <DestinationName>Linares</DestinationName>
+    <DestinationStr>Linares(ZLR)-Chile</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZLT</code>
+    <DestinationName>La Tabatiere Arpt</DestinationName>
+    <DestinationStr>La Tabatiere Arpt(ZLT)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZLT</code>
+    <DestinationName>La Tabatiere</DestinationName>
+    <DestinationStr>La Tabatiere(ZLT)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZLU</code>
+    <DestinationName>Ludwigslust</DestinationName>
+    <DestinationStr>Ludwigslust(ZLU)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZMA</code>
+    <DestinationName>Mansfield</DestinationName>
+    <DestinationStr>Mansfield(ZMA)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZMC</code>
+    <DestinationName>Miedzyzdroje</DestinationName>
+    <DestinationStr>Miedzyzdroje(ZMC)-Poland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZMF</code>
+    <DestinationName>Beverello Harbour</DestinationName>
+    <DestinationStr>Beverello Harbour(ZMF)-Italy</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZMG</code>
+    <DestinationName>Magdeburg</DestinationName>
+    <DestinationStr>Magdeburg(ZMG)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZMJ</code>
+    <DestinationName>Mergellina Harbour</DestinationName>
+    <DestinationStr>Mergellina Harbour(ZMJ)-Italy</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZMM</code>
+    <DestinationName>Zamora</DestinationName>
+    <DestinationStr>Zamora(ZMM)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZMO</code>
+    <DestinationName>Modena</DestinationName>
+    <DestinationStr>Modena(ZMO)-Italy</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZMQ</code>
+    <DestinationName>Raufoss</DestinationName>
+    <DestinationStr>Raufoss(ZMQ)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZMT</code>
+    <DestinationName>Masset</DestinationName>
+    <DestinationStr>Masset(ZMT)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZMX</code>
+    <DestinationName>Tynset</DestinationName>
+    <DestinationStr>Tynset(ZMX)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZMZ</code>
+    <DestinationName>Bjerka</DestinationName>
+    <DestinationStr>Bjerka(ZMZ)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZNA</code>
+    <DestinationName>Harbour Seaplane Base</DestinationName>
+    <DestinationStr>Harbour Seaplane Base(ZNA)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZNB</code>
+    <DestinationName>Hamm</DestinationName>
+    <DestinationStr>Hamm(ZNB)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZNC</code>
+    <DestinationName>Nyac</DestinationName>
+    <DestinationStr>Nyac(ZNC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZNE</code>
+    <DestinationName>Mount Newman</DestinationName>
+    <DestinationStr>Mount Newman(ZNE)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZNE</code>
+    <DestinationName>Newman Airport</DestinationName>
+    <DestinationStr>Newman Airport(ZNE)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZNE</code>
+    <DestinationName>Newman</DestinationName>
+    <DestinationStr>Newman(ZNE)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZNF</code>
+    <DestinationName>Hanau</DestinationName>
+    <DestinationStr>Hanau(ZNF)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZNI</code>
+    <DestinationName>Heidenheim</DestinationName>
+    <DestinationStr>Heidenheim(ZNI)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZNJ</code>
+    <DestinationName>Heilbronn</DestinationName>
+    <DestinationStr>Heilbronn(ZNJ)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZNK</code>
+    <DestinationName>Herford</DestinationName>
+    <DestinationStr>Herford(ZNK)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZNL</code>
+    <DestinationName>Herne</DestinationName>
+    <DestinationStr>Herne(ZNL)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZNN</code>
+    <DestinationName>Hilden</DestinationName>
+    <DestinationStr>Hilden(ZNN)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZNO</code>
+    <DestinationName>Hildesheim</DestinationName>
+    <DestinationStr>Hildesheim(ZNO)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZNP</code>
+    <DestinationName>Huerth</DestinationName>
+    <DestinationStr>Huerth(ZNP)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZNP</code>
+    <DestinationName>Hurth</DestinationName>
+    <DestinationStr>Hurth(ZNP)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZNQ</code>
+    <DestinationName>Ingolstadt</DestinationName>
+    <DestinationStr>Ingolstadt(ZNQ)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZNR</code>
+    <DestinationName>Iserlohn</DestinationName>
+    <DestinationStr>Iserlohn(ZNR)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZNS</code>
+    <DestinationName>Kempten</DestinationName>
+    <DestinationStr>Kempten(ZNS)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZNT</code>
+    <DestinationName>Kerpen</DestinationName>
+    <DestinationStr>Kerpen(ZNT)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZNV</code>
+    <DestinationName>Koblenz</DestinationName>
+    <DestinationStr>Koblenz(ZNV)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZNW</code>
+    <DestinationName>Limburg</DestinationName>
+    <DestinationStr>Limburg(ZNW)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZNZ</code>
+    <DestinationName>Kisauni Arpt</DestinationName>
+    <DestinationStr>Kisauni Arpt(ZNZ)-Tanzania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZNZ</code>
+    <DestinationName>Zanzibar</DestinationName>
+    <DestinationStr>Zanzibar(ZNZ)-Tanzania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZOA</code>
+    <DestinationName>Leverkusen</DestinationName>
+    <DestinationStr>Leverkusen(ZOA)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZOB</code>
+    <DestinationName>Lippstadt</DestinationName>
+    <DestinationStr>Lippstadt(ZOB)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZOC</code>
+    <DestinationName>Ludenscheid</DestinationName>
+    <DestinationStr>Ludenscheid(ZOC)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZOD</code>
+    <DestinationName>Ludwigsburg</DestinationName>
+    <DestinationStr>Ludwigsburg(ZOD)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZOE</code>
+    <DestinationName>Ludwigshafen</DestinationName>
+    <DestinationStr>Ludwigshafen(ZOE)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZOG</code>
+    <DestinationName>Lueneburg</DestinationName>
+    <DestinationStr>Lueneburg(ZOG)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZOH</code>
+    <DestinationName>Luenen</DestinationName>
+    <DestinationStr>Luenen(ZOH)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZOI</code>
+    <DestinationName>Marburg An Der Lahn</DestinationName>
+    <DestinationStr>Marburg An Der Lahn(ZOI)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZOJ</code>
+    <DestinationName>Marl</DestinationName>
+    <DestinationStr>Marl(ZOJ)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZOM</code>
+    <DestinationName>Minden</DestinationName>
+    <DestinationStr>Minden(ZOM)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZON</code>
+    <DestinationName>Moers</DestinationName>
+    <DestinationStr>Moers(ZON)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZOO</code>
+    <DestinationName>Muelheim An Der Ruhr</DestinationName>
+    <DestinationStr>Muelheim An Der Ruhr(ZOO)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZOQ</code>
+    <DestinationName>Neuss</DestinationName>
+    <DestinationStr>Neuss(ZOQ)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZOR</code>
+    <DestinationName>Neustadt An Der Weinstrasse</DestinationName>
+    <DestinationStr>Neustadt An Der Weinstrasse(ZOR)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZOS</code>
+    <DestinationName>Canal Balo Arpt</DestinationName>
+    <DestinationStr>Canal Balo Arpt(ZOS)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZOS</code>
+    <DestinationName>Osorno</DestinationName>
+    <DestinationStr>Osorno(ZOS)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZOU</code>
+    <DestinationName>Neuwied</DestinationName>
+    <DestinationStr>Neuwied(ZOU)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZOV</code>
+    <DestinationName>Norderstedt</DestinationName>
+    <DestinationStr>Norderstedt(ZOV)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZOW</code>
+    <DestinationName>Nordhorn</DestinationName>
+    <DestinationStr>Nordhorn(ZOW)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZOX</code>
+    <DestinationName>Oberammergau Airport</DestinationName>
+    <DestinationStr>Oberammergau Airport(ZOX)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZOX</code>
+    <DestinationName>Oberammergau</DestinationName>
+    <DestinationStr>Oberammergau(ZOX)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZOY</code>
+    <DestinationName>Oberhausen</DestinationName>
+    <DestinationStr>Oberhausen(ZOY)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZOZ</code>
+    <DestinationName>Offenbach</DestinationName>
+    <DestinationStr>Offenbach(ZOZ)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZPA</code>
+    <DestinationName>Offenburg</DestinationName>
+    <DestinationStr>Offenburg(ZPA)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZPC</code>
+    <DestinationName>Pucon Arpt</DestinationName>
+    <DestinationStr>Pucon Arpt(ZPC)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZPC</code>
+    <DestinationName>Pucon</DestinationName>
+    <DestinationStr>Pucon(ZPC)-Chile</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZPD</code>
+    <DestinationName>Oldenburg</DestinationName>
+    <DestinationStr>Oldenburg(ZPD)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZPE</code>
+    <DestinationName>Osnabruck</DestinationName>
+    <DestinationStr>Osnabruck(ZPE)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZPE</code>
+    <DestinationName>Osnabrueck</DestinationName>
+    <DestinationStr>Osnabrueck(ZPE)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZPF</code>
+    <DestinationName>Passau</DestinationName>
+    <DestinationStr>Passau(ZPF)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZPG</code>
+    <DestinationName>Peine</DestinationName>
+    <DestinationStr>Peine(ZPG)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZPI</code>
+    <DestinationName>Pirmasens</DestinationName>
+    <DestinationStr>Pirmasens(ZPI)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZPJ</code>
+    <DestinationName>Ratingen</DestinationName>
+    <DestinationStr>Ratingen(ZPJ)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZPL</code>
+    <DestinationName>Recklinghausen</DestinationName>
+    <DestinationStr>Recklinghausen(ZPL)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZPM</code>
+    <DestinationName>Regensburg</DestinationName>
+    <DestinationStr>Regensburg(ZPM)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZPN</code>
+    <DestinationName>Remscheid</DestinationName>
+    <DestinationStr>Remscheid(ZPN)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZPP</code>
+    <DestinationName>Reutlingen</DestinationName>
+    <DestinationStr>Reutlingen(ZPP)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZPQ</code>
+    <DestinationName>Rheine</DestinationName>
+    <DestinationStr>Rheine(ZPQ)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZPR</code>
+    <DestinationName>Rosenheim</DestinationName>
+    <DestinationStr>Rosenheim(ZPR)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZPS</code>
+    <DestinationName>Ruesselsheim</DestinationName>
+    <DestinationStr>Ruesselsheim(ZPS)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZPU</code>
+    <DestinationName>Salzgitter</DestinationName>
+    <DestinationStr>Salzgitter(ZPU)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZPV</code>
+    <DestinationName>Schwaebisch Gmuend</DestinationName>
+    <DestinationStr>Schwaebisch Gmuend(ZPV)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZPW</code>
+    <DestinationName>Schweinfurt</DestinationName>
+    <DestinationStr>Schweinfurt(ZPW)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZPY</code>
+    <DestinationName>Siegburg</DestinationName>
+    <DestinationStr>Siegburg(ZPY)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZPZ</code>
+    <DestinationName>Sindelfingen</DestinationName>
+    <DestinationStr>Sindelfingen(ZPZ)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZQA</code>
+    <DestinationName>Singen</DestinationName>
+    <DestinationStr>Singen(ZQA)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZQB</code>
+    <DestinationName>Solingen</DestinationName>
+    <DestinationStr>Solingen(ZQB)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZQC</code>
+    <DestinationName>Speyer</DestinationName>
+    <DestinationStr>Speyer(ZQC)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZQD</code>
+    <DestinationName>Stade</DestinationName>
+    <DestinationStr>Stade(ZQD)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZQE</code>
+    <DestinationName>Stolberg</DestinationName>
+    <DestinationStr>Stolberg(ZQE)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZQF</code>
+    <DestinationName>Trier Arpt</DestinationName>
+    <DestinationStr>Trier Arpt(ZQF)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZQF</code>
+    <DestinationName>Trier</DestinationName>
+    <DestinationStr>Trier(ZQF)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZQH</code>
+    <DestinationName>Tuebingen</DestinationName>
+    <DestinationStr>Tuebingen(ZQH)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZQI</code>
+    <DestinationName>Unna</DestinationName>
+    <DestinationStr>Unna(ZQI)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZQJ</code>
+    <DestinationName>Velbert</DestinationName>
+    <DestinationStr>Velbert(ZQJ)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZQK</code>
+    <DestinationName>Viersen</DestinationName>
+    <DestinationStr>Viersen(ZQK)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZQL</code>
+    <DestinationName>Villingen Schwenningen</DestinationName>
+    <DestinationStr>Villingen Schwenningen(ZQL)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZQN</code>
+    <DestinationName>Frankton Airport</DestinationName>
+    <DestinationStr>Frankton Airport(ZQN)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZQN</code>
+    <DestinationName>Queenstown</DestinationName>
+    <DestinationStr>Queenstown(ZQN)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZQO</code>
+    <DestinationName>Waiblingen</DestinationName>
+    <DestinationStr>Waiblingen(ZQO)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZQP</code>
+    <DestinationName>Wesel</DestinationName>
+    <DestinationStr>Wesel(ZQP)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZQQ</code>
+    <DestinationName>Wetzlar</DestinationName>
+    <DestinationStr>Wetzlar(ZQQ)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZQR</code>
+    <DestinationName>Witten</DestinationName>
+    <DestinationStr>Witten(ZQR)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZQS</code>
+    <DestinationName>Queen Charlotte Island Arpt</DestinationName>
+    <DestinationStr>Queen Charlotte Island Arpt(ZQS)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZQS</code>
+    <DestinationName>Queen Charlotte Island</DestinationName>
+    <DestinationStr>Queen Charlotte Island(ZQS)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZQU</code>
+    <DestinationName>Wolfsburg</DestinationName>
+    <DestinationStr>Wolfsburg(ZQU)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZQV</code>
+    <DestinationName>Worms</DestinationName>
+    <DestinationStr>Worms(ZQV)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZQW</code>
+    <DestinationName>Zweibruecken Arpt</DestinationName>
+    <DestinationStr>Zweibruecken Arpt(ZQW)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZQW</code>
+    <DestinationName>Zweibruecken</DestinationName>
+    <DestinationStr>Zweibruecken(ZQW)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZQY</code>
+    <DestinationName>Giessen</DestinationName>
+    <DestinationStr>Giessen(ZQY)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZQZ</code>
+    <DestinationName>Zhangjiakou Arpt</DestinationName>
+    <DestinationStr>Zhangjiakou Arpt(ZQZ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZQZ</code>
+    <DestinationName>Zhangjiakou</DestinationName>
+    <DestinationStr>Zhangjiakou(ZQZ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZRC</code>
+    <DestinationName>San Pedro de Alcantara</DestinationName>
+    <DestinationStr>San Pedro de Alcantara(ZRC)-Spain</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZRE</code>
+    <DestinationName>Rethymnon</DestinationName>
+    <DestinationStr>Rethymnon(ZRE)-Greece</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZRH</code>
+    <DestinationName>Zurich Airport</DestinationName>
+    <DestinationStr>Zurich Airport(ZRH)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZRH</code>
+    <DestinationName>Zurich</DestinationName>
+    <DestinationStr>Zurich(ZRH)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZRI</code>
+    <DestinationName>Serui</DestinationName>
+    <DestinationStr>Serui(ZRI)-Indonesia</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZRM</code>
+    <DestinationName>Sarmi</DestinationName>
+    <DestinationStr>Sarmi(ZRM)-Indonesia</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZRN</code>
+    <DestinationName>Nyon</DestinationName>
+    <DestinationStr>Nyon(ZRN)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZRO</code>
+    <DestinationName>Reggio Nellemilia</DestinationName>
+    <DestinationStr>Reggio Nellemilia(ZRO)-Italy</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZRS</code>
+    <DestinationName>Zurs Lech</DestinationName>
+    <DestinationStr>Zurs Lech(ZRS)-Austria</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZRW</code>
+    <DestinationName>Rastatt</DestinationName>
+    <DestinationStr>Rastatt(ZRW)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZRX</code>
+    <DestinationName>Riesa DE</DestinationName>
+    <DestinationStr>Riesa DE(ZRX)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZRY</code>
+    <DestinationName>Herning City</DestinationName>
+    <DestinationStr>Herning City(ZRY)-Denmark</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZSA</code>
+    <DestinationName>Cockburn Town Arpt</DestinationName>
+    <DestinationStr>Cockburn Town Arpt(ZSA)-Bahamas</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZSA</code>
+    <DestinationName>San Salvador</DestinationName>
+    <DestinationStr>San Salvador(ZSA)-Bahamas</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZSC</code>
+    <DestinationName>Schoena</DestinationName>
+    <DestinationStr>Schoena(ZSC)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZSD</code>
+    <DestinationName>Schwanheide</DestinationName>
+    <DestinationStr>Schwanheide(ZSD)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZSE</code>
+    <DestinationName>Saint Pierre Dela Reunion</DestinationName>
+    <DestinationStr>Saint Pierre Dela Reunion(ZSE)-Reunion</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZSE</code>
+    <DestinationName>St Pierre Dela Reunion Arpt</DestinationName>
+    <DestinationStr>St Pierre Dela Reunion Arpt(ZSE)-Reunion</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZSE</code>
+    <DestinationName>St Pierre Dela Reunion</DestinationName>
+    <DestinationStr>St Pierre Dela Reunion(ZSE)-Reunion</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZSG</code>
+    <DestinationName>Sonneberg</DestinationName>
+    <DestinationStr>Sonneberg(ZSG)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZSI</code>
+    <DestinationName>Sassnitz</DestinationName>
+    <DestinationStr>Sassnitz(ZSI)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZSJ</code>
+    <DestinationName>Sandy Lake Arpt</DestinationName>
+    <DestinationStr>Sandy Lake Arpt(ZSJ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZSJ</code>
+    <DestinationName>Sandy Lake</DestinationName>
+    <DestinationStr>Sandy Lake(ZSJ)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZSK</code>
+    <DestinationName>Pasewalk</DestinationName>
+    <DestinationStr>Pasewalk(ZSK)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZSM</code>
+    <DestinationName>Santa Clara</DestinationName>
+    <DestinationStr>Santa Clara(ZSM)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZSN</code>
+    <DestinationName>Stendal</DestinationName>
+    <DestinationStr>Stendal(ZSN)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZSO</code>
+    <DestinationName>Suhl</DestinationName>
+    <DestinationStr>Suhl(ZSO)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZSQ</code>
+    <DestinationName>Salzwedel</DestinationName>
+    <DestinationStr>Salzwedel(ZSQ)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZSR</code>
+    <DestinationName>Schwerin</DestinationName>
+    <DestinationStr>Schwerin(ZSR)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZSS</code>
+    <DestinationName>Sassandra</DestinationName>
+    <DestinationStr>Sassandra(ZSS)-Ivory Coast</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZSU</code>
+    <DestinationName>Dessau</DestinationName>
+    <DestinationStr>Dessau(ZSU)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZSW</code>
+    <DestinationName>Seal Cove Arpt</DestinationName>
+    <DestinationStr>Seal Cove Arpt(ZSW)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZSX</code>
+    <DestinationName>Stralsund</DestinationName>
+    <DestinationStr>Stralsund(ZSX)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZTB</code>
+    <DestinationName>Tete A La Baleine Arpt</DestinationName>
+    <DestinationStr>Tete A La Baleine Arpt(ZTB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZTB</code>
+    <DestinationName>Tete A La Baleine</DestinationName>
+    <DestinationStr>Tete A La Baleine(ZTB)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZTF</code>
+    <DestinationName>Stamford</DestinationName>
+    <DestinationStr>Stamford(ZTF)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZTH</code>
+    <DestinationName>Zakinthos Arpt</DestinationName>
+    <DestinationStr>Zakinthos Arpt(ZTH)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZTH</code>
+    <DestinationName>Zakinthos</DestinationName>
+    <DestinationStr>Zakinthos(ZTH)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZTH</code>
+    <DestinationName>Zakynthos</DestinationName>
+    <DestinationStr>Zakynthos(ZTH)-Greece</DestinationStr>
+  </Destination>    
+  <Destination>
+    <code>ZTK</code>
+    <DestinationName>THUN</DestinationName>
+    <DestinationStr>THUN(ZTK)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZTP</code>
+    <DestinationName>Itapetininga</DestinationName>
+    <DestinationStr>Itapetininga(ZTP)-Brazil</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZTU</code>
+    <DestinationName>Zaqatala</DestinationName>
+    <DestinationStr>Zaqatala(ZTU)-Azerbaijan</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZTV</code>
+    <DestinationName>Sturtevant</DestinationName>
+    <DestinationStr>Sturtevant(ZTV)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZTW</code>
+    <DestinationName>Tsuen Wan</DestinationName>
+    <DestinationStr>Tsuen Wan(ZTW)-Hong Kong</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZTZ</code>
+    <DestinationName>Chemnitz</DestinationName>
+    <DestinationStr>Chemnitz(ZTZ)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZUD</code>
+    <DestinationName>Ancud</DestinationName>
+    <DestinationStr>Ancud(ZUD)-Chile</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZUH</code>
+    <DestinationName>Zhuhai Arpt</DestinationName>
+    <DestinationStr>Zhuhai Arpt(ZUH)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZUH</code>
+    <DestinationName>Zhuhai</DestinationName>
+    <DestinationStr>Zhuhai(ZUH)-China</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZUJ</code>
+    <DestinationName>Zhenjiang</DestinationName>
+    <DestinationStr>Zhenjiang(ZUJ)-China</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZUM</code>
+    <DestinationName>Churchhill Falls Arpt</DestinationName>
+    <DestinationStr>Churchhill Falls Arpt(ZUM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZUM</code>
+    <DestinationName>Churchhill Falls</DestinationName>
+    <DestinationStr>Churchhill Falls(ZUM)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZVA</code>
+    <DestinationName>Miandrivazo</DestinationName>
+    <DestinationStr>Miandrivazo(ZVA)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZVB</code>
+    <DestinationName>Brumunddal</DestinationName>
+    <DestinationStr>Brumunddal(ZVB)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZVD</code>
+    <DestinationName>Drangedal</DestinationName>
+    <DestinationStr>Drangedal(ZVD)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZVJ</code>
+    <DestinationName>Abu Dhabi City</DestinationName>
+    <DestinationStr>Abu Dhabi City(ZVJ)-United Arab Emirates</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZVK</code>
+    <DestinationName>Savannakhet Airport</DestinationName>
+    <DestinationStr>Savannakhet Airport(ZVK)-Lao, People's Dem. Rep.</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZVK</code>
+    <DestinationName>Savannakhet</DestinationName>
+    <DestinationStr>Savannakhet(ZVK)-Lao, People's Dem. Rep.</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZVM</code>
+    <DestinationName>Hannover Messe/Laatzen RR Stn</DestinationName>
+    <DestinationStr>Hannover Messe/Laatzen RR Stn(ZVM)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZWA</code>
+    <DestinationName>Andapa</DestinationName>
+    <DestinationStr>Andapa(ZWA)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>    
+  <Destination>
+    <code>ZWD</code>
+    <DestinationName>Warnemuende</DestinationName>
+    <DestinationStr>Warnemuende(ZWD)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZWJ</code>
+    <DestinationName>Haugastol</DestinationName>
+    <DestinationStr>Haugastol(ZWJ)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZWK</code>
+    <DestinationName>Suwalki</DestinationName>
+    <DestinationStr>Suwalki(ZWK)-Poland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZWM</code>
+    <DestinationName>Wismar</DestinationName>
+    <DestinationStr>Wismar(ZWM)-Germany</DestinationStr>
+  </Destination>    
+  <Destination>
+    <code>ZWT</code>
+    <DestinationName>Wittenberg</DestinationName>
+    <DestinationStr>Wittenberg(ZWT)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZXM</code>
+    <DestinationName>Rognan</DestinationName>
+    <DestinationStr>Rognan(ZXM)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZXO</code>
+    <DestinationName>Fauske</DestinationName>
+    <DestinationStr>Fauske(ZXO)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZXT</code>
+    <DestinationName>Zabrat Arpt</DestinationName>
+    <DestinationStr>Zabrat Arpt(ZXT)-Azerbaijan</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZXU</code>
+    <DestinationName>Rygge</DestinationName>
+    <DestinationStr>Rygge(ZXU)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZXX</code>
+    <DestinationName>Rade</DestinationName>
+    <DestinationStr>Rade(ZXX)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZYC</code>
+    <DestinationName>Gizycko</DestinationName>
+    <DestinationStr>Gizycko(ZYC)-Poland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZYG</code>
+    <DestinationName>Gjovik</DestinationName>
+    <DestinationStr>Gjovik(ZYG)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZYI</code>
+    <DestinationName>Zunyi Arpt</DestinationName>
+    <DestinationStr>Zunyi Arpt(ZYI)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZYI</code>
+    <DestinationName>Zunyi</DestinationName>
+    <DestinationStr>Zunyi(ZYI)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZYL</code>
+    <DestinationName>Sylhet Osmany Arpt</DestinationName>
+    <DestinationStr>Sylhet Osmany Arpt(ZYL)-Bangladesh</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZYL</code>
+    <DestinationName>Sylhet</DestinationName>
+    <DestinationStr>Sylhet(ZYL)-Bangladesh</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZYM</code>
+    <DestinationName>Arnhem City</DestinationName>
+    <DestinationStr>Arnhem City(ZYM)-Netherlands</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZYO</code>
+    <DestinationName>Roosendaal</DestinationName>
+    <DestinationStr>Roosendaal(ZYO)-Netherlands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZYP</code>
+    <DestinationName>New York Penn Station</DestinationName>
+    <DestinationStr>New York Penn Station(ZYP)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZYS</code>
+    <DestinationName>Sandefjord</DestinationName>
+    <DestinationStr>Sandefjord(ZYS)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZYV</code>
+    <DestinationName>Myra</DestinationName>
+    <DestinationStr>Myra(ZYV)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZYV</code>
+    <DestinationName>Vegarshei</DestinationName>
+    <DestinationStr>Vegarshei(ZYV)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZYW</code>
+    <DestinationName>Baerum</DestinationName>
+    <DestinationStr>Baerum(ZYW)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZYW</code>
+    <DestinationName>Sandvika</DestinationName>
+    <DestinationStr>Sandvika(ZYW)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZYY</code>
+    <DestinationName>Marnardal</DestinationName>
+    <DestinationStr>Marnardal(ZYY)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZZM</code>
+    <DestinationName>Bordj Menaiel</DestinationName>
+    <DestinationStr>Bordj Menaiel(ZZM)-Algeria</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZZU</code>
+    <DestinationName>Mzuzu</DestinationName>
+    <DestinationStr>Mzuzu(ZZU)-Malawi</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZZV</code>
+    <DestinationName>Zanesville Arpt</DestinationName>
+    <DestinationStr>Zanesville Arpt(ZZV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZZV</code>
+    <DestinationName>Zanesville</DestinationName>
+    <DestinationStr>Zanesville(ZZV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZZZ</code>
+    <DestinationName>Sydney Kingsford Smiht Arpt</DestinationName>
+    <DestinationStr>Sydney Kingsford Smiht Arpt(ZZZ)-Australia</DestinationStr>
+  </Destination>
+</DestinationRoot>

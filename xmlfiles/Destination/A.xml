@@ -1,0 +1,4652 @@
+﻿<DestinationRoot>
+  <Destination>
+    <code>NORESULT</code>
+    <DestinationName>NORESULT</DestinationName>
+    <DestinationStr>No Result Found</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AAA</code>
+    <DestinationName>Anaa Arpt</DestinationName>
+    <DestinationStr>Anaa Arpt(AAA)-French Polynesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AAB</code>
+    <DestinationName>Arrabury</DestinationName>
+    <DestinationStr>Arrabury(AAB)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AAC</code>
+    <DestinationName>Al Arish International</DestinationName>
+    <DestinationStr>Al Arish International(AAC)-Egypt</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AAC</code>
+    <DestinationName>El Arish</DestinationName>
+    <DestinationStr>El Arish(AAC)-Egypt</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AAE</code>
+    <DestinationName>Annaba</DestinationName>
+    <DestinationStr>Annaba(AAE)-Algeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AAE</code>
+    <DestinationName>Les Salines Arpt</DestinationName>
+    <DestinationStr>Les Salines Arpt(AAE)-Algeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AAF</code>
+    <DestinationName>Apalachicola Municipal Arpt</DestinationName>
+    <DestinationStr>Apalachicola Municipal Arpt(AAF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AAF</code>
+    <DestinationName>Apalachicola</DestinationName>
+    <DestinationStr>Apalachicola(AAF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AAG</code>
+    <DestinationName>Arapoti Arpt</DestinationName>
+    <DestinationStr>Arapoti Arpt(AAG)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AAG</code>
+    <DestinationName>Arapoti</DestinationName>
+    <DestinationStr>Arapoti(AAG)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AAH</code>
+    <DestinationName>Aachen Merzbruck Arpt</DestinationName>
+    <DestinationStr>Aachen Merzbruck Arpt(AAH)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AAH</code>
+    <DestinationName>Aachen</DestinationName>
+    <DestinationStr>Aachen(AAH)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AAK</code>
+    <DestinationName>Aranuka</DestinationName>
+    <DestinationStr>Aranuka(AAK)-Kiribati</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AAL</code>
+    <DestinationName>Aalborg Arpt</DestinationName>
+    <DestinationStr>Aalborg Arpt(AAL)-Denmark</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AAL</code>
+    <DestinationName>Aalborg</DestinationName>
+    <DestinationStr>Aalborg(AAL)-Denmark</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AAM</code>
+    <DestinationName>Mala Mala Arpt</DestinationName>
+    <DestinationStr>Mala Mala Arpt(AAM)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AAM</code>
+    <DestinationName>Mala Mala</DestinationName>
+    <DestinationStr>Mala Mala(AAM)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AAN</code>
+    <DestinationName>Al Ain Arpt</DestinationName>
+    <DestinationStr>Al Ain Arpt(AAN)-United Arab Emirates</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AAN</code>
+    <DestinationName>Al Ain</DestinationName>
+    <DestinationStr>Al Ain(AAN)-United Arab Emirates</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AAO</code>
+    <DestinationName>Anaco</DestinationName>
+    <DestinationStr>Anaco(AAO)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AAQ</code>
+    <DestinationName>Anapa Arpt</DestinationName>
+    <DestinationStr>Anapa Arpt(AAQ)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AAQ</code>
+    <DestinationName>Anapa</DestinationName>
+    <DestinationStr>Anapa(AAQ)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AAR</code>
+    <DestinationName>Aarhus</DestinationName>
+    <DestinationStr>Aarhus(AAR)-Denmark</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AAR</code>
+    <DestinationName>Tirstrup Arpt</DestinationName>
+    <DestinationStr>Tirstrup Arpt(AAR)-Denmark</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AAT</code>
+    <DestinationName>Altay Arpt</DestinationName>
+    <DestinationStr>Altay Arpt(AAT)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AAT</code>
+    <DestinationName>Altay</DestinationName>
+    <DestinationStr>Altay(AAT)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AAU</code>
+    <DestinationName>Asau</DestinationName>
+    <DestinationStr>Asau(AAU)-Samoa, Independent State Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AAX</code>
+    <DestinationName>Araxa Airport</DestinationName>
+    <DestinationStr>Araxa Airport(AAX)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AAX</code>
+    <DestinationName>Araxa</DestinationName>
+    <DestinationStr>Araxa(AAX)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AAY</code>
+    <DestinationName>Al Ghaydah Arpt</DestinationName>
+    <DestinationStr>Al Ghaydah Arpt(AAY)-Yemen, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AAY</code>
+    <DestinationName>Al Ghaydah</DestinationName>
+    <DestinationStr>Al Ghaydah(AAY)-Yemen, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ABA</code>
+    <DestinationName>Abakan Arpt</DestinationName>
+    <DestinationStr>Abakan Arpt(ABA)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ABA</code>
+    <DestinationName>Abakan</DestinationName>
+    <DestinationStr>Abakan(ABA)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ABB</code>
+    <DestinationName>Asaba International Arpt</DestinationName>
+    <DestinationStr>Asaba International Arpt(ABB)-Nigeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ABB</code>
+    <DestinationName>Asaba</DestinationName>
+    <DestinationStr>Asaba(ABB)-Nigeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ABC</code>
+    <DestinationName>Albacete</DestinationName>
+    <DestinationStr>Albacete(ABC)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ABC</code>
+    <DestinationName>Los Llanos Arpt</DestinationName>
+    <DestinationStr>Los Llanos Arpt(ABC)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ABD</code>
+    <DestinationName>Abadan Arpt</DestinationName>
+    <DestinationStr>Abadan Arpt(ABD)-Iran</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ABD</code>
+    <DestinationName>Abadan</DestinationName>
+    <DestinationStr>Abadan(ABD)-Iran</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ABE</code>
+    <DestinationName>Allentown</DestinationName>
+    <DestinationStr>Allentown(ABE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ABE</code>
+    <DestinationName>Lehigh Valley Intl Arpt</DestinationName>
+    <DestinationStr>Lehigh Valley Intl Arpt(ABE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ABF</code>
+    <DestinationName>Abaiang</DestinationName>
+    <DestinationStr>Abaiang(ABF)-Kiribati</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ABH</code>
+    <DestinationName>Alpha</DestinationName>
+    <DestinationStr>Alpha(ABH)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ABI</code>
+    <DestinationName>Abilene Municipal Arpt</DestinationName>
+    <DestinationStr>Abilene Municipal Arpt(ABI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ABI</code>
+    <DestinationName>Abilene</DestinationName>
+    <DestinationStr>Abilene(ABI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ABJ</code>
+    <DestinationName>Abidjan</DestinationName>
+    <DestinationStr>Abidjan(ABJ)-Ivory Coast</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ABJ</code>
+    <DestinationName>Felix Houphouet Boigny Arpt</DestinationName>
+    <DestinationStr>Felix Houphouet Boigny Arpt(ABJ)-Ivory Coast</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ABK</code>
+    <DestinationName>Kabri Dar</DestinationName>
+    <DestinationStr>Kabri Dar(ABK)-Ethiopia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ABL</code>
+    <DestinationName>Ambler Arpt</DestinationName>
+    <DestinationStr>Ambler Arpt(ABL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ABL</code>
+    <DestinationName>Ambler</DestinationName>
+    <DestinationStr>Ambler(ABL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ABM</code>
+    <DestinationName>Bamaga Arpt</DestinationName>
+    <DestinationStr>Bamaga Arpt(ABM)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ABM</code>
+    <DestinationName>Bamaga</DestinationName>
+    <DestinationStr>Bamaga(ABM)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ABQ</code>
+    <DestinationName>Albuquerque Intl Arpt</DestinationName>
+    <DestinationStr>Albuquerque Intl Arpt(ABQ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ABQ</code>
+    <DestinationName>Albuquerque</DestinationName>
+    <DestinationStr>Albuquerque(ABQ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ABR</code>
+    <DestinationName>Aberdeen Arpt</DestinationName>
+    <DestinationStr>Aberdeen Arpt(ABR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ABR</code>
+    <DestinationName>Aberdeen</DestinationName>
+    <DestinationStr>Aberdeen(ABR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ABS</code>
+    <DestinationName>Abu Simbel Arpt</DestinationName>
+    <DestinationStr>Abu Simbel Arpt(ABS)-Egypt</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ABS</code>
+    <DestinationName>Abu Simbel</DestinationName>
+    <DestinationStr>Abu Simbel(ABS)-Egypt</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ABT</code>
+    <DestinationName>Al Aqiq</DestinationName>
+    <DestinationStr>Al Aqiq(ABT)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ABT</code>
+    <DestinationName>Al Baha</DestinationName>
+    <DestinationStr>Al Baha(ABT)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ABU</code>
+    <DestinationName>Atambua</DestinationName>
+    <DestinationStr>Atambua(ABU)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ABV</code>
+    <DestinationName>Abuja Intl</DestinationName>
+    <DestinationStr>Abuja Intl(ABV)-Nigeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ABV</code>
+    <DestinationName>Abuja</DestinationName>
+    <DestinationStr>Abuja(ABV)-Nigeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ABX</code>
+    <DestinationName>Albury Airport</DestinationName>
+    <DestinationStr>Albury Airport(ABX)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ABX</code>
+    <DestinationName>Albury</DestinationName>
+    <DestinationStr>Albury(ABX)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ABY</code>
+    <DestinationName>Albany</DestinationName>
+    <DestinationStr>Albany(ABY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ABY</code>
+    <DestinationName>Dougherty Cty Arpt</DestinationName>
+    <DestinationStr>Dougherty Cty Arpt(ABY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ABZ</code>
+    <DestinationName>Aberdeen</DestinationName>
+    <DestinationStr>Aberdeen(ABZ)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ABZ</code>
+    <DestinationName>Dyce Airport</DestinationName>
+    <DestinationStr>Dyce Airport(ABZ)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ACA</code>
+    <DestinationName>Acapulco</DestinationName>
+    <DestinationStr>Acapulco(ACA)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ACA</code>
+    <DestinationName>Alvarez Intl Arpt</DestinationName>
+    <DestinationStr>Alvarez Intl Arpt(ACA)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ACC</code>
+    <DestinationName>Accra</DestinationName>
+    <DestinationStr>Accra(ACC)-Ghana</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ACC</code>
+    <DestinationName>Ghana</DestinationName>
+    <DestinationStr>Ghana(ACC)-Ghana</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ACC</code>
+    <DestinationName>Kotoka Airport</DestinationName>
+    <DestinationStr>Kotoka Airport(ACC)-Ghana</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ACD</code>
+    <DestinationName>Acandi</DestinationName>
+    <DestinationStr>Acandi(ACD)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ACD</code>
+    <DestinationName>Aeropuerto Alcides Fernandez</DestinationName>
+    <DestinationStr>Aeropuerto Alcides Fernandez(ACD)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ACE</code>
+    <DestinationName>Lanzarote Airport</DestinationName>
+    <DestinationStr>Lanzarote Airport(ACE)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ACE</code>
+    <DestinationName>Lanzarote</DestinationName>
+    <DestinationStr>Lanzarote(ACE)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ACH</code>
+    <DestinationName>Altenrhein Arpt</DestinationName>
+    <DestinationStr>Altenrhein Arpt(ACH)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ACH</code>
+    <DestinationName>Altenrhein</DestinationName>
+    <DestinationStr>Altenrhein(ACH)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ACI</code>
+    <DestinationName>Alderney</DestinationName>
+    <DestinationStr>Alderney(ACI)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ACI</code>
+    <DestinationName>The Blaye Arpt</DestinationName>
+    <DestinationStr>The Blaye Arpt(ACI)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ACJ</code>
+    <DestinationName>Anuradhapura</DestinationName>
+    <DestinationStr>Anuradhapura(ACJ)-Sri Lanka</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ACK</code>
+    <DestinationName>Nantucket Memorial</DestinationName>
+    <DestinationStr>Nantucket Memorial(ACK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ACK</code>
+    <DestinationName>Nantucket</DestinationName>
+    <DestinationStr>Nantucket(ACK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ACO</code>
+    <DestinationName>Ascona Arpt</DestinationName>
+    <DestinationStr>Ascona Arpt(ACO)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ACO</code>
+    <DestinationName>Ascona</DestinationName>
+    <DestinationStr>Ascona(ACO)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ACR</code>
+    <DestinationName>Araracuara Arpt</DestinationName>
+    <DestinationStr>Araracuara Arpt(ACR)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ACR</code>
+    <DestinationName>Araracuara</DestinationName>
+    <DestinationStr>Araracuara(ACR)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ACT</code>
+    <DestinationName>Madison Cooper Arpt</DestinationName>
+    <DestinationStr>Madison Cooper Arpt(ACT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ACT</code>
+    <DestinationName>Waco</DestinationName>
+    <DestinationStr>Waco(ACT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ACV</code>
+    <DestinationName>Arcata Eureka Arpt</DestinationName>
+    <DestinationStr>Arcata Eureka Arpt(ACV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ACV</code>
+    <DestinationName>Arcata</DestinationName>
+    <DestinationStr>Arcata(ACV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ACX</code>
+    <DestinationName>Xingyi Arpt</DestinationName>
+    <DestinationStr>Xingyi Arpt(ACX)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ACX</code>
+    <DestinationName>Xingyi</DestinationName>
+    <DestinationStr>Xingyi(ACX)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ACY</code>
+    <DestinationName>Atlantic City Intl Arpt</DestinationName>
+    <DestinationStr>Atlantic City Intl Arpt(ACY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ADA</code>
+    <DestinationName>Adana Arpt</DestinationName>
+    <DestinationStr>Adana Arpt(ADA)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ADA</code>
+    <DestinationName>Adana</DestinationName>
+    <DestinationStr>Adana(ADA)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ADB</code>
+    <DestinationName>Adnan Menderes Airport</DestinationName>
+    <DestinationStr>Adnan Menderes Airport(ADB)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ADB</code>
+    <DestinationName>Ephesus</DestinationName>
+    <DestinationStr>Ephesus(ADB)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ADD</code>
+    <DestinationName>Addis Ababa</DestinationName>
+    <DestinationStr>Addis Ababa(ADD)-Ethiopia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ADD</code>
+    <DestinationName>Bole Airport</DestinationName>
+    <DestinationStr>Bole Airport(ADD)-Ethiopia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ADE</code>
+    <DestinationName>Aden</DestinationName>
+    <DestinationStr>Aden(ADE)-Yemen, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ADE</code>
+    <DestinationName>Yemen Intl Arpt</DestinationName>
+    <DestinationStr>Yemen Intl Arpt(ADE)-Yemen, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ADE</code>
+    <DestinationName>Yemen</DestinationName>
+    <DestinationStr>Yemen(ADE)-Yemen, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ADF</code>
+    <DestinationName>Adiyaman Arpt</DestinationName>
+    <DestinationStr>Adiyaman Arpt(ADF)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ADF</code>
+    <DestinationName>Adiyaman</DestinationName>
+    <DestinationStr>Adiyaman(ADF)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ADG</code>
+    <DestinationName>Adrian</DestinationName>
+    <DestinationStr>Adrian(ADG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ADG</code>
+    <DestinationName>Lenawee County Arpt</DestinationName>
+    <DestinationStr>Lenawee County Arpt(ADG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ADJ</code>
+    <DestinationName>Civil Marka Arpt</DestinationName>
+    <DestinationStr>Civil Marka Arpt(ADJ)-Jordan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ADK</code>
+    <DestinationName>Adak Island Ns</DestinationName>
+    <DestinationStr>Adak Island Ns(ADK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ADK</code>
+    <DestinationName>Adak Island</DestinationName>
+    <DestinationStr>Adak Island(ADK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ADL</code>
+    <DestinationName>Adelaide Arpt</DestinationName>
+    <DestinationStr>Adelaide Arpt(ADL)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ADL</code>
+    <DestinationName>Adelaide</DestinationName>
+    <DestinationStr>Adelaide(ADL)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ADM</code>
+    <DestinationName>Ardmore Municipal Arpt</DestinationName>
+    <DestinationStr>Ardmore Municipal Arpt(ADM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ADM</code>
+    <DestinationName>Ardmore</DestinationName>
+    <DestinationStr>Ardmore(ADM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ADQ</code>
+    <DestinationName>Kodiak Arpt</DestinationName>
+    <DestinationStr>Kodiak Arpt(ADQ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ADQ</code>
+    <DestinationName>Kodiak</DestinationName>
+    <DestinationStr>Kodiak(ADQ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ADS</code>
+    <DestinationName>Addison Arpt</DestinationName>
+    <DestinationStr>Addison Arpt(ADS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ADT</code>
+    <DestinationName>Ada Municipal Arpt</DestinationName>
+    <DestinationStr>Ada Municipal Arpt(ADT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ADT</code>
+    <DestinationName>Ada OK</DestinationName>
+    <DestinationStr>Ada OK(ADT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ADU</code>
+    <DestinationName>Ardabil Arpt</DestinationName>
+    <DestinationStr>Ardabil Arpt(ADU)-Iran</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ADU</code>
+    <DestinationName>Ardabil</DestinationName>
+    <DestinationStr>Ardabil(ADU)-Iran</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ADW</code>
+    <DestinationName>Andrews Air Force Base</DestinationName>
+    <DestinationStr>Andrews Air Force Base(ADW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ADW</code>
+    <DestinationName>Camp Springs</DestinationName>
+    <DestinationStr>Camp Springs(ADW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ADX</code>
+    <DestinationName>Leuchars Arpt</DestinationName>
+    <DestinationStr>Leuchars Arpt(ADX)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ADX</code>
+    <DestinationName>St Andrews</DestinationName>
+    <DestinationStr>St Andrews(ADX)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ADZ</code>
+    <DestinationName>Gustavo R Pinilla Intl</DestinationName>
+    <DestinationStr>Gustavo R Pinilla Intl(ADZ)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ADZ</code>
+    <DestinationName>San Andres</DestinationName>
+    <DestinationStr>San Andres(ADZ)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AEA</code>
+    <DestinationName>Abemama</DestinationName>
+    <DestinationStr>Abemama(AEA)-Kiribati</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AED</code>
+    <DestinationName>Aleneva Arpt</DestinationName>
+    <DestinationStr>Aleneva Arpt(AED)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AED</code>
+    <DestinationName>Aleneva</DestinationName>
+    <DestinationStr>Aleneva(AED)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AEG</code>
+    <DestinationName>Aek Godang</DestinationName>
+    <DestinationStr>Aek Godang(AEG)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AEI</code>
+    <DestinationName>Algeciras Arpt</DestinationName>
+    <DestinationStr>Algeciras Arpt(AEI)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AEI</code>
+    <DestinationName>Algeciras</DestinationName>
+    <DestinationStr>Algeciras(AEI)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AEL</code>
+    <DestinationName>Albert Lea Arpt</DestinationName>
+    <DestinationStr>Albert Lea Arpt(AEL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AEL</code>
+    <DestinationName>Albert Lea</DestinationName>
+    <DestinationStr>Albert Lea(AEL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AEO</code>
+    <DestinationName>Aioun Atrouss</DestinationName>
+    <DestinationStr>Aioun Atrouss(AEO)-Mauritania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AEP</code>
+    <DestinationName>Jorge Newbery</DestinationName>
+    <DestinationStr>Jorge Newbery(AEP)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AER</code>
+    <DestinationName>SOCHI ADLER INTL AIRPORT</DestinationName>
+    <DestinationStr>SOCHI ADLER INTL AIRPORT(AER)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AER</code>
+    <DestinationName>Sochi Intl Arpt</DestinationName>
+    <DestinationStr>Sochi Intl Arpt(AER)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AER</code>
+    <DestinationName>Sochi</DestinationName>
+    <DestinationStr>Sochi(AER)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AES</code>
+    <DestinationName>Aalesund</DestinationName>
+    <DestinationStr>Aalesund(AES)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AES</code>
+    <DestinationName>Vigra Airport</DestinationName>
+    <DestinationStr>Vigra Airport(AES)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AET</code>
+    <DestinationName>Allakaket</DestinationName>
+    <DestinationStr>Allakaket(AET)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AEX</code>
+    <DestinationName>Alexandria Intl Arpt</DestinationName>
+    <DestinationStr>Alexandria Intl Arpt(AEX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AEX</code>
+    <DestinationName>Alexandria</DestinationName>
+    <DestinationStr>Alexandria(AEX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AEY</code>
+    <DestinationName>Akureyri</DestinationName>
+    <DestinationStr>Akureyri(AEY)-Iceland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AFA</code>
+    <DestinationName>San Rafael Arpt</DestinationName>
+    <DestinationStr>San Rafael Arpt(AFA)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AFA</code>
+    <DestinationName>San Rafael</DestinationName>
+    <DestinationStr>San Rafael(AFA)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AFF</code>
+    <DestinationName>USAF Academy</DestinationName>
+    <DestinationStr>USAF Academy(AFF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AFK</code>
+    <DestinationName>Ampara</DestinationName>
+    <DestinationStr>Ampara(AFK)-Sri Lanka</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AFK</code>
+    <DestinationName>Kondavattavan Tank Arpt</DestinationName>
+    <DestinationStr>Kondavattavan Tank Arpt(AFK)-Sri Lanka</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AFL</code>
+    <DestinationName>Alta Floresta Arpt</DestinationName>
+    <DestinationStr>Alta Floresta Arpt(AFL)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AFL</code>
+    <DestinationName>Alta Floresta</DestinationName>
+    <DestinationStr>Alta Floresta(AFL)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AFP</code>
+    <DestinationName>Amalfi</DestinationName>
+    <DestinationStr>Amalfi(AFP)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AFS</code>
+    <DestinationName>Zarafsan</DestinationName>
+    <DestinationStr>Zarafsan(AFS)-Uzbekistan Sum</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AFS</code>
+    <DestinationName>Zarafshan Airport</DestinationName>
+    <DestinationStr>Zarafshan Airport(AFS)-Uzbekistan Sum</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AFW</code>
+    <DestinationName>Fort Worth Alliance Arpt</DestinationName>
+    <DestinationStr>Fort Worth Alliance Arpt(AFW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AFY</code>
+    <DestinationName>Afyon Arpt</DestinationName>
+    <DestinationStr>Afyon Arpt(AFY)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AFY</code>
+    <DestinationName>Afyon</DestinationName>
+    <DestinationStr>Afyon(AFY)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AGA</code>
+    <DestinationName>Agadir Almassira Arpt</DestinationName>
+    <DestinationStr>Agadir Almassira Arpt(AGA)-Morocco</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AGA</code>
+    <DestinationName>Agadir</DestinationName>
+    <DestinationStr>Agadir(AGA)-Morocco</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AGB</code>
+    <DestinationName>Augsburg</DestinationName>
+    <DestinationStr>Augsburg(AGB)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AGB</code>
+    <DestinationName>Muehlhausen Arpt</DestinationName>
+    <DestinationStr>Muehlhausen Arpt(AGB)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AGC</code>
+    <DestinationName>Allegheny Cty Arpt</DestinationName>
+    <DestinationStr>Allegheny Cty Arpt(AGC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AGE</code>
+    <DestinationName>Flugplatz Arpt</DestinationName>
+    <DestinationStr>Flugplatz Arpt(AGE)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AGE</code>
+    <DestinationName>Wangerooge</DestinationName>
+    <DestinationStr>Wangerooge(AGE)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AGF</code>
+    <DestinationName>Agen</DestinationName>
+    <DestinationStr>Agen(AGF)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AGF</code>
+    <DestinationName>La Garenne Arpt</DestinationName>
+    <DestinationStr>La Garenne Arpt(AGF)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AGH</code>
+    <DestinationName>Angelholm Helsingborg Arpt</DestinationName>
+    <DestinationStr>Angelholm Helsingborg Arpt(AGH)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AGH</code>
+    <DestinationName>Angelholm</DestinationName>
+    <DestinationStr>Angelholm(AGH)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AGJ</code>
+    <DestinationName>Aguni</DestinationName>
+    <DestinationStr>Aguni(AGJ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AGL</code>
+    <DestinationName>Wanigela</DestinationName>
+    <DestinationStr>Wanigela(AGL)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AGN</code>
+    <DestinationName>Angoon Arpt</DestinationName>
+    <DestinationStr>Angoon Arpt(AGN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AGN</code>
+    <DestinationName>Angoon</DestinationName>
+    <DestinationStr>Angoon(AGN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AGO</code>
+    <DestinationName>Magnolia Municipal</DestinationName>
+    <DestinationStr>Magnolia Municipal(AGO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AGO</code>
+    <DestinationName>Magnolia</DestinationName>
+    <DestinationStr>Magnolia(AGO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AGP</code>
+    <DestinationName>Malaga Arpt</DestinationName>
+    <DestinationStr>Malaga Arpt(AGP)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AGP</code>
+    <DestinationName>Malaga</DestinationName>
+    <DestinationStr>Malaga(AGP)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AGQ</code>
+    <DestinationName>Agrinion Arpt</DestinationName>
+    <DestinationStr>Agrinion Arpt(AGQ)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AGQ</code>
+    <DestinationName>Agrinion</DestinationName>
+    <DestinationStr>Agrinion(AGQ)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AGR</code>
+    <DestinationName>Agra</DestinationName>
+    <DestinationStr>Agra(AGR)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AGR</code>
+    <DestinationName>Kheria Arpt</DestinationName>
+    <DestinationStr>Kheria Arpt(AGR)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AGS</code>
+    <DestinationName>Augusta</DestinationName>
+    <DestinationStr>Augusta(AGS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AGS</code>
+    <DestinationName>Bush Field</DestinationName>
+    <DestinationStr>Bush Field(AGS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AGT</code>
+    <DestinationName>Ciudad Del Este</DestinationName>
+    <DestinationStr>Ciudad Del Este(AGT)-Paraguay</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AGT</code>
+    <DestinationName>Guarani Intl</DestinationName>
+    <DestinationStr>Guarani Intl(AGT)-Paraguay</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AGU</code>
+    <DestinationName>Aguascalientes Municipal Arpt</DestinationName>
+    <DestinationStr>Aguascalientes Municipal Arpt(AGU)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AGU</code>
+    <DestinationName>Aguascalientes</DestinationName>
+    <DestinationStr>Aguascalientes(AGU)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AGV</code>
+    <DestinationName>Acarigua</DestinationName>
+    <DestinationStr>Acarigua(AGV)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AGX</code>
+    <DestinationName>Agatti Aerodrome</DestinationName>
+    <DestinationStr>Agatti Aerodrome(AGX)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AGX</code>
+    <DestinationName>Agatti Island</DestinationName>
+    <DestinationStr>Agatti Island(AGX)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AGZ</code>
+    <DestinationName>Aggeneys</DestinationName>
+    <DestinationStr>Aggeneys(AGZ)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AHA</code>
+    <DestinationName>Naha AFB</DestinationName>
+    <DestinationStr>Naha AFB(AHA)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AHB</code>
+    <DestinationName>Abha Airport</DestinationName>
+    <DestinationStr>Abha Airport(AHB)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AHB</code>
+    <DestinationName>Abha</DestinationName>
+    <DestinationStr>Abha(AHB)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AHC</code>
+    <DestinationName>Herlong Arpt</DestinationName>
+    <DestinationStr>Herlong Arpt(AHC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AHC</code>
+    <DestinationName>Herlong</DestinationName>
+    <DestinationStr>Herlong(AHC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AHD</code>
+    <DestinationName>Downtown Arpt</DestinationName>
+    <DestinationStr>Downtown Arpt(AHD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AHI</code>
+    <DestinationName>Amahai Airport</DestinationName>
+    <DestinationStr>Amahai Airport(AHI)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AHI</code>
+    <DestinationName>Amahai</DestinationName>
+    <DestinationStr>Amahai(AHI)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AHN</code>
+    <DestinationName>Athens Municipal</DestinationName>
+    <DestinationStr>Athens Municipal(AHN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AHN</code>
+    <DestinationName>Athens</DestinationName>
+    <DestinationStr>Athens(AHN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AHO</code>
+    <DestinationName>Alghero</DestinationName>
+    <DestinationStr>Alghero(AHO)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AHO</code>
+    <DestinationName>Fertilia Arpt</DestinationName>
+    <DestinationStr>Fertilia Arpt(AHO)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AHT</code>
+    <DestinationName>Amchitka</DestinationName>
+    <DestinationStr>Amchitka(AHT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AHU</code>
+    <DestinationName>Al Hoceima</DestinationName>
+    <DestinationStr>Al Hoceima(AHU)-Morocco</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AHU</code>
+    <DestinationName>Charif Al Idrissi Arpt</DestinationName>
+    <DestinationStr>Charif Al Idrissi Arpt(AHU)-Morocco</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AIA</code>
+    <DestinationName>Alliance Municipal</DestinationName>
+    <DestinationStr>Alliance Municipal(AIA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AIA</code>
+    <DestinationName>Alliance</DestinationName>
+    <DestinationStr>Alliance(AIA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AIB</code>
+    <DestinationName>Anita Bay Arpt</DestinationName>
+    <DestinationStr>Anita Bay Arpt(AIB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AIB</code>
+    <DestinationName>Anita Bay</DestinationName>
+    <DestinationStr>Anita Bay(AIB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AID</code>
+    <DestinationName>Anderson Municipal Arpt</DestinationName>
+    <DestinationStr>Anderson Municipal Arpt(AID)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AID</code>
+    <DestinationName>Anderson</DestinationName>
+    <DestinationStr>Anderson(AID)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AIE</code>
+    <DestinationName>Aiome</DestinationName>
+    <DestinationStr>Aiome(AIE)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AIF</code>
+    <DestinationName>Assis</DestinationName>
+    <DestinationStr>Assis(AIF)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AIK</code>
+    <DestinationName>Aiken Municipal Arpt</DestinationName>
+    <DestinationStr>Aiken Municipal Arpt(AIK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AIK</code>
+    <DestinationName>Aiken</DestinationName>
+    <DestinationStr>Aiken(AIK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AIN</code>
+    <DestinationName>Wainwright Municipal Arpt</DestinationName>
+    <DestinationStr>Wainwright Municipal Arpt(AIN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AIN</code>
+    <DestinationName>Wainwright</DestinationName>
+    <DestinationStr>Wainwright(AIN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AIO</code>
+    <DestinationName>Atlantic</DestinationName>
+    <DestinationStr>Atlantic(AIO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AIO</code>
+    <DestinationName>Municipal Atlantic Arpt</DestinationName>
+    <DestinationStr>Municipal Atlantic Arpt(AIO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AIR</code>
+    <DestinationName>Aripuana</DestinationName>
+    <DestinationStr>Aripuana(AIR)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AIS</code>
+    <DestinationName>Arorae Island</DestinationName>
+    <DestinationStr>Arorae Island(AIS)-Kiribati</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AIT</code>
+    <DestinationName>Aitutaki Arpt</DestinationName>
+    <DestinationStr>Aitutaki Arpt(AIT)-Cook Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AIT</code>
+    <DestinationName>Aitutaki</DestinationName>
+    <DestinationStr>Aitutaki(AIT)-Cook Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AIU</code>
+    <DestinationName>Atiu Island</DestinationName>
+    <DestinationStr>Atiu Island(AIU)-Cook Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AIV</code>
+    <DestinationName>Aliceville Arpt</DestinationName>
+    <DestinationStr>Aliceville Arpt(AIV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AIV</code>
+    <DestinationName>Aliceville</DestinationName>
+    <DestinationStr>Aliceville(AIV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AIY</code>
+    <DestinationName>Atlantic City</DestinationName>
+    <DestinationStr>Atlantic City(AIY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AIY</code>
+    <DestinationName>Bader Field</DestinationName>
+    <DestinationStr>Bader Field(AIY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AIZ</code>
+    <DestinationName>Lake Of The Ozarks</DestinationName>
+    <DestinationStr>Lake Of The Ozarks(AIZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AIZ</code>
+    <DestinationName>Lee C Fine Memorial</DestinationName>
+    <DestinationStr>Lee C Fine Memorial(AIZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AJA</code>
+    <DestinationName>Ajaccio</DestinationName>
+    <DestinationStr>Ajaccio(AJA)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AJA</code>
+    <DestinationName>Campo Dell Oro Arpt</DestinationName>
+    <DestinationStr>Campo Dell Oro Arpt(AJA)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AJF</code>
+    <DestinationName>Al Jouf</DestinationName>
+    <DestinationStr>Al Jouf(AJF)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AJF</code>
+    <DestinationName>Jouf Airport</DestinationName>
+    <DestinationStr>Jouf Airport(AJF)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AJI</code>
+    <DestinationName>Agri Airport</DestinationName>
+    <DestinationStr>Agri Airport(AJI)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AJI</code>
+    <DestinationName>Agri</DestinationName>
+    <DestinationStr>Agri(AJI)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AJL</code>
+    <DestinationName>Aizawl</DestinationName>
+    <DestinationStr>Aizawl(AJL)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AJL</code>
+    <DestinationName>Lengpui Airport</DestinationName>
+    <DestinationStr>Lengpui Airport(AJL)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AJN</code>
+    <DestinationName>Anjouan</DestinationName>
+    <DestinationStr>Anjouan(AJN)-Comoros</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AJR</code>
+    <DestinationName>Arvidsjaur Arpt</DestinationName>
+    <DestinationStr>Arvidsjaur Arpt(AJR)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AJR</code>
+    <DestinationName>Arvidsjaur</DestinationName>
+    <DestinationStr>Arvidsjaur(AJR)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AJU</code>
+    <DestinationName>Aracaju</DestinationName>
+    <DestinationStr>Aracaju(AJU)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AJU</code>
+    <DestinationName>Santa Maria Arpt</DestinationName>
+    <DestinationStr>Santa Maria Arpt(AJU)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AKA</code>
+    <DestinationName>Ankang</DestinationName>
+    <DestinationStr>Ankang(AKA)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AKB</code>
+    <DestinationName>Atka Arpt</DestinationName>
+    <DestinationStr>Atka Arpt(AKB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AKB</code>
+    <DestinationName>Atka</DestinationName>
+    <DestinationStr>Atka(AKB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AKC</code>
+    <DestinationName>Fulton International Arpt</DestinationName>
+    <DestinationStr>Fulton International Arpt(AKC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AKD</code>
+    <DestinationName>Akola Airport</DestinationName>
+    <DestinationStr>Akola Airport(AKD)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AKD</code>
+    <DestinationName>Akola</DestinationName>
+    <DestinationStr>Akola(AKD)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AKF</code>
+    <DestinationName>Kufrah</DestinationName>
+    <DestinationStr>Kufrah(AKF)-Libyan Arab Jamahiriya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AKG</code>
+    <DestinationName>Anguganak</DestinationName>
+    <DestinationStr>Anguganak(AKG)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AKI</code>
+    <DestinationName>Akiak</DestinationName>
+    <DestinationStr>Akiak(AKI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AKJ</code>
+    <DestinationName>Asahikawa Arpt</DestinationName>
+    <DestinationStr>Asahikawa Arpt(AKJ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AKJ</code>
+    <DestinationName>Asahikawa</DestinationName>
+    <DestinationStr>Asahikawa(AKJ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AKK</code>
+    <DestinationName>Akhiok</DestinationName>
+    <DestinationStr>Akhiok(AKK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AKL</code>
+    <DestinationName>Auckland Arpt</DestinationName>
+    <DestinationStr>Auckland Arpt(AKL)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AKL</code>
+    <DestinationName>Auckland</DestinationName>
+    <DestinationStr>Auckland(AKL)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AKN</code>
+    <DestinationName>King Salmon Arpt</DestinationName>
+    <DestinationStr>King Salmon Arpt(AKN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AKN</code>
+    <DestinationName>King Salmon</DestinationName>
+    <DestinationStr>King Salmon(AKN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AKO</code>
+    <DestinationName>Akron</DestinationName>
+    <DestinationStr>Akron(AKO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AKO</code>
+    <DestinationName>Washington County</DestinationName>
+    <DestinationStr>Washington County(AKO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AKP</code>
+    <DestinationName>Anaktuvuk Pass</DestinationName>
+    <DestinationStr>Anaktuvuk Pass(AKP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AKR</code>
+    <DestinationName>Akure</DestinationName>
+    <DestinationStr>Akure(AKR)-Nigeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AKS</code>
+    <DestinationName>Akui</DestinationName>
+    <DestinationStr>Akui(AKS)-Solomon Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AKS</code>
+    <DestinationName>Gwaunaruu Airport</DestinationName>
+    <DestinationStr>Gwaunaruu Airport(AKS)-Solomon Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AKU</code>
+    <DestinationName>Aksu Arpt</DestinationName>
+    <DestinationStr>Aksu Arpt(AKU)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AKU</code>
+    <DestinationName>Aksu</DestinationName>
+    <DestinationStr>Aksu(AKU)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AKV</code>
+    <DestinationName>Akulivik Arpt</DestinationName>
+    <DestinationStr>Akulivik Arpt(AKV)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AKV</code>
+    <DestinationName>Akulivik</DestinationName>
+    <DestinationStr>Akulivik(AKV)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AKX</code>
+    <DestinationName>Aktyubinsk Arpt</DestinationName>
+    <DestinationStr>Aktyubinsk Arpt(AKX)-Kazakstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AKX</code>
+    <DestinationName>Aktyubinsk</DestinationName>
+    <DestinationStr>Aktyubinsk(AKX)-Kazakstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AKX</code>
+    <DestinationName>Aqtobe Arpt</DestinationName>
+    <DestinationStr>Aqtobe Arpt(AKX)-Kazakstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AKX</code>
+    <DestinationName>Aqtobe</DestinationName>
+    <DestinationStr>Aqtobe(AKX)-Kazakstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AKY</code>
+    <DestinationName>Sittwe Arpt</DestinationName>
+    <DestinationStr>Sittwe Arpt(AKY)-Myanmar</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AKY</code>
+    <DestinationName>Sittwe</DestinationName>
+    <DestinationStr>Sittwe(AKY)-Myanmar</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ALA</code>
+    <DestinationName>Almaty Arpt</DestinationName>
+    <DestinationStr>Almaty Arpt(ALA)-Kazakstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ALA</code>
+    <DestinationName>Almaty</DestinationName>
+    <DestinationStr>Almaty(ALA)-Kazakstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ALB</code>
+    <DestinationName>Albany Cty Arpt</DestinationName>
+    <DestinationStr>Albany Cty Arpt(ALB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ALB</code>
+    <DestinationName>Albany</DestinationName>
+    <DestinationStr>Albany(ALB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ALC</code>
+    <DestinationName>Alicante Arpt</DestinationName>
+    <DestinationStr>Alicante Arpt(ALC)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ALC</code>
+    <DestinationName>Alicante</DestinationName>
+    <DestinationStr>Alicante(ALC)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ALE</code>
+    <DestinationName>Alpine Arpt</DestinationName>
+    <DestinationStr>Alpine Arpt(ALE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ALE</code>
+    <DestinationName>Alpine</DestinationName>
+    <DestinationStr>Alpine(ALE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ALF</code>
+    <DestinationName>Alta</DestinationName>
+    <DestinationStr>Alta(ALF)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ALF</code>
+    <DestinationName>Elvebakken Arpt</DestinationName>
+    <DestinationStr>Elvebakken Arpt(ALF)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ALG</code>
+    <DestinationName>Algiers</DestinationName>
+    <DestinationStr>Algiers(ALG)-Algeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ALG</code>
+    <DestinationName>Houari Boumedienne Arpt</DestinationName>
+    <DestinationStr>Houari Boumedienne Arpt(ALG)-Algeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ALH</code>
+    <DestinationName>Albany Airport</DestinationName>
+    <DestinationStr>Albany Airport(ALH)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ALH</code>
+    <DestinationName>Albany</DestinationName>
+    <DestinationStr>Albany(ALH)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ALJ</code>
+    <DestinationName>Alexander Bay</DestinationName>
+    <DestinationStr>Alexander Bay(ALJ)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ALJ</code>
+    <DestinationName>Kortdoorn Arpt</DestinationName>
+    <DestinationStr>Kortdoorn Arpt(ALJ)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ALL</code>
+    <DestinationName>Albenga Arpt</DestinationName>
+    <DestinationStr>Albenga Arpt(ALL)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ALL</code>
+    <DestinationName>Albenga</DestinationName>
+    <DestinationStr>Albenga(ALL)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ALM</code>
+    <DestinationName>Alamogordo Municipal</DestinationName>
+    <DestinationStr>Alamogordo Municipal(ALM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ALM</code>
+    <DestinationName>Alamogordo</DestinationName>
+    <DestinationStr>Alamogordo(ALM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ALN</code>
+    <DestinationName>Alton</DestinationName>
+    <DestinationStr>Alton(ALN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ALO</code>
+    <DestinationName>Livingston Betsworth Fld</DestinationName>
+    <DestinationStr>Livingston Betsworth Fld(ALO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ALO</code>
+    <DestinationName>Waterloo</DestinationName>
+    <DestinationStr>Waterloo(ALO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ALP</code>
+    <DestinationName>Aleppo</DestinationName>
+    <DestinationStr>Aleppo(ALP)-Syrian Arab Rep.</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ALP</code>
+    <DestinationName>Nejrab Arpt</DestinationName>
+    <DestinationStr>Nejrab Arpt(ALP)-Syrian Arab Rep.</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ALR</code>
+    <DestinationName>Alexandra Arpt</DestinationName>
+    <DestinationStr>Alexandra Arpt(ALR)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ALR</code>
+    <DestinationName>Alexandra</DestinationName>
+    <DestinationStr>Alexandra(ALR)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ALS</code>
+    <DestinationName>Alamosa Municipal</DestinationName>
+    <DestinationStr>Alamosa Municipal(ALS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ALS</code>
+    <DestinationName>Alamosa</DestinationName>
+    <DestinationStr>Alamosa(ALS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ALU</code>
+    <DestinationName>Alula</DestinationName>
+    <DestinationStr>Alula(ALU)-Somalia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ALW</code>
+    <DestinationName>Walla Walla City County</DestinationName>
+    <DestinationStr>Walla Walla City County(ALW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ALW</code>
+    <DestinationName>Walla Walla</DestinationName>
+    <DestinationStr>Walla Walla(ALW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ALX</code>
+    <DestinationName>Alexander City</DestinationName>
+    <DestinationStr>Alexander City(ALX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ALX</code>
+    <DestinationName>Thomas C Russell Field</DestinationName>
+    <DestinationStr>Thomas C Russell Field(ALX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ALY</code>
+    <DestinationName>Alexandria</DestinationName>
+    <DestinationStr>Alexandria(ALY)-Egypt</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ALY</code>
+    <DestinationName>El Nouzha Arpt</DestinationName>
+    <DestinationStr>El Nouzha Arpt(ALY)-Egypt</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ALZ</code>
+    <DestinationName>Alitak</DestinationName>
+    <DestinationStr>Alitak(ALZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AMA</code>
+    <DestinationName>Amarillo Intl Arpt</DestinationName>
+    <DestinationStr>Amarillo Intl Arpt(AMA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AMA</code>
+    <DestinationName>Amarillo</DestinationName>
+    <DestinationStr>Amarillo(AMA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AMD</code>
+    <DestinationName>Ahmedabad</DestinationName>
+    <DestinationStr>Ahmedabad(AMD)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AMD</code>
+    <DestinationName>Sardar Vallabh Bhai Patel Intl Arpt</DestinationName>
+    <DestinationStr>Sardar Vallabh Bhai Patel Intl Arpt(AMD)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AMH</code>
+    <DestinationName>Arba Minch Airport</DestinationName>
+    <DestinationStr>Arba Minch Airport(AMH)-Ethiopia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AMH</code>
+    <DestinationName>Arba Minch</DestinationName>
+    <DestinationStr>Arba Minch(AMH)-Ethiopia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AMI</code>
+    <DestinationName>Mataram</DestinationName>
+    <DestinationStr>Mataram(AMI)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AMI</code>
+    <DestinationName>Selaparang Airport</DestinationName>
+    <DestinationStr>Selaparang Airport(AMI)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AMK</code>
+    <DestinationName>Animas Airpark</DestinationName>
+    <DestinationStr>Animas Airpark(AMK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AML</code>
+    <DestinationName>Puerto Armuelles</DestinationName>
+    <DestinationStr>Puerto Armuelles(AML)-Panama</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AMM</code>
+    <DestinationName>Amman</DestinationName>
+    <DestinationStr>Amman(AMM)-Jordan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AMM</code>
+    <DestinationName>Queen Alia Intl Arpt</DestinationName>
+    <DestinationStr>Queen Alia Intl Arpt(AMM)-Jordan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AMP</code>
+    <DestinationName>Ampanihy</DestinationName>
+    <DestinationStr>Ampanihy(AMP)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AMQ</code>
+    <DestinationName>Ambon</DestinationName>
+    <DestinationStr>Ambon(AMQ)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AMQ</code>
+    <DestinationName>Pattimura Arpt</DestinationName>
+    <DestinationStr>Pattimura Arpt(AMQ)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AMS</code>
+    <DestinationName>Amsterdam</DestinationName>
+    <DestinationStr>Amsterdam(AMS)-Netherlands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AMS</code>
+    <DestinationName>Schiphol Arpt</DestinationName>
+    <DestinationStr>Schiphol Arpt(AMS)-Netherlands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AMU</code>
+    <DestinationName>Amanab</DestinationName>
+    <DestinationStr>Amanab(AMU)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AMW</code>
+    <DestinationName>Ames Minicipal Arpt</DestinationName>
+    <DestinationStr>Ames Minicipal Arpt(AMW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AMW</code>
+    <DestinationName>Ames</DestinationName>
+    <DestinationStr>Ames(AMW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AMY</code>
+    <DestinationName>Ambatomainty</DestinationName>
+    <DestinationStr>Ambatomainty(AMY)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AMZ</code>
+    <DestinationName>Ardmore Airport</DestinationName>
+    <DestinationStr>Ardmore Airport(AMZ)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AMZ</code>
+    <DestinationName>Ardmore</DestinationName>
+    <DestinationStr>Ardmore(AMZ)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ANA</code>
+    <DestinationName>Anaheim</DestinationName>
+    <DestinationStr>Anaheim(ANA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ANB</code>
+    <DestinationName>Anniston Municipal Arpt</DestinationName>
+    <DestinationStr>Anniston Municipal Arpt(ANB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ANB</code>
+    <DestinationName>Anniston</DestinationName>
+    <DestinationStr>Anniston(ANB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ANC</code>
+    <DestinationName>Anchorage Intl Arpt</DestinationName>
+    <DestinationStr>Anchorage Intl Arpt(ANC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ANC</code>
+    <DestinationName>Anchorage</DestinationName>
+    <DestinationStr>Anchorage(ANC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AND</code>
+    <DestinationName>Anderson Arpt</DestinationName>
+    <DestinationStr>Anderson Arpt(AND)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AND</code>
+    <DestinationName>Anderson</DestinationName>
+    <DestinationStr>Anderson(AND)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ANE</code>
+    <DestinationName>Angers</DestinationName>
+    <DestinationStr>Angers(ANE)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ANE</code>
+    <DestinationName>Marce Arpt</DestinationName>
+    <DestinationStr>Marce Arpt(ANE)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ANF</code>
+    <DestinationName>Antofagasta</DestinationName>
+    <DestinationStr>Antofagasta(ANF)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ANF</code>
+    <DestinationName>Cerro Moreno Arpt</DestinationName>
+    <DestinationStr>Cerro Moreno Arpt(ANF)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ANG</code>
+    <DestinationName>Angouleme</DestinationName>
+    <DestinationStr>Angouleme(ANG)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ANG</code>
+    <DestinationName>Brie Champniers</DestinationName>
+    <DestinationStr>Brie Champniers(ANG)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ANI</code>
+    <DestinationName>Aniak Arpt</DestinationName>
+    <DestinationStr>Aniak Arpt(ANI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ANI</code>
+    <DestinationName>Aniak</DestinationName>
+    <DestinationStr>Aniak(ANI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ANJ</code>
+    <DestinationName>Zanaga</DestinationName>
+    <DestinationStr>Zanaga(ANJ)-Congo</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ANK</code>
+    <DestinationName>Ankara</DestinationName>
+    <DestinationStr>Ankara(ANK)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ANK</code>
+    <DestinationName>Etimesgut Arpt</DestinationName>
+    <DestinationStr>Etimesgut Arpt(ANK)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ANM</code>
+    <DestinationName>Antalaha</DestinationName>
+    <DestinationStr>Antalaha(ANM)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ANN</code>
+    <DestinationName>Annette Island Arpt</DestinationName>
+    <DestinationStr>Annette Island Arpt(ANN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ANN</code>
+    <DestinationName>Annette Island</DestinationName>
+    <DestinationStr>Annette Island(ANN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ANP</code>
+    <DestinationName>Annapolis</DestinationName>
+    <DestinationStr>Annapolis(ANP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ANP</code>
+    <DestinationName>Lee Annapolis Arpt</DestinationName>
+    <DestinationStr>Lee Annapolis Arpt(ANP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ANR</code>
+    <DestinationName>Antwerp Brussels North</DestinationName>
+    <DestinationStr>Antwerp Brussels North(ANR)-Belgium</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ANR</code>
+    <DestinationName>Antwerp</DestinationName>
+    <DestinationStr>Antwerp(ANR)-Belgium</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ANS</code>
+    <DestinationName>Andahuaylas</DestinationName>
+    <DestinationStr>Andahuaylas(ANS)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ANT</code>
+    <DestinationName>Sankt Anton am Arlberg</DestinationName>
+    <DestinationStr>Sankt Anton am Arlberg(ANT)-Austria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ANT</code>
+    <DestinationName>St Anton</DestinationName>
+    <DestinationStr>St Anton(ANT)-Austria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ANU</code>
+    <DestinationName>Antigua</DestinationName>
+    <DestinationStr>Antigua(ANU)-Antigua And Barbuda</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ANU</code>
+    <DestinationName>Barbuda</DestinationName>
+    <DestinationStr>Barbuda(ANU)-Antigua And Barbuda</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ANU</code>
+    <DestinationName>V C Bird Intl Arpt</DestinationName>
+    <DestinationStr>V C Bird Intl Arpt(ANU)-Antigua And Barbuda</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ANV</code>
+    <DestinationName>Anvik</DestinationName>
+    <DestinationStr>Anvik(ANV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ANW</code>
+    <DestinationName>Ainsworth Minicipal Arpt</DestinationName>
+    <DestinationStr>Ainsworth Minicipal Arpt(ANW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ANW</code>
+    <DestinationName>Ainsworth</DestinationName>
+    <DestinationStr>Ainsworth(ANW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ANX</code>
+    <DestinationName>Andenes Arpt</DestinationName>
+    <DestinationStr>Andenes Arpt(ANX)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ANX</code>
+    <DestinationName>Andenes</DestinationName>
+    <DestinationStr>Andenes(ANX)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AOC</code>
+    <DestinationName>Altenburg Nobitz Arpt</DestinationName>
+    <DestinationStr>Altenburg Nobitz Arpt(AOC)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AOC</code>
+    <DestinationName>Altenburg</DestinationName>
+    <DestinationStr>Altenburg(AOC)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AOE</code>
+    <DestinationName>Anadolu University Arpt</DestinationName>
+    <DestinationStr>Anadolu University Arpt(AOE)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AOE</code>
+    <DestinationName>Eskisehir City</DestinationName>
+    <DestinationStr>Eskisehir City(AOE)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AOG</code>
+    <DestinationName>Anshan Air base</DestinationName>
+    <DestinationStr>Anshan Air base(AOG)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AOG</code>
+    <DestinationName>Anshan</DestinationName>
+    <DestinationStr>Anshan(AOG)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AOH</code>
+    <DestinationName>Allen County Arpt</DestinationName>
+    <DestinationStr>Allen County Arpt(AOH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AOH</code>
+    <DestinationName>Lima</DestinationName>
+    <DestinationStr>Lima(AOH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AOI</code>
+    <DestinationName>Ancona</DestinationName>
+    <DestinationStr>Ancona(AOI)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AOI</code>
+    <DestinationName>Falconara Arpt</DestinationName>
+    <DestinationStr>Falconara Arpt(AOI)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AOJ</code>
+    <DestinationName>Aomori Arpt</DestinationName>
+    <DestinationStr>Aomori Arpt(AOJ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AOJ</code>
+    <DestinationName>Aomori</DestinationName>
+    <DestinationStr>Aomori(AOJ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AOK</code>
+    <DestinationName>Karpathos Arpt</DestinationName>
+    <DestinationStr>Karpathos Arpt(AOK)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AOK</code>
+    <DestinationName>Karpathos</DestinationName>
+    <DestinationStr>Karpathos(AOK)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AOL</code>
+    <DestinationName>Paso De Los Libres Arpt</DestinationName>
+    <DestinationStr>Paso De Los Libres Arpt(AOL)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AOL</code>
+    <DestinationName>Paso De Los Libres</DestinationName>
+    <DestinationStr>Paso De Los Libres(AOL)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AOO</code>
+    <DestinationName>Altoona</DestinationName>
+    <DestinationStr>Altoona(AOO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AOO</code>
+    <DestinationName>Blair Cty Arpt</DestinationName>
+    <DestinationStr>Blair Cty Arpt(AOO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AOR</code>
+    <DestinationName>Alor Setar</DestinationName>
+    <DestinationStr>Alor Setar(AOR)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AOR</code>
+    <DestinationName>Sultan Abdul Hamlin Arpt</DestinationName>
+    <DestinationStr>Sultan Abdul Hamlin Arpt(AOR)-Malaysia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AOS</code>
+    <DestinationName>Amook Bay</DestinationName>
+    <DestinationStr>Amook Bay(AOS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AOT</code>
+    <DestinationName>Aosta</DestinationName>
+    <DestinationStr>Aosta(AOT)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AOT</code>
+    <DestinationName>Corrado Gex Arpt</DestinationName>
+    <DestinationStr>Corrado Gex Arpt(AOT)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>APA</code>
+    <DestinationName>Centennial Arpt</DestinationName>
+    <DestinationStr>Centennial Arpt(APA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>APC</code>
+    <DestinationName>Napa Cty Arpt</DestinationName>
+    <DestinationStr>Napa Cty Arpt(APC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>APC</code>
+    <DestinationName>Napa</DestinationName>
+    <DestinationStr>Napa(APC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>APF</code>
+    <DestinationName>Naples Municipal</DestinationName>
+    <DestinationStr>Naples Municipal(APF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>APF</code>
+    <DestinationName>Naples</DestinationName>
+    <DestinationStr>Naples(APF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>APG</code>
+    <DestinationName>Aberdeen</DestinationName>
+    <DestinationStr>Aberdeen(APG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>APG</code>
+    <DestinationName>Phillips Army Air Field</DestinationName>
+    <DestinationStr>Phillips Army Air Field(APG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>APK</code>
+    <DestinationName>Apataki</DestinationName>
+    <DestinationStr>Apataki(APK)-French Polynesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>APL</code>
+    <DestinationName>Nampula Arpt</DestinationName>
+    <DestinationStr>Nampula Arpt(APL)-Mozambique</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>APL</code>
+    <DestinationName>Nampula</DestinationName>
+    <DestinationStr>Nampula(APL)-Mozambique</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>APN</code>
+    <DestinationName>Alpena</DestinationName>
+    <DestinationStr>Alpena(APN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>APN</code>
+    <DestinationName>Phelps Collins Arpt</DestinationName>
+    <DestinationStr>Phelps Collins Arpt(APN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>APO</code>
+    <DestinationName>Apartado</DestinationName>
+    <DestinationStr>Apartado(APO)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>APO</code>
+    <DestinationName>Carepa A R Betancourt Arpt</DestinationName>
+    <DestinationStr>Carepa A R Betancourt Arpt(APO)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>APS</code>
+    <DestinationName>Anapolis Arpt</DestinationName>
+    <DestinationStr>Anapolis Arpt(APS)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>APS</code>
+    <DestinationName>Anapolis</DestinationName>
+    <DestinationStr>Anapolis(APS)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>APV</code>
+    <DestinationName>Apple Valley Arpt</DestinationName>
+    <DestinationStr>Apple Valley Arpt(APV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>APV</code>
+    <DestinationName>Applevalley</DestinationName>
+    <DestinationStr>Applevalley(APV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>APW</code>
+    <DestinationName>Apia Airport</DestinationName>
+    <DestinationStr>Apia Airport(APW)-Samoa, Independent State Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>APW</code>
+    <DestinationName>Apia</DestinationName>
+    <DestinationStr>Apia(APW)-Samoa, Independent State Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>APZ</code>
+    <DestinationName>Zapala</DestinationName>
+    <DestinationStr>Zapala(APZ)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AQA</code>
+    <DestinationName>Araraquara Arpt</DestinationName>
+    <DestinationStr>Araraquara Arpt(AQA)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AQA</code>
+    <DestinationName>Araraquara</DestinationName>
+    <DestinationStr>Araraquara(AQA)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AQG</code>
+    <DestinationName>Anqing Arpt</DestinationName>
+    <DestinationStr>Anqing Arpt(AQG)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AQG</code>
+    <DestinationName>Anqing</DestinationName>
+    <DestinationStr>Anqing(AQG)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AQI</code>
+    <DestinationName>Qaisumah Arpt</DestinationName>
+    <DestinationStr>Qaisumah Arpt(AQI)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AQI</code>
+    <DestinationName>Qaisumah</DestinationName>
+    <DestinationStr>Qaisumah(AQI)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AQJ</code>
+    <DestinationName>Aqaba Airport</DestinationName>
+    <DestinationStr>Aqaba Airport(AQJ)-Jordan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AQJ</code>
+    <DestinationName>Aqaba</DestinationName>
+    <DestinationStr>Aqaba(AQJ)-Jordan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AQP</code>
+    <DestinationName>Arequipa</DestinationName>
+    <DestinationStr>Arequipa(AQP)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AQP</code>
+    <DestinationName>Rodriguez Ballon Intl</DestinationName>
+    <DestinationStr>Rodriguez Ballon Intl(AQP)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ARA</code>
+    <DestinationName>Acadiana Regional Arpt</DestinationName>
+    <DestinationStr>Acadiana Regional Arpt(ARA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ARA</code>
+    <DestinationName>NEW IBERIA</DestinationName>
+    <DestinationStr>NEW IBERIA(ARA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ARB</code>
+    <DestinationName>Ann Arbor Municipal</DestinationName>
+    <DestinationStr>Ann Arbor Municipal(ARB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ARB</code>
+    <DestinationName>Ann Arbor</DestinationName>
+    <DestinationStr>Ann Arbor(ARB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ARC</code>
+    <DestinationName>Arctic Village Arpt</DestinationName>
+    <DestinationStr>Arctic Village Arpt(ARC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ARC</code>
+    <DestinationName>Arctic Village</DestinationName>
+    <DestinationStr>Arctic Village(ARC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ARD</code>
+    <DestinationName>Alor Island</DestinationName>
+    <DestinationStr>Alor Island(ARD)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ARE</code>
+    <DestinationName>Arecibo</DestinationName>
+    <DestinationStr>Arecibo(ARE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ARG</code>
+    <DestinationName>Walnut Ridge Arpt</DestinationName>
+    <DestinationStr>Walnut Ridge Arpt(ARG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ARG</code>
+    <DestinationName>Walnut Ridge</DestinationName>
+    <DestinationStr>Walnut Ridge(ARG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ARH</code>
+    <DestinationName>Arkhangelsk Arpt</DestinationName>
+    <DestinationStr>Arkhangelsk Arpt(ARH)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ARH</code>
+    <DestinationName>Arkhangelsk</DestinationName>
+    <DestinationStr>Arkhangelsk(ARH)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ARI</code>
+    <DestinationName>Arica</DestinationName>
+    <DestinationStr>Arica(ARI)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ARI</code>
+    <DestinationName>Chacalluta Arpt</DestinationName>
+    <DestinationStr>Chacalluta Arpt(ARI)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ARK</code>
+    <DestinationName>Arusha Arpt</DestinationName>
+    <DestinationStr>Arusha Arpt(ARK)-Tanzania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ARK</code>
+    <DestinationName>Arusha</DestinationName>
+    <DestinationStr>Arusha(ARK)-Tanzania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ARL</code>
+    <DestinationName>Arly</DestinationName>
+    <DestinationStr>Arly(ARL)-Burkina Faso</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ARM</code>
+    <DestinationName>Armidale Arpt</DestinationName>
+    <DestinationStr>Armidale Arpt(ARM)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ARM</code>
+    <DestinationName>Armidale</DestinationName>
+    <DestinationStr>Armidale(ARM)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ARN</code>
+    <DestinationName>Arlanda Arpt</DestinationName>
+    <DestinationStr>Arlanda Arpt(ARN)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ARP</code>
+    <DestinationName>Aragip</DestinationName>
+    <DestinationStr>Aragip(ARP)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ARR</code>
+    <DestinationName>Alto Rio Senguerr</DestinationName>
+    <DestinationStr>Alto Rio Senguerr(ARR)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ART</code>
+    <DestinationName>Watertown Arpt</DestinationName>
+    <DestinationStr>Watertown Arpt(ART)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ART</code>
+    <DestinationName>Watertown</DestinationName>
+    <DestinationStr>Watertown(ART)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ARU</code>
+    <DestinationName>Aracatuba Arpt</DestinationName>
+    <DestinationStr>Aracatuba Arpt(ARU)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ARU</code>
+    <DestinationName>Aracatuba</DestinationName>
+    <DestinationStr>Aracatuba(ARU)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ARV</code>
+    <DestinationName>Minocqua</DestinationName>
+    <DestinationStr>Minocqua(ARV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ARV</code>
+    <DestinationName>Noble F Lee Memorial Field</DestinationName>
+    <DestinationStr>Noble F Lee Memorial Field(ARV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ARW</code>
+    <DestinationName>Arad Arpt</DestinationName>
+    <DestinationStr>Arad Arpt(ARW)-Romania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ARW</code>
+    <DestinationName>Arad</DestinationName>
+    <DestinationStr>Arad(ARW)-Romania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ARX</code>
+    <DestinationName>Asbury Park</DestinationName>
+    <DestinationStr>Asbury Park(ARX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ARY</code>
+    <DestinationName>Ararat Arpt</DestinationName>
+    <DestinationStr>Ararat Arpt(ARY)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ARY</code>
+    <DestinationName>Ararat</DestinationName>
+    <DestinationStr>Ararat(ARY)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ARZ</code>
+    <DestinationName>N Zeto</DestinationName>
+    <DestinationStr>N Zeto(ARZ)-Angola</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ASA</code>
+    <DestinationName>Assab</DestinationName>
+    <DestinationStr>Assab(ASA)-Eritrea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ASB</code>
+    <DestinationName>Ashgabat International</DestinationName>
+    <DestinationStr>Ashgabat International(ASB)-Turkmenistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ASB</code>
+    <DestinationName>Ashgabat</DestinationName>
+    <DestinationStr>Ashgabat(ASB)-Turkmenistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ASB</code>
+    <DestinationName>Saparmurat Turkmenbashi Intl</DestinationName>
+    <DestinationStr>Saparmurat Turkmenbashi Intl(ASB)-Turkmenistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ASD</code>
+    <DestinationName>Andros Town Intl Arpt</DestinationName>
+    <DestinationStr>Andros Town Intl Arpt(ASD)-Bahamas</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ASD</code>
+    <DestinationName>Andros Town</DestinationName>
+    <DestinationStr>Andros Town(ASD)-Bahamas</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ASE</code>
+    <DestinationName>Aspen</DestinationName>
+    <DestinationStr>Aspen(ASE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ASE</code>
+    <DestinationName>Pitkin Cty Arptt Sardy Fld</DestinationName>
+    <DestinationStr>Pitkin Cty Arptt Sardy Fld(ASE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ASF</code>
+    <DestinationName>Astrakhan Arpt</DestinationName>
+    <DestinationStr>Astrakhan Arpt(ASF)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ASF</code>
+    <DestinationName>Astrakhan</DestinationName>
+    <DestinationStr>Astrakhan(ASF)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ASG</code>
+    <DestinationName>ASHBURTON</DestinationName>
+    <DestinationStr>ASHBURTON(ASG)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ASH</code>
+    <DestinationName>Boire Field Arpt</DestinationName>
+    <DestinationStr>Boire Field Arpt(ASH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ASH</code>
+    <DestinationName>Nashua</DestinationName>
+    <DestinationStr>Nashua(ASH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ASJ</code>
+    <DestinationName>Amami O Shima Arpt</DestinationName>
+    <DestinationStr>Amami O Shima Arpt(ASJ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ASJ</code>
+    <DestinationName>Amami O Shima</DestinationName>
+    <DestinationStr>Amami O Shima(ASJ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ASK</code>
+    <DestinationName>Yamoussoukro Arpt</DestinationName>
+    <DestinationStr>Yamoussoukro Arpt(ASK)-Ivory Coast</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ASK</code>
+    <DestinationName>Yamoussouro</DestinationName>
+    <DestinationStr>Yamoussouro(ASK)-Ivory Coast</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ASL</code>
+    <DestinationName>Harrison County Arpt</DestinationName>
+    <DestinationStr>Harrison County Arpt(ASL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ASL</code>
+    <DestinationName>Marshall</DestinationName>
+    <DestinationStr>Marshall(ASL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ASM</code>
+    <DestinationName>Asmara Intl Arpt</DestinationName>
+    <DestinationStr>Asmara Intl Arpt(ASM)-Eritrea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ASM</code>
+    <DestinationName>Asmara</DestinationName>
+    <DestinationStr>Asmara(ASM)-Eritrea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ASM</code>
+    <DestinationName>Eritrea</DestinationName>
+    <DestinationStr>Eritrea(ASM)-Eritrea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ASN</code>
+    <DestinationName>Talladega Arpt</DestinationName>
+    <DestinationStr>Talladega Arpt(ASN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ASN</code>
+    <DestinationName>Talladega</DestinationName>
+    <DestinationStr>Talladega(ASN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ASO</code>
+    <DestinationName>Asosa</DestinationName>
+    <DestinationStr>Asosa(ASO)-Ethiopia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ASP</code>
+    <DestinationName>Alice Springs Arpt</DestinationName>
+    <DestinationStr>Alice Springs Arpt(ASP)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ASP</code>
+    <DestinationName>Alice Springs</DestinationName>
+    <DestinationStr>Alice Springs(ASP)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ASQ</code>
+    <DestinationName>Austin</DestinationName>
+    <DestinationStr>Austin(ASQ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ASR</code>
+    <DestinationName>Kayseri Arpt</DestinationName>
+    <DestinationStr>Kayseri Arpt(ASR)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ASR</code>
+    <DestinationName>Kayseri</DestinationName>
+    <DestinationStr>Kayseri(ASR)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AST</code>
+    <DestinationName>Astoria Arpt</DestinationName>
+    <DestinationStr>Astoria Arpt(AST)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AST</code>
+    <DestinationName>Astoria</DestinationName>
+    <DestinationStr>Astoria(AST)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ASU</code>
+    <DestinationName>Asuncion</DestinationName>
+    <DestinationStr>Asuncion(ASU)-Paraguay</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ASU</code>
+    <DestinationName>Salvio Pettirosse Intl</DestinationName>
+    <DestinationStr>Salvio Pettirosse Intl(ASU)-Paraguay</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ASV</code>
+    <DestinationName>Amboseli Arpt</DestinationName>
+    <DestinationStr>Amboseli Arpt(ASV)-Kenya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ASV</code>
+    <DestinationName>Amboseli</DestinationName>
+    <DestinationStr>Amboseli(ASV)-Kenya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ASW</code>
+    <DestinationName>Aswan</DestinationName>
+    <DestinationStr>Aswan(ASW)-Egypt</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ASW</code>
+    <DestinationName>Daraw Arpt</DestinationName>
+    <DestinationStr>Daraw Arpt(ASW)-Egypt</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ASX</code>
+    <DestinationName>Ashland</DestinationName>
+    <DestinationStr>Ashland(ASX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ATA</code>
+    <DestinationName>Anta</DestinationName>
+    <DestinationStr>Anta(ATA)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ATA</code>
+    <DestinationName>German Arias Graziani Arpt</DestinationName>
+    <DestinationStr>German Arias Graziani Arpt(ATA)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ATB</code>
+    <DestinationName>Atbara</DestinationName>
+    <DestinationStr>Atbara(ATB)-Sudan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ATC</code>
+    <DestinationName>Arthurs Town Arpt</DestinationName>
+    <DestinationStr>Arthurs Town Arpt(ATC)-Bahamas</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ATC</code>
+    <DestinationName>Arthurs Town</DestinationName>
+    <DestinationStr>Arthurs Town(ATC)-Bahamas</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ATE</code>
+    <DestinationName>Antlers</DestinationName>
+    <DestinationStr>Antlers(ATE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ATF</code>
+    <DestinationName>Ambato</DestinationName>
+    <DestinationStr>Ambato(ATF)-Ecuador</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ATH</code>
+    <DestinationName>Athens</DestinationName>
+    <DestinationStr>Athens(ATH)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ATH</code>
+    <DestinationName>Eleftherios Venizelos Intl Arpt</DestinationName>
+    <DestinationStr>Eleftherios Venizelos Intl Arpt(ATH)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ATI</code>
+    <DestinationName>Artigas Arpt</DestinationName>
+    <DestinationStr>Artigas Arpt(ATI)-Uruguay</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ATI</code>
+    <DestinationName>Artigas</DestinationName>
+    <DestinationStr>Artigas(ATI)-Uruguay</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ATK</code>
+    <DestinationName>Atqasuk</DestinationName>
+    <DestinationStr>Atqasuk(ATK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ATL</code>
+    <DestinationName>Atlanta</DestinationName>
+    <DestinationStr>Atlanta(ATL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ATL</code>
+    <DestinationName>Hartsfield Jackson Intl Arpt</DestinationName>
+    <DestinationStr>Hartsfield Jackson Intl Arpt(ATL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ATM</code>
+    <DestinationName>Altamira Arpt</DestinationName>
+    <DestinationStr>Altamira Arpt(ATM)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ATM</code>
+    <DestinationName>Altamira</DestinationName>
+    <DestinationStr>Altamira(ATM)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ATN</code>
+    <DestinationName>Namatanai</DestinationName>
+    <DestinationStr>Namatanai(ATN)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ATO</code>
+    <DestinationName>Athens</DestinationName>
+    <DestinationStr>Athens(ATO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ATO</code>
+    <DestinationName>Ohio University Arpt</DestinationName>
+    <DestinationStr>Ohio University Arpt(ATO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ATP</code>
+    <DestinationName>Aitape Airport</DestinationName>
+    <DestinationStr>Aitape Airport(ATP)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ATP</code>
+    <DestinationName>Aitape</DestinationName>
+    <DestinationStr>Aitape(ATP)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ATQ</code>
+    <DestinationName>Amritsar</DestinationName>
+    <DestinationStr>Amritsar(ATQ)-India</DestinationStr>
+  </Destination>
+  <!--<Destination>
+    <code>ATQ</code>
+    <DestinationName>Raja Sansi Arpt</DestinationName>
+    <DestinationStr>Raja Sansi Arpt(ATQ)-India</DestinationStr>
+  </Destination>-->
+  <Destination>
+    <code>ATR</code>
+    <DestinationName>Atar</DestinationName>
+    <DestinationStr>Atar(ATR)-Mauritania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ATR</code>
+    <DestinationName>Mouakchott Arpt</DestinationName>
+    <DestinationStr>Mouakchott Arpt(ATR)-Mauritania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ATS</code>
+    <DestinationName>Artesia</DestinationName>
+    <DestinationStr>Artesia(ATS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ATT</code>
+    <DestinationName>Atmautluak</DestinationName>
+    <DestinationStr>Atmautluak(ATT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ATU</code>
+    <DestinationName>Attu Island Arpt</DestinationName>
+    <DestinationStr>Attu Island Arpt(ATU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ATU</code>
+    <DestinationName>Attu Island</DestinationName>
+    <DestinationStr>Attu Island(ATU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ATW</code>
+    <DestinationName>Appleton</DestinationName>
+    <DestinationStr>Appleton(ATW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ATW</code>
+    <DestinationName>Outagamie Cty Arpt</DestinationName>
+    <DestinationStr>Outagamie Cty Arpt(ATW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ATY</code>
+    <DestinationName>Watertown Municipal</DestinationName>
+    <DestinationStr>Watertown Municipal(ATY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ATY</code>
+    <DestinationName>Watertown</DestinationName>
+    <DestinationStr>Watertown(ATY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ATZ</code>
+    <DestinationName>Assiut Airport</DestinationName>
+    <DestinationStr>Assiut Airport(ATZ)-Egypt</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ATZ</code>
+    <DestinationName>Assiut</DestinationName>
+    <DestinationStr>Assiut(ATZ)-Egypt</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AUA</code>
+    <DestinationName>Aruba</DestinationName>
+    <DestinationStr>Aruba(AUA)-Aruba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AUA</code>
+    <DestinationName>Reina Beatrix Arpt</DestinationName>
+    <DestinationStr>Reina Beatrix Arpt(AUA)-Aruba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AUC</code>
+    <DestinationName>Arauca</DestinationName>
+    <DestinationStr>Arauca(AUC)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AUC</code>
+    <DestinationName>Santiago Perez Quiroz Arpt</DestinationName>
+    <DestinationStr>Santiago Perez Quiroz Arpt(AUC)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AUF</code>
+    <DestinationName>Auxerre</DestinationName>
+    <DestinationStr>Auxerre(AUF)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AUF</code>
+    <DestinationName>Branches airport</DestinationName>
+    <DestinationStr>Branches airport(AUF)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AUG</code>
+    <DestinationName>Augusta</DestinationName>
+    <DestinationStr>Augusta(AUG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AUG</code>
+    <DestinationName>Maine State Arpt</DestinationName>
+    <DestinationStr>Maine State Arpt(AUG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AUH</code>
+    <DestinationName>Abu Dhabi</DestinationName>
+    <DestinationStr>Abu Dhabi(AUH)-United Arab Emirates</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AUH</code>
+    <DestinationName>Dhabi Intl Arpt</DestinationName>
+    <DestinationStr>Dhabi Intl Arpt(AUH)-United Arab Emirates</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AUI</code>
+    <DestinationName>Aua Island Arpt</DestinationName>
+    <DestinationStr>Aua Island Arpt(AUI)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AUI</code>
+    <DestinationName>Aua Island</DestinationName>
+    <DestinationStr>Aua Island(AUI)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AUJ</code>
+    <DestinationName>Ambunti</DestinationName>
+    <DestinationStr>Ambunti(AUJ)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AUK</code>
+    <DestinationName>Alakanuk</DestinationName>
+    <DestinationStr>Alakanuk(AUK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AUM</code>
+    <DestinationName>Austin Airport</DestinationName>
+    <DestinationStr>Austin Airport(AUM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AUM</code>
+    <DestinationName>Austin</DestinationName>
+    <DestinationStr>Austin(AUM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AUN</code>
+    <DestinationName>Auburn Arpt</DestinationName>
+    <DestinationStr>Auburn Arpt(AUN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AUN</code>
+    <DestinationName>AUBURN</DestinationName>
+    <DestinationStr>AUBURN(AUN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AUO</code>
+    <DestinationName>Auburn Opelika</DestinationName>
+    <DestinationStr>Auburn Opelika(AUO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AUO</code>
+    <DestinationName>Auburn</DestinationName>
+    <DestinationStr>Auburn(AUO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AUP</code>
+    <DestinationName>Agaun</DestinationName>
+    <DestinationStr>Agaun(AUP)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AUQ</code>
+    <DestinationName>Atuona Arpt</DestinationName>
+    <DestinationStr>Atuona Arpt(AUQ)-French Polynesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AUQ</code>
+    <DestinationName>Atuona</DestinationName>
+    <DestinationStr>Atuona(AUQ)-French Polynesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AUR</code>
+    <DestinationName>Aurillac</DestinationName>
+    <DestinationStr>Aurillac(AUR)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AUR</code>
+    <DestinationName>Tronquieres Arpt</DestinationName>
+    <DestinationStr>Tronquieres Arpt(AUR)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AUS</code>
+    <DestinationName>Austin</DestinationName>
+    <DestinationStr>Austin(AUS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AUS</code>
+    <DestinationName>Bergstrom Intl Arpt</DestinationName>
+    <DestinationStr>Bergstrom Intl Arpt(AUS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AUU</code>
+    <DestinationName>Aurukin Arpt</DestinationName>
+    <DestinationStr>Aurukin Arpt(AUU)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AUU</code>
+    <DestinationName>Aurukun Mission</DestinationName>
+    <DestinationStr>Aurukun Mission(AUU)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AUW</code>
+    <DestinationName>Wausau Municipal Arpt</DestinationName>
+    <DestinationStr>Wausau Municipal Arpt(AUW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AUW</code>
+    <DestinationName>Wausau</DestinationName>
+    <DestinationStr>Wausau(AUW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AUX</code>
+    <DestinationName>Araguaina Arpt</DestinationName>
+    <DestinationStr>Araguaina Arpt(AUX)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AUX</code>
+    <DestinationName>Araguaina</DestinationName>
+    <DestinationStr>Araguaina(AUX)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AUY</code>
+    <DestinationName>Aneityum</DestinationName>
+    <DestinationStr>Aneityum(AUY)-Vanuatu</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AUZ</code>
+    <DestinationName>Aurora Municipal Arpt</DestinationName>
+    <DestinationStr>Aurora Municipal Arpt(AUZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AUZ</code>
+    <DestinationName>Aurora</DestinationName>
+    <DestinationStr>Aurora(AUZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AVB</code>
+    <DestinationName>Aviano Airbase</DestinationName>
+    <DestinationStr>Aviano Airbase(AVB)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AVB</code>
+    <DestinationName>Aviano</DestinationName>
+    <DestinationStr>Aviano(AVB)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AVI</code>
+    <DestinationName>Ciego De Avila</DestinationName>
+    <DestinationStr>Ciego De Avila(AVI)-Cuba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AVI</code>
+    <DestinationName>Maximo Gomez Arpt</DestinationName>
+    <DestinationStr>Maximo Gomez Arpt(AVI)-Cuba</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>AVL</code>
+    <DestinationName>Asheville Municipal Arpt</DestinationName>
+    <DestinationStr>Asheville Municipal Arpt(AVL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AVL</code>
+    <DestinationName>Asheville</DestinationName>
+    <DestinationStr>Asheville(AVL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AVN</code>
+    <DestinationName>Avignon Caumont Arpt</DestinationName>
+    <DestinationStr>Avignon Caumont Arpt(AVN)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AVN</code>
+    <DestinationName>Avignon</DestinationName>
+    <DestinationStr>Avignon(AVN)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AVP</code>
+    <DestinationName>Scranton</DestinationName>
+    <DestinationStr>Scranton(AVP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AVP</code>
+    <DestinationName>Wilkes Barre Scranton Intl Arpt</DestinationName>
+    <DestinationStr>Wilkes Barre Scranton Intl Arpt(AVP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AVS</code>
+    <DestinationName>Avila</DestinationName>
+    <DestinationStr>Avila(AVS)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AVU</code>
+    <DestinationName>Avu Avu</DestinationName>
+    <DestinationStr>Avu Avu(AVU)-Solomon Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AVV</code>
+    <DestinationName>Avalon Arpt</DestinationName>
+    <DestinationStr>Avalon Arpt(AVV)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AVW</code>
+    <DestinationName>Avra Valley</DestinationName>
+    <DestinationStr>Avra Valley(AVW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AVX</code>
+    <DestinationName>Catalina Island</DestinationName>
+    <DestinationStr>Catalina Island(AVX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AVX</code>
+    <DestinationName>Santa Catalina</DestinationName>
+    <DestinationStr>Santa Catalina(AVX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AWB</code>
+    <DestinationName>Awaba Airport</DestinationName>
+    <DestinationStr>Awaba Airport(AWB)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AWB</code>
+    <DestinationName>AWABA</DestinationName>
+    <DestinationStr>AWABA(AWB)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AWD</code>
+    <DestinationName>Aniwa</DestinationName>
+    <DestinationStr>Aniwa(AWD)-Vanuatu</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AWK</code>
+    <DestinationName>Wake Island</DestinationName>
+    <DestinationStr>Wake Island(AWK)-United States Minor Outlying Islnds</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AWM</code>
+    <DestinationName>West Memphis Municipal Arpt</DestinationName>
+    <DestinationStr>West Memphis Municipal Arpt(AWM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AWM</code>
+    <DestinationName>West Memphis</DestinationName>
+    <DestinationStr>West Memphis(AWM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AWN</code>
+    <DestinationName>Alton Downs</DestinationName>
+    <DestinationStr>Alton Downs(AWN)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AWZ</code>
+    <DestinationName>Ahwaz Airport</DestinationName>
+    <DestinationStr>Ahwaz Airport(AWZ)-Iran</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AWZ</code>
+    <DestinationName>Ahwaz</DestinationName>
+    <DestinationStr>Ahwaz(AWZ)-Iran</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AXA</code>
+    <DestinationName>Anguilla</DestinationName>
+    <DestinationStr>Anguilla(AXA)-Anguilla</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AXA</code>
+    <DestinationName>Clayton J Lloyd International</DestinationName>
+    <DestinationStr>Clayton J Lloyd International(AXA)-Anguilla</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AXD</code>
+    <DestinationName>Alexandroupolis</DestinationName>
+    <DestinationStr>Alexandroupolis(AXD)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AXD</code>
+    <DestinationName>Dhmokritos Arpt</DestinationName>
+    <DestinationStr>Dhmokritos Arpt(AXD)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AXE</code>
+    <DestinationName>Xanxere</DestinationName>
+    <DestinationStr>Xanxere(AXE)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AXK</code>
+    <DestinationName>Ataq</DestinationName>
+    <DestinationStr>Ataq(AXK)-Yemen, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AXL</code>
+    <DestinationName>Alexandria</DestinationName>
+    <DestinationStr>Alexandria(AXL)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AXM</code>
+    <DestinationName>Armenia</DestinationName>
+    <DestinationStr>Armenia(AXM)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AXM</code>
+    <DestinationName>El Eden International</DestinationName>
+    <DestinationStr>El Eden International(AXM)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AXN</code>
+    <DestinationName>Alexandria Airport</DestinationName>
+    <DestinationStr>Alexandria Airport(AXN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AXN</code>
+    <DestinationName>Alexandria</DestinationName>
+    <DestinationStr>Alexandria(AXN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AXP</code>
+    <DestinationName>Spring Point</DestinationName>
+    <DestinationStr>Spring Point(AXP)-Bahamas</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AXR</code>
+    <DestinationName>Arutua</DestinationName>
+    <DestinationStr>Arutua(AXR)-French Polynesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AXS</code>
+    <DestinationName>Altus Municipal Arpt</DestinationName>
+    <DestinationStr>Altus Municipal Arpt(AXS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AXT</code>
+    <DestinationName>Akita Airport</DestinationName>
+    <DestinationStr>Akita Airport(AXT)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AXT</code>
+    <DestinationName>Akita</DestinationName>
+    <DestinationStr>Akita(AXT)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AXU</code>
+    <DestinationName>Axum Airport</DestinationName>
+    <DestinationStr>Axum Airport(AXU)-Ethiopia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AXU</code>
+    <DestinationName>Axum</DestinationName>
+    <DestinationStr>Axum(AXU)-Ethiopia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AXV</code>
+    <DestinationName>Neil Armstrong Arpt</DestinationName>
+    <DestinationStr>Neil Armstrong Arpt(AXV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AXV</code>
+    <DestinationName>Wapakoneta</DestinationName>
+    <DestinationStr>Wapakoneta(AXV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AYN</code>
+    <DestinationName>Anyang Airport</DestinationName>
+    <DestinationStr>Anyang Airport(AYN)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AYN</code>
+    <DestinationName>Anyang</DestinationName>
+    <DestinationStr>Anyang(AYN)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AYP</code>
+    <DestinationName>Alfredo M Duarte Arpt</DestinationName>
+    <DestinationStr>Alfredo M Duarte Arpt(AYP)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AYP</code>
+    <DestinationName>Ayacucho</DestinationName>
+    <DestinationStr>Ayacucho(AYP)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AYQ</code>
+    <DestinationName>Ayers Rock</DestinationName>
+    <DestinationStr>Ayers Rock(AYQ)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AYQ</code>
+    <DestinationName>Connellan Arpt</DestinationName>
+    <DestinationStr>Connellan Arpt(AYQ)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AYR</code>
+    <DestinationName>Ayr Arpt</DestinationName>
+    <DestinationStr>Ayr Arpt(AYR)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AYR</code>
+    <DestinationName>Ayr Au</DestinationName>
+    <DestinationStr>Ayr Au(AYR)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AYS</code>
+    <DestinationName>Ware County Arpt</DestinationName>
+    <DestinationStr>Ware County Arpt(AYS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AYS</code>
+    <DestinationName>Waycross</DestinationName>
+    <DestinationStr>Waycross(AYS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AYT</code>
+    <DestinationName>Antalya Airport</DestinationName>
+    <DestinationStr>Antalya Airport(AYT)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AYT</code>
+    <DestinationName>Antalya</DestinationName>
+    <DestinationStr>Antalya(AYT)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AZA</code>
+    <DestinationName>Phoenix City</DestinationName>
+    <DestinationStr>Phoenix City(AZA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AZA</code>
+    <DestinationName>Phoenix Mesa Gateway Arpt</DestinationName>
+    <DestinationStr>Phoenix Mesa Gateway Arpt(AZA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AZA</code>
+    <DestinationName>Williams Gateway Arpt</DestinationName>
+    <DestinationStr>Williams Gateway Arpt(AZA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AZB</code>
+    <DestinationName>Amazon Bay</DestinationName>
+    <DestinationStr>Amazon Bay(AZB)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AZD</code>
+    <DestinationName>Yazd Arpt</DestinationName>
+    <DestinationStr>Yazd Arpt(AZD)-Iran</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AZD</code>
+    <DestinationName>Yazd</DestinationName>
+    <DestinationStr>Yazd(AZD)-Iran</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AZG</code>
+    <DestinationName>Apatzingan Arpt</DestinationName>
+    <DestinationStr>Apatzingan Arpt(AZG)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AZG</code>
+    <DestinationName>Apatzingan</DestinationName>
+    <DestinationStr>Apatzingan(AZG)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AZI</code>
+    <DestinationName>Bateen Airport</DestinationName>
+    <DestinationStr>Bateen Airport(AZI)-United Arab Emirates</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AZN</code>
+    <DestinationName>Andizhan Airport</DestinationName>
+    <DestinationStr>Andizhan Airport(AZN)-Uzbekistan Sum</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AZN</code>
+    <DestinationName>Andizhan</DestinationName>
+    <DestinationStr>Andizhan(AZN)-Uzbekistan Sum</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AZO</code>
+    <DestinationName>Kalamazoo Cty Arpt</DestinationName>
+    <DestinationStr>Kalamazoo Cty Arpt(AZO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AZO</code>
+    <DestinationName>Kalamazoo</DestinationName>
+    <DestinationStr>Kalamazoo(AZO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AZP</code>
+    <DestinationName>Atizapan Jimenez Cantu Airport</DestinationName>
+    <DestinationStr>Atizapan Jimenez Cantu Airport(AZP)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AZR</code>
+    <DestinationName>Adrar</DestinationName>
+    <DestinationStr>Adrar(AZR)-Algeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AZS</code>
+    <DestinationName>El Catey International</DestinationName>
+    <DestinationStr>El Catey International(AZS)-Dominican Republic</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AZS</code>
+    <DestinationName>Samana</DestinationName>
+    <DestinationStr>Samana(AZS)-Dominican Republic</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BAH</code>
+    <DestinationName>Al Muharraq</DestinationName>
+    <DestinationStr>Al Muharraq(BAH)-Bahrain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BAK</code>
+    <DestinationName>Azerbaijan</DestinationName>
+    <DestinationStr>Azerbaijan(BAK)-Azerbaijan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BQN</code>
+    <DestinationName>Aguadilla</DestinationName>
+    <DestinationStr>Aguadilla(BQN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BSC</code>
+    <DestinationName>Aeropuerto Jose Celestino Mutis</DestinationName>
+    <DestinationStr>Aeropuerto Jose Celestino Mutis(BSC)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BUK</code>
+    <DestinationName>Albuq</DestinationName>
+    <DestinationStr>Albuq(BUK)-Yemen, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BYF</code>
+    <DestinationName>Albert Arpt</DestinationName>
+    <DestinationStr>Albert Arpt(BYF)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAK</code>
+    <DestinationName>Akron Canton Regional Arpt</DestinationName>
+    <DestinationStr>Akron Canton Regional Arpt(CAK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAK</code>
+    <DestinationName>Akron</DestinationName>
+    <DestinationStr>Akron(CAK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAS</code>
+    <DestinationName>Anfa Airport</DestinationName>
+    <DestinationStr>Anfa Airport(CAS)-Morocco</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CBO</code>
+    <DestinationName>Awang Arpt</DestinationName>
+    <DestinationStr>Awang Arpt(CBO)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CFE</code>
+    <DestinationName>Aulnat Arpt</DestinationName>
+    <DestinationStr>Aulnat Arpt(CFE)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CJA</code>
+    <DestinationName>Armando R Iglesias Arpt</DestinationName>
+    <DestinationStr>Armando R Iglesias Arpt(CJA)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CJS</code>
+    <DestinationName>Abraham Gonzalez International</DestinationName>
+    <DestinationStr>Abraham Gonzalez International(CJS)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CLO</code>
+    <DestinationName>Alfonso B Aragon Intl</DestinationName>
+    <DestinationStr>Alfonso B Aragon Intl(CLO)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CQF</code>
+    <DestinationName>Aeroport Calais Dunkerque</DestinationName>
+    <DestinationStr>Aeroport Calais Dunkerque(CQF)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CRK</code>
+    <DestinationName>Angeles Mabalacat</DestinationName>
+    <DestinationStr>Angeles Mabalacat(CRK)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CTD</code>
+    <DestinationName>Alonso Valderrama Arpt</DestinationName>
+    <DestinationStr>Alonso Valderrama Arpt(CTD)-Panama</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CUM</code>
+    <DestinationName>Antonio Jose De Sucre</DestinationName>
+    <DestinationStr>Antonio Jose De Sucre(CUM)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CUZ</code>
+    <DestinationName>A Velasco Astete Intl</DestinationName>
+    <DestinationStr>A Velasco Astete Intl(CUZ)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CWB</code>
+    <DestinationName>Afonso Pena Arpt</DestinationName>
+    <DestinationStr>Afonso Pena Arpt(CWB)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CZL</code>
+    <DestinationName>Ain El Bey Arpt</DestinationName>
+    <DestinationStr>Ain El Bey Arpt(CZL)-Algeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DEZ</code>
+    <DestinationName>Al Jafrah Arpt</DestinationName>
+    <DestinationStr>Al Jafrah Arpt(DEZ)-Syrian Arab Rep.</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DHA</code>
+    <DestinationName>Az Zahran</DestinationName>
+    <DestinationStr>Az Zahran(DHA)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DHF</code>
+    <DestinationName>Al Dhafra Military Arpt</DestinationName>
+    <DestinationStr>Al Dhafra Military Arpt(DHF)-United Arab Emirates</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DIE</code>
+    <DestinationName>Antsiranana Arrachart Arpt</DestinationName>
+    <DestinationStr>Antsiranana Arrachart Arpt(DIE)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DIR</code>
+    <DestinationName>Aba Tenna D Yilma Arpt</DestinationName>
+    <DestinationStr>Aba Tenna D Yilma Arpt(DIR)-Ethiopia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DOH</code>
+    <DestinationName>Ad Dawhah</DestinationName>
+    <DestinationStr>Ad Dawhah(DOH)-Qatar</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DWC</code>
+    <DestinationName>Al Maktoum Intl Arpt</DestinationName>
+    <DestinationStr>Al Maktoum Intl Arpt(DWC)-United Arab Emirates</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DYR</code>
+    <DestinationName>Anadyr Arpt</DestinationName>
+    <DestinationStr>Anadyr Arpt(DYR)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DYR</code>
+    <DestinationName>Anadyr</DestinationName>
+    <DestinationStr>Anadyr(DYR)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EAB</code>
+    <DestinationName>Abbs Airport</DestinationName>
+    <DestinationStr>Abbs Airport(EAB)-Yemen, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EAB</code>
+    <DestinationName>Abbs</DestinationName>
+    <DestinationStr>Abbs(EAB)-Yemen, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EFL</code>
+    <DestinationName>Argostoli Arpt</DestinationName>
+    <DestinationStr>Argostoli Arpt(EFL)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EKX</code>
+    <DestinationName>Addington Field</DestinationName>
+    <DestinationStr>Addington Field(EKX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FJR</code>
+    <DestinationName>Al Fujairah</DestinationName>
+    <DestinationStr>Al Fujairah(FJR)-United Arab Emirates</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FLR</code>
+    <DestinationName>Amerigo Vespucci Arpt</DestinationName>
+    <DestinationStr>Amerigo Vespucci Arpt(FLR)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FLW</code>
+    <DestinationName>Aerodromo Das Flores</DestinationName>
+    <DestinationStr>Aerodromo Das Flores(FLW)-Portugal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FMM</code>
+    <DestinationName>Allgaeu Arpt</DestinationName>
+    <DestinationStr>Allgaeu Arpt(FMM)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FON</code>
+    <DestinationName>Arenal Arpt</DestinationName>
+    <DestinationStr>Arenal Arpt(FON)-Costa Rica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GBQ</code>
+    <DestinationName>Al Muharraq</DestinationName>
+    <DestinationStr>Al Muharraq(GBQ)-Bahrain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GDQ</code>
+    <DestinationName>Azezo</DestinationName>
+    <DestinationStr>Azezo(GDQ)-Ethiopia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GPA</code>
+    <DestinationName>Araxos Arpt</DestinationName>
+    <DestinationStr>Araxos Arpt(GPA)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GRB</code>
+    <DestinationName>Austin Straubel Fld</DestinationName>
+    <DestinationStr>Austin Straubel Fld(GRB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GTE</code>
+    <DestinationName>Alyangula Arpt</DestinationName>
+    <DestinationStr>Alyangula Arpt(GTE)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GUM</code>
+    <DestinationName>Antonio B Won Pat Intl</DestinationName>
+    <DestinationStr>Antonio B Won Pat Intl(GUM)-Guam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GUR</code>
+    <DestinationName>Alotau</DestinationName>
+    <DestinationStr>Alotau(GUR)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GUW</code>
+    <DestinationName>Atyrau Arpt</DestinationName>
+    <DestinationStr>Atyrau Arpt(GUW)-Kazakstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GUW</code>
+    <DestinationName>Atyrau</DestinationName>
+    <DestinationStr>Atyrau(GUW)-Kazakstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HOF</code>
+    <DestinationName>Alahsa Arpt</DestinationName>
+    <DestinationStr>Alahsa Arpt(HOF)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HOF</code>
+    <DestinationName>Alahsa</DestinationName>
+    <DestinationStr>Alahsa(HOF)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HVA</code>
+    <DestinationName>Analalava</DestinationName>
+    <DestinationStr>Analalava(HVA)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ILD</code>
+    <DestinationName>Alguaire</DestinationName>
+    <DestinationStr>Alguaire(ILD)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IST</code>
+    <DestinationName>Ataturk Arpt</DestinationName>
+    <DestinationStr>Ataturk Arpt(IST)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ISW</code>
+    <DestinationName>Alexander Field</DestinationName>
+    <DestinationStr>Alexander Field(ISW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IVA</code>
+    <DestinationName>Ambanja</DestinationName>
+    <DestinationStr>Ambanja(IVA)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IXA</code>
+    <DestinationName>Agartala</DestinationName>
+    <DestinationStr>Agartala(IXA)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IXD</code>
+    <DestinationName>Allahabad</DestinationName>
+    <DestinationStr>Allahabad(IXD)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IXU</code>
+    <DestinationName>Aurangabad</DestinationName>
+    <DestinationStr>Aurangabad(IXU)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IXV</code>
+    <DestinationName>Along Airport</DestinationName>
+    <DestinationStr>Along Airport(IXV)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IXV</code>
+    <DestinationName>Along</DestinationName>
+    <DestinationStr>Along(IXV)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JAH</code>
+    <DestinationName>Aubagne</DestinationName>
+    <DestinationStr>Aubagne(JAH)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JEG</code>
+    <DestinationName>Aasiaat Arpt</DestinationName>
+    <DestinationStr>Aasiaat Arpt(JEG)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JEG</code>
+    <DestinationName>Aasiaat</DestinationName>
+    <DestinationStr>Aasiaat(JEG)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JIB</code>
+    <DestinationName>Ambouli Airport</DestinationName>
+    <DestinationStr>Ambouli Airport(JIB)-Djibouti</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JKG</code>
+    <DestinationName>Axamo Airport</DestinationName>
+    <DestinationStr>Axamo Airport(JKG)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JOG</code>
+    <DestinationName>Adisutjipto Arpt</DestinationName>
+    <DestinationStr>Adisutjipto Arpt(JOG)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JRS</code>
+    <DestinationName>Atarot Airport</DestinationName>
+    <DestinationStr>Atarot Airport(JRS)-Israel</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JTC</code>
+    <DestinationName>Arealva Airport</DestinationName>
+    <DestinationStr>Arealva Airport(JTC)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JTY</code>
+    <DestinationName>Astipalaia</DestinationName>
+    <DestinationStr>Astipalaia(JTY)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JTY</code>
+    <DestinationName>Astypalaia Arpt</DestinationName>
+    <DestinationStr>Astypalaia Arpt(JTY)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JTY</code>
+    <DestinationName>Astypalaia Island</DestinationName>
+    <DestinationStr>Astypalaia Island(JTY)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JTY</code>
+    <DestinationName>Astypalaia</DestinationName>
+    <DestinationStr>Astypalaia(JTY)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JVA</code>
+    <DestinationName>Ankavandra</DestinationName>
+    <DestinationStr>Ankavandra(JVA)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KAN</code>
+    <DestinationName>Aminu Kano Intl Arpt</DestinationName>
+    <DestinationStr>Aminu Kano Intl Arpt(KAN)-Nigeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KAZ</code>
+    <DestinationName>Au ID</DestinationName>
+    <DestinationStr>Au ID(KAZ)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KKI</code>
+    <DestinationName>Akiachak</DestinationName>
+    <DestinationStr>Akiachak(KKI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KQA</code>
+    <DestinationName>Akutan</DestinationName>
+    <DestinationStr>Akutan(KQA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KSO</code>
+    <DestinationName>Aristoteles Arpt</DestinationName>
+    <DestinationStr>Aristoteles Arpt(KSO)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KWI</code>
+    <DestinationName>Al Kuwayt</DestinationName>
+    <DestinationStr>Al Kuwayt(KWI)-Kuwait</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LAD</code>
+    <DestinationName>Angola</DestinationName>
+    <DestinationStr>Angola(LAD)-Angola</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LBI</code>
+    <DestinationName>Albi</DestinationName>
+    <DestinationStr>Albi(LBI)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LEI</code>
+    <DestinationName>Almeria Arpt</DestinationName>
+    <DestinationStr>Almeria Arpt(LEI)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LEI</code>
+    <DestinationName>Almeria</DestinationName>
+    <DestinationStr>Almeria(LEI)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LET</code>
+    <DestinationName>Alfredo V Cobo Intl</DestinationName>
+    <DestinationStr>Alfredo V Cobo Intl(LET)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LEW</code>
+    <DestinationName>Auburn Lewiston Arpt</DestinationName>
+    <DestinationStr>Auburn Lewiston Arpt(LEW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LFK</code>
+    <DestinationName>Angelina Cty Arpt</DestinationName>
+    <DestinationStr>Angelina Cty Arpt(LFK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LKO</code>
+    <DestinationName>Amausi Arpt</DestinationName>
+    <DestinationStr>Amausi Arpt(LKO)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LLU</code>
+    <DestinationName>Alluitsup Paa Arpt</DestinationName>
+    <DestinationStr>Alluitsup Paa Arpt(LLU)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LLU</code>
+    <DestinationName>Alluitsup Paa</DestinationName>
+    <DestinationStr>Alluitsup Paa(LLU)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LME</code>
+    <DestinationName>Arnage Arpt</DestinationName>
+    <DestinationStr>Arnage Arpt(LME)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LPA</code>
+    <DestinationName>Aeropuerto De Gran Canaria</DestinationName>
+    <DestinationStr>Aeropuerto De Gran Canaria(LPA)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LTS</code>
+    <DestinationName>Altus Airforce Base</DestinationName>
+    <DestinationStr>Altus Airforce Base(LTS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LTS</code>
+    <DestinationName>Altus</DestinationName>
+    <DestinationStr>Altus(LTS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LUG</code>
+    <DestinationName>Agno Airport</DestinationName>
+    <DestinationStr>Agno Airport(LUG)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MAH</code>
+    <DestinationName>Aerop De Menorca</DestinationName>
+    <DestinationStr>Aerop De Menorca(MAH)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MAJ</code>
+    <DestinationName>Amata Kabua Intl Arpt</DestinationName>
+    <DestinationStr>Amata Kabua Intl Arpt(MAJ)-Marshall Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MGA</code>
+    <DestinationName>Augusto C Sandino Intl</DestinationName>
+    <DestinationStr>Augusto C Sandino Intl(MGA)-Nicaragua</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MGQ</code>
+    <DestinationName>Aden Adde International</DestinationName>
+    <DestinationStr>Aden Adde International(MGQ)-Somalia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MJN</code>
+    <DestinationName>Amborovy Arpt</DestinationName>
+    <DestinationStr>Amborovy Arpt(MJN)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MMI</code>
+    <DestinationName>Athens</DestinationName>
+    <DestinationStr>Athens(MMI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MOL</code>
+    <DestinationName>Aro Arpt</DestinationName>
+    <DestinationStr>Aro Arpt(MOL)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MQX</code>
+    <DestinationName>Alula Aba Nega</DestinationName>
+    <DestinationStr>Alula Aba Nega(MQX)-Ethiopia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MRD</code>
+    <DestinationName>Alberto Carnevalli Arpt</DestinationName>
+    <DestinationStr>Alberto Carnevalli Arpt(MRD)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MZH</code>
+    <DestinationName>Amasya</DestinationName>
+    <DestinationStr>Amasya(MZH)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NAB</code>
+    <DestinationName>Albany Naval Air Station</DestinationName>
+    <DestinationStr>Albany Naval Air Station(NAB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NBG</code>
+    <DestinationName>Alvin Callendar Arpt</DestinationName>
+    <DestinationStr>Alvin Callendar Arpt(NBG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NCY</code>
+    <DestinationName>Annecy Meythet Arpt</DestinationName>
+    <DestinationStr>Annecy Meythet Arpt(NCY)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NCY</code>
+    <DestinationName>Annecy</DestinationName>
+    <DestinationStr>Annecy(NCY)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NDV</code>
+    <DestinationName>Anacostia Heliport Facility</DestinationName>
+    <DestinationStr>Anacostia Heliport Facility(NDV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NDV</code>
+    <DestinationName>Anacostia</DestinationName>
+    <DestinationStr>Anacostia(NDV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NGD</code>
+    <DestinationName>Anegada</DestinationName>
+    <DestinationStr>Anegada(NGD)-British Virgin Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NGM</code>
+    <DestinationName>Agana NAS</DestinationName>
+    <DestinationStr>Agana NAS(NGM)-Guam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NGQ</code>
+    <DestinationName>Ali Airport</DestinationName>
+    <DestinationStr>Ali Airport(NGQ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NGZ</code>
+    <DestinationName>Alameda Naval Air Station</DestinationName>
+    <DestinationStr>Alameda Naval Air Station(NGZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NJA</code>
+    <DestinationName>Atsugi Naval Air Station</DestinationName>
+    <DestinationStr>Atsugi Naval Air Station(NJA)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NJA</code>
+    <DestinationName>Atsugi</DestinationName>
+    <DestinationStr>Atsugi(NJA)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NJF</code>
+    <DestinationName>Al Najaf</DestinationName>
+    <DestinationStr>Al Najaf(NJF)-Iraq</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NRC</code>
+    <DestinationName>Aux Field Arpt</DestinationName>
+    <DestinationStr>Aux Field Arpt(NRC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OAJ</code>
+    <DestinationName>Albert J Ellis</DestinationName>
+    <DestinationStr>Albert J Ellis(OAJ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OBS</code>
+    <DestinationName>Aubenas</DestinationName>
+    <DestinationStr>Aubenas(OBS)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OCC</code>
+    <DestinationName>Aeropuerto Francisco De Orellana</DestinationName>
+    <DestinationStr>Aeropuerto Francisco De Orellana(OCC)-Ecuador</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OCH</code>
+    <DestinationName>Al Mangham Jr Regional Arpt</DestinationName>
+    <DestinationStr>Al Mangham Jr Regional Arpt(OCH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OCV</code>
+    <DestinationName>Aguas Claras Arpt</DestinationName>
+    <DestinationStr>Aguas Claras Arpt(OCV)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OTS</code>
+    <DestinationName>Anacortes</DestinationName>
+    <DestinationStr>Anacortes(OTS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OTS</code>
+    <DestinationName>Ancortes Arpt</DestinationName>
+    <DestinationStr>Ancortes Arpt(OTS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OTS</code>
+    <DestinationName>Ancortes</DestinationName>
+    <DestinationStr>Ancortes(OTS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OVD</code>
+    <DestinationName>Asturias Airport</DestinationName>
+    <DestinationStr>Asturias Airport(OVD)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OVD</code>
+    <DestinationName>Asturias</DestinationName>
+    <DestinationStr>Asturias(OVD)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OXB</code>
+    <DestinationName>Airport Osvaldo Viera</DestinationName>
+    <DestinationStr>Airport Osvaldo Viera(OXB)-Guinea Bissau</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PKH</code>
+    <DestinationName>Alexion Arpt</DestinationName>
+    <DestinationStr>Alexion Arpt(PKH)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PPB</code>
+    <DestinationName>A De Barros</DestinationName>
+    <DestinationStr>A De Barros(PPB)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PSO</code>
+    <DestinationName>Antonio Narino Arpt</DestinationName>
+    <DestinationStr>Antonio Narino Arpt(PSO)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PTS</code>
+    <DestinationName>Atkinson Municipal Arpt</DestinationName>
+    <DestinationStr>Atkinson Municipal Arpt(PTS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PVK</code>
+    <DestinationName>Aktion Arpt</DestinationName>
+    <DestinationStr>Aktion Arpt(PVK)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PYR</code>
+    <DestinationName>Andravida Arpt</DestinationName>
+    <DestinationStr>Andravida Arpt(PYR)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QAJ</code>
+    <DestinationName>Ajman City</DestinationName>
+    <DestinationStr>Ajman City(QAJ)-United Arab Emirates</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QAL</code>
+    <DestinationName>Alessandria</DestinationName>
+    <DestinationStr>Alessandria(QAL)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QAM</code>
+    <DestinationName>Amiens</DestinationName>
+    <DestinationStr>Amiens(QAM)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QAO</code>
+    <DestinationName>Agrigento</DestinationName>
+    <DestinationStr>Agrigento(QAO)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QAR</code>
+    <DestinationName>Arnhem</DestinationName>
+    <DestinationStr>Arnhem(QAR)-Netherlands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QAY</code>
+    <DestinationName>Alba Iulia</DestinationName>
+    <DestinationStr>Alba Iulia(QAY)-Romania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QDH</code>
+    <DestinationName>Ashford</DestinationName>
+    <DestinationStr>Ashford(QDH)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QFA</code>
+    <DestinationName>Aalsmeer</DestinationName>
+    <DestinationStr>Aalsmeer(QFA)-Netherlands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QGS</code>
+    <DestinationName>Alagoinhas</DestinationName>
+    <DestinationStr>Alagoinhas(QGS)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QKQ</code>
+    <DestinationName>Anklam</DestinationName>
+    <DestinationStr>Anklam(QKQ)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QNB</code>
+    <DestinationName>ANAND</DestinationName>
+    <DestinationStr>ANAND(QNB)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QNJ</code>
+    <DestinationName>Annemasse</DestinationName>
+    <DestinationStr>Annemasse(QNJ)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QNO</code>
+    <DestinationName>Ascoli Piceno</DestinationName>
+    <DestinationStr>Ascoli Piceno(QNO)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QNP</code>
+    <DestinationName>Ayia Napa</DestinationName>
+    <DestinationStr>Ayia Napa(QNP)-Cyprus</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QOB</code>
+    <DestinationName>Ansbach</DestinationName>
+    <DestinationStr>Ansbach(QOB)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QON</code>
+    <DestinationName>Arlon</DestinationName>
+    <DestinationStr>Arlon(QON)-Belgium</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QRV</code>
+    <DestinationName>Arras Arpt</DestinationName>
+    <DestinationStr>Arras Arpt(QRV)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QRV</code>
+    <DestinationName>Arras</DestinationName>
+    <DestinationStr>Arras(QRV)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QVN</code>
+    <DestinationName>Avellino</DestinationName>
+    <DestinationStr>Avellino(QVN)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QVP</code>
+    <DestinationName>Avare</DestinationName>
+    <DestinationStr>Avare(QVP)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QWJ</code>
+    <DestinationName>Americana</DestinationName>
+    <DestinationStr>Americana(QWJ)-Brazil</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QWY</code>
+    <DestinationName>Albany</DestinationName>
+    <DestinationStr>Albany(QWY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QXB</code>
+    <DestinationName>Aix En Provence</DestinationName>
+    <DestinationStr>Aix En Provence(QXB)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QXW</code>
+    <DestinationName>Alfenas</DestinationName>
+    <DestinationStr>Alfenas(QXW)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QYL</code>
+    <DestinationName>Almelo</DestinationName>
+    <DestinationStr>Almelo(QYL)-Netherlands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QYM</code>
+    <DestinationName>Amersfoort</DestinationName>
+    <DestinationStr>Amersfoort(QYM)-Netherlands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QYP</code>
+    <DestinationName>Apeldoorn</DestinationName>
+    <DestinationStr>Apeldoorn(QYP)-Netherlands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QZO</code>
+    <DestinationName>Arezzo</DestinationName>
+    <DestinationStr>Arezzo(QZO)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RAE</code>
+    <DestinationName>Arar Airport</DestinationName>
+    <DestinationStr>Arar Airport(RAE)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RAE</code>
+    <DestinationName>Arar</DestinationName>
+    <DestinationStr>Arar(RAE)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RAW</code>
+    <DestinationName>Arawa</DestinationName>
+    <DestinationStr>Arawa(RAW)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RCH</code>
+    <DestinationName>Aimirante Padilla Arpt</DestinationName>
+    <DestinationStr>Aimirante Padilla Arpt(RCH)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RHT</code>
+    <DestinationName>Alxa Right Banner Arpt</DestinationName>
+    <DestinationStr>Alxa Right Banner Arpt(RHT)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RHT</code>
+    <DestinationName>Alxa Right Banner</DestinationName>
+    <DestinationStr>Alxa Right Banner(RHT)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RJL</code>
+    <DestinationName>Agoncillo Arpt</DestinationName>
+    <DestinationStr>Agoncillo Arpt(RJL)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RKP</code>
+    <DestinationName>Aransas County Arpt</DestinationName>
+    <DestinationStr>Aransas County Arpt(RKP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ROR</code>
+    <DestinationName>Airai Airport</DestinationName>
+    <DestinationStr>Airai Airport(ROR)-Palau</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RSE</code>
+    <DestinationName>Au Rose Bay Arpt</DestinationName>
+    <DestinationStr>Au Rose Bay Arpt(RSE)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RUA</code>
+    <DestinationName>Arua</DestinationName>
+    <DestinationStr>Arua(RUA)-Uganda</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RUH</code>
+    <DestinationName>Ar Riyad</DestinationName>
+    <DestinationStr>Ar Riyad(RUH)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SCL</code>
+    <DestinationName>Arturo Merino Benitez</DestinationName>
+    <DestinationStr>Arturo Merino Benitez(SCL)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SCO</code>
+    <DestinationName>Aktau Arpt</DestinationName>
+    <DestinationStr>Aktau Arpt(SCO)-Kazakstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SCO</code>
+    <DestinationName>Aktau</DestinationName>
+    <DestinationStr>Aktau(SCO)-Kazakstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SCO</code>
+    <DestinationName>Aqtau</DestinationName>
+    <DestinationStr>Aqtau(SCO)-Kazakstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SCU</code>
+    <DestinationName>Antonio Maceo International</DestinationName>
+    <DestinationStr>Antonio Maceo International(SCU)-Cuba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SDN</code>
+    <DestinationName>Anda Airport</DestinationName>
+    <DestinationStr>Anda Airport(SDN)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SEF</code>
+    <DestinationName>Air Terminal Arpt</DestinationName>
+    <DestinationStr>Air Terminal Arpt(SEF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SID</code>
+    <DestinationName>Amilcar Cabral Intl Arpt</DestinationName>
+    <DestinationStr>Amilcar Cabral Intl Arpt(SID)-Cape Verde, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SLK</code>
+    <DestinationName>Adirondack Arpt</DestinationName>
+    <DestinationStr>Adirondack Arpt(SLK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SNU</code>
+    <DestinationName>Abel Santamaria Arpt</DestinationName>
+    <DestinationStr>Abel Santamaria Arpt(SNU)-Cuba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SOC</code>
+    <DestinationName>Adi Sumarno Arpt</DestinationName>
+    <DestinationStr>Adi Sumarno Arpt(SOC)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SOX</code>
+    <DestinationName>Alberto Lleras Camargo Arpt</DestinationName>
+    <DestinationStr>Alberto Lleras Camargo Arpt(SOX)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SRG</code>
+    <DestinationName>Achmad Uani Arpt</DestinationName>
+    <DestinationStr>Achmad Uani Arpt(SRG)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>STX</code>
+    <DestinationName>Alexander Hamilton Arpt</DestinationName>
+    <DestinationStr>Alexander Hamilton Arpt(STX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SVD</code>
+    <DestinationName>Arnos Vale Arpt</DestinationName>
+    <DestinationStr>Arnos Vale Arpt(SVD)-Saint Vincent And The Grenadines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TGZ</code>
+    <DestinationName>Angel Albino Corzo Intl</DestinationName>
+    <DestinationStr>Angel Albino Corzo Intl(TGZ)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TIA</code>
+    <DestinationName>Albania</DestinationName>
+    <DestinationStr>Albania(TIA)-Albania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TIJ</code>
+    <DestinationName>A L Rodriguez International</DestinationName>
+    <DestinationStr>A L Rodriguez International(TIJ)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TND</code>
+    <DestinationName>Alberto Delgado Arpt</DestinationName>
+    <DestinationStr>Alberto Delgado Arpt(TND)-Cuba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TNR</code>
+    <DestinationName>Antananarivo</DestinationName>
+    <DestinationStr>Antananarivo(TNR)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TPQ</code>
+    <DestinationName>Amado Nervo</DestinationName>
+    <DestinationStr>Amado Nervo(TPQ)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TSE</code>
+    <DestinationName>Astana Arpt</DestinationName>
+    <DestinationStr>Astana Arpt(TSE)-Kazakstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TSE</code>
+    <DestinationName>Astana</DestinationName>
+    <DestinationStr>Astana(TSE)-Kazakstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TTB</code>
+    <DestinationName>Arbatax Arpt</DestinationName>
+    <DestinationStr>Arbatax Arpt(TTB)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TUH</code>
+    <DestinationName>Arnold AFS</DestinationName>
+    <DestinationStr>Arnold AFS(TUH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UAM</code>
+    <DestinationName>Anderson Air Force Base</DestinationName>
+    <DestinationStr>Anderson Air Force Base(UAM)-Guam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ULH</code>
+    <DestinationName>Al Ula</DestinationName>
+    <DestinationStr>Al Ula(ULH)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VJI</code>
+    <DestinationName>Abingdon</DestinationName>
+    <DestinationStr>Abingdon(VJI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VLN</code>
+    <DestinationName>Arturo Michelena Intl</DestinationName>
+    <DestinationStr>Arturo Michelena Intl(VLN)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VLV</code>
+    <DestinationName>Antonio N Briceno Arpt</DestinationName>
+    <DestinationStr>Antonio N Briceno Arpt(VLV)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VLY</code>
+    <DestinationName>Anglesey Arpt</DestinationName>
+    <DestinationStr>Anglesey Arpt(VLY)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VLY</code>
+    <DestinationName>Anglesey</DestinationName>
+    <DestinationStr>Anglesey(VLY)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VQS</code>
+    <DestinationName>A Rivera Rodrigues Arpt</DestinationName>
+    <DestinationStr>A Rivera Rodrigues Arpt(VQS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VUP</code>
+    <DestinationName>Alfonso Lopez Pumarejo Arpt</DestinationName>
+    <DestinationStr>Alfonso Lopez Pumarejo Arpt(VUP)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WAD</code>
+    <DestinationName>Adriamena</DestinationName>
+    <DestinationStr>Adriamena(WAD)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WAI</code>
+    <DestinationName>Antsohihy</DestinationName>
+    <DestinationStr>Antsohihy(WAI)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WAK</code>
+    <DestinationName>Ankazoabo</DestinationName>
+    <DestinationStr>Ankazoabo(WAK)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WAM</code>
+    <DestinationName>Ambatondrazaka</DestinationName>
+    <DestinationStr>Ambatondrazaka(WAM)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WAQ</code>
+    <DestinationName>Antsalova</DestinationName>
+    <DestinationStr>Antsalova(WAQ)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WIE</code>
+    <DestinationName>Air Base</DestinationName>
+    <DestinationStr>Air Base(WIE)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WKK</code>
+    <DestinationName>Aleknagik</DestinationName>
+    <DestinationStr>Aleknagik(WKK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WLD</code>
+    <DestinationName>Arkansas City Arpt</DestinationName>
+    <DestinationStr>Arkansas City Arpt(WLD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WSY</code>
+    <DestinationName>Airlie Beach</DestinationName>
+    <DestinationStr>Airlie Beach(WSY)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XAB</code>
+    <DestinationName>Abbeville</DestinationName>
+    <DestinationStr>Abbeville(XAB)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XAC</code>
+    <DestinationName>Arcachon</DestinationName>
+    <DestinationStr>Arcachon(XAC)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XAG</code>
+    <DestinationName>Agde</DestinationName>
+    <DestinationStr>Agde(XAG)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XAL</code>
+    <DestinationName>Alamos Arpt</DestinationName>
+    <DestinationStr>Alamos Arpt(XAL)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XAL</code>
+    <DestinationName>Alamos</DestinationName>
+    <DestinationStr>Alamos(XAL)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XAM</code>
+    <DestinationName>Amboise</DestinationName>
+    <DestinationStr>Amboise(XAM)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XAN</code>
+    <DestinationName>Alencon</DestinationName>
+    <DestinationStr>Alencon(XAN)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XAS</code>
+    <DestinationName>Ales</DestinationName>
+    <DestinationStr>Ales(XAS)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XAT</code>
+    <DestinationName>Antibes</DestinationName>
+    <DestinationStr>Antibes(XAT)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XAV</code>
+    <DestinationName>Albertville</DestinationName>
+    <DestinationStr>Albertville(XAV)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XEX</code>
+    <DestinationName>Aerogare Des Invalides</DestinationName>
+    <DestinationStr>Aerogare Des Invalides(XEX)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XFS</code>
+    <DestinationName>Alexandria</DestinationName>
+    <DestinationStr>Alexandria(XFS)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XGD</code>
+    <DestinationName>Arendal</DestinationName>
+    <DestinationStr>Arendal(XGD)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XGI</code>
+    <DestinationName>Andalsnes</DestinationName>
+    <DestinationStr>Andalsnes(XGI)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XGU</code>
+    <DestinationName>Asker</DestinationName>
+    <DestinationStr>Asker(XGU)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XHT</code>
+    <DestinationName>Arna</DestinationName>
+    <DestinationStr>Arna(XHT)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XJA</code>
+    <DestinationName>Alvdal</DestinationName>
+    <DestinationStr>Alvdal(XJA)-Norway</DestinationStr>
+  </Destination> 
+  <Destination>
+    <code>XLY</code>
+    <DestinationName>Aldershot</DestinationName>
+    <DestinationStr>Aldershot(XLY)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XNR</code>
+    <DestinationName>Aabenraa</DestinationName>
+    <DestinationStr>Aabenraa(XNR)-Denmark</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XUY</code>
+    <DestinationName>Auray</DestinationName>
+    <DestinationStr>Auray(XUY)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XXA</code>
+    <DestinationName>Alvesta</DestinationName>
+    <DestinationStr>Alvesta(XXA)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XXR</code>
+    <DestinationName>Al No</DestinationName>
+    <DestinationStr>Al No(XXR)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XXT</code>
+    <DestinationName>Arboga</DestinationName>
+    <DestinationStr>Arboga(XXT)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XYP</code>
+    <DestinationName>Avesta Krylbo</DestinationName>
+    <DestinationStr>Avesta Krylbo(XYP)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XYY</code>
+    <DestinationName>Arvika</DestinationName>
+    <DestinationStr>Arvika(XYY)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XZK</code>
+    <DestinationName>Amherst</DestinationName>
+    <DestinationStr>Amherst(XZK)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XZY</code>
+    <DestinationName>Alzey</DestinationName>
+    <DestinationStr>Alzey(XZY)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YAL</code>
+    <DestinationName>Alert Bay</DestinationName>
+    <DestinationStr>Alert Bay(YAL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YAT</code>
+    <DestinationName>Attawapiskat Arpt</DestinationName>
+    <DestinationStr>Attawapiskat Arpt(YAT)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YAT</code>
+    <DestinationName>Attawapiskat</DestinationName>
+    <DestinationStr>Attawapiskat(YAT)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YEH</code>
+    <DestinationName>Asaloyeh Arpt</DestinationName>
+    <DestinationStr>Asaloyeh Arpt(YEH)-Iran</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YEH</code>
+    <DestinationName>Asaloyeh</DestinationName>
+    <DestinationStr>Asaloyeh(YEH)-Iran</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YEK</code>
+    <DestinationName>Arviat Arpt</DestinationName>
+    <DestinationStr>Arviat Arpt(YEK)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YEK</code>
+    <DestinationName>Arviat</DestinationName>
+    <DestinationStr>Arviat(YEK)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YEY</code>
+    <DestinationName>Amos</DestinationName>
+    <DestinationStr>Amos(YEY)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YIB</code>
+    <DestinationName>Atikokan Municipal Arpt</DestinationName>
+    <DestinationStr>Atikokan Municipal Arpt(YIB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YIB</code>
+    <DestinationName>Atikokan</DestinationName>
+    <DestinationStr>Atikokan(YIB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPJ</code>
+    <DestinationName>Aupaluk Arpt</DestinationName>
+    <DestinationStr>Aupaluk Arpt(YPJ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPJ</code>
+    <DestinationName>Aupaluk</DestinationName>
+    <DestinationStr>Aupaluk(YPJ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YTF</code>
+    <DestinationName>Alma Municipal Arpt</DestinationName>
+    <DestinationStr>Alma Municipal Arpt(YTF)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YTF</code>
+    <DestinationName>Alma</DestinationName>
+    <DestinationStr>Alma(YTF)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXX</code>
+    <DestinationName>Abbotsford Arpt</DestinationName>
+    <DestinationStr>Abbotsford Arpt(YXX)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXX</code>
+    <DestinationName>Abbotsford</DestinationName>
+    <DestinationStr>Abbotsford(YXX)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYW</code>
+    <DestinationName>Armstromg</DestinationName>
+    <DestinationStr>Armstromg(YYW)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YZA</code>
+    <DestinationName>Ashcroft</DestinationName>
+    <DestinationStr>Ashcroft(YZA)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZAF</code>
+    <DestinationName>Arles</DestinationName>
+    <DestinationStr>Arles(ZAF)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZAN</code>
+    <DestinationName>Aghios Nicolaos</DestinationName>
+    <DestinationStr>Aghios Nicolaos(ZAN)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZAP</code>
+    <DestinationName>Appenzell</DestinationName>
+    <DestinationStr>Appenzell(ZAP)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZAU</code>
+    <DestinationName>Aue De</DestinationName>
+    <DestinationStr>Aue De(ZAU)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZAV</code>
+    <DestinationName>Aveiro</DestinationName>
+    <DestinationStr>Aveiro(ZAV)-Portugal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZAX</code>
+    <DestinationName>Angermuende</DestinationName>
+    <DestinationStr>Angermuende(ZAX)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZBW</code>
+    <DestinationName>Atibaia Arpt</DestinationName>
+    <DestinationStr>Atibaia Arpt(ZBW)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZBW</code>
+    <DestinationName>Atibaia</DestinationName>
+    <DestinationStr>Atibaia(ZBW)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZCA</code>
+    <DestinationName>Arnsberg</DestinationName>
+    <DestinationStr>Arnsberg(ZCA)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZCB</code>
+    <DestinationName>Aschaffenburg</DestinationName>
+    <DestinationStr>Aschaffenburg(ZCB)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZDA</code>
+    <DestinationName>AARAU</DestinationName>
+    <DestinationStr>AARAU(ZDA)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZDB</code>
+    <DestinationName>Adelboden</DestinationName>
+    <DestinationStr>Adelboden(ZDB)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZDC</code>
+    <DestinationName>Aigle</DestinationName>
+    <DestinationStr>Aigle(ZDC)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZDD</code>
+    <DestinationName>Arbon</DestinationName>
+    <DestinationStr>Arbon(ZDD)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZDE</code>
+    <DestinationName>Arosa</DestinationName>
+    <DestinationStr>Arosa(ZDE)-Switzerland</DestinationStr>
+  </Destination> 
+  <Destination>
+    <code>ZUD</code>
+    <DestinationName>Ancud</DestinationName>
+    <DestinationStr>Ancud(ZUD)-Chile</DestinationStr>
+  </Destination> 
+  <Destination>
+    <code>ZVJ</code>
+    <DestinationName>Abu Dhabi City</DestinationName>
+    <DestinationStr>Abu Dhabi City(ZVJ)-United Arab Emirates</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZWA</code>
+    <DestinationName>Andapa</DestinationName>
+    <DestinationStr>Andapa(ZWA)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZYM</code>
+    <DestinationName>Arnhem City</DestinationName>
+    <DestinationStr>Arnhem City(ZYM)-Netherlands</DestinationStr>
+  </Destination>
+</DestinationRoot>

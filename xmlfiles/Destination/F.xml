@@ -1,0 +1,2182 @@
+﻿<DestinationRoot>
+  <Destination>
+    <code>NORESULT</code>
+    <DestinationName>NORESULT</DestinationName>
+    <DestinationStr>No Result Found</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ABJ</code>
+    <DestinationName>Felix Houphouet Boigny Arpt</DestinationName>
+    <DestinationStr>Felix Houphouet Boigny Arpt(ABJ)-Ivory Coast</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AFW</code>
+    <DestinationName>Fort Worth Alliance Arpt</DestinationName>
+    <DestinationStr>Fort Worth Alliance Arpt(AFW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AGE</code>
+    <DestinationName>Flugplatz Arpt</DestinationName>
+    <DestinationStr>Flugplatz Arpt(AGE)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AHO</code>
+    <DestinationName>Fertilia Arpt</DestinationName>
+    <DestinationStr>Fertilia Arpt(AHO)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AKC</code>
+    <DestinationName>Fulton International Arpt</DestinationName>
+    <DestinationStr>Fulton International Arpt(AKC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AOI</code>
+    <DestinationName>Falconara Arpt</DestinationName>
+    <DestinationStr>Falconara Arpt(AOI)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BGO</code>
+    <DestinationName>Flesland Airport</DestinationName>
+    <DestinationStr>Flesland Airport(BGO)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BON</code>
+    <DestinationName>Flamingo Field</DestinationName>
+    <DestinationStr>Flamingo Field(BON)-Bonaire</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BYS</code>
+    <DestinationName>Fort Irwin Arpt</DestinationName>
+    <DestinationStr>Fort Irwin Arpt(BYS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BYS</code>
+    <DestinationName>Fort Irwin</DestinationName>
+    <DestinationStr>Fort Irwin(BYS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAY</code>
+    <DestinationName>Felix Eboue Airport</DestinationName>
+    <DestinationStr>Felix Eboue Airport(CAY)-French Guiana</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAY</code>
+    <DestinationName>French Guiana</DestinationName>
+    <DestinationStr>French Guiana(CAY)-French Guiana</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CCA</code>
+    <DestinationName>Fort Chaffee Arpt</DestinationName>
+    <DestinationStr>Fort Chaffee Arpt(CCA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CCA</code>
+    <DestinationName>Fort Chaffee</DestinationName>
+    <DestinationStr>Fort Chaffee(CCA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CKM</code>
+    <DestinationName>Fletcher Field</DestinationName>
+    <DestinationStr>Fletcher Field(CKM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CTA</code>
+    <DestinationName>Fontanarossa Arpt</DestinationName>
+    <DestinationStr>Fontanarossa Arpt(CTA)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CUL</code>
+    <DestinationName>Fed De Bachigualato Arpt</DestinationName>
+    <DestinationStr>Fed De Bachigualato Arpt(CUL)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DSA</code>
+    <DestinationName>Finningley Arpt</DestinationName>
+    <DestinationStr>Finningley Arpt(DSA)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DVO</code>
+    <DestinationName>Francisco Bangoy Intl</DestinationName>
+    <DestinationStr>Francisco Bangoy Intl(DVO)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EUX</code>
+    <DestinationName>F D Roosevelt Arpt</DestinationName>
+    <DestinationStr>F D Roosevelt Arpt(EUX)-Bonaire</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FAB</code>
+    <DestinationName>Farnborough Arpt</DestinationName>
+    <DestinationStr>Farnborough Arpt(FAB)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FAB</code>
+    <DestinationName>Farnborough Hampshire</DestinationName>
+    <DestinationStr>Farnborough Hampshire(FAB)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FAE</code>
+    <DestinationName>Faeroe Airport</DestinationName>
+    <DestinationStr>Faeroe Airport(FAE)-Denmark</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FAE</code>
+    <DestinationName>Faeroe Islands</DestinationName>
+    <DestinationStr>Faeroe Islands(FAE)-Denmark</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FAI</code>
+    <DestinationName>Fairbanks Intl Arpt</DestinationName>
+    <DestinationStr>Fairbanks Intl Arpt(FAI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FAI</code>
+    <DestinationName>Fairbanks</DestinationName>
+    <DestinationStr>Fairbanks(FAI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FAJ</code>
+    <DestinationName>Diego Jimenez Torres Arpt</DestinationName>
+    <DestinationStr>Diego Jimenez Torres Arpt(FAJ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FAJ</code>
+    <DestinationName>Fajardo</DestinationName>
+    <DestinationStr>Fajardo(FAJ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FAK</code>
+    <DestinationName>False Island Arpt</DestinationName>
+    <DestinationStr>False Island Arpt(FAK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FAK</code>
+    <DestinationName>False Island</DestinationName>
+    <DestinationStr>False Island(FAK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FAN</code>
+    <DestinationName>Farsund</DestinationName>
+    <DestinationStr>Farsund(FAN)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FAO</code>
+    <DestinationName>Faro Airport</DestinationName>
+    <DestinationStr>Faro Airport(FAO)-Portugal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FAO</code>
+    <DestinationName>Faro</DestinationName>
+    <DestinationStr>Faro(FAO)-Portugal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FAR</code>
+    <DestinationName>Fargo</DestinationName>
+    <DestinationStr>Fargo(FAR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FAR</code>
+    <DestinationName>Hector Airport</DestinationName>
+    <DestinationStr>Hector Airport(FAR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FAT</code>
+    <DestinationName>Fresno Air Terminal</DestinationName>
+    <DestinationStr>Fresno Air Terminal(FAT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FAT</code>
+    <DestinationName>Fresno</DestinationName>
+    <DestinationStr>Fresno(FAT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FAV</code>
+    <DestinationName>Fakarava</DestinationName>
+    <DestinationStr>Fakarava(FAV)-French Polynesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FAY</code>
+    <DestinationName>Fayetteville Municipal</DestinationName>
+    <DestinationStr>Fayetteville Municipal(FAY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FAY</code>
+    <DestinationName>Fayetteville</DestinationName>
+    <DestinationStr>Fayetteville(FAY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FBD</code>
+    <DestinationName>Faizabad Arpt</DestinationName>
+    <DestinationStr>Faizabad Arpt(FBD)-Afghanistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FBD</code>
+    <DestinationName>Faizabad</DestinationName>
+    <DestinationStr>Faizabad(FBD)-Afghanistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FBK</code>
+    <DestinationName>Ft Wainwright Arpt</DestinationName>
+    <DestinationStr>Ft Wainwright Arpt(FBK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FBM</code>
+    <DestinationName>Luano</DestinationName>
+    <DestinationStr>Luano(FBM)-Congo Democratic Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FBM</code>
+    <DestinationName>Lubumbashi</DestinationName>
+    <DestinationStr>Lubumbashi(FBM)-Congo Democratic Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FBR</code>
+    <DestinationName>Fort Bridger</DestinationName>
+    <DestinationStr>Fort Bridger(FBR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FCA</code>
+    <DestinationName>Glacier Park Intl</DestinationName>
+    <DestinationStr>Glacier Park Intl(FCA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FCA</code>
+    <DestinationName>Kalispell</DestinationName>
+    <DestinationStr>Kalispell(FCA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FCB</code>
+    <DestinationName>Ficksburg Sentra Oes</DestinationName>
+    <DestinationStr>Ficksburg Sentra Oes(FCB)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FCB</code>
+    <DestinationName>Ficksburg</DestinationName>
+    <DestinationStr>Ficksburg(FCB)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FCH</code>
+    <DestinationName>Fresno Chandler Arpt</DestinationName>
+    <DestinationStr>Fresno Chandler Arpt(FCH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FCM</code>
+    <DestinationName>Flying Cloud Arpt</DestinationName>
+    <DestinationStr>Flying Cloud Arpt(FCM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FCN</code>
+    <DestinationName>Cuxhaven Nordholz Arpt</DestinationName>
+    <DestinationStr>Cuxhaven Nordholz Arpt(FCN)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FCN</code>
+    <DestinationName>Cuxhaven</DestinationName>
+    <DestinationStr>Cuxhaven(FCN)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FCO</code>
+    <DestinationName>Fiumicino Arpt</DestinationName>
+    <DestinationStr>Fiumicino Arpt(FCO)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FCO</code>
+    <DestinationName>Leonardo da Vinci</DestinationName>
+    <DestinationStr>Leonardo da Vinci(FCO)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FCS</code>
+    <DestinationName>Butts AAF</DestinationName>
+    <DestinationStr>Butts AAF(FCS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FCT</code>
+    <DestinationName>Firing Center AAF</DestinationName>
+    <DestinationStr>Firing Center AAF(FCT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FCY</code>
+    <DestinationName>Forrest City Municipal Arpt</DestinationName>
+    <DestinationStr>Forrest City Municipal Arpt(FCY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FCY</code>
+    <DestinationName>Forrest City</DestinationName>
+    <DestinationStr>Forrest City(FCY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FDE</code>
+    <DestinationName>Bringeland Arpt</DestinationName>
+    <DestinationStr>Bringeland Arpt(FDE)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FDE</code>
+    <DestinationName>Forde</DestinationName>
+    <DestinationStr>Forde(FDE)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FDF</code>
+    <DestinationName>Ft De France</DestinationName>
+    <DestinationStr>Ft De France(FDF)-Martinique</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FDF</code>
+    <DestinationName>Martinique A Cesaire Arpt</DestinationName>
+    <DestinationStr>Martinique A Cesaire Arpt(FDF)-Martinique</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FDF</code>
+    <DestinationName>Martinique</DestinationName>
+    <DestinationStr>Martinique(FDF)-Martinique</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FDH</code>
+    <DestinationName>Friedrichshafen Lowenthal</DestinationName>
+    <DestinationStr>Friedrichshafen Lowenthal(FDH)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FDH</code>
+    <DestinationName>Friedrichshafen</DestinationName>
+    <DestinationStr>Friedrichshafen(FDH)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FDK</code>
+    <DestinationName>Frederick Municipal</DestinationName>
+    <DestinationStr>Frederick Municipal(FDK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FDK</code>
+    <DestinationName>Frederick</DestinationName>
+    <DestinationStr>Frederick(FDK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FDU</code>
+    <DestinationName>Bandundu</DestinationName>
+    <DestinationStr>Bandundu(FDU)-Congo Democratic Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FDY</code>
+    <DestinationName>Findlay Arpt</DestinationName>
+    <DestinationStr>Findlay Arpt(FDY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FDY</code>
+    <DestinationName>Findlay</DestinationName>
+    <DestinationStr>Findlay(FDY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FEC</code>
+    <DestinationName>Feira De Santana</DestinationName>
+    <DestinationStr>Feira De Santana(FEC)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FEG</code>
+    <DestinationName>Fergana Airport</DestinationName>
+    <DestinationStr>Fergana Airport(FEG)-Uzbekistan Sum</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FEG</code>
+    <DestinationName>Fergana</DestinationName>
+    <DestinationStr>Fergana(FEG)-Uzbekistan Sum</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FEL</code>
+    <DestinationName>Furstenfeldbruck</DestinationName>
+    <DestinationStr>Furstenfeldbruck(FEL)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FEN</code>
+    <DestinationName>Fernando De Noronha Arpt</DestinationName>
+    <DestinationStr>Fernando De Noronha Arpt(FEN)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FEN</code>
+    <DestinationName>Fernando De Noronha</DestinationName>
+    <DestinationStr>Fernando De Noronha(FEN)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FES</code>
+    <DestinationName>San Fernando</DestinationName>
+    <DestinationStr>San Fernando(FES)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FEW</code>
+    <DestinationName>Warren AFB Heliport</DestinationName>
+    <DestinationStr>Warren AFB Heliport(FEW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FEZ</code>
+    <DestinationName>Fez Airport</DestinationName>
+    <DestinationStr>Fez Airport(FEZ)-Morocco</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FEZ</code>
+    <DestinationName>Fez Ma</DestinationName>
+    <DestinationStr>Fez Ma(FEZ)-Morocco</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FFM</code>
+    <DestinationName>Fergus Falls Municipal</DestinationName>
+    <DestinationStr>Fergus Falls Municipal(FFM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FFM</code>
+    <DestinationName>Fergus Falls</DestinationName>
+    <DestinationStr>Fergus Falls(FFM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FFO</code>
+    <DestinationName>Patterson AFB</DestinationName>
+    <DestinationStr>Patterson AFB(FFO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FFT</code>
+    <DestinationName>Frankfort</DestinationName>
+    <DestinationStr>Frankfort(FFT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FGI</code>
+    <DestinationName>Fagali Arpt</DestinationName>
+    <DestinationStr>Fagali Arpt(FGI)-Samoa, Independent State Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FGL</code>
+    <DestinationName>Fox Glacier</DestinationName>
+    <DestinationStr>Fox Glacier(FGL)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FGR</code>
+    <DestinationName>Fuengirola</DestinationName>
+    <DestinationStr>Fuengirola(FGR)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FGU</code>
+    <DestinationName>Fangatau</DestinationName>
+    <DestinationStr>Fangatau(FGU)-French Polynesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FHU</code>
+    <DestinationName>Fort Huachuca</DestinationName>
+    <DestinationStr>Fort Huachuca(FHU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FHU</code>
+    <DestinationName>Ft Huachuca</DestinationName>
+    <DestinationStr>Ft Huachuca(FHU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FHU</code>
+    <DestinationName>Sierra Vista Municipal</DestinationName>
+    <DestinationStr>Sierra Vista Municipal(FHU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FIE</code>
+    <DestinationName>Fair Isle Arpt</DestinationName>
+    <DestinationStr>Fair Isle Arpt(FIE)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FIE</code>
+    <DestinationName>Fair Isle</DestinationName>
+    <DestinationStr>Fair Isle(FIE)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FIH</code>
+    <DestinationName>Kinshasa Arpt</DestinationName>
+    <DestinationStr>Kinshasa Arpt(FIH)-Congo Democratic Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FIH</code>
+    <DestinationName>Kinshasa</DestinationName>
+    <DestinationStr>Kinshasa(FIH)-Congo Democratic Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FIN</code>
+    <DestinationName>Finschhafen</DestinationName>
+    <DestinationStr>Finschhafen(FIN)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FIZ</code>
+    <DestinationName>Fitzroy Crossing</DestinationName>
+    <DestinationStr>Fitzroy Crossing(FIZ)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FJR</code>
+    <DestinationName>Al Fujairah</DestinationName>
+    <DestinationStr>Al Fujairah(FJR)-United Arab Emirates</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FJR</code>
+    <DestinationName>Fujairah Intl Arpt</DestinationName>
+    <DestinationStr>Fujairah Intl Arpt(FJR)-United Arab Emirates</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FKB</code>
+    <DestinationName>Karlsruhe Baden Baden</DestinationName>
+    <DestinationStr>Karlsruhe Baden Baden(FKB)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FKB</code>
+    <DestinationName>Soellingen Arpt</DestinationName>
+    <DestinationStr>Soellingen Arpt(FKB)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FKI</code>
+    <DestinationName>Kisangani</DestinationName>
+    <DestinationStr>Kisangani(FKI)-Congo Democratic Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FKJ</code>
+    <DestinationName>FUKUI</DestinationName>
+    <DestinationStr>FUKUI(FKJ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FKL</code>
+    <DestinationName>Chess Lamberton Arpt</DestinationName>
+    <DestinationStr>Chess Lamberton Arpt(FKL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FKL</code>
+    <DestinationName>Franklin</DestinationName>
+    <DestinationStr>Franklin(FKL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FKN</code>
+    <DestinationName>Franklin</DestinationName>
+    <DestinationStr>Franklin(FKN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FKQ</code>
+    <DestinationName>Fak Fak</DestinationName>
+    <DestinationStr>Fak Fak(FKQ)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FKS</code>
+    <DestinationName>Fukushima Arpt</DestinationName>
+    <DestinationStr>Fukushima Arpt(FKS)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FKS</code>
+    <DestinationName>Fukushima</DestinationName>
+    <DestinationStr>Fukushima(FKS)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FLA</code>
+    <DestinationName>Florencia</DestinationName>
+    <DestinationStr>Florencia(FLA)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FLA</code>
+    <DestinationName>Gustavo A Paredes Arpt</DestinationName>
+    <DestinationStr>Gustavo A Paredes Arpt(FLA)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FLB</code>
+    <DestinationName>Cangapara Arpt</DestinationName>
+    <DestinationStr>Cangapara Arpt(FLB)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FLB</code>
+    <DestinationName>Floriano</DestinationName>
+    <DestinationStr>Floriano(FLB)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FLC</code>
+    <DestinationName>Falls Creek Arpt</DestinationName>
+    <DestinationStr>Falls Creek Arpt(FLC)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FLC</code>
+    <DestinationName>Falls Creek</DestinationName>
+    <DestinationStr>Falls Creek(FLC)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FLD</code>
+    <DestinationName>Fond Du Lac Arpt</DestinationName>
+    <DestinationStr>Fond Du Lac Arpt(FLD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FLD</code>
+    <DestinationName>Fond Du Lac</DestinationName>
+    <DestinationStr>Fond Du Lac(FLD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FLE</code>
+    <DestinationName>Fort Lee AAF</DestinationName>
+    <DestinationStr>Fort Lee AAF(FLE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FLF</code>
+    <DestinationName>Flensburg</DestinationName>
+    <DestinationStr>Flensburg(FLF)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FLF</code>
+    <DestinationName>Schaferhaus Arpt</DestinationName>
+    <DestinationStr>Schaferhaus Arpt(FLF)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FLG</code>
+    <DestinationName>Flagstaff Arpt</DestinationName>
+    <DestinationStr>Flagstaff Arpt(FLG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FLG</code>
+    <DestinationName>Flagstaff</DestinationName>
+    <DestinationStr>Flagstaff(FLG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FLI</code>
+    <DestinationName>Flateyri</DestinationName>
+    <DestinationStr>Flateyri(FLI)-Iceland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FLL</code>
+    <DestinationName>Fort Lauderdale Hollywood Intl Arpt</DestinationName>
+    <DestinationStr>Fort Lauderdale Hollywood Intl Arpt(FLL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FLL</code>
+    <DestinationName>Fort Lauderdale</DestinationName>
+    <DestinationStr>Fort Lauderdale(FLL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FLL</code>
+    <DestinationName>Ft Lauderdale Hollywood Intl Arpt</DestinationName>
+    <DestinationStr>Ft Lauderdale Hollywood Intl Arpt(FLL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FLL</code>
+    <DestinationName>Ft Lauderdale</DestinationName>
+    <DestinationStr>Ft Lauderdale(FLL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FLM</code>
+    <DestinationName>Filadelfia</DestinationName>
+    <DestinationStr>Filadelfia(FLM)-Paraguay</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FLN</code>
+    <DestinationName>Florianopolis</DestinationName>
+    <DestinationStr>Florianopolis(FLN)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FLN</code>
+    <DestinationName>Hercilio Luz Arpt</DestinationName>
+    <DestinationStr>Hercilio Luz Arpt(FLN)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FLO</code>
+    <DestinationName>Florence</DestinationName>
+    <DestinationStr>Florence(FLO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FLO</code>
+    <DestinationName>Gilbert Field</DestinationName>
+    <DestinationStr>Gilbert Field(FLO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FLP</code>
+    <DestinationName>Flippin Arpt</DestinationName>
+    <DestinationStr>Flippin Arpt(FLP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FLP</code>
+    <DestinationName>Flippin</DestinationName>
+    <DestinationStr>Flippin(FLP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FLR</code>
+    <DestinationName>Amerigo Vespucci Arpt</DestinationName>
+    <DestinationStr>Amerigo Vespucci Arpt(FLR)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FLR</code>
+    <DestinationName>Firenze</DestinationName>
+    <DestinationStr>Firenze(FLR)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FLR</code>
+    <DestinationName>Florence</DestinationName>
+    <DestinationStr>Florence(FLR)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FLR</code>
+    <DestinationName>Peretola Arpt</DestinationName>
+    <DestinationStr>Peretola Arpt(FLR)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FLS</code>
+    <DestinationName>Flinder Island</DestinationName>
+    <DestinationStr>Flinder Island(FLS)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FLT</code>
+    <DestinationName>Flat</DestinationName>
+    <DestinationStr>Flat(FLT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FLU</code>
+    <DestinationName>Flushing Airport</DestinationName>
+    <DestinationStr>Flushing Airport(FLU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FLW</code>
+    <DestinationName>Aerodromo Das Flores</DestinationName>
+    <DestinationStr>Aerodromo Das Flores(FLW)-Portugal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FLW</code>
+    <DestinationName>Santa Cruz Flores</DestinationName>
+    <DestinationStr>Santa Cruz Flores(FLW)-Portugal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FLX</code>
+    <DestinationName>Fallon Municipal Arpt</DestinationName>
+    <DestinationStr>Fallon Municipal Arpt(FLX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FLZ</code>
+    <DestinationName>Ferdinand Arpt</DestinationName>
+    <DestinationStr>Ferdinand Arpt(FLZ)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FLZ</code>
+    <DestinationName>Sibolga</DestinationName>
+    <DestinationStr>Sibolga(FLZ)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FMA</code>
+    <DestinationName>El Pucu Arpt</DestinationName>
+    <DestinationStr>El Pucu Arpt(FMA)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FMA</code>
+    <DestinationName>Formosa</DestinationName>
+    <DestinationStr>Formosa(FMA)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FME</code>
+    <DestinationName>Fort Meade</DestinationName>
+    <DestinationStr>Fort Meade(FME)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FMG</code>
+    <DestinationName>Flamingo</DestinationName>
+    <DestinationStr>Flamingo(FMG)-Costa Rica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FMH</code>
+    <DestinationName>Falmouth</DestinationName>
+    <DestinationStr>Falmouth(FMH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FMH</code>
+    <DestinationName>Otis AFB</DestinationName>
+    <DestinationStr>Otis AFB(FMH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FMI</code>
+    <DestinationName>Kalemie</DestinationName>
+    <DestinationStr>Kalemie(FMI)-Congo Democratic Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FMM</code>
+    <DestinationName>Allgaeu Arpt</DestinationName>
+    <DestinationStr>Allgaeu Arpt(FMM)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FMM</code>
+    <DestinationName>Memmingen Allgaeu</DestinationName>
+    <DestinationStr>Memmingen Allgaeu(FMM)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FMN</code>
+    <DestinationName>Farmington</DestinationName>
+    <DestinationStr>Farmington(FMN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FMN</code>
+    <DestinationName>Four Corners Regional Arpt</DestinationName>
+    <DestinationStr>Four Corners Regional Arpt(FMN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FMO</code>
+    <DestinationName>Muenster Airport</DestinationName>
+    <DestinationStr>Muenster Airport(FMO)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FMO</code>
+    <DestinationName>Muenster</DestinationName>
+    <DestinationStr>Muenster(FMO)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FMS</code>
+    <DestinationName>Fort Madison Municipal</DestinationName>
+    <DestinationStr>Fort Madison Municipal(FMS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FMS</code>
+    <DestinationName>Fort Madison</DestinationName>
+    <DestinationStr>Fort Madison(FMS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FMS</code>
+    <DestinationName>Ft Madison Municipal</DestinationName>
+    <DestinationStr>Ft Madison Municipal(FMS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FMS</code>
+    <DestinationName>Ft Madison</DestinationName>
+    <DestinationStr>Ft Madison(FMS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FMY</code>
+    <DestinationName>Fort Myers</DestinationName>
+    <DestinationStr>Fort Myers(FMY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FMY</code>
+    <DestinationName>Ft Myers</DestinationName>
+    <DestinationStr>Ft Myers(FMY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FMY</code>
+    <DestinationName>Page Field Airport</DestinationName>
+    <DestinationStr>Page Field Airport(FMY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FNA</code>
+    <DestinationName>Freetown</DestinationName>
+    <DestinationStr>Freetown(FNA)-Sierra Leone</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FNA</code>
+    <DestinationName>Lungi Intl Arpt</DestinationName>
+    <DestinationStr>Lungi Intl Arpt(FNA)-Sierra Leone</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FNB</code>
+    <DestinationName>Neubrandenburg Arpt</DestinationName>
+    <DestinationStr>Neubrandenburg Arpt(FNB)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FNB</code>
+    <DestinationName>Neubrandenburg</DestinationName>
+    <DestinationStr>Neubrandenburg(FNB)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FNC</code>
+    <DestinationName>Funchal</DestinationName>
+    <DestinationStr>Funchal(FNC)-Portugal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FNC</code>
+    <DestinationName>Madeira Arpt</DestinationName>
+    <DestinationStr>Madeira Arpt(FNC)-Portugal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FNC</code>
+    <DestinationName>Madeira</DestinationName>
+    <DestinationStr>Madeira(FNC)-Portugal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FNE</code>
+    <DestinationName>Fane Airport</DestinationName>
+    <DestinationStr>Fane Airport(FNE)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FNE</code>
+    <DestinationName>Fane</DestinationName>
+    <DestinationStr>Fane(FNE)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FNI</code>
+    <DestinationName>Nimes Airport</DestinationName>
+    <DestinationStr>Nimes Airport(FNI)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FNI</code>
+    <DestinationName>Nimes</DestinationName>
+    <DestinationStr>Nimes(FNI)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FNJ</code>
+    <DestinationName>Pyongyang</DestinationName>
+    <DestinationStr>Pyongyang(FNJ)-Korea, Democratic Peoples Republic</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FNJ</code>
+    <DestinationName>Sunan Arpt</DestinationName>
+    <DestinationStr>Sunan Arpt(FNJ)-Korea, Democratic Peoples Republic</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FNL</code>
+    <DestinationName>Fort Collins</DestinationName>
+    <DestinationStr>Fort Collins(FNL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FNL</code>
+    <DestinationName>Ft Collins</DestinationName>
+    <DestinationStr>Ft Collins(FNL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FNL</code>
+    <DestinationName>Municipal Airport</DestinationName>
+    <DestinationStr>Municipal Airport(FNL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FNR</code>
+    <DestinationName>Funter Bay</DestinationName>
+    <DestinationStr>Funter Bay(FNR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FNT</code>
+    <DestinationName>Bishop Intl Arpt</DestinationName>
+    <DestinationStr>Bishop Intl Arpt(FNT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FNT</code>
+    <DestinationName>Flint</DestinationName>
+    <DestinationStr>Flint(FNT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FNU</code>
+    <DestinationName>Oristano</DestinationName>
+    <DestinationStr>Oristano(FNU)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FOB</code>
+    <DestinationName>Fort Bragg Arpt</DestinationName>
+    <DestinationStr>Fort Bragg Arpt(FOB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FOB</code>
+    <DestinationName>Fort Bragg</DestinationName>
+    <DestinationStr>Fort Bragg(FOB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FOB</code>
+    <DestinationName>Ft Bragg</DestinationName>
+    <DestinationStr>Ft Bragg(FOB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FOC</code>
+    <DestinationName>Fuzhou Arpt</DestinationName>
+    <DestinationStr>Fuzhou Arpt(FOC)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FOC</code>
+    <DestinationName>Fuzhou</DestinationName>
+    <DestinationStr>Fuzhou(FOC)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FOD</code>
+    <DestinationName>Fort Dodge Municipal</DestinationName>
+    <DestinationStr>Fort Dodge Municipal(FOD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FOD</code>
+    <DestinationName>Fort Dodge</DestinationName>
+    <DestinationStr>Fort Dodge(FOD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FOD</code>
+    <DestinationName>Ft Dodge Municipal</DestinationName>
+    <DestinationStr>Ft Dodge Municipal(FOD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FOD</code>
+    <DestinationName>Ft Dodge</DestinationName>
+    <DestinationStr>Ft Dodge(FOD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FOE</code>
+    <DestinationName>Forbes Field</DestinationName>
+    <DestinationStr>Forbes Field(FOE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FOG</code>
+    <DestinationName>Foggia</DestinationName>
+    <DestinationStr>Foggia(FOG)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FOG</code>
+    <DestinationName>Gino Lisa Arpt</DestinationName>
+    <DestinationStr>Gino Lisa Arpt(FOG)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FOK</code>
+    <DestinationName>Suffolk County Arpt</DestinationName>
+    <DestinationStr>Suffolk County Arpt(FOK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FOK</code>
+    <DestinationName>Westhampton</DestinationName>
+    <DestinationStr>Westhampton(FOK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FON</code>
+    <DestinationName>Arenal Arpt</DestinationName>
+    <DestinationStr>Arenal Arpt(FON)-Costa Rica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FON</code>
+    <DestinationName>Fortuna</DestinationName>
+    <DestinationStr>Fortuna(FON)-Costa Rica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FOO</code>
+    <DestinationName>Numfoor</DestinationName>
+    <DestinationStr>Numfoor(FOO)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FOR</code>
+    <DestinationName>Fortaleza</DestinationName>
+    <DestinationStr>Fortaleza(FOR)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FOR</code>
+    <DestinationName>Pinto Martines Arpt</DestinationName>
+    <DestinationStr>Pinto Martines Arpt(FOR)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FOT</code>
+    <DestinationName>Forster</DestinationName>
+    <DestinationStr>Forster(FOT)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FOU</code>
+    <DestinationName>Fougamou</DestinationName>
+    <DestinationStr>Fougamou(FOU)-Gabon</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FPO</code>
+    <DestinationName>Freeport</DestinationName>
+    <DestinationStr>Freeport(FPO)-Bahamas</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FPO</code>
+    <DestinationName>Grand Bahama Intl Arpt</DestinationName>
+    <DestinationStr>Grand Bahama Intl Arpt(FPO)-Bahamas</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FPR</code>
+    <DestinationName>Fort Pierce</DestinationName>
+    <DestinationStr>Fort Pierce(FPR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FPR</code>
+    <DestinationName>Ft Pierce</DestinationName>
+    <DestinationStr>Ft Pierce(FPR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FPR</code>
+    <DestinationName>Saint Lucie County Arpt</DestinationName>
+    <DestinationStr>Saint Lucie County Arpt(FPR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FPR</code>
+    <DestinationName>St Lucie County Arpt</DestinationName>
+    <DestinationStr>St Lucie County Arpt(FPR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FRA</code>
+    <DestinationName>Frankfurt Intl</DestinationName>
+    <DestinationStr>Frankfurt Intl(FRA)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FRA</code>
+    <DestinationName>Frankfurt</DestinationName>
+    <DestinationStr>Frankfurt(FRA)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FRB</code>
+    <DestinationName>Forbes</DestinationName>
+    <DestinationStr>Forbes(FRB)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FRC</code>
+    <DestinationName>Franca Airport</DestinationName>
+    <DestinationStr>Franca Airport(FRC)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FRC</code>
+    <DestinationName>Franca</DestinationName>
+    <DestinationStr>Franca(FRC)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FRD</code>
+    <DestinationName>Friday Harbor Airport</DestinationName>
+    <DestinationStr>Friday Harbor Airport(FRD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FRD</code>
+    <DestinationName>Friday Harbor</DestinationName>
+    <DestinationStr>Friday Harbor(FRD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FRE</code>
+    <DestinationName>Fera Island</DestinationName>
+    <DestinationStr>Fera Island(FRE)-Solomon Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FRG</code>
+    <DestinationName>Farmingdale</DestinationName>
+    <DestinationStr>Farmingdale(FRG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FRG</code>
+    <DestinationName>Republic Arpt</DestinationName>
+    <DestinationStr>Republic Arpt(FRG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FRH</code>
+    <DestinationName>French Lick Municipal Arpt</DestinationName>
+    <DestinationStr>French Lick Municipal Arpt(FRH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FRH</code>
+    <DestinationName>French Lick</DestinationName>
+    <DestinationStr>French Lick(FRH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FRJ</code>
+    <DestinationName>Frejus Arpt</DestinationName>
+    <DestinationStr>Frejus Arpt(FRJ)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FRJ</code>
+    <DestinationName>Frejus</DestinationName>
+    <DestinationStr>Frejus(FRJ)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FRK</code>
+    <DestinationName>Fregate Island</DestinationName>
+    <DestinationStr>Fregate Island(FRK)-Seychelles Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FRL</code>
+    <DestinationName>Forli</DestinationName>
+    <DestinationStr>Forli(FRL)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FRL</code>
+    <DestinationName>Luigi Ridolfi Arpt</DestinationName>
+    <DestinationStr>Luigi Ridolfi Arpt(FRL)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FRM</code>
+    <DestinationName>Fairmont Municipal</DestinationName>
+    <DestinationStr>Fairmont Municipal(FRM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FRM</code>
+    <DestinationName>Fairmont</DestinationName>
+    <DestinationStr>Fairmont(FRM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FRO</code>
+    <DestinationName>Flora Arpt</DestinationName>
+    <DestinationStr>Flora Arpt(FRO)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FRO</code>
+    <DestinationName>Floro</DestinationName>
+    <DestinationStr>Floro(FRO)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FRR</code>
+    <DestinationName>Front Royal</DestinationName>
+    <DestinationStr>Front Royal(FRR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FRR</code>
+    <DestinationName>Warren County Arpt</DestinationName>
+    <DestinationStr>Warren County Arpt(FRR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FRS</code>
+    <DestinationName>Flores</DestinationName>
+    <DestinationStr>Flores(FRS)-Guatemala</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FRS</code>
+    <DestinationName>Mundo Maya Intl Airport</DestinationName>
+    <DestinationStr>Mundo Maya Intl Airport(FRS)-Guatemala</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FRT</code>
+    <DestinationName>Frutillar</DestinationName>
+    <DestinationStr>Frutillar(FRT)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FRU</code>
+    <DestinationName>Bishkek Arpt</DestinationName>
+    <DestinationStr>Bishkek Arpt(FRU)-Kyrgyzstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FRU</code>
+    <DestinationName>Bishkek</DestinationName>
+    <DestinationStr>Bishkek(FRU)-Kyrgyzstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FRU</code>
+    <DestinationName>Kyrgyzstan</DestinationName>
+    <DestinationStr>Kyrgyzstan(FRU)-Kyrgyzstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FRW</code>
+    <DestinationName>Francistown Arpt</DestinationName>
+    <DestinationStr>Francistown Arpt(FRW)-Botswana</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FRW</code>
+    <DestinationName>Francistown</DestinationName>
+    <DestinationStr>Francistown(FRW)-Botswana</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FRZ</code>
+    <DestinationName>Fritzlar Airbase</DestinationName>
+    <DestinationStr>Fritzlar Airbase(FRZ)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FRZ</code>
+    <DestinationName>Fritzlar</DestinationName>
+    <DestinationStr>Fritzlar(FRZ)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FSC</code>
+    <DestinationName>Figari</DestinationName>
+    <DestinationStr>Figari(FSC)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FSC</code>
+    <DestinationName>Sud Corse Arpt</DestinationName>
+    <DestinationStr>Sud Corse Arpt(FSC)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FSD</code>
+    <DestinationName>Regional Joe Foss Field</DestinationName>
+    <DestinationStr>Regional Joe Foss Field(FSD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FSD</code>
+    <DestinationName>Sioux Falls</DestinationName>
+    <DestinationStr>Sioux Falls(FSD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FSK</code>
+    <DestinationName>Fort Scott</DestinationName>
+    <DestinationStr>Fort Scott(FSK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FSM</code>
+    <DestinationName>Fort Smith Municipal</DestinationName>
+    <DestinationStr>Fort Smith Municipal(FSM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FSM</code>
+    <DestinationName>Fort Smith</DestinationName>
+    <DestinationStr>Fort Smith(FSM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FSM</code>
+    <DestinationName>Ft Smith Municipal</DestinationName>
+    <DestinationStr>Ft Smith Municipal(FSM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FSM</code>
+    <DestinationName>Ft Smith</DestinationName>
+    <DestinationStr>Ft Smith(FSM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FSP</code>
+    <DestinationName>Saint Pierre Arpt</DestinationName>
+    <DestinationStr>Saint Pierre Arpt(FSP)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FSP</code>
+    <DestinationName>Saint Pierre</DestinationName>
+    <DestinationStr>Saint Pierre(FSP)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FSP</code>
+    <DestinationName>St Pierre Arpt</DestinationName>
+    <DestinationStr>St Pierre Arpt(FSP)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FSP</code>
+    <DestinationName>St Pierre</DestinationName>
+    <DestinationStr>St Pierre(FSP)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FST</code>
+    <DestinationName>Fort Stockton</DestinationName>
+    <DestinationStr>Fort Stockton(FST)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FST</code>
+    <DestinationName>Ft Stockton</DestinationName>
+    <DestinationStr>Ft Stockton(FST)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FST</code>
+    <DestinationName>Pecos County Arpt</DestinationName>
+    <DestinationStr>Pecos County Arpt(FST)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FSZ</code>
+    <DestinationName>Mount Fuji Shizuoka Arpt</DestinationName>
+    <DestinationStr>Mount Fuji Shizuoka Arpt(FSZ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FSZ</code>
+    <DestinationName>Shizuoka City</DestinationName>
+    <DestinationStr>Shizuoka City(FSZ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FTE</code>
+    <DestinationName>El Calafate Arpt</DestinationName>
+    <DestinationStr>El Calafate Arpt(FTE)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FTE</code>
+    <DestinationName>El Calafate</DestinationName>
+    <DestinationStr>El Calafate(FTE)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FTU</code>
+    <DestinationName>Fort Dauphin</DestinationName>
+    <DestinationStr>Fort Dauphin(FTU)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FTU</code>
+    <DestinationName>Marillac Arpt</DestinationName>
+    <DestinationStr>Marillac Arpt(FTU)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FTW</code>
+    <DestinationName>Fort Worth</DestinationName>
+    <DestinationStr>Fort Worth(FTW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FTW</code>
+    <DestinationName>Ft Worth</DestinationName>
+    <DestinationStr>Ft Worth(FTW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FTW</code>
+    <DestinationName>Meacham Field</DestinationName>
+    <DestinationStr>Meacham Field(FTW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FTX</code>
+    <DestinationName>Owando</DestinationName>
+    <DestinationStr>Owando(FTX)-Congo</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FTY</code>
+    <DestinationName>Fulton Cty Arpt</DestinationName>
+    <DestinationStr>Fulton Cty Arpt(FTY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FUB</code>
+    <DestinationName>Fulleborn</DestinationName>
+    <DestinationStr>Fulleborn(FUB)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FUE</code>
+    <DestinationName>Fuerteventura Arpt</DestinationName>
+    <DestinationStr>Fuerteventura Arpt(FUE)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FUE</code>
+    <DestinationName>Puerto Del Rosario</DestinationName>
+    <DestinationStr>Puerto Del Rosario(FUE)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FUG</code>
+    <DestinationName>Fuyang Airport</DestinationName>
+    <DestinationStr>Fuyang Airport(FUG)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FUG</code>
+    <DestinationName>Fuyang</DestinationName>
+    <DestinationStr>Fuyang(FUG)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FUJ</code>
+    <DestinationName>Fukue Arpt</DestinationName>
+    <DestinationStr>Fukue Arpt(FUJ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FUJ</code>
+    <DestinationName>Fukue</DestinationName>
+    <DestinationStr>Fukue(FUJ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FUK</code>
+    <DestinationName>Fukuoka</DestinationName>
+    <DestinationStr>Fukuoka(FUK)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FUK</code>
+    <DestinationName>Itazuke Arpt</DestinationName>
+    <DestinationStr>Itazuke Arpt(FUK)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FUL</code>
+    <DestinationName>Fullerton Municipal Arpt</DestinationName>
+    <DestinationStr>Fullerton Municipal Arpt(FUL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FUL</code>
+    <DestinationName>Fullerton</DestinationName>
+    <DestinationStr>Fullerton(FUL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FUN</code>
+    <DestinationName>Funafuti International</DestinationName>
+    <DestinationStr>Funafuti International(FUN)-Tuvalu</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FUN</code>
+    <DestinationName>Funafuti</DestinationName>
+    <DestinationStr>Funafuti(FUN)-Tuvalu</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FUN</code>
+    <DestinationName>Tuvalu</DestinationName>
+    <DestinationStr>Tuvalu(FUN)-Tuvalu</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FUO</code>
+    <DestinationName>Fuoshan Arpt</DestinationName>
+    <DestinationStr>Fuoshan Arpt(FUO)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FUO</code>
+    <DestinationName>Fuoshan</DestinationName>
+    <DestinationStr>Fuoshan(FUO)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FUT</code>
+    <DestinationName>Futuna</DestinationName>
+    <DestinationStr>Futuna(FUT)-French Polynesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FWA</code>
+    <DestinationName>Baer Field</DestinationName>
+    <DestinationStr>Baer Field(FWA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FWA</code>
+    <DestinationName>Fort Wayne</DestinationName>
+    <DestinationStr>Fort Wayne(FWA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FWA</code>
+    <DestinationName>Ft Wayne</DestinationName>
+    <DestinationStr>Ft Wayne(FWA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FWH</code>
+    <DestinationName>Carswell Airforce Base</DestinationName>
+    <DestinationStr>Carswell Airforce Base(FWH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FWM</code>
+    <DestinationName>Fort William Arpt</DestinationName>
+    <DestinationStr>Fort William Arpt(FWM)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FWM</code>
+    <DestinationName>Fort William</DestinationName>
+    <DestinationStr>Fort William(FWM)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FWM</code>
+    <DestinationName>Ft William Arpt</DestinationName>
+    <DestinationStr>Ft William Arpt(FWM)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FWM</code>
+    <DestinationName>Ft William</DestinationName>
+    <DestinationStr>Ft William(FWM)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FXE</code>
+    <DestinationName>Fort Lauderdale Executive</DestinationName>
+    <DestinationStr>Fort Lauderdale Executive(FXE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FXE</code>
+    <DestinationName>Ft Lauderdale Excutive</DestinationName>
+    <DestinationStr>Ft Lauderdale Excutive(FXE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FYN</code>
+    <DestinationName>Fuyun</DestinationName>
+    <DestinationStr>Fuyun(FYN)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FYU</code>
+    <DestinationName>Ft Yukon</DestinationName>
+    <DestinationStr>Ft Yukon(FYU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FYV</code>
+    <DestinationName>Fayetteville Municipal Arpt</DestinationName>
+    <DestinationStr>Fayetteville Municipal Arpt(FYV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FYV</code>
+    <DestinationName>Fayetteville</DestinationName>
+    <DestinationStr>Fayetteville(FYV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FZO</code>
+    <DestinationName>Filton</DestinationName>
+    <DestinationStr>Filton(FZO)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HAM</code>
+    <DestinationName>Fuhlsbuettel Arpt</DestinationName>
+    <DestinationStr>Fuhlsbuettel Arpt(HAM)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HLR</code>
+    <DestinationName>Fort Hood AAF</DestinationName>
+    <DestinationStr>Fort Hood AAF(HLR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HOG</code>
+    <DestinationName>Frank Pias International</DestinationName>
+    <DestinationStr>Frank Pias International(HOG)-Cuba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IDA</code>
+    <DestinationName>Fanning Field</DestinationName>
+    <DestinationStr>Fanning Field(IDA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IMT</code>
+    <DestinationName>Ford Arpt</DestinationName>
+    <DestinationStr>Ford Arpt(IMT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IQT</code>
+    <DestinationName>F Secada Vignetta Arpt</DestinationName>
+    <DestinationStr>F Secada Vignetta Arpt(IQT)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JDF</code>
+    <DestinationName>Francisco De Assis Arpt</DestinationName>
+    <DestinationStr>Francisco De Assis Arpt(JDF)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JFM</code>
+    <DestinationName>Fremantle Heliport</DestinationName>
+    <DestinationStr>Fremantle Heliport(JFM)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JFM</code>
+    <DestinationName>Fremantle</DestinationName>
+    <DestinationStr>Fremantle(JFM)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KFP</code>
+    <DestinationName>False Pass</DestinationName>
+    <DestinationStr>False Pass(KFP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LAD</code>
+    <DestinationName>Four De Fevereiro Arpt</DestinationName>
+    <DestinationStr>Four De Fevereiro Arpt(LAD)-Angola</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LMM</code>
+    <DestinationName>Federal Valle del Fuerte Arpt</DestinationName>
+    <DestinationStr>Federal Valle del Fuerte Arpt(LMM)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LOM</code>
+    <DestinationName>F Primo De Verdad Airport</DestinationName>
+    <DestinationStr>F Primo De Verdad Airport(LOM)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LYP</code>
+    <DestinationName>Faisalabad International Arpt</DestinationName>
+    <DestinationStr>Faisalabad International Arpt(LYP)-Pakistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LYP</code>
+    <DestinationName>Faisalabad</DestinationName>
+    <DestinationStr>Faisalabad(LYP)-Pakistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MLM</code>
+    <DestinationName>FJ Mujica Intl</DestinationName>
+    <DestinationStr>FJ Mujica Intl(MLM)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MPL</code>
+    <DestinationName>Frejorgues Arpt</DestinationName>
+    <DestinationStr>Frejorgues Arpt(MPL)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MSC</code>
+    <DestinationName>Falcon Field</DestinationName>
+    <DestinationStr>Falcon Field(MSC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MVB</code>
+    <DestinationName>Franceville Mvengue Arpt</DestinationName>
+    <DestinationStr>Franceville Mvengue Arpt(MVB)-Gabon</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MVB</code>
+    <DestinationName>Franceville Mvengue</DestinationName>
+    <DestinationStr>Franceville Mvengue(MVB)-Gabon</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MVP</code>
+    <DestinationName>Fabio A Leon Bentley Arpt</DestinationName>
+    <DestinationStr>Fabio A Leon Bentley Arpt(MVP)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MVZ</code>
+    <DestinationName>Fort Victoria Arpt</DestinationName>
+    <DestinationStr>Fort Victoria Arpt(MVZ)-Zimbabwe</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MVZ</code>
+    <DestinationName>Ft Victoria Arpt</DestinationName>
+    <DestinationStr>Ft Victoria Arpt(MVZ)-Zimbabwe</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MZM</code>
+    <DestinationName>Frescaty Airport</DestinationName>
+    <DestinationStr>Frescaty Airport(MZM)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NFL</code>
+    <DestinationName>Fallon Nas</DestinationName>
+    <DestinationStr>Fallon Nas(NFL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NFL</code>
+    <DestinationName>Fallon</DestinationName>
+    <DestinationStr>Fallon(NFL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NHX</code>
+    <DestinationName>Foley</DestinationName>
+    <DestinationStr>Foley(NHX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NOS</code>
+    <DestinationName>Fascene Arpt</DestinationName>
+    <DestinationStr>Fascene Arpt(NOS)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NVK</code>
+    <DestinationName>Framnes Arpt</DestinationName>
+    <DestinationStr>Framnes Arpt(NVK)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OAR</code>
+    <DestinationName>Fritzsche Army Air Field</DestinationName>
+    <DestinationStr>Fritzsche Army Air Field(OAR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OLK</code>
+    <DestinationName>Fuerte Olimpo Arpt</DestinationName>
+    <DestinationStr>Fuerte Olimpo Arpt(OLK)-Paraguay</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OLK</code>
+    <DestinationName>Fuerte Olimpo</DestinationName>
+    <DestinationStr>Fuerte Olimpo(OLK)-Paraguay</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OSD</code>
+    <DestinationName>Froesoe Airport</DestinationName>
+    <DestinationStr>Froesoe Airport(OSD)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PII</code>
+    <DestinationName>Fairbanks Phillips Airport</DestinationName>
+    <DestinationStr>Fairbanks Phillips Airport(PII)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POE</code>
+    <DestinationName>Fort Polk Arpt</DestinationName>
+    <DestinationStr>Fort Polk Arpt(POE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POE</code>
+    <DestinationName>Fort Polk</DestinationName>
+    <DestinationStr>Fort Polk(POE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POE</code>
+    <DestinationName>Ft Polk Arpt</DestinationName>
+    <DestinationStr>Ft Polk Arpt(POE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POE</code>
+    <DestinationName>Ft Polk</DestinationName>
+    <DestinationStr>Ft Polk(POE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QFB</code>
+    <DestinationName>Freiburg</DestinationName>
+    <DestinationStr>Freiburg(QFB)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QFE</code>
+    <DestinationName>Fort Benning</DestinationName>
+    <DestinationStr>Fort Benning(QFE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QFE</code>
+    <DestinationName>Ft Benning</DestinationName>
+    <DestinationStr>Ft Benning(QFE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QFH</code>
+    <DestinationName>Frederickshavn</DestinationName>
+    <DestinationStr>Frederickshavn(QFH)-Denmark</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QFL</code>
+    <DestinationName>Freilassing</DestinationName>
+    <DestinationStr>Freilassing(QFL)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QFR</code>
+    <DestinationName>Frosinone</DestinationName>
+    <DestinationStr>Frosinone(QFR)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QFY</code>
+    <DestinationName>Fukuyama</DestinationName>
+    <DestinationStr>Fukuyama(QFY)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QNF</code>
+    <DestinationName>Faridabad</DestinationName>
+    <DestinationStr>Faridabad(QNF)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QVE</code>
+    <DestinationName>Forssa</DestinationName>
+    <DestinationStr>Forssa(QVE)-Finland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QZF</code>
+    <DestinationName>Font Romeu</DestinationName>
+    <DestinationStr>Font Romeu(QZF)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RAI</code>
+    <DestinationName>Francisco Mendes</DestinationName>
+    <DestinationStr>Francisco Mendes(RAI)-Cape Verde, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RBK</code>
+    <DestinationName>French Valley</DestinationName>
+    <DestinationStr>French Valley(RBK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RBL</code>
+    <DestinationName>Flight Service Station</DestinationName>
+    <DestinationStr>Flight Service Station(RBL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ROS</code>
+    <DestinationName>Fisherton Airport</DestinationName>
+    <DestinationStr>Fisherton Airport(ROS)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RVA</code>
+    <DestinationName>Farafangana</DestinationName>
+    <DestinationStr>Farafangana(RVA)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SFF</code>
+    <DestinationName>Felts Field</DestinationName>
+    <DestinationStr>Felts Field(SFF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SKA</code>
+    <DestinationName>Fairchild Airforce Base</DestinationName>
+    <DestinationStr>Fairchild Airforce Base(SKA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SLG</code>
+    <DestinationName>Fayetteville Municipal  Arpt</DestinationName>
+    <DestinationStr>Fayetteville Municipal  Arpt(SLG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SUN</code>
+    <DestinationName>Friedman Memorial</DestinationName>
+    <DestinationStr>Friedman Memorial(SUN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SUU</code>
+    <DestinationName>Fairfield</DestinationName>
+    <DestinationStr>Fairfield(SUU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SWS</code>
+    <DestinationName>Fairwood Comm</DestinationName>
+    <DestinationStr>Fairwood Comm(SWS)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAM</code>
+    <DestinationName>F Javier Mina International</DestinationName>
+    <DestinationStr>F Javier Mina International(TAM)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TBN</code>
+    <DestinationName>Forney Field</DestinationName>
+    <DestinationStr>Forney Field(TBN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TBN</code>
+    <DestinationName>Fort Leonard Wood</DestinationName>
+    <DestinationStr>Fort Leonard Wood(TBN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TBN</code>
+    <DestinationName>Ft Leonard Wood</DestinationName>
+    <DestinationStr>Ft Leonard Wood(TBN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TRC</code>
+    <DestinationName>Francisco Sarabia Intl</DestinationName>
+    <DestinationStr>Francisco Sarabia Intl(TRC)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VDB</code>
+    <DestinationName>Fagernes</DestinationName>
+    <DestinationStr>Fagernes(VDB)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VPS</code>
+    <DestinationName>Fort Walton Beach Arpt</DestinationName>
+    <DestinationStr>Fort Walton Beach Arpt(VPS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VPS</code>
+    <DestinationName>Fort Walton Beach</DestinationName>
+    <DestinationStr>Fort Walton Beach(VPS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VPS</code>
+    <DestinationName>Ft Walton Beach Arpt</DestinationName>
+    <DestinationStr>Ft Walton Beach Arpt(VPS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WAW</code>
+    <DestinationName>Frederic Chopin Arpt</DestinationName>
+    <DestinationStr>Frederic Chopin Arpt(WAW)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WFI</code>
+    <DestinationName>Fianarantsoa</DestinationName>
+    <DestinationStr>Fianarantsoa(WFI)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WFK</code>
+    <DestinationName>Frenchville</DestinationName>
+    <DestinationStr>Frenchville(WFK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WGA</code>
+    <DestinationName>Forrest Hill Arpt</DestinationName>
+    <DestinationStr>Forrest Hill Arpt(WGA)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WHO</code>
+    <DestinationName>Franz Josef</DestinationName>
+    <DestinationStr>Franz Josef(WHO)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XFB</code>
+    <DestinationName>Fontainebleau</DestinationName>
+    <DestinationStr>Fontainebleau(XFB)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XFC</code>
+    <DestinationName>Fredericton Junction</DestinationName>
+    <DestinationStr>Fredericton Junction(XFC)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XFW</code>
+    <DestinationName>Finkenwerder Arpt</DestinationName>
+    <DestinationStr>Finkenwerder Arpt(XFW)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XFX</code>
+    <DestinationName>Foix</DestinationName>
+    <DestinationStr>Foix(XFX)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XGH</code>
+    <DestinationName>Flam</DestinationName>
+    <DestinationStr>Flam(XGH)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XKF</code>
+    <DestinationName>Fredrikstad</DestinationName>
+    <DestinationStr>Fredrikstad(XKF)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XKO</code>
+    <DestinationName>Finse</DestinationName>
+    <DestinationStr>Finse(XKO)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XWF</code>
+    <DestinationName>Falun</DestinationName>
+    <DestinationStr>Falun(XWF)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XYF</code>
+    <DestinationName>Falkoping</DestinationName>
+    <DestinationStr>Falkoping(XYF)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XYI</code>
+    <DestinationName>Flen</DestinationName>
+    <DestinationStr>Flen(XYI)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XYM</code>
+    <DestinationName>Falkenberg</DestinationName>
+    <DestinationStr>Falkenberg(XYM)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YAG</code>
+    <DestinationName>Fort Frances Municipal</DestinationName>
+    <DestinationStr>Fort Frances Municipal(YAG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YAG</code>
+    <DestinationName>Fort Frances</DestinationName>
+    <DestinationStr>Fort Frances(YAG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YAG</code>
+    <DestinationName>Ft Frances Municipal</DestinationName>
+    <DestinationStr>Ft Frances Municipal(YAG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YAG</code>
+    <DestinationName>Ft Frances</DestinationName>
+    <DestinationStr>Ft Frances(YAG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCZ</code>
+    <DestinationName>Fairmont Springs Arpt</DestinationName>
+    <DestinationStr>Fairmont Springs Arpt(YCZ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YCZ</code>
+    <DestinationName>Fairmont Springs</DestinationName>
+    <DestinationStr>Fairmont Springs(YCZ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YER</code>
+    <DestinationName>Fort Severn Arpt</DestinationName>
+    <DestinationStr>Fort Severn Arpt(YER)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YER</code>
+    <DestinationName>Fort Severn</DestinationName>
+    <DestinationStr>Fort Severn(YER)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YFC</code>
+    <DestinationName>Fredericton Municipal</DestinationName>
+    <DestinationStr>Fredericton Municipal(YFC)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YFC</code>
+    <DestinationName>Fredericton</DestinationName>
+    <DestinationStr>Fredericton(YFC)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YFH</code>
+    <DestinationName>Fort Hope</DestinationName>
+    <DestinationStr>Fort Hope(YFH)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YFO</code>
+    <DestinationName>Flin Flon Municipal Arpt</DestinationName>
+    <DestinationStr>Flin Flon Municipal Arpt(YFO)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YFO</code>
+    <DestinationName>Flin Flon</DestinationName>
+    <DestinationStr>Flin Flon(YFO)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YFS</code>
+    <DestinationName>Fort Simpson</DestinationName>
+    <DestinationStr>Fort Simpson(YFS)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YFX</code>
+    <DestinationName>Fox Harbour Arpt</DestinationName>
+    <DestinationStr>Fox Harbour Arpt(YFX)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YFX</code>
+    <DestinationName>Fox Harbour</DestinationName>
+    <DestinationStr>Fox Harbour(YFX)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YMM</code>
+    <DestinationName>Fort McMurray Municipal Arpt</DestinationName>
+    <DestinationStr>Fort McMurray Municipal Arpt(YMM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YMM</code>
+    <DestinationName>Fort McMurray</DestinationName>
+    <DestinationStr>Fort McMurray(YMM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YMM</code>
+    <DestinationName>Ft McMurray Municipal Arpt</DestinationName>
+    <DestinationStr>Ft McMurray Municipal Arpt(YMM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YMM</code>
+    <DestinationName>Ft McMurray</DestinationName>
+    <DestinationStr>Ft McMurray(YMM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YRL</code>
+    <DestinationName>Federal Red Lake</DestinationName>
+    <DestinationStr>Federal Red Lake(YRL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YSM</code>
+    <DestinationName>Fort Smith Municipal Arpt</DestinationName>
+    <DestinationStr>Fort Smith Municipal Arpt(YSM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YSM</code>
+    <DestinationName>Fort Smith</DestinationName>
+    <DestinationStr>Fort Smith(YSM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YSM</code>
+    <DestinationName>Ft Smith Municipal Arpt</DestinationName>
+    <DestinationStr>Ft Smith Municipal Arpt(YSM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YSM</code>
+    <DestinationName>Ft Smith</DestinationName>
+    <DestinationStr>Ft Smith(YSM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXJ</code>
+    <DestinationName>Fort St John Municipal Arpt</DestinationName>
+    <DestinationStr>Fort St John Municipal Arpt(YXJ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXJ</code>
+    <DestinationName>Fort St John</DestinationName>
+    <DestinationStr>Fort St John(YXJ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXJ</code>
+    <DestinationName>Ft St John Municipal Arpt</DestinationName>
+    <DestinationStr>Ft St John Municipal Arpt(YXJ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YXJ</code>
+    <DestinationName>Ft St John</DestinationName>
+    <DestinationStr>Ft St John(YXJ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYE</code>
+    <DestinationName>Fort Nelson Municipal Arpt</DestinationName>
+    <DestinationStr>Fort Nelson Municipal Arpt(YYE)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYE</code>
+    <DestinationName>Fort Nelson</DestinationName>
+    <DestinationStr>Fort Nelson(YYE)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYE</code>
+    <DestinationName>Ft Nelson Municipal Arpt</DestinationName>
+    <DestinationStr>Ft Nelson Municipal Arpt(YYE)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYE</code>
+    <DestinationName>Ft Nelson</DestinationName>
+    <DestinationStr>Ft Nelson(YYE)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YZP</code>
+    <DestinationName>Federal Airport</DestinationName>
+    <DestinationStr>Federal Airport(YZP)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZBJ</code>
+    <DestinationName>Fredericia</DestinationName>
+    <DestinationStr>Fredericia(ZBJ)-Denmark</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZCP</code>
+    <DestinationName>Foshan</DestinationName>
+    <DestinationStr>Foshan(ZCP)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZEE</code>
+    <DestinationName>Fulda</DestinationName>
+    <DestinationStr>Fulda(ZEE)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZEF</code>
+    <DestinationName>Fuerth</DestinationName>
+    <DestinationStr>Fuerth(ZEF)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZFR</code>
+    <DestinationName>Frankfurt An Der Oder</DestinationName>
+    <DestinationStr>Frankfurt An Der Oder(ZFR)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZHD</code>
+    <DestinationName>Fluelen</DestinationName>
+    <DestinationStr>Fluelen(ZHD)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZHE</code>
+    <DestinationName>Frauenfeld</DestinationName>
+    <DestinationStr>Frauenfeld(ZHE)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZHF</code>
+    <DestinationName>Fribourg</DestinationName>
+    <DestinationStr>Fribourg(ZHF)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZQN</code>
+    <DestinationName>Frankton Airport</DestinationName>
+    <DestinationStr>Frankton Airport(ZQN)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZXO</code>
+    <DestinationName>Fauske</DestinationName>
+    <DestinationStr>Fauske(ZXO)-Norway</DestinationStr>
+  </Destination>
+</DestinationRoot>

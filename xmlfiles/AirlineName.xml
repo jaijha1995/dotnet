@@ -1,0 +1,815 @@
+﻿<Airline>
+  <Airline Code="0B" Name="Blue Air"  isFeatured="1"/>
+  <Airline Code="0Y" Name="FlyYeti"  isFeatured="1"/>
+  <Airline Code="1M" Name="JSC Auto Air"  isFeatured="1"/>
+  <Airline Code="1X" Name="Branson Air"  isFeatured="1"/>
+  <Airline Code="2A" Name="Deutsche Bahn"  isFeatured="1"/>
+  <Airline Code="2B" Name="AK Bars Aero"  isFeatured="1"/>
+  <Airline Code="2C" Name="SNCF"  isFeatured="1"/>
+  <Airline Code="2D" Name="Aero VIP"  isFeatured="1"/>
+  <Airline Code="2E" Name="Smokey Bay Air"  isFeatured="1"/>
+  <Airline Code="2F" Name="Frontier"  isFeatured="1"/>
+  <Airline Code="2G" Name="Angara"  isFeatured="1"/>
+  <Airline Code="2I" Name="Star Peru"  isFeatured="1"/>
+  <Airline Code="2J" Name="Air Burkina"  isFeatured="1"/>
+  <Airline Code="2K" Name="Aerolineas"  isFeatured="1"/>
+  <Airline Code="2L" Name="Helvetic Airways"  isFeatured="1"/>
+  <Airline Code="2M" Name="Moldavian"  isFeatured="1"/>
+  <Airline Code="2O" Name="Island Air"  isFeatured="1"/>
+  <Airline Code="2P" Name="PAL"  isFeatured="1"/>
+  <Airline Code="2R" Name="Via Rail Canada"  isFeatured="1"/>
+  <Airline Code="2S" Name="Star Equatorial"  isFeatured="1"/>
+  <Airline Code="2U" Name="Sun d'Or Air"  isFeatured="1"/>
+  <Airline Code="2V" Name="Amtrak"  isFeatured="1"/>
+  <Airline Code="2X" Name="Xerox"  isFeatured="1"/>
+  <Airline Code="2Y" Name="Air Andaman"  isFeatured="1"/>
+  <Airline Code="2Z" Name="Passaredo"  isFeatured="1"/>
+  <Airline Code="3A" Name="Alliance"  isFeatured="1"/>
+  <Airline Code="3B" Name="Job"  isFeatured="1"/>
+  <Airline Code="3C" Name="Calima Aviacion"  isFeatured="1"/>
+  <Airline Code="3E" Name="Air Choice One"  isFeatured="1"/>
+  <Airline Code="3F" Name="Pacific Airways"  isFeatured="1"/>
+  <Airline Code="3G" Name="Gambia Bird"  isFeatured="1"/>
+  <Airline Code="3H" Name="Air Inuit"  isFeatured="1"/>
+  <Airline Code="3I" Name="Pison Airways"  isFeatured="1"/>
+  <Airline Code="3K" Name="Jetstar Asia Airways"  isFeatured="1"/>
+  <Airline Code="3L" Name="InterSky Luftfahrt"  isFeatured="1"/>
+  <Airline Code="3M" Name="Silver Airways"  isFeatured="1"/>
+  <Airline Code="3O" Name="Air Arabia Maroc"  isFeatured="1"/>
+  <Airline Code="3P" Name="Tiara Air"  isFeatured="1"/>
+  <Airline Code="3Q" Name="Carib Aviation"  isFeatured="1"/>
+  <Airline Code="3R" Name="Gromov Air"  isFeatured="1"/>
+  <Airline Code="3S" Name="Air Antilles"  isFeatured="1"/>
+  <Airline Code="3U" Name="Sichuan"  isFeatured="1"/>
+  <Airline Code="3W" Name="Malawian"  isFeatured="1"/>
+  <Airline Code="3Y" Name="Uniways"  isFeatured="1"/>
+  <Airline Code="4A" Name="Royal Bengal"  isFeatured="1"/>
+  <Airline Code="4B" Name="Boutique Air"  isFeatured="1"/>
+  <Airline Code="4C" Name="Aires SA"  isFeatured="1"/>
+  <Airline Code="4D" Name="Air Sinai"  isFeatured="1"/>
+  <Airline Code="4E" Name="Tanana Air"  isFeatured="1"/>
+  <Airline Code="4F" Name="Air City"  isFeatured="1"/>
+  <Airline Code="4G" Name="Gazpromavia Air"  isFeatured="1"/>
+  <Airline Code="4I" Name="IHY Izmir Air"  isFeatured="1"/>
+  <Airline Code="4K" Name="Kenn Borek Air"  isFeatured="1"/>
+  <Airline Code="4L" Name="Palau National"  isFeatured="1"/>
+  <Airline Code="4M" Name="Lan Argentina"  isFeatured="1"/>
+  <Airline Code="4N" Name="Air North Air"  isFeatured="1"/>
+  <Airline Code="4O" Name="Interjet Air"  isFeatured="1"/>
+  <Airline Code="4P" Name="Viking"  isFeatured="1"/>
+  <Airline Code="4Q" Name="Safi Airways"  isFeatured="1"/>
+  <Airline Code="4R" Name="Hamburg Air"  isFeatured="1"/>
+  <Airline Code="4T" Name="Belair"  isFeatured="0"/>
+  <Airline Code="4U" Name="Germanwings"  isFeatured="1"/>
+  <Airline Code="4V" Name="Lignes Air"  isFeatured="1"/>
+  <Airline Code="4W" Name="Warbelows Air"  isFeatured="1"/>
+  <Airline Code="4Y" Name="Yute Air"  isFeatured="1"/>
+  <Airline Code="5B" Name="Euro- Asia Air"  isFeatured="1"/>
+  <Airline Code="5C" Name="Nature Air"  isFeatured="1"/>
+  <Airline Code="5F" Name="Arctic Circle Air"  isFeatured="1"/>
+  <Airline Code="5H" Name="Five Fourty Air"  isFeatured="1"/>
+  <Airline Code="5K" Name="Hi Flyes Air"  isFeatured="1"/>
+  <Airline Code="5L" Name="Aerosur SA"  isFeatured="1"/>
+  <Airline Code="5N" Name="JSC Nordavia Airline"  isFeatured="1"/>
+  <Airline Code="5O" Name="Europe Airpost"  isFeatured="1"/>
+  <Airline Code="5P" Name="Aerolinea Air"  isFeatured="1"/>
+  <Airline Code="5Q" Name="BQB Lineas Aereas"  isFeatured="1"/>
+  <Airline Code="5S" Name="Servicios Aereos"  isFeatured="1"/>
+  <Airline Code="5T" Name="Canadian North"  isFeatured="1"/>
+  <Airline Code="5U" Name="Transportes Aereo"  isFeatured="1"/>
+  <Airline Code="5V" Name="Lviv"  isFeatured="1"/>
+  <Airline Code="5W" Name="Astraeus"  isFeatured="1"/>
+  <Airline Code="5Z" Name="Bismillah"  isFeatured="1"/>
+  <Airline Code="6C" Name="Air Timor"  isFeatured="1"/>
+  <Airline Code="6E" Name="Indigo Air"  isFeatured="1"/>
+  <Airline Code="6G" Name="Gulfstream"  isFeatured="1"/>
+  <Airline Code="6H" Name="Israir"  isFeatured="1"/>
+  <Airline Code="6I" Name="Air Alsie"  isFeatured="1"/>
+  <Airline Code="6J" Name="Solaseed"  isFeatured="1"/>
+  <Airline Code="6K" Name="Kyrgyz Trans Airline"  isFeatured="1"/>
+  <Airline Code="6L" Name="Aklak"  isFeatured="1"/>
+  <Airline Code="6N" Name="Niger"  isFeatured="1"/>
+  <Airline Code="6Q" Name="Cham Wings"  isFeatured="1"/>
+  <Airline Code="6R" Name="OJSC Mirny"  isFeatured="1"/>
+  <Airline Code="6T" Name="Air Mandalay"  isFeatured="1"/>
+  <Airline Code="6Y" Name="SmartLynx"  isFeatured="1"/>
+  <Airline Code="7A" Name="Air Next"  isFeatured="1"/>
+  <Airline Code="7E" Name="Sylt Air"  isFeatured="1"/>
+  <Airline Code="7F" Name="First Air"  isFeatured="1"/>
+  <Airline Code="7H" Name="Era Aviation"  isFeatured="1"/>
+  <Airline Code="7I" Name="Insel Air"  isFeatured="1"/>
+  <Airline Code="7J" Name="State Air"  isFeatured="1"/>
+  <Airline Code="7L" Name="Aerocaribbean"  isFeatured="1"/>
+  <Airline Code="7N" Name="Inland Aviation"  isFeatured="1"/>
+  <Airline Code="7P" Name="Air Panama"  isFeatured="1"/>
+  <Airline Code="7Q" Name="Pan Am World Airways"  isFeatured="1"/>
+  <Airline Code="7R" Name="JSC RusLine"  isFeatured="1"/>
+  <Airline Code="7S" Name="Artication"  isFeatured="1"/>
+  <Airline Code="7T" Name="Aero Express Air"  isFeatured="1"/>
+  <Airline Code="7V" Name="Federal"  isFeatured="1"/>
+  <Airline Code="7W" Name="Wind Rose Aviation"  isFeatured="1"/>
+  <Airline Code="7Y" Name="Flying Carpet Air"  isFeatured="1"/>
+  <Airline Code="8A" Name="Atlas Blue"  isFeatured="1"/>
+  <Airline Code="8C" Name="Cotai Ferry"  isFeatured="1"/>
+  <Airline Code="8D" Name="Servant Air"  isFeatured="1"/>
+  <Airline Code="8E" Name="Bering Air"  isFeatured="1"/>
+  <Airline Code="8F" Name="STP Airways"  isFeatured="1"/>
+  <Airline Code="8I" Name="InselAir"  isFeatured="1"/>
+  <Airline Code="8J" Name="Jet4You"  isFeatured="1"/>
+  <Airline Code="8L" Name="Lucky Air"  isFeatured="1"/>
+  <Airline Code="8M" Name="Myanmar Airways"  isFeatured="1"/>
+  <Airline Code="8N" Name="Regional Air"  isFeatured="1"/>
+  <Airline Code="8P" Name="Pacific Coastal"  isFeatured="1"/>
+  <Airline Code="8T" Name="Air Tindi"  isFeatured="1"/>
+  <Airline Code="8U" Name="Afriqiyah Airways"  isFeatured="1"/>
+  <Airline Code="8V" Name="Wright Air"  isFeatured="1"/>
+  <Airline Code="8W" Name="Private Wings Air"  isFeatured="1"/>
+  <Airline Code="8Z" Name="Wizz Air"  isFeatured="1"/>
+  <Airline Code="9B" Name="AccesRail"  isFeatured="1"/>
+  <Airline Code="9C" Name="Spring"  isFeatured="1"/>
+  <Airline Code="9D" Name="Toumai Air"  isFeatured="1"/>
+  <Airline Code="9E" Name="Endeavor Air"  isFeatured="1"/>
+  <!--<Airline Code="9F" Name="Eurostar"  isFeatured="1"/>-->
+  <Airline Code="9I" Name="Alliance Air"  isFeatured="1"/>
+  <Airline Code="9J" Name="Dana"  isFeatured="1"/>
+  <Airline Code="9K" Name="Cape Air"  isFeatured="1"/>
+  <Airline Code="9L" Name="Colgan Air"  isFeatured="1"/>
+  <Airline Code="9M" Name="Central Mountain Air"  isFeatured="1"/>
+  <Airline Code="9N" Name="Tropic Air"  isFeatured="1"/>
+  <Airline Code="9P" Name="Petra Airline"  isFeatured="1"/>
+  <Airline Code="9Q" Name="Caicos Express Airways"  isFeatured="1"/>
+  <Airline Code="9T" Name="Travelspan"  isFeatured="1"/>
+  <Airline Code="9U" Name="Air Moldova"  isFeatured="1"/>
+  <Airline Code="9V" Name="Avior"  isFeatured="1"/>
+  <Airline Code="9W" Name="Jet Airways"  isFeatured="1"/>
+  <Airline Code="9X" Name="New Axis Airways"  isFeatured="1"/>
+  <Airline Code="A3" Name="Aegean Airline SA"  isFeatured="0"/>
+  <Airline Code="A4" Name="Aerocomercial Air"  isFeatured="1"/>
+  <Airline Code="A5" Name="HOP"  isFeatured="1"/>
+  <Airline Code="A6" Name="AirAlps"  isFeatured="1"/>
+  <Airline Code="A8" Name="Benin Golf Air"  isFeatured="1"/>
+  <Airline Code="A9" Name="Georgian Airways"  isFeatured="1"/>
+  <Airline Code="AA" Name="American Airlines"  isFeatured="1"/>
+  <Airline Code="AB" Name="Air Berlin"  isFeatured="0"/>
+  <Airline Code="AC" Name="Air Canada"  isFeatured="1"/>
+  <Airline Code="AD" Name="Azul Linhas Aereas"  isFeatured="1"/>
+  <Airline Code="AE" Name="Mandarin"  isFeatured="1"/>
+  <Airline Code="AF" Name="Air France"  isFeatured="1"/>
+  <Airline Code="AG" Name="Aruba"  isFeatured="1"/>
+  <Airline Code="AH" Name="Air Algerie"  isFeatured="1"/>
+  <Airline Code="AI" Name="Air India"  isFeatured="1"/>
+  <Airline Code="AJ" Name="Aerocontractors"  isFeatured="1"/>
+  <Airline Code="AK" Name="AirAsia"  isFeatured="1"/>
+  <Airline Code="AL" Name="Skyway"  isFeatured="1"/>
+  <Airline Code="AM" Name="Aeromexico"  isFeatured="1"/>
+  <Airline Code="AN" Name="Airlinair"  isFeatured="1"/>
+  <Airline Code="AP" Name="AirOne"  isFeatured="1"/>
+  <Airline Code="AR" Name="Aerolineas"  isFeatured="1"/>
+  <Airline Code="AS" Name="Alaska"  isFeatured="1"/>
+  <Airline Code="AT" Name="Royal Air Maroc"  isFeatured="1"/>
+  <Airline Code="AU" Name="Austral Lineas"  isFeatured="1"/>
+  <Airline Code="AV" Name="Avianca"  isFeatured="1"/>
+  <Airline Code="AW" Name="Africa"  isFeatured="1"/>
+  <Airline Code="AX" Name="Trans States"  isFeatured="1"/>
+  <Airline Code="AY" Name="Finnair"  isFeatured="1"/>
+  <Airline Code="AZ" Name="Alitalia Cai Spa"  isFeatured="1"/>
+  <Airline Code="B2" Name="Belavia"  isFeatured="1"/>
+  <Airline Code="B6" Name="JetBlue Airways"  isFeatured="1"/>
+  <Airline Code="B7" Name="Uni Airways"  isFeatured="1"/>
+  <Airline Code="B8" Name="Eritrean"  isFeatured="1"/>
+  <Airline Code="BA" Name="British Airways"  isFeatured="1"/>
+  <Airline Code="BB" Name="Seaborne"  isFeatured="1"/>
+  <Airline Code="BD" Name="Bmi British Midland"  isFeatured="1"/>
+  <Airline Code="BE" Name="Flybe"  isFeatured="1"/>
+  <Airline Code="BF" Name="Vincent Aviation"  isFeatured="1"/>
+  <Airline Code="BG" Name="Biman Bangladesh"  isFeatured="1"/>
+  <Airline Code="BH" Name="Hawkair Aviation"  isFeatured="1"/>
+  <Airline Code="BI" Name="Royal Brunei"  isFeatured="1"/>
+  <Airline Code="BJ" Name="Nouvelair Tunisie"  isFeatured="1"/>
+  <Airline Code="BL" Name="Jetstar Pacific"  isFeatured="1"/>
+  <Airline Code="BM" Name="British Midland"  isFeatured="1"/>
+  <Airline Code="BP" Name="Air Botswana"  isFeatured="1"/>
+  <Airline Code="BQ" Name="Aeromar"  isFeatured="1"/>
+  <Airline Code="BR" Name="EVA Airways"  isFeatured="1"/>
+  <Airline Code="BT" Name="Air Baltic"  isFeatured="1"/>
+  <Airline Code="BU" Name="Compagnie"  isFeatured="1"/>
+  <Airline Code="BV" Name="Blue Panorama"  isFeatured="1"/>
+  <Airline Code="BW" Name="Caribbean"  isFeatured="1"/>
+  <Airline Code="BY" Name="Thomsonfly"  isFeatured="1"/>
+  <Airline Code="BZ" Name="Blue Bird Airways"  isFeatured="1"/>
+  <Airline Code="C0" Name="Centralwings"  isFeatured="1"/>
+  <Airline Code="C2" Name="CEIBA Intercontinental"  isFeatured="1"/>
+  <Airline Code="C3" Name="Contact Air"  isFeatured="1"/>
+  <Airline Code="C5" Name="CommutAir"  isFeatured="1"/>
+  <Airline Code="C6" Name="Canjet"  isFeatured="1"/>
+  <Airline Code="C7" Name="Cinnamon Air"  isFeatured="1"/>
+  <Airline Code="C8" Name="NAC Air LP"  isFeatured="1"/>
+  <Airline Code="C9" Name="Cirrus"  isFeatured="1"/>
+  <Airline Code="CA" Name="Air China"  isFeatured="1"/>
+  <Airline Code="CB" Name="ScotAirways"  isFeatured="1"/>
+  <Airline Code="CD" Name="Alliance Air"  isFeatured="1"/>
+  <Airline Code="CE" Name="Chalair Aviation"  isFeatured="1"/>
+  <Airline Code="CF" Name="City Airline"  isFeatured="1"/>
+  <Airline Code="CG" Name="Papua Airline"  isFeatured="1"/>
+  <Airline Code="CH" Name="Bemidji Aviation"  isFeatured="1"/>
+  <Airline Code="CI" Name="China"  isFeatured="1"/>
+  <Airline Code="CJ" Name="BA City Flyer"  isFeatured="1"/>
+  <Airline Code="CL" Name="Lufthansa Cityline"  isFeatured="1"/>
+  <Airline Code="CM" Name="Compania"  isFeatured="1"/>
+  <Airline Code="CN" Name="Grand China Air"  isFeatured="1"/>
+  <Airline Code="CO" Name="Continental"  isFeatured="1"/>
+  <Airline Code="CP" Name="Compass"  isFeatured="1"/>
+  <Airline Code="CQ" Name="Czech Connect"  isFeatured="1"/>
+  <Airline Code="CS" Name="Continental Micronesia"  isFeatured="1"/>
+  <Airline Code="CT" Name="Alitalia"  isFeatured="1"/>
+  <Airline Code="CU" Name="Cubana"  isFeatured="1"/>
+  <Airline Code="CV" Name="Air Chatham"  isFeatured="1"/>
+  <Airline Code="CX" Name="Cathay Pacific Airways"  isFeatured="1"/>
+  <Airline Code="CY" Name="Cyprus Airways"  isFeatured="1"/>
+  <Airline Code="CZ" Name="China Southern"  isFeatured="1"/>
+  <Airline Code="D2" Name="Severstal Aircompany"  isFeatured="1"/>
+  <Airline Code="D4" Name="Alidaunia"  isFeatured="1"/>
+  <Airline Code="D5" Name="Dauair"  isFeatured="1"/>
+  <Airline Code="D6" Name="Interair"  isFeatured="1"/>
+  <Airline Code="D7" Name="AirAsia"  isFeatured="1"/>
+  <Airline Code="D8" Name="Djibouti"  isFeatured="1"/>
+  <Airline Code="DB" Name="HOP Brit Air"  isFeatured="1"/>
+  <Airline Code="DC" Name="Braathens"  isFeatured="1"/>
+  <Airline Code="DD" Name="Nok Air"  isFeatured="1"/>
+  <Airline Code="DE" Name="Condor"  isFeatured="1"/>
+  <Airline Code="DF" Name="Aebal"  isFeatured="1"/>
+  <Airline Code="DG" Name="Tigerair"  isFeatured="1"/>
+  <Airline Code="DH" Name="Independence Air"  isFeatured="1"/>
+  <Airline Code="DL" Name="Delta Airlines"  isFeatured="1"/>
+  <Airline Code="DM" Name="Sterling Blue"  isFeatured="1"/>
+  <Airline Code="DN" Name="Senegal"  isFeatured="1"/>
+  <Airline Code="DO" Name="Discovery Airways"  isFeatured="1"/>
+  <Airline Code="DP" Name="First Choice Airways"  isFeatured="1"/>
+  <Airline Code="DQ" Name="Costal Air"  isFeatured="1"/>
+  <Airline Code="DR" Name="Ruili"  isFeatured="1"/>
+  <Airline Code="DT" Name="TAAG-Linha"  isFeatured="1"/>
+  <Airline Code="DU" Name="Norwegian"  isFeatured="1"/>
+  <Airline Code="DV" Name="JSC Air"  isFeatured="1"/>
+  <Airline Code="DW" Name="Aero-Charter"  isFeatured="1"/>
+  <Airline Code="DX" Name="Danish Air"  isFeatured="1"/>
+  <Airline Code="DY" Name="Norwegian Air"  isFeatured="1"/>
+  <Airline Code="E2" Name="Eagle Atlantic"  isFeatured="1"/>
+  <Airline Code="E3" Name="Sabaidee Airways"  isFeatured="1"/>
+  <Airline Code="E4" Name="Aero Asia Air"  isFeatured="1"/>
+  <Airline Code="E7" Name="Equaflight Service"  isFeatured="1"/>
+  <Airline Code="E8" Name="City Airways"  isFeatured="1"/>
+  <Airline Code="E9" Name="Evelop"  isFeatured="1"/>
+  <Airline Code="EA" Name="European Air"  isFeatured="1"/>
+  <Airline Code="EB" Name="Pullmantur Air"  isFeatured="1"/>
+  <Airline Code="ED" Name="AirExplore"  isFeatured="1"/>
+  <Airline Code="EE" Name="Eastern SkyJets"  isFeatured="1"/>
+  <Airline Code="EF" Name="Eznis Airways"  isFeatured="1"/>
+  <Airline Code="EG" Name="CJSC East Air"  isFeatured="1"/>
+  <Airline Code="EH" Name="Air Nippon"  isFeatured="1"/>
+  <Airline Code="EI" Name="Aer Lingus"  isFeatured="1"/>
+  <Airline Code="EJ" Name="New England"  isFeatured="1"/>
+  <Airline Code="EK" Name="Emirates"  isFeatured="1"/>
+  <Airline Code="EL" Name="Ellinair"  isFeatured="1"/>
+  <Airline Code="EM" Name="Aero Benin"  isFeatured="1"/>
+  <Airline Code="EN" Name="Air Dolomiti"  isFeatured="1"/>
+  <Airline Code="EO" Name="Air Go"  isFeatured="1"/>
+  <Airline Code="EP" Name="Iran Assemam"  isFeatured="1"/>
+  <Airline Code="EQ" Name="TAME"  isFeatured="1"/>
+  <Airline Code="ES" Name="DHL Air"  isFeatured="1"/>
+  <Airline Code="ET" Name="Ethiopian"  isFeatured="1"/>
+  <Airline Code="EU" Name="Chengdu"  isFeatured="1"/>
+  <Airline Code="EV" Name="ExpressJet"  isFeatured="1"/>
+  <Airline Code="EW" Name="Eurowings"  isFeatured="1"/>
+  <Airline Code="EX" Name="Air Santo"  isFeatured="1"/>
+  <Airline Code="EY" Name="Etihad Airways"  isFeatured="1"/>
+  <Airline Code="EZ" Name="Sun Air"  isFeatured="1"/>
+  <Airline Code="F3" Name="Fly Excellent"  isFeatured="1"/>
+  <Airline Code="F7" Name="Darwin Airline"  isFeatured="1"/>
+  <Airline Code="F8" Name="Freedom"  isFeatured="1"/>
+  <Airline Code="F9" Name="Frontier"  isFeatured="1"/>
+  <Airline Code="FB" Name="Bulgaria Air"  isFeatured="1"/>
+  <Airline Code="FC" Name="FlyBe Finland"  isFeatured="1"/>
+  <Airline Code="FD" Name="Thai AirAsia"  isFeatured="1"/>
+  <Airline Code="FE" Name="Far Eastern Air"  isFeatured="1"/>
+  <Airline Code="FH" Name="Freebird"  isFeatured="1"/>
+  <Airline Code="FI" Name="Icelandair"  isFeatured="1"/>
+  <Airline Code="FJ" Name="Fiji Airways"  isFeatured="1"/>
+  <Airline Code="FK" Name="Keewatin Air"  isFeatured="1"/>
+  <Airline Code="FL" Name="Airtran Airways"  isFeatured="1"/>
+  <Airline Code="FM" Name="Shanghai"  isFeatured="1"/>
+  <Airline Code="FN" Name="Regional Air Lines"  isFeatured="1"/>
+  <Airline Code="FP" Name="Freedom Air"  isFeatured="1"/>
+  <Airline Code="FR" Name="RyanAir"  isFeatured="1"/>
+  <Airline Code="FS" Name="Syphax"  isFeatured="1"/>
+  <Airline Code="FV" Name="Rossiya"  isFeatured="1"/>
+  <Airline Code="FW" Name="IBEX"  isFeatured="1"/>
+  <Airline Code="FY" Name="Firefly"  isFeatured="1"/>
+  <Airline Code="FZ" Name="flydubai"  isFeatured="1"/>
+  <Airline Code="G4" Name="Allegiant Air"  isFeatured="1"/>
+  <Airline Code="G5" Name="China Express"  isFeatured="1"/>
+  <Airline Code="G6" Name="Angkor Airways"  isFeatured="1"/>
+  <Airline Code="G8" Name="Go"  isFeatured="1"/>
+  <Airline Code="G9" Name="Air Arabia"  isFeatured="1"/>
+  <Airline Code="GA" Name="Garuda Indonesian"  isFeatured="1"/>
+  <Airline Code="GF" Name="Gulf Air"  isFeatured="1"/>
+  <Airline Code="GI" Name="Itek Air"  isFeatured="1"/>
+  <Airline Code="GK" Name="Jetstar Japan"  isFeatured="1"/>
+  <Airline Code="GL" Name="Air Greenland"  isFeatured="1"/>
+  <Airline Code="GM" Name="Air Slovakia"  isFeatured="1"/>
+  <Airline Code="GR" Name="Aurigny Air"  isFeatured="1"/>
+  <Airline Code="GS" Name="Tianjin"  isFeatured="1"/>
+  <Airline Code="GU" Name="Aviateca"  isFeatured="1"/>
+  <Airline Code="GV" Name="Grant Aviation"  isFeatured="1"/>
+  <Airline Code="GX" Name="JetX"  isFeatured="1"/>
+  <Airline Code="GY" Name="Sky Bishek"  isFeatured="1"/>
+  <Airline Code="GZ" Name="Air Rarotonga"  isFeatured="1"/>
+  <Airline Code="H1" Name="Hahn Air"  isFeatured="1"/>
+  <Airline Code="H2" Name="Sky Airline"  isFeatured="1"/>
+  <Airline Code="H3" Name="Hermes"  isFeatured="1"/>
+  <Airline Code="H4" Name="Heli Securite"  isFeatured="1"/>
+  <Airline Code="H6" Name="Hageland Aviation"  isFeatured="1"/>
+  <Airline Code="H7" Name="Eagle Air"  isFeatured="1"/>
+  <Airline Code="H9" Name="Helitt Lineas"  isFeatured="1"/>
+  <Airline Code="HA" Name="Hawaiian"  isFeatured="1"/>
+  <Airline Code="HB" Name="Asia Atlantic"  isFeatured="1"/>
+  <Airline Code="HD" Name="Hokkaido Air"  isFeatured="1"/>
+  <Airline Code="HE" Name="LGW-Luftfahrtgesellschaft"  isFeatured="1"/>
+  <Airline Code="HF" Name="Air Cote"  isFeatured="1"/>
+  <Airline Code="HG" Name="Niki Luftfahrt"  isFeatured="0"/>
+  <Airline Code="HH" Name="Taban"  isFeatured="1"/>
+  <Airline Code="HI" Name="Papillon Airways"  isFeatured="1"/>
+  <Airline Code="HK" Name="HHA Hamburg Airways"  isFeatured="1"/>
+  <Airline Code="HM" Name="Air Seychelles"  isFeatured="1"/>
+  <Airline Code="HN" Name="Afghan Jet Air"  isFeatured="1"/>
+  <Airline Code="HO" Name="Juneyao"  isFeatured="1"/>
+  <Airline Code="HQ" Name="Thomas Cook"  isFeatured="1"/>
+  <Airline Code="HR" Name="Hahn Air Lines"  isFeatured="1"/>
+  <Airline Code="HS" Name="Svenska Direktflyg"  isFeatured="1"/>
+  <Airline Code="HU" Name="Hainan"  isFeatured="1"/>
+  <Airline Code="HV" Name="Transavia"  isFeatured="0"/>
+  <Airline Code="HW" Name="North-Wright Air"  isFeatured="1"/>
+  <Airline Code="HX" Name="Hong Kong"  isFeatured="1"/>
+  <Airline Code="HY" Name="Uzbekistan Airways"  isFeatured="1"/>
+  <Airline Code="HZ" Name="JSC Aurora"  isFeatured="1"/>
+  <Airline Code="I3" Name="ATA"  isFeatured="1"/>
+  <Airline Code="I4" Name="Scott Air"  isFeatured="1"/>
+  <Airline Code="I5" Name="AirAsia"  isFeatured="1"/>
+  <Airline Code="I7" Name="Paramount Airways"  isFeatured="1"/>
+  <Airline Code="I8" Name="Aboriginal Air"  isFeatured="1"/>
+  <Airline Code="I9" Name="Air Italy SPA"  isFeatured="1"/>
+  <Airline Code="IA" Name="Iraqi Airways"  isFeatured="1"/>
+  <Airline Code="IB" Name="Iberia Lineas"  isFeatured="1"/>
+  <Airline Code="ID" Name="Batik Air"  isFeatured="1"/>
+  <Airline Code="IE" Name="Solomon"  isFeatured="1"/>
+  <Airline Code="IG" Name="Meridiana Fly"  isFeatured="1"/>
+  <Airline Code="IH" Name="Irtysh Air"  isFeatured="1"/>
+  <Airline Code="IJ" Name="Great Wall"  isFeatured="1"/>
+  <Airline Code="IO" Name="Pacific Airways"  isFeatured="1"/>
+  <Airline Code="IR" Name="Iran Air"  isFeatured="1"/>
+  <Airline Code="IS" Name="Island"  isFeatured="1"/>
+  <Airline Code="IV" Name="Caspian"  isFeatured="1"/>
+  <Airline Code="IW" Name="Wings Air"  isFeatured="1"/>
+  <Airline Code="IX" Name="Air India Charters"  isFeatured="1"/>
+  <Airline Code="IY" Name="Yemenia Yemen Airways"  isFeatured="1"/>
+  <Airline Code="IZ" Name="Arkia Israeli"  isFeatured="1"/>
+  <Airline Code="J1" Name="Primair"  isFeatured="1"/>
+  <Airline Code="J2" Name="Azerbaijan Hava"  isFeatured="1"/>
+  <Airline Code="J3" Name="Northwestern Air"  isFeatured="1"/>
+  <Airline Code="J5" Name="Alaska Seaplane Air"  isFeatured="1"/>
+  <Airline Code="J6" Name="Jamaica Air Shuttle"  isFeatured="1"/>
+  <Airline Code="J7" Name="Centre-Avia"  isFeatured="1"/>
+  <Airline Code="J8" Name="Berjaya Air Sdn Bhd"  isFeatured="1"/>
+  <Airline Code="J9" Name="Jazeera Airways"  isFeatured="1"/>
+  <Airline Code="JA" Name="Japan Airlines"  isFeatured="1"/>
+  <Airline Code="JB" Name="Helijet Air"  isFeatured="1"/>
+  <Airline Code="JD" Name="Beijing Capital"  isFeatured="1"/>
+  <Airline Code="JE" Name="Mango"  isFeatured="1"/>
+  <Airline Code="JF" Name="Jet Asia"  isFeatured="1"/>
+  <Airline Code="JH" Name="Fuji Dream"  isFeatured="1"/>
+  <Airline Code="JI" Name="San Juan Aviation"  isFeatured="1"/>
+  <Airline Code="JJ" Name="TAM Linhas Aereas"  isFeatured="1"/>
+  <Airline Code="JK" Name="Spanair"  isFeatured="1"/>
+  <Airline Code="JL" Name="Japan Co"  isFeatured="1"/>
+  <Airline Code="JM" Name="Air Jamaica"  isFeatured="1"/>
+  <Airline Code="JN" Name="Livingston Air"  isFeatured="1"/>
+  <Airline Code="JO" Name="JetTime"  isFeatured="1"/>
+  <Airline Code="JP" Name="Adria Airways"  isFeatured="1"/>
+  <Airline Code="JQ" Name="Jetstar Airways Pty"  isFeatured="1"/>
+  <Airline Code="JR" Name="Joy Air"  isFeatured="1"/>
+  <Airline Code="JS" Name="Air Koryo"  isFeatured="1"/>
+  <Airline Code="JU" Name="Air Serbia"  isFeatured="1"/>
+  <Airline Code="JV" Name="Bearskin Lake Air"  isFeatured="1"/>
+  <Airline Code="JW" Name="Vanilla Air"  isFeatured="1"/>
+  <Airline Code="JY" Name="Intercaribbean Airways"  isFeatured="1"/>
+  <Airline Code="JZ" Name="Skyways"  isFeatured="1"/>
+  <Airline Code="K2" Name="Eurolot"  isFeatured="1"/>
+  <Airline Code="K3" Name="Taquan Air Service"  isFeatured="1"/>
+  <Airline Code="K5" Name="Seaport"  isFeatured="1"/>
+  <Airline Code="K6" Name="Cambodia Angkor Air"  isFeatured="1"/>
+  <Airline Code="K9" Name="Esen Air"  isFeatured="1"/>
+  <Airline Code="KA" Name="Hong Kong Dragon"  isFeatured="1"/>
+  <Airline Code="KB" Name="Druk Air"  isFeatured="1"/>
+  <Airline Code="KC" Name="Air Astana"  isFeatured="1"/>
+  <Airline Code="KE" Name="Korean Air lines Co"  isFeatured="1"/>
+  <Airline Code="KG" Name="Aerogaviota"  isFeatured="1"/>
+  <Airline Code="KJ" Name="Airheon"  isFeatured="1"/>
+  <Airline Code="KK" Name="Atlas Jet"  isFeatured="1"/>
+  <Airline Code="KL" Name="KLM"  isFeatured="1"/>
+  <Airline Code="KM" Name="Air Malta PLC"  isFeatured="1"/>
+  <Airline Code="KO" Name="Alaska"  isFeatured="1"/>
+  <Airline Code="KP" Name="ASKY"  isFeatured="1"/>
+  <Airline Code="KQ" Name="Kenya Airways"  isFeatured="1"/>
+  <Airline Code="KR" Name="Air Bishkek"  isFeatured="1"/>
+  <Airline Code="KS" Name="Peninsula Airways"  isFeatured="1"/>
+  <Airline Code="KT" Name="Katmai Air"  isFeatured="1"/>
+  <Airline Code="KU" Name="Kuwait Airways"  isFeatured="1"/>
+  <Airline Code="KX" Name="Cayman Airways"  isFeatured="1"/>
+  <Airline Code="L4" Name="Air Liaison"  isFeatured="1"/>
+  <Airline Code="L5" Name="LAC Linea Aerea"  isFeatured="1"/>
+  <Airline Code="L6" Name="Mauritania Airline"  isFeatured="1"/>
+  <Airline Code="LA" Name="LATAM"  isFeatured="1"/>
+  <Airline Code="LB" Name="Lloyd Aereo Boliviano"  isFeatured="1"/>
+  <Airline Code="LC" Name="Equatorial Congo"  isFeatured="1"/>
+  <Airline Code="LE" Name="Lugansk"  isFeatured="1"/>
+  <Airline Code="LF" Name="FlyNordic"  isFeatured="1"/>
+  <Airline Code="LG" Name="Luxair"  isFeatured="0"/>
+  <Airline Code="LH" Name="Lufthansa"  isFeatured="0"/>
+  <Airline Code="LI" Name="Liat"  isFeatured="1"/>
+  <Airline Code="LJ" Name="Jin Air"  isFeatured="1"/>
+  <Airline Code="LK" Name="Kyrgyz"  isFeatured="1"/>
+  <Airline Code="LN" Name="Libyan"  isFeatured="1"/>
+  <Airline Code="LO" Name="LOT Polish"  isFeatured="0"/>
+  <Airline Code="LP" Name="Lan Peru"  isFeatured="1"/>
+  <Airline Code="LQ" Name="Air Guinea Cargo"  isFeatured="1"/>
+  <Airline Code="LR" Name="Lineas Aereas"  isFeatured="1"/>
+  <Airline Code="LS" Name="Jet2com"  isFeatured="1"/>
+  <Airline Code="LT" Name="Air Lituanica"  isFeatured="1"/>
+  <Airline Code="LU" Name="Transporte Aereo SA"  isFeatured="1"/>
+  <Airline Code="LW" Name="Pacific Wings LLC"  isFeatured="1"/>
+  <Airline Code="LX" Name="Swiss Air"  isFeatured="0"/>
+  <Airline Code="LY" Name="El Al Israel"  isFeatured="1"/>
+  <Airline Code="M0" Name="Aero Mongolia"  isFeatured="1"/>
+  <Airline Code="M2" Name="Mahfooz Aviation"  isFeatured="1"/>
+  <Airline Code="M3" Name="North Flying"  isFeatured="1"/>
+  <Airline Code="M4" Name="Aviompex"  isFeatured="1"/>
+  <Airline Code="M5" Name="Kenmore Air"  isFeatured="1"/>
+  <Airline Code="M9" Name="Motor Sich"  isFeatured="1"/>
+  <Airline Code="MD" Name="Air Madagascar"  isFeatured="1"/>
+  <Airline Code="ME" Name="Middle East"  isFeatured="1"/>
+  <Airline Code="MF" Name="Xiamen"  isFeatured="1"/>
+  <Airline Code="MH" Name="Malaysia Airline"  isFeatured="1"/>
+  <Airline Code="MI" Name="SilkAir"  isFeatured="1"/>
+  <Airline Code="MJ" Name="Mihin Lanka"  isFeatured="1"/>
+  <Airline Code="MK" Name="Air Mauritius"  isFeatured="1"/>
+  <Airline Code="ML" Name="Air Mediterranee"  isFeatured="1"/>
+  <Airline Code="MM" Name="Peach Aviation"  isFeatured="1"/>
+  <Airline Code="MN" Name="Comair"  isFeatured="1"/>
+  <Airline Code="MO" Name="Calm Air Air"  isFeatured="1"/>
+  <Airline Code="MP" Name="Martinair Holland NV"  isFeatured="1"/>
+  <Airline Code="MQ" Name="Envoy Air"  isFeatured="1"/>
+  <Airline Code="MS" Name="Egypt Air"  isFeatured="1"/>
+  <Airline Code="MT" Name="Thomas Cook"  isFeatured="1"/>
+  <Airline Code="MU" Name="China Eastern"  isFeatured="1"/>
+  <Airline Code="MV" Name="Armenian Air Airways"  isFeatured="1"/>
+  <Airline Code="MW" Name="Mokulele Flight"  isFeatured="1"/>
+  <Airline Code="MY" Name="Maya Island Air"  isFeatured="1"/>
+  <Airline Code="N2" Name="Dagestan"  isFeatured="1"/>
+  <Airline Code="N3" Name="Aerolineas MAS SA"  isFeatured="1"/>
+  <Airline Code="N4" Name="Trans Air Benin"  isFeatured="1"/>
+  <Airline Code="N6" Name="Nuevo Continente SA"  isFeatured="1"/>
+  <Airline Code="N7" Name="NHT Linhas Aereasa"  isFeatured="1"/>
+  <Airline Code="N9" Name="Kabo Air"  isFeatured="1"/>
+  <Airline Code="NA" Name="North American"  isFeatured="1"/>
+  <Airline Code="NB" Name="Sterling"  isFeatured="1"/>
+  <Airline Code="NF" Name="Air Vanuatu"  isFeatured="1"/>
+  <Airline Code="NH" Name="All Nippon Airways"  isFeatured="1"/>
+  <Airline Code="NK" Name="Spirit"  isFeatured="1"/>
+  <Airline Code="NL" Name="Shaheen Air Air"  isFeatured="1"/>
+  <Airline Code="NN" Name="VIM"  isFeatured="1"/>
+  <Airline Code="NO" Name="Neos"  isFeatured="1"/>
+  <Airline Code="NQ" Name="Air Japan"  isFeatured="1"/>
+  <Airline Code="NS" Name="Northeastern"  isFeatured="1"/>
+  <Airline Code="NT" Name="Binter Canarias"  isFeatured="1"/>
+  <Airline Code="NU" Name="Japan Transocean Air"  isFeatured="1"/>
+  <Airline Code="NV" Name="Air Central"  isFeatured="1"/>
+  <Airline Code="NX" Name="Air Macau"  isFeatured="1"/>
+  <Airline Code="NY" Name="Air Iceland"  isFeatured="1"/>
+  <Airline Code="NZ" Name="Air New Zealand"  isFeatured="0"/>
+  <Airline Code="O5" Name="Comores Aviation"  isFeatured="1"/>
+  <Airline Code="O7" Name="OzJet"  isFeatured="1"/>
+  <Airline Code="O8" Name="Axis Lines"  isFeatured="1"/>
+  <Airline Code="OA" Name="Olympic Air"  isFeatured="1"/>
+  <Airline Code="OC" Name="Oriental Air"  isFeatured="1"/>
+  <Airline Code="OE" Name="Cairo Aviation"  isFeatured="1"/>
+  <Airline Code="OF" Name="Air Finland"  isFeatured="1"/>
+  <Airline Code="OG" Name="Air Onix"  isFeatured="1"/>
+  <Airline Code="OJ" Name="Fly Jamaica Airways"  isFeatured="1"/>
+  <Airline Code="OK" Name="Czech"  isFeatured="1"/>
+  <Airline Code="OM" Name="MIAT - Mongolian"  isFeatured="1"/>
+  <Airline Code="ON" Name="Nauru Air t/a Our Airli"  isFeatured="1"/>
+  <Airline Code="OO" Name="Skywest"  isFeatured="1"/>
+  <Airline Code="OQ" Name="Chongqing"  isFeatured="1"/>
+  <Airline Code="OR" Name="Tui Nederland"  isFeatured="1"/>
+  <Airline Code="OS" Name="Austrian"  isFeatured="0"/>
+  <Airline Code="OU" Name="Croatia"  isFeatured="1"/>
+  <Airline Code="OV" Name="Estonian Air"  isFeatured="1"/>
+  <Airline Code="OX" Name="Orient Thai"  isFeatured="1"/>
+  <Airline Code="OY" Name="Andes Lineas Aeras SA"  isFeatured="1"/>
+  <Airline Code="OZ" Name="Asiana"  isFeatured="1"/>
+  <Airline Code="P0" Name="Proflight Commuter"  isFeatured="1"/>
+  <Airline Code="P1" Name="Public Charters"  isFeatured="1"/>
+  <Airline Code="P2" Name="AirKenya Express"  isFeatured="1"/>
+  <Airline Code="P4" Name="Aero Lineas Sosa"  isFeatured="1"/>
+  <Airline Code="P5" Name="Aero Republica SA"  isFeatured="1"/>
+  <Airline Code="P6" Name="Pascan Aviation"  isFeatured="1"/>
+  <Airline Code="P9" Name="Peruvian Airline SA"  isFeatured="1"/>
+  <Airline Code="PB" Name="Provincial"  isFeatured="1"/>
+  <Airline Code="PC" Name="Pegasus Hava"  isFeatured="1"/>
+  <Airline Code="PD" Name="Porter"  isFeatured="1"/>
+  <Airline Code="PE" Name="Altenrhein Luftfahrt"  isFeatured="1"/>
+  <Airline Code="PF" Name="Primera Air"  isFeatured="1"/>
+  <Airline Code="PG" Name="Bangkok Airways"  isFeatured="1"/>
+  <Airline Code="PH" Name="Polynesian"  isFeatured="1"/>
+  <Airline Code="PJ" Name="Air Saint-Pierre"  isFeatured="1"/>
+  <Airline Code="PK" Name="Pakistan Air"  isFeatured="1"/>
+  <Airline Code="PL" Name="Southern Air"  isFeatured="1"/>
+  <Airline Code="PM" Name="Canary Fly"  isFeatured="1"/>
+  <Airline Code="PN" Name="China West Air"  isFeatured="1"/>
+  <Airline Code="PO" Name="Polar Air"  isFeatured="1"/>
+  <Airline Code="PP" Name="Jet Aviation"  isFeatured="1"/>
+  <Airline Code="PQ" Name="AirAsia"  isFeatured="1"/>
+  <Airline Code="PR" Name="Philippine"  isFeatured="1"/>
+  <Airline Code="PS" Name="Ukraine Air Airline"  isFeatured="1"/>
+  <Airline Code="PU" Name="Pluna Lineas"  isFeatured="1"/>
+  <Airline Code="PV" Name="Saint Barth Commuter"  isFeatured="1"/>
+  <Airline Code="PW" Name="Precision Air"  isFeatured="1"/>
+  <Airline Code="PX" Name="Air Niugini"  isFeatured="1"/>
+  <Airline Code="PY" Name="Surinam Airways"  isFeatured="1"/>
+  <Airline Code="PZ" Name="Transportes"  isFeatured="1"/>
+  <Airline Code="Q0" Name="Quebecair Express"  isFeatured="1"/>
+  <Airline Code="Q4" Name="Starlink Aviation"  isFeatured="1"/>
+  <Airline Code="Q5" Name="Forty Mile Air"  isFeatured="1"/>
+  <Airline Code="Q6" Name="Skytrans Regional"  isFeatured="1"/>
+  <Airline Code="Q8" Name="Trans Air Congo"  isFeatured="1"/>
+  <Airline Code="QA" Name="Cimber A/S"  isFeatured="1"/>
+  <Airline Code="QC" Name="Cameroon"  isFeatured="1"/>
+  <Airline Code="QF" Name="Qantas Airways"  isFeatured="1"/>
+  <Airline Code="QG" Name="Qualiflyer Group"  isFeatured="1"/>
+  <Airline Code="QH" Name="Air Kyrgystan"  isFeatured="1"/>
+  <Airline Code="QJ" Name="Latpass"  isFeatured="1"/>
+  <Airline Code="QK" Name="Jazz Aviation LP"  isFeatured="1"/>
+  <Airline Code="QL" Name="Laser"  isFeatured="1"/>
+  <Airline Code="QM" Name="Air Malawi"  isFeatured="1"/>
+  <Airline Code="QO" Name="Origin Pacific Airways"  isFeatured="1"/>
+  <Airline Code="QQ" Name="Alliance Pty"  isFeatured="1"/>
+  <Airline Code="QR" Name="Qatar Airways"  isFeatured="1"/>
+  <Airline Code="QS" Name="Smartwings"  isFeatured="1"/>
+  <Airline Code="QU" Name="Utair Ukraine"  isFeatured="1"/>
+  <Airline Code="QV" Name="Lao"  isFeatured="1"/>
+  <Airline Code="QW" Name="Blue Wings"  isFeatured="1"/>
+  <Airline Code="QX" Name="Horizon Air"  isFeatured="1"/>
+  <Airline Code="QY" Name="European Air"  isFeatured="1"/>
+  <Airline Code="QZ" Name="PT Indonesia"  isFeatured="1"/>
+  <Airline Code="R2" Name="Orenair"  isFeatured="1"/>
+  <Airline Code="R3" Name="Yakutia"  isFeatured="1"/>
+  <Airline Code="R4" Name="Tulpar"  isFeatured="1"/>
+  <Airline Code="R5" Name="Jordan"  isFeatured="1"/>
+  <Airline Code="R6" Name="DOT LT"  isFeatured="1"/>
+  <Airline Code="R7" Name="Aserca CA"  isFeatured="1"/>
+  <Airline Code="R9" Name="Camai Air"  isFeatured="1"/>
+  <Airline Code="RA" Name="Nepal"  isFeatured="1"/>
+  <Airline Code="RB" Name="Syrian Arab"  isFeatured="1"/>
+  <Airline Code="RC" Name="Atlantic Airways"  isFeatured="1"/>
+  <Airline Code="RE" Name="Aer Arann Express"  isFeatured="1"/>
+  <Airline Code="RF" Name="Florida West Air"  isFeatured="1"/>
+  <Airline Code="RI" Name="Tigerair Mandala"  isFeatured="1"/>
+  <Airline Code="RJ" Name="Royal Jordanian"  isFeatured="1"/>
+  <Airline Code="RL" Name="Royal Falcon"  isFeatured="1"/>
+  <Airline Code="RM" Name="Regional Air"  isFeatured="1"/>
+  <Airline Code="RO" Name="Tarom-Romanian Air"  isFeatured="1"/>
+  <Airline Code="RP" Name="Chautauqua"  isFeatured="1"/>
+  <Airline Code="RQ" Name="Kam Air"  isFeatured="1"/>
+  <Airline Code="RR" Name="Royal Air"  isFeatured="1"/>  
+  <Airline Code="RW" Name="RAS Fluggesellschaft"  isFeatured="1"/>
+  <Airline Code="RY" Name="Royal Wings"  isFeatured="1"/>
+  <Airline Code="S0" Name="Slok Air Air"  isFeatured="1"/>
+  <Airline Code="S2" Name="Jet Lite"  isFeatured="1"/>
+  <Airline Code="S3" Name="Santa Barbara"  isFeatured="1"/>
+  <Airline Code="S4" Name="SATA Air"  isFeatured="1"/>
+  <Airline Code="S5" Name="Shuttle America"  isFeatured="1"/>
+  <Airline Code="S6" Name="Sunrise Airways"  isFeatured="1"/>
+  <Airline Code="S7" Name="Siberian"  isFeatured="1"/>
+  <Airline Code="S9" Name="Aero Surveys"  isFeatured="1"/>
+  <Airline Code="SA" Name="South African Airways"  isFeatured="1"/>
+  <Airline Code="SB" Name="Air Caledonie Air"  isFeatured="1"/>
+  <Airline Code="SC" Name="Shandong"  isFeatured="1"/>
+  <Airline Code="SD" Name="Sudan Airways"  isFeatured="1"/>
+  <Airline Code="SE" Name="XL Airways"  isFeatured="1"/>
+  <Airline Code="SF" Name="Tassili"  isFeatured="1"/>
+  <Airline Code="SG" Name="SpiceJet"  isFeatured="1"/>
+  <Airline Code="SH" Name="Sharp Aviation"  isFeatured="1"/>
+  <Airline Code="SI" Name="Blue Islands"  isFeatured="1"/>
+  <Airline Code="SJ" Name="PT Sriwijaya Air"  isFeatured="1"/>
+  <Airline Code="SK" Name="SAS Scandinavian"  isFeatured="0"/>
+  <Airline Code="SL" Name="Thai Lion"  isFeatured="1"/>
+  <Airline Code="SM" Name="Air Cairo"  isFeatured="1"/>
+  <Airline Code="SN" Name="Brussels"  isFeatured="0"/>
+  <Airline Code="SP" Name="SATA Air Acores"  isFeatured="1"/>
+  <Airline Code="SQ" Name="Singapore"  isFeatured="1"/>
+  <Airline Code="SS" Name="Corsair"  isFeatured="1"/>
+  <Airline Code="ST" Name="Germania"  isFeatured="1"/>
+  <Airline Code="SU" Name="Aeroflot Russian"  isFeatured="1"/>
+  <Airline Code="SV" Name="Saudia"  isFeatured="1"/>
+  <Airline Code="SW" Name="Air Namibia"  isFeatured="1"/>
+  <Airline Code="SX" Name="Skywork"  isFeatured="0"/>
+  <Airline Code="SY" Name="Sun Country"  isFeatured="1"/>
+  <Airline Code="SZ" Name="Air Somon Air"  isFeatured="1"/>
+  <Airline Code="T2" Name="Nakina Air Service"  isFeatured="1"/>
+  <Airline Code="T3" Name="Eastern Airways"  isFeatured="1"/>
+  <Airline Code="T5" Name="Turkmenistan"  isFeatured="1"/>
+  <Airline Code="T6" Name="1Time"  isFeatured="1"/>
+  <Airline Code="T7" Name="Twin Jet"  isFeatured="1"/>
+  <Airline Code="T8" Name="STA Trans"  isFeatured="1"/>
+  <Airline Code="T9" Name="Trans Meridian"  isFeatured="1"/>
+  <Airline Code="TA" Name="Taca Air"  isFeatured="1"/>
+  <Airline Code="TB" Name="Jet Airfly"  isFeatured="1"/>
+  <Airline Code="TC" Name="Air Tanzania"  isFeatured="1"/>
+  <Airline Code="TD" Name="Atlantis European Airways"  isFeatured="1"/>
+  <Airline Code="TF" Name="Malmo Aviation"  isFeatured="1"/>
+  <Airline Code="TG" Name="Thai Airways"  isFeatured="1"/>
+  <Airline Code="TK" Name="Turkish Airlines"  isFeatured="1"/>
+  <Airline Code="TL" Name="AirNorth"  isFeatured="1"/>
+  <Airline Code="TM" Name="LAM Lineas"  isFeatured="1"/>
+  <Airline Code="TN" Name="Air Tahiti"  isFeatured="1"/>
+  <Airline Code="TO" Name="Travsavia"  isFeatured="0"/>
+  <Airline Code="TP" Name="TAP Portugal"  isFeatured="1"/>
+  <Airline Code="TQ" Name="Tandem"  isFeatured="1"/>
+  <Airline Code="TR" Name="Tigerair"  isFeatured="1"/>
+  <Airline Code="TS" Name="Air Transat"  isFeatured="1"/>
+  <Airline Code="TT" Name="Tigerair Australia"  isFeatured="1"/>
+  <Airline Code="TU" Name="Tunis Air"  isFeatured="1"/>
+  <Airline Code="TX" Name="Air Caraibes"  isFeatured="1"/>
+  <Airline Code="TY" Name="Air Caledonie"  isFeatured="1"/>
+  <Airline Code="TZ" Name="Scoot Private"  isFeatured="1"/>
+  <Airline Code="U2" Name="Easyjet Airline"  isFeatured="1"/>
+  <Airline Code="U3" Name="Avies"  isFeatured="1"/>
+  <Airline Code="U4" Name="Buddha Air"  isFeatured="1"/>
+  <Airline Code="U6" Name="JSC Ural"  isFeatured="1"/>
+  <Airline Code="U7" Name="Air Uganda"  isFeatured="1"/>
+  <Airline Code="UA" Name="United Airlines"  isFeatured="1"/>
+  <Airline Code="UC" Name="Lan Chile Cargo"  isFeatured="1"/>
+  <Airline Code="UD" Name="Hex Air"  isFeatured="1"/>
+  <Airline Code="UE" Name="Nasair"  isFeatured="1"/>
+  <Airline Code="UF" Name="Ukrainian"  isFeatured="1"/>
+  <Airline Code="UG" Name="Tunisair Express"  isFeatured="1"/>
+  <Airline Code="UI" Name="Eurocypria"  isFeatured="1"/>
+  <Airline Code="UJ" Name="Almasria Universal"  isFeatured="1"/>
+  <Airline Code="UL" Name="SriLankan"  isFeatured="1"/>
+  <Airline Code="UM" Name="Air Zimbabwe"  isFeatured="1"/>
+  <Airline Code="UN" Name="Transaero"  isFeatured="1"/>
+  <Airline Code="UO" Name="Hong Kong Express Airways"  isFeatured="1"/>
+  <Airline Code="UP" Name="Bahamasair Holdings"  isFeatured="1"/>
+  <Airline Code="UR" Name="Utair Express"  isFeatured="1"/>
+  <Airline Code="US" Name="US Airways"  isFeatured="1"/>
+  <Airline Code="UT" Name="UTAir Aviation"  isFeatured="1"/>
+  <Airline Code="UU" Name="Air Austral"  isFeatured="1"/>
+  <Airline Code="UW" Name="Universal"  isFeatured="1"/>
+  <Airline Code="UX" Name="Air Europa"  isFeatured="1"/>
+  <Airline Code="UY" Name="Air Caucasus"  isFeatured="1"/>
+  <Airline Code="UZ" Name="Buraq Air"  isFeatured="1"/>
+  <Airline Code="V0" Name="Conviasa"  isFeatured="1"/>
+  <Airline Code="V2" Name="Vision"  isFeatured="1"/>
+  <Airline Code="V3" Name="Carpatair SA"  isFeatured="1"/>
+  <Airline Code="V5" Name="VIP Wings"  isFeatured="1"/>
+  <Airline Code="V6" Name="VIP SA"  isFeatured="1"/>
+  <Airline Code="V7" Name="Volotea SL"  isFeatured="1"/>
+  <Airline Code="V8" Name="Iliamna Air Taxi"  isFeatured="1"/>
+  <Airline Code="V9" Name="Citywing"  isFeatured="1"/>
+  <Airline Code="VA" Name="Virgin Australia Air"  isFeatured="0"/>
+  <Airline Code="VE" Name="CAI Second"  isFeatured="1"/>
+  <Airline Code="VF" Name="Valuair"  isFeatured="1"/>
+  <Airline Code="VH" Name="Aeropostal"  isFeatured="1"/>
+  <Airline Code="VI" Name="Volga-Dnepr Airline"  isFeatured="1"/>
+  <Airline Code="VJ" Name="Jatayu"  isFeatured="1"/>
+  <Airline Code="VL" Name="Air Via"  isFeatured="1"/>
+  <Airline Code="VN" Name="Vietnam"  isFeatured="1"/>
+  <Airline Code="VO" Name="Tyrolean Airways"  isFeatured="1"/>
+  <Airline Code="VQ" Name="Novo Air"  isFeatured="1"/>
+  <Airline Code="VR" Name="Transportes"  isFeatured="1"/>
+  <Airline Code="VS" Name="Virgin Atlantic"  isFeatured="1"/>
+  <Airline Code="VT" Name="Air Tahiti"  isFeatured="1"/>
+  <Airline Code="VU" Name="Air Ivoire"  isFeatured="1"/>
+  <Airline Code="VV" Name="Aerosvit"  isFeatured="1"/>
+  <Airline Code="VW" Name="Transportes"  isFeatured="1"/>
+  <Airline Code="VX" Name="Virgin America"  isFeatured="1"/>
+  <Airline Code="VY" Name="Vueling"  isFeatured="1"/>
+  <Airline Code="VZ" Name="My TravelLite"  isFeatured="1"/>
+  <Airline Code="W2" Name="FlexFlight"  isFeatured="1"/>
+  <Airline Code="W3" Name="Arik Air"  isFeatured="1"/>
+  <Airline Code="W5" Name="Mahan Air"  isFeatured="1"/>
+  <Airline Code="W6" Name="Wizz Air Hungary"  isFeatured="1"/>
+  <Airline Code="WA" Name="KLM Cityhopper"  isFeatured="1"/>
+  <Airline Code="WB" Name="Rwandair Express"  isFeatured="1"/>
+  <Airline Code="WC" Name="Islena"  isFeatured="1"/>
+  <Airline Code="WE" Name="Thai Smile Airways"  isFeatured="1"/>
+  <Airline Code="WF" Name="Wideroes Flyveselskap"  isFeatured="1"/>
+  <Airline Code="WG" Name="Sunwing"  isFeatured="1"/>
+  <Airline Code="WH" Name="Westair Benin"  isFeatured="1"/>
+  <Airline Code="WI" Name="Tradewinds"  isFeatured="1"/>
+  <Airline Code="WJ" Name="Labrador Airways"  isFeatured="1"/>
+  <Airline Code="WK" Name="Edelweiss Air AG"  isFeatured="1"/>
+  <Airline Code="WM" Name="Windward Island Airways"  isFeatured="1"/>
+  <Airline Code="WN" Name="Southwest"  isFeatured="1"/>
+  <Airline Code="WO" Name="World Airways"  isFeatured="1"/>
+  <Airline Code="WP" Name="Island Air"  isFeatured="1"/>
+  <Airline Code="WR" Name="Aviaprad"  isFeatured="1"/>
+  <Airline Code="WS" Name="WestJet"  isFeatured="1"/>
+  <Airline Code="WT" Name="Wasaya Airways"  isFeatured="1"/>
+  <Airline Code="WU" Name="Wizz Air"  isFeatured="1"/>
+  <Airline Code="WW" Name="Wow Air"  isFeatured="1"/>
+  <Airline Code="WX" Name="City Jet"  isFeatured="1"/>
+  <Airline Code="WY" Name="Oman Air"  isFeatured="1"/>
+  <Airline Code="X3" Name="TUIfly"  isFeatured="1"/>
+  <Airline Code="X4" Name="Air Excursions"  isFeatured="1"/>
+  <Airline Code="X5" Name="Afrique"  isFeatured="1"/>
+  <Airline Code="X7" Name="Exec Air"  isFeatured="1"/>
+  <Airline Code="X8" Name="Icaro"  isFeatured="1"/>
+  <Airline Code="X9" Name="Avion Express"  isFeatured="1"/>
+  <Airline Code="XA" Name="Railroad"  isFeatured="1"/>
+  <Airline Code="XB" Name="IATA BSP"  isFeatured="1"/>
+  <Airline Code="XD" Name="Bus"  isFeatured="1"/>
+  <Airline Code="XE" Name="Express Jet"  isFeatured="1"/>
+  <Airline Code="XG" Name="SunExpress"  isFeatured="0"/>
+  <Airline Code="XH" Name="Other Travel"  isFeatured="1"/>
+  <Airline Code="XI" Name="Charter"  isFeatured="1"/>
+  <Airline Code="XJ" Name="Thai Air"  isFeatured="1"/>
+  <Airline Code="XK" Name="Air Corsica"  isFeatured="1"/>
+  <Airline Code="XL" Name="Lan Ecuador"  isFeatured="1"/>
+  <Airline Code="XM" Name="CAI First SPA"  isFeatured="1"/>
+  <Airline Code="XO" Name="LTE Air Airways"  isFeatured="1"/>
+  <Airline Code="XP" Name="TEM Enterprises"  isFeatured="1"/>
+  <Airline Code="XQ" Name="SunExpress"  isFeatured="0"/>
+  <Airline Code="XT" Name="Skystar Airways"  isFeatured="1"/>
+  <Airline Code="XU" Name="African Express Airways"  isFeatured="1"/>
+  <Airline Code="XV" Name="MR Lines"  isFeatured="1"/>
+  <Airline Code="XY" Name="Flynas National Air"  isFeatured="1"/>
+  <Airline Code="XZ" Name="National Air"  isFeatured="1"/>
+  <Airline Code="Y0" Name="Yellow Air"  isFeatured="1"/>
+  <Airline Code="Y3" Name="Driessen"  isFeatured="1"/>
+  <Airline Code="Y4" Name="Concesionaria"  isFeatured="1"/>
+  <Airline Code="Y5" Name="Golden Myanmar"  isFeatured="1"/>
+  <Airline Code="Y7" Name="JSC Airline"  isFeatured="1"/>
+  <Airline Code="Y8" Name="Yangtze River"  isFeatured="1"/>
+  <Airline Code="YB" Name="South African"  isFeatured="1"/>
+  <Airline Code="YC" Name="Yamal"  isFeatured="1"/>
+  <Airline Code="YD" Name="Mauritania Airways"  isFeatured="1"/>
+  <Airline Code="YE" Name="YanAir"  isFeatured="1"/>
+  <Airline Code="YG" Name="South"  isFeatured="1"/>
+  <Airline Code="YH" Name="Sunsplash Aviation"  isFeatured="1"/>
+  <Airline Code="YI" Name="Air Sunshine"  isFeatured="1"/>
+  <Airline Code="YJ" Name="AMC"  isFeatured="1"/>
+  <Airline Code="YL" Name="Air Bissau Air"  isFeatured="1"/>
+  <Airline Code="YM" Name="Montenergo"  isFeatured="1"/>
+  <Airline Code="YN" Name="Air Creebec"  isFeatured="1"/>
+  <Airline Code="YO" Name="Heli-Air"  isFeatured="1"/>
+  <Airline Code="YQ" Name="Aircompany"  isFeatured="1"/>
+  <Airline Code="YR" Name="Scenic"  isFeatured="1"/>
+  <Airline Code="YS" Name="HOP Regional"  isFeatured="1"/>
+  <Airline Code="YT" Name="Yeti"  isFeatured="1"/>
+  <Airline Code="YU" Name="Euroatlantic Airways"  isFeatured="1"/>
+  <Airline Code="YV" Name="Mesa"  isFeatured="1"/>
+  <Airline Code="YW" Name="Air Nostrum"  isFeatured="1"/>
+  <Airline Code="YY" Name="All"  isFeatured="1"/>
+  <Airline Code="Z2" Name="Zest Airways"  isFeatured="1"/>
+  <Airline Code="Z3" Name="PM Air"  isFeatured="1"/>
+  <Airline Code="Z4" Name="Zagros Air"  isFeatured="1"/>
+  <Airline Code="Z5" Name="GMG"  isFeatured="1"/>
+  <Airline Code="Z6" Name="Dniproavia"  isFeatured="1"/>
+  <Airline Code="Z7" Name="Fresh Air"  isFeatured="1"/>
+  <Airline Code="ZA" Name="Astair"  isFeatured="1"/>
+  <Airline Code="ZC" Name="Korongo"  isFeatured="1"/>
+  <Airline Code="ZD" Name="EWA Air"  isFeatured="1"/>
+  <Airline Code="ZG" Name="Viva Macau"  isFeatured="1"/>
+  <Airline Code="ZH" Name="Shenzhen"  isFeatured="1"/>
+  <Airline Code="ZI" Name="Aigle Azur"  isFeatured="1"/>
+  <Airline Code="ZJ" Name="Zambezi"  isFeatured="1"/>
+  <Airline Code="ZK" Name="Great Lakes"  isFeatured="1"/>
+  <Airline Code="ZL" Name="Regional"  isFeatured="1"/>
+  <Airline Code="ZM" Name="Air Manas"  isFeatured="1"/>
+  <Airline Code="ZN" Name="Naysa"  isFeatured="1"/>
+  <Airline Code="ZP" Name="Silk Way"  isFeatured="1"/>
+  <Airline Code="ZR" Name="Alexandria"  isFeatured="1"/>
+  <Airline Code="ZW" Name="Air Wisconsin"  isFeatured="1"/>
+  <Airline Code="ZX" Name="Air Georgia Air"  isFeatured="1"/>
+  <Airline Code="ZY" Name="Sky"  isFeatured="1"/>
+  <Airline Code="CM" Name="Copa"  isFeatured="1"/>
+  <Airline Code="OB" Name="Boliviana De Aviacion"  isFeatured="1"/>
+  <Airline Code="G3" Name="Gol Linhas Aereas"  isFeatured="1"/>
+  <Airline Code="UK" Name="Vistara"  isFeatured="1"/>
+
+  <Airline Code="Y4" Name="Volaris"  isFeatured="1"/>
+  <Airline Code="VB" Name="Viva Aerobus"  isFeatured="1"/>
+  <Airline Code="Q6" Name="Volaris Costa Rica"  isFeatured="1"/>
+  
+  
+</Airline>

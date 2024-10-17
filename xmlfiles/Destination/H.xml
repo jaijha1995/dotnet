@@ -1,0 +1,3047 @@
+﻿<DestinationRoot>
+  <Destination>
+    <code>NORESULT</code>
+    <DestinationName>NORESULT</DestinationName>
+    <DestinationStr>No Result Found</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AHC</code>
+    <DestinationName>Herlong Arpt</DestinationName>
+    <DestinationStr>Herlong Arpt(AHC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AHC</code>
+    <DestinationName>Herlong</DestinationName>
+    <DestinationStr>Herlong(AHC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ALG</code>
+    <DestinationName>Houari Boumedienne Arpt</DestinationName>
+    <DestinationStr>Houari Boumedienne Arpt(ALG)-Algeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ASL</code>
+    <DestinationName>Harrison County Arpt</DestinationName>
+    <DestinationStr>Harrison County Arpt(ASL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ATL</code>
+    <DestinationName>Hartsfield Jackson Intl Arpt</DestinationName>
+    <DestinationStr>Hartsfield Jackson Intl Arpt(ATL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BCV</code>
+    <DestinationName>Hector Silva Airport</DestinationName>
+    <DestinationStr>Hector Silva Airport(BCV)-Belize</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BDO</code>
+    <DestinationName>Husein Sastranegara Arpt</DestinationName>
+    <DestinationStr>Husein Sastranegara Arpt(BDO)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BEQ</code>
+    <DestinationName>Honington Arpt</DestinationName>
+    <DestinationStr>Honington Arpt(BEQ)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BHB</code>
+    <DestinationName>Hancock County</DestinationName>
+    <DestinationStr>Hancock County(BHB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BTH</code>
+    <DestinationName>Hang Nadim Arpt</DestinationName>
+    <DestinationStr>Hang Nadim Arpt(BTH)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CAP</code>
+    <DestinationName>Hugo Chavez Intl</DestinationName>
+    <DestinationStr>Hugo Chavez Intl(CAP)-Haiti</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CDH</code>
+    <DestinationName>Harrell Fieldsandro Arpt</DestinationName>
+    <DestinationStr>Harrell Fieldsandro Arpt(CDH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CLE</code>
+    <DestinationName>Hopkins Intl Arpt</DestinationName>
+    <DestinationStr>Hopkins Intl Arpt(CLE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CMX</code>
+    <DestinationName>Houghton Cty Memorial Arpt</DestinationName>
+    <DestinationStr>Houghton Cty Memorial Arpt(CMX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CMX</code>
+    <DestinationName>Houghton</DestinationName>
+    <DestinationStr>Houghton(CMX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CUR</code>
+    <DestinationName>Hato International</DestinationName>
+    <DestinationStr>Hato International(CUR)-Curacao</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DAC</code>
+    <DestinationName>Hazrat Shahjalal Intl Arpt</DestinationName>
+    <DestinationStr>Hazrat Shahjalal Intl Arpt(DAC)-Bangladesh</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DUC</code>
+    <DestinationName>Halliburton Arpt</DestinationName>
+    <DestinationStr>Halliburton Arpt(DUC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DYG</code>
+    <DestinationName>Hehua Airport</DestinationName>
+    <DestinationStr>Hehua Airport(DYG)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EUN</code>
+    <DestinationName>Hassan I Arpt</DestinationName>
+    <DestinationStr>Hassan I Arpt(EUN)-Morocco</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EVE</code>
+    <DestinationName>Harstad Narvik</DestinationName>
+    <DestinationStr>Harstad Narvik(EVE)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FAR</code>
+    <DestinationName>Hector Airport</DestinationName>
+    <DestinationStr>Hector Airport(FAR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FLN</code>
+    <DestinationName>Hercilio Luz Arpt</DestinationName>
+    <DestinationStr>Hercilio Luz Arpt(FLN)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GRI</code>
+    <DestinationName>Hall Cty Regional</DestinationName>
+    <DestinationStr>Hall Cty Regional(GRI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GTW</code>
+    <DestinationName>Holesov Airport</DestinationName>
+    <DestinationStr>Holesov Airport(GTW)-Czech Republic</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GYD</code>
+    <DestinationName>Heydar Aliyev Intl Arpt</DestinationName>
+    <DestinationStr>Heydar Aliyev Intl Arpt(GYD)-Azerbaijan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HAA</code>
+    <DestinationName>Hasvik</DestinationName>
+    <DestinationStr>Hasvik(HAA)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HAB</code>
+    <DestinationName>Hamilton</DestinationName>
+    <DestinationStr>Hamilton(HAB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HAB</code>
+    <DestinationName>Marion County</DestinationName>
+    <DestinationStr>Marion County(HAB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HAC</code>
+    <DestinationName>Hachijo Jima Arpt</DestinationName>
+    <DestinationStr>Hachijo Jima Arpt(HAC)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HAC</code>
+    <DestinationName>Hachijo Jima</DestinationName>
+    <DestinationStr>Hachijo Jima(HAC)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HAD</code>
+    <DestinationName>Halmstad Arpt</DestinationName>
+    <DestinationStr>Halmstad Arpt(HAD)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HAD</code>
+    <DestinationName>Halmstad</DestinationName>
+    <DestinationStr>Halmstad(HAD)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HAE</code>
+    <DestinationName>Havasupai Arpt</DestinationName>
+    <DestinationStr>Havasupai Arpt(HAE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HAE</code>
+    <DestinationName>HAVASUPAI</DestinationName>
+    <DestinationStr>HAVASUPAI(HAE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HAF</code>
+    <DestinationName>Half Moon Bay Arpt</DestinationName>
+    <DestinationStr>Half Moon Bay Arpt(HAF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HAF</code>
+    <DestinationName>Half Moon Bay</DestinationName>
+    <DestinationStr>Half Moon Bay(HAF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HAG</code>
+    <DestinationName>Den Haag</DestinationName>
+    <DestinationStr>Den Haag(HAG)-Netherlands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HAG</code>
+    <DestinationName>Hague Arpt</DestinationName>
+    <DestinationStr>Hague Arpt(HAG)-Netherlands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HAG</code>
+    <DestinationName>The Hague</DestinationName>
+    <DestinationStr>The Hague(HAG)-Netherlands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HAH</code>
+    <DestinationName>Prince Said Ibrahim In</DestinationName>
+    <DestinationStr>Prince Said Ibrahim In(HAH)-Comoros</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HAI</code>
+    <DestinationName>Three Rivers</DestinationName>
+    <DestinationStr>Three Rivers(HAI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HAJ</code>
+    <DestinationName>Hanover Arpt</DestinationName>
+    <DestinationStr>Hanover Arpt(HAJ)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HAJ</code>
+    <DestinationName>Hanover</DestinationName>
+    <DestinationStr>Hanover(HAJ)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HAK</code>
+    <DestinationName>Haikou Arpt</DestinationName>
+    <DestinationStr>Haikou Arpt(HAK)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HAK</code>
+    <DestinationName>Haikou</DestinationName>
+    <DestinationStr>Haikou(HAK)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HAM</code>
+    <DestinationName>Fuhlsbuettel Arpt</DestinationName>
+    <DestinationStr>Fuhlsbuettel Arpt(HAM)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HAM</code>
+    <DestinationName>Hamburg</DestinationName>
+    <DestinationStr>Hamburg(HAM)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HAN</code>
+    <DestinationName>Hanoi</DestinationName>
+    <DestinationStr>Hanoi(HAN)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HAN</code>
+    <DestinationName>Noibai Arpt</DestinationName>
+    <DestinationStr>Noibai Arpt(HAN)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HAO</code>
+    <DestinationName>Hamilton</DestinationName>
+    <DestinationStr>Hamilton(HAO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HAP</code>
+    <DestinationName>Long Island Arpt</DestinationName>
+    <DestinationStr>Long Island Arpt(HAP)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HAP</code>
+    <DestinationName>Long Island</DestinationName>
+    <DestinationStr>Long Island(HAP)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HAR</code>
+    <DestinationName>Harrisburg Skyport Airport</DestinationName>
+    <DestinationStr>Harrisburg Skyport Airport(HAR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HAR</code>
+    <DestinationName>Harrisburg</DestinationName>
+    <DestinationStr>Harrisburg(HAR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HAS</code>
+    <DestinationName>Hail Arpt</DestinationName>
+    <DestinationStr>Hail Arpt(HAS)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HAS</code>
+    <DestinationName>Hail</DestinationName>
+    <DestinationStr>Hail(HAS)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HAU</code>
+    <DestinationName>Haugesund</DestinationName>
+    <DestinationStr>Haugesund(HAU)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HAU</code>
+    <DestinationName>Karmoy Arpt</DestinationName>
+    <DestinationStr>Karmoy Arpt(HAU)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HAV</code>
+    <DestinationName>Havana</DestinationName>
+    <DestinationStr>Havana(HAV)-Cuba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HAV</code>
+    <DestinationName>Jose Marti Intl Arpt</DestinationName>
+    <DestinationStr>Jose Marti Intl Arpt(HAV)-Cuba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HAV</code>
+    <DestinationName>La Habana</DestinationName>
+    <DestinationStr>La Habana(HAV)-Cuba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HAW</code>
+    <DestinationName>Haverfordwest</DestinationName>
+    <DestinationStr>Haverfordwest(HAW)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HAX</code>
+    <DestinationName>Hatbox Field Arpt</DestinationName>
+    <DestinationStr>Hatbox Field Arpt(HAX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HAY</code>
+    <DestinationName>Haycock Arpt</DestinationName>
+    <DestinationStr>Haycock Arpt(HAY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HAY</code>
+    <DestinationName>Haycock</DestinationName>
+    <DestinationStr>Haycock(HAY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HBA</code>
+    <DestinationName>Hobart International Arpt</DestinationName>
+    <DestinationStr>Hobart International Arpt(HBA)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HBA</code>
+    <DestinationName>Hobart</DestinationName>
+    <DestinationStr>Hobart(HBA)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HBB</code>
+    <DestinationName>Industrial Airpark Arpt</DestinationName>
+    <DestinationStr>Industrial Airpark Arpt(HBB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HBE</code>
+    <DestinationName>Borg El Arab Arpt</DestinationName>
+    <DestinationStr>Borg El Arab Arpt(HBE)-Egypt</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HBE</code>
+    <DestinationName>Borg El Arab</DestinationName>
+    <DestinationStr>Borg El Arab(HBE)-Egypt</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HBG</code>
+    <DestinationName>Bobby L Chain Municipal</DestinationName>
+    <DestinationStr>Bobby L Chain Municipal(HBG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HBG</code>
+    <DestinationName>Hattiesburg</DestinationName>
+    <DestinationStr>Hattiesburg(HBG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HBH</code>
+    <DestinationName>Hobart Bay Arpt</DestinationName>
+    <DestinationStr>Hobart Bay Arpt(HBH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HBH</code>
+    <DestinationName>Hobart Bay</DestinationName>
+    <DestinationStr>Hobart Bay(HBH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HBI</code>
+    <DestinationName>Harbour Island Arpt</DestinationName>
+    <DestinationStr>Harbour Island Arpt(HBI)-Bahamas</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HBI</code>
+    <DestinationName>Harbour Island</DestinationName>
+    <DestinationStr>Harbour Island(HBI)-Bahamas</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HBK</code>
+    <DestinationName>Holbrook</DestinationName>
+    <DestinationStr>Holbrook(HBK)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>HBM</code>
+    <DestinationName>Macheng</DestinationName>
+    <DestinationStr>Macheng(HBM)-China</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>HBT</code>
+    <DestinationName>Hafr Albatin</DestinationName>
+    <DestinationStr>Hafr Albatin(HBT)-Saudi Arabia</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>HBX</code>
+    <DestinationName>Hubli Arpt</DestinationName>
+    <DestinationStr>Hubli Arpt(HBX)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HBX</code>
+    <DestinationName>Hubli</DestinationName>
+    <DestinationStr>Hubli(HBX)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HCA</code>
+    <DestinationName>BIG SPRING</DestinationName>
+    <DestinationStr>BIG SPRING(HCA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HCA</code>
+    <DestinationName>Howard Arpt</DestinationName>
+    <DestinationStr>Howard Arpt(HCA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HCJ</code>
+    <DestinationName>Hechi</DestinationName>
+    <DestinationStr>Hechi(HCJ)-China</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>HCN</code>
+    <DestinationName>Hengchun Arpt</DestinationName>
+    <DestinationStr>Hengchun Arpt(HCN)-Taiwan, Province of China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HCN</code>
+    <DestinationName>Hengchun</DestinationName>
+    <DestinationStr>Hengchun(HCN)-Taiwan, Province of China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HCQ</code>
+    <DestinationName>Halls Creek Arpt</DestinationName>
+    <DestinationStr>Halls Creek Arpt(HCQ)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HCQ</code>
+    <DestinationName>Halls Creek</DestinationName>
+    <DestinationStr>Halls Creek(HCQ)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HCR</code>
+    <DestinationName>Holy Cross</DestinationName>
+    <DestinationStr>Holy Cross(HCR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HCS</code>
+    <DestinationName>Randburg Heliport</DestinationName>
+    <DestinationStr>Randburg Heliport(HCS)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HDB</code>
+    <DestinationName>Heidelberg Arpt</DestinationName>
+    <DestinationStr>Heidelberg Arpt(HDB)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HDB</code>
+    <DestinationName>Heidelberg</DestinationName>
+    <DestinationStr>Heidelberg(HDB)-Germany</DestinationStr>
+  </Destination>
+  <!--<Destination>
+    <code>HDD</code>
+    <DestinationName>Hyderabad</DestinationName>
+    <DestinationStr>Hyderabad(HDD)-Pakistan</DestinationStr>
+  </Destination>-->
+  <Destination>
+    <code>HDF</code>
+    <DestinationName>Heringsdorf Arpt</DestinationName>
+    <DestinationStr>Heringsdorf Arpt(HDF)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HDF</code>
+    <DestinationName>Heringsdorf</DestinationName>
+    <DestinationStr>Heringsdorf(HDF)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HDG</code>
+    <DestinationName>Handan</DestinationName>
+    <DestinationStr>Handan(HDG)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HDG</code>
+    <DestinationName>Hebei Handan</DestinationName>
+    <DestinationStr>Hebei Handan(HDG)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HDN</code>
+    <DestinationName>Hayden Arpt</DestinationName>
+    <DestinationStr>Hayden Arpt(HDN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HDN</code>
+    <DestinationName>Hayden</DestinationName>
+    <DestinationStr>Hayden(HDN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HDQ</code>
+    <DestinationName>Headquarters Arpt</DestinationName>
+    <DestinationStr>Headquarters Arpt(HDQ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HDQ</code>
+    <DestinationName>Headquarters</DestinationName>
+    <DestinationStr>Headquarters(HDQ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HDS</code>
+    <DestinationName>Hoedspruit Arpt</DestinationName>
+    <DestinationStr>Hoedspruit Arpt(HDS)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HDS</code>
+    <DestinationName>Hoedspruit</DestinationName>
+    <DestinationStr>Hoedspruit(HDS)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HDY</code>
+    <DestinationName>Hat Yai International Arpt</DestinationName>
+    <DestinationStr>Hat Yai International Arpt(HDY)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HDY</code>
+    <DestinationName>Hat Yai</DestinationName>
+    <DestinationStr>Hat Yai(HDY)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HEA</code>
+    <DestinationName>Herat Arpt</DestinationName>
+    <DestinationStr>Herat Arpt(HEA)-Afghanistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HEA</code>
+    <DestinationName>Herat</DestinationName>
+    <DestinationStr>Herat(HEA)-Afghanistan</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>HED</code>
+    <DestinationName>Herendeen Arpt</DestinationName>
+    <DestinationStr>Herendeen Arpt(HED)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HED</code>
+    <DestinationName>Herendeen</DestinationName>
+    <DestinationStr>Herendeen(HED)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HEE</code>
+    <DestinationName>Helena Arpt</DestinationName>
+    <DestinationStr>Helena Arpt(HEE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HEE</code>
+    <DestinationName>Helena</DestinationName>
+    <DestinationStr>Helena(HEE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HEH</code>
+    <DestinationName>Heho Arpt</DestinationName>
+    <DestinationStr>Heho Arpt(HEH)-Myanmar</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HEH</code>
+    <DestinationName>Heho</DestinationName>
+    <DestinationStr>Heho(HEH)-Myanmar</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HEI</code>
+    <DestinationName>Heide Arpt</DestinationName>
+    <DestinationStr>Heide Arpt(HEI)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HEI</code>
+    <DestinationName>Heide Buesum</DestinationName>
+    <DestinationStr>Heide Buesum(HEI)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HEK</code>
+    <DestinationName>Heihe Airport</DestinationName>
+    <DestinationStr>Heihe Airport(HEK)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HEK</code>
+    <DestinationName>Heihe</DestinationName>
+    <DestinationStr>Heihe(HEK)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HEL</code>
+    <DestinationName>Helsinki Arpt</DestinationName>
+    <DestinationStr>Helsinki Arpt(HEL)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HEL</code>
+    <DestinationName>Helsinki</DestinationName>
+    <DestinationStr>Helsinki(HEL)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HEM</code>
+    <DestinationName>Helsinki Malmi Arpt</DestinationName>
+    <DestinationStr>Helsinki Malmi Arpt(HEM)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HER</code>
+    <DestinationName>Heraklion</DestinationName>
+    <DestinationStr>Heraklion(HER)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HER</code>
+    <DestinationName>Irakleion</DestinationName>
+    <DestinationStr>Irakleion(HER)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HER</code>
+    <DestinationName>N Kazantzakis Arpt</DestinationName>
+    <DestinationStr>N Kazantzakis Arpt(HER)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HES</code>
+    <DestinationName>Hermiston</DestinationName>
+    <DestinationStr>Hermiston(HES)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HET</code>
+    <DestinationName>Hohhot Arpt</DestinationName>
+    <DestinationStr>Hohhot Arpt(HET)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HET</code>
+    <DestinationName>Hohhot</DestinationName>
+    <DestinationStr>Hohhot(HET)-China</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>HEV</code>
+    <DestinationName>Huelva</DestinationName>
+    <DestinationStr>Huelva(HEV)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HEX</code>
+    <DestinationName>Herrera Arpt</DestinationName>
+    <DestinationStr>Herrera Arpt(HEX)-Dominican Republic</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HEY</code>
+    <DestinationName>Hanchey Army Heliport</DestinationName>
+    <DestinationStr>Hanchey Army Heliport(HEY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HEZ</code>
+    <DestinationName>Natchez Adams Cty</DestinationName>
+    <DestinationStr>Natchez Adams Cty(HEZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HEZ</code>
+    <DestinationName>Natchez</DestinationName>
+    <DestinationStr>Natchez(HEZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HFA</code>
+    <DestinationName>Haifa Arpt</DestinationName>
+    <DestinationStr>Haifa Arpt(HFA)-Israel</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HFA</code>
+    <DestinationName>Haifa</DestinationName>
+    <DestinationStr>Haifa(HFA)-Israel</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HFD</code>
+    <DestinationName>Brainard Arpt</DestinationName>
+    <DestinationStr>Brainard Arpt(HFD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HFD</code>
+    <DestinationName>Hartford</DestinationName>
+    <DestinationStr>Hartford(HFD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HFE</code>
+    <DestinationName>Hefei Arpt</DestinationName>
+    <DestinationStr>Hefei Arpt(HFE)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HFE</code>
+    <DestinationName>Hefei</DestinationName>
+    <DestinationStr>Hefei(HFE)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HFN</code>
+    <DestinationName>Hornafjordur Arpt</DestinationName>
+    <DestinationStr>Hornafjordur Arpt(HFN)-Iceland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HFN</code>
+    <DestinationName>Hornafjordur</DestinationName>
+    <DestinationStr>Hornafjordur(HFN)-Iceland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HFT</code>
+    <DestinationName>Hammerfest Arpt</DestinationName>
+    <DestinationStr>Hammerfest Arpt(HFT)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HFT</code>
+    <DestinationName>Hammerfest</DestinationName>
+    <DestinationStr>Hammerfest(HFT)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HGA</code>
+    <DestinationName>Hargeisa Arpt</DestinationName>
+    <DestinationStr>Hargeisa Arpt(HGA)-Somalia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HGA</code>
+    <DestinationName>Hargeisa</DestinationName>
+    <DestinationStr>Hargeisa(HGA)-Somalia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HGD</code>
+    <DestinationName>Hughenden Arpt</DestinationName>
+    <DestinationStr>Hughenden Arpt(HGD)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HGD</code>
+    <DestinationName>Hughenden</DestinationName>
+    <DestinationStr>Hughenden(HGD)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HGH</code>
+    <DestinationName>Hangzhou Arpt</DestinationName>
+    <DestinationStr>Hangzhou Arpt(HGH)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HGH</code>
+    <DestinationName>Hangzhou</DestinationName>
+    <DestinationStr>Hangzhou(HGH)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HGL</code>
+    <DestinationName>Helgoland Arpt</DestinationName>
+    <DestinationStr>Helgoland Arpt(HGL)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HGL</code>
+    <DestinationName>Helgoland</DestinationName>
+    <DestinationStr>Helgoland(HGL)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HGN</code>
+    <DestinationName>Mae Hong Son Arpt</DestinationName>
+    <DestinationStr>Mae Hong Son Arpt(HGN)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HGN</code>
+    <DestinationName>Mae Hongson</DestinationName>
+    <DestinationStr>Mae Hongson(HGN)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HGO</code>
+    <DestinationName>Korhogo</DestinationName>
+    <DestinationStr>Korhogo(HGO)-Ivory Coast</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HGR</code>
+    <DestinationName>Hagerstown</DestinationName>
+    <DestinationStr>Hagerstown(HGR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HGR</code>
+    <DestinationName>Washington Cty Regional</DestinationName>
+    <DestinationStr>Washington Cty Regional(HGR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HGS</code>
+    <DestinationName>Hastings Airport</DestinationName>
+    <DestinationStr>Hastings Airport(HGS)-Sierra Leone</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HGT</code>
+    <DestinationName>Jolon</DestinationName>
+    <DestinationStr>Jolon(HGT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HGT</code>
+    <DestinationName>Tusi Ahp</DestinationName>
+    <DestinationStr>Tusi Ahp(HGT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HGU</code>
+    <DestinationName>Kagamuga Arpt</DestinationName>
+    <DestinationStr>Kagamuga Arpt(HGU)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HGU</code>
+    <DestinationName>Mount Hagen</DestinationName>
+    <DestinationStr>Mount Hagen(HGU)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HGU</code>
+    <DestinationName>Mt Hagen</DestinationName>
+    <DestinationStr>Mt Hagen(HGU)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HGZ</code>
+    <DestinationName>Hogatza Arpt</DestinationName>
+    <DestinationStr>Hogatza Arpt(HGZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HGZ</code>
+    <DestinationName>Hogatza</DestinationName>
+    <DestinationStr>Hogatza(HGZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HHA</code>
+    <DestinationName>Changsha Huanghua Arpt</DestinationName>
+    <DestinationStr>Changsha Huanghua Arpt(HHA)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HHA</code>
+    <DestinationName>Huanghua</DestinationName>
+    <DestinationStr>Huanghua(HHA)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HHE</code>
+    <DestinationName>Hachinohe Arpt</DestinationName>
+    <DestinationStr>Hachinohe Arpt(HHE)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HHE</code>
+    <DestinationName>Hachinohe</DestinationName>
+    <DestinationStr>Hachinohe(HHE)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HHH</code>
+    <DestinationName>Hilton Head Municipal</DestinationName>
+    <DestinationStr>Hilton Head Municipal(HHH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HHH</code>
+    <DestinationName>Hilton Head</DestinationName>
+    <DestinationStr>Hilton Head(HHH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HHN</code>
+    <DestinationName>Hahn Arpt</DestinationName>
+    <DestinationStr>Hahn Arpt(HHN)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HHN</code>
+    <DestinationName>Hahn</DestinationName>
+    <DestinationStr>Hahn(HHN)-Germany</DestinationStr>
+  </Destination>
+  <!--<Destination>
+    <code>HHP</code>
+    <DestinationName>Hong Kong Heliport</DestinationName>
+    <DestinationStr>Hong Kong Heliport(HHP)-Hong Kong</DestinationStr>
+  </Destination>-->
+  <Destination>
+    <code>HHQ</code>
+    <DestinationName>Hua Hin Arpt</DestinationName>
+    <DestinationStr>Hua Hin Arpt(HHQ)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HHQ</code>
+    <DestinationName>Hua Hin</DestinationName>
+    <DestinationStr>Hua Hin(HHQ)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HHR</code>
+    <DestinationName>Hawthorne Arpt</DestinationName>
+    <DestinationStr>Hawthorne Arpt(HHR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HHR</code>
+    <DestinationName>Hawthorne</DestinationName>
+    <DestinationStr>Hawthorne(HHR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HIA</code>
+    <DestinationName>Huai An</DestinationName>
+    <DestinationStr>Huai An(HIA)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HIA</code>
+    <DestinationName>LIANSHUI</DestinationName>
+    <DestinationStr>LIANSHUI(HIA)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HIB</code>
+    <DestinationName>Hibbing Chisolm Arpt</DestinationName>
+    <DestinationStr>Hibbing Chisolm Arpt(HIB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HIB</code>
+    <DestinationName>Hibbing</DestinationName>
+    <DestinationStr>Hibbing(HIB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HIC</code>
+    <DestinationName>Iscor Heliport</DestinationName>
+    <DestinationStr>Iscor Heliport(HIC)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HID</code>
+    <DestinationName>Horn Island Arpt</DestinationName>
+    <DestinationStr>Horn Island Arpt(HID)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HID</code>
+    <DestinationName>Horn Island</DestinationName>
+    <DestinationStr>Horn Island(HID)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HIE</code>
+    <DestinationName>Mt Washington Regional Arpt</DestinationName>
+    <DestinationStr>Mt Washington Regional Arpt(HIE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HIE</code>
+    <DestinationName>Whitefield</DestinationName>
+    <DestinationStr>Whitefield(HIE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HIF</code>
+    <DestinationName>Hill AFB</DestinationName>
+    <DestinationStr>Hill AFB(HIF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HII</code>
+    <DestinationName>Lake Havasu City Municipal Airport</DestinationName>
+    <DestinationStr>Lake Havasu City Municipal Airport(HII)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HII</code>
+    <DestinationName>Lake Havasu Cty</DestinationName>
+    <DestinationStr>Lake Havasu Cty(HII)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HIJ</code>
+    <DestinationName>Hiroshima Airport</DestinationName>
+    <DestinationStr>Hiroshima Airport(HIJ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HIJ</code>
+    <DestinationName>Hiroshima</DestinationName>
+    <DestinationStr>Hiroshima(HIJ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HIK</code>
+    <DestinationName>Hickam Air Force Base</DestinationName>
+    <DestinationStr>Hickam Air Force Base(HIK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HIM</code>
+    <DestinationName>Hingurakgoda</DestinationName>
+    <DestinationStr>Hingurakgoda(HIM)-Sri Lanka</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HIN</code>
+    <DestinationName>Chinju</DestinationName>
+    <DestinationStr>Chinju(HIN)-Korea, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HIN</code>
+    <DestinationName>Sacheon Arpt</DestinationName>
+    <DestinationStr>Sacheon Arpt(HIN)-Korea, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HIO</code>
+    <DestinationName>Hillsboro</DestinationName>
+    <DestinationStr>Hillsboro(HIO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HIO</code>
+    <DestinationName>Portland Hillsboro Arpt</DestinationName>
+    <DestinationStr>Portland Hillsboro Arpt(HIO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HIR</code>
+    <DestinationName>Honiara International</DestinationName>
+    <DestinationStr>Honiara International(HIR)-Solomon Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HIR</code>
+    <DestinationName>Honiara</DestinationName>
+    <DestinationStr>Honiara(HIR)-Solomon Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HIR</code>
+    <DestinationName>Solomon Islands</DestinationName>
+    <DestinationStr>Solomon Islands(HIR)-Solomon Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HIS</code>
+    <DestinationName>Hayman Island Arpt</DestinationName>
+    <DestinationStr>Hayman Island Arpt(HIS)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HIS</code>
+    <DestinationName>Hayman Island</DestinationName>
+    <DestinationStr>Hayman Island(HIS)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HIW</code>
+    <DestinationName>Hiroshima West Arpt</DestinationName>
+    <DestinationStr>Hiroshima West Arpt(HIW)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HIX</code>
+    <DestinationName>Hiva Oa</DestinationName>
+    <DestinationStr>Hiva Oa(HIX)-French Polynesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HJJ</code>
+    <DestinationName>Zhi Jiang Airport</DestinationName>
+    <DestinationStr>Zhi Jiang Airport(HJJ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HJJ</code>
+    <DestinationName>Zhi Jiang</DestinationName>
+    <DestinationStr>Zhi Jiang(HJJ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HJR</code>
+    <DestinationName>Khajuraho Arpt</DestinationName>
+    <DestinationStr>Khajuraho Arpt(HJR)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HJR</code>
+    <DestinationName>Khajuraho</DestinationName>
+    <DestinationStr>Khajuraho(HJR)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HKA</code>
+    <DestinationName>Blytheville Municipal Arpt</DestinationName>
+    <DestinationStr>Blytheville Municipal Arpt(HKA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HKA</code>
+    <DestinationName>Blytheville</DestinationName>
+    <DestinationStr>Blytheville(HKA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HKB</code>
+    <DestinationName>Healy Lake Arpt</DestinationName>
+    <DestinationStr>Healy Lake Arpt(HKB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HKB</code>
+    <DestinationName>Healy Lake</DestinationName>
+    <DestinationStr>Healy Lake(HKB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HKD</code>
+    <DestinationName>Hakodate Arpt</DestinationName>
+    <DestinationStr>Hakodate Arpt(HKD)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HKD</code>
+    <DestinationName>Hakodate</DestinationName>
+    <DestinationStr>Hakodate(HKD)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HKG</code>
+    <DestinationName>Hong Kong Intl</DestinationName>
+    <DestinationStr>Hong Kong Intl(HKG)-Hong Kong</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HKG</code>
+    <DestinationName>Hong Kong</DestinationName>
+    <DestinationStr>Hong Kong(HKG)-Hong Kong</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HKK</code>
+    <DestinationName>Hokitika Airport</DestinationName>
+    <DestinationStr>Hokitika Airport(HKK)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HKK</code>
+    <DestinationName>Hokitika</DestinationName>
+    <DestinationStr>Hokitika(HKK)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HKN</code>
+    <DestinationName>Hoskins Arpt</DestinationName>
+    <DestinationStr>Hoskins Arpt(HKN)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HKN</code>
+    <DestinationName>Hoskins</DestinationName>
+    <DestinationStr>Hoskins(HKN)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HKS</code>
+    <DestinationName>Hawkins Field</DestinationName>
+    <DestinationStr>Hawkins Field(HKS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HKT</code>
+    <DestinationName>Phuket Intl Airport</DestinationName>
+    <DestinationStr>Phuket Intl Airport(HKT)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HKT</code>
+    <DestinationName>Phuket</DestinationName>
+    <DestinationStr>Phuket(HKT)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HKY</code>
+    <DestinationName>Hickory Municipal</DestinationName>
+    <DestinationStr>Hickory Municipal(HKY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HKY</code>
+    <DestinationName>Hickory</DestinationName>
+    <DestinationStr>Hickory(HKY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HLA</code>
+    <DestinationName>Lanseria International Arpt</DestinationName>
+    <DestinationStr>Lanseria International Arpt(HLA)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HLB</code>
+    <DestinationName>Batesville</DestinationName>
+    <DestinationStr>Batesville(HLB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HLB</code>
+    <DestinationName>Hillenbrand</DestinationName>
+    <DestinationStr>Hillenbrand(HLB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HLD</code>
+    <DestinationName>Hailar</DestinationName>
+    <DestinationStr>Hailar(HLD)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HLD</code>
+    <DestinationName>Hailer Arpt</DestinationName>
+    <DestinationStr>Hailer Arpt(HLD)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HLF</code>
+    <DestinationName>Hultsfred Arpt</DestinationName>
+    <DestinationStr>Hultsfred Arpt(HLF)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HLF</code>
+    <DestinationName>Hultsfred</DestinationName>
+    <DestinationStr>Hultsfred(HLF)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HLG</code>
+    <DestinationName>Wheeling</DestinationName>
+    <DestinationStr>Wheeling(HLG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HLH</code>
+    <DestinationName>Ulanhot Airport</DestinationName>
+    <DestinationStr>Ulanhot Airport(HLH)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HLH</code>
+    <DestinationName>Ulanhot</DestinationName>
+    <DestinationStr>Ulanhot(HLH)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HLI</code>
+    <DestinationName>Hollister Arpt</DestinationName>
+    <DestinationStr>Hollister Arpt(HLI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HLI</code>
+    <DestinationName>Hollister</DestinationName>
+    <DestinationStr>Hollister(HLI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HLM</code>
+    <DestinationName>Holland</DestinationName>
+    <DestinationStr>Holland(HLM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HLM</code>
+    <DestinationName>Park Township</DestinationName>
+    <DestinationStr>Park Township(HLM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HLN</code>
+    <DestinationName>Helena Municipal</DestinationName>
+    <DestinationStr>Helena Municipal(HLN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HLN</code>
+    <DestinationName>Helena</DestinationName>
+    <DestinationStr>Helena(HLN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HLP</code>
+    <DestinationName>Halim Perdana Kusuma Arpt</DestinationName>
+    <DestinationStr>Halim Perdana Kusuma Arpt(HLP)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HLR</code>
+    <DestinationName>Fort Hood AAF</DestinationName>
+    <DestinationStr>Fort Hood AAF(HLR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HLS</code>
+    <DestinationName>Saint Helens Arpt</DestinationName>
+    <DestinationStr>Saint Helens Arpt(HLS)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HLS</code>
+    <DestinationName>St Helens Arpt</DestinationName>
+    <DestinationStr>St Helens Arpt(HLS)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HLS</code>
+    <DestinationName>St Helens</DestinationName>
+    <DestinationStr>St Helens(HLS)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HLT</code>
+    <DestinationName>Hamilton</DestinationName>
+    <DestinationStr>Hamilton(HLT)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HLW</code>
+    <DestinationName>Hluhluwe Arpt</DestinationName>
+    <DestinationStr>Hluhluwe Arpt(HLW)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HLW</code>
+    <DestinationName>Hluhluwe</DestinationName>
+    <DestinationStr>Hluhluwe(HLW)-South Africa</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>HLY</code>
+    <DestinationName>Holyhead</DestinationName>
+    <DestinationStr>Holyhead(HLY)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HLZ</code>
+    <DestinationName>Hamilton Arpt</DestinationName>
+    <DestinationStr>Hamilton Arpt(HLZ)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HLZ</code>
+    <DestinationName>Hamilton</DestinationName>
+    <DestinationStr>Hamilton(HLZ)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HMA</code>
+    <DestinationName>Khanty Mansiysk Arpt</DestinationName>
+    <DestinationStr>Khanty Mansiysk Arpt(HMA)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HMA</code>
+    <DestinationName>Khanty Mansiysk</DestinationName>
+    <DestinationStr>Khanty Mansiysk(HMA)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HMB</code>
+    <DestinationName>Sohag International Airport</DestinationName>
+    <DestinationStr>Sohag International Airport(HMB)-Egypt</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HMB</code>
+    <DestinationName>Sohag</DestinationName>
+    <DestinationStr>Sohag(HMB)-Egypt</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HME</code>
+    <DestinationName>Hassi Messaoud</DestinationName>
+    <DestinationStr>Hassi Messaoud(HME)-Algeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HME</code>
+    <DestinationName>Oued Irara Arpt</DestinationName>
+    <DestinationStr>Oued Irara Arpt(HME)-Algeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HMI</code>
+    <DestinationName>Hami Airport</DestinationName>
+    <DestinationStr>Hami Airport(HMI)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HMI</code>
+    <DestinationName>Hami</DestinationName>
+    <DestinationStr>Hami(HMI)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HMN</code>
+    <DestinationName>Holloman Airforce Base</DestinationName>
+    <DestinationStr>Holloman Airforce Base(HMN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HMO</code>
+    <DestinationName>Hermosillo</DestinationName>
+    <DestinationStr>Hermosillo(HMO)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HMO</code>
+    <DestinationName>Ignacio Pesqueira Garcia Arpt</DestinationName>
+    <DestinationStr>Ignacio Pesqueira Garcia Arpt(HMO)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HMR</code>
+    <DestinationName>Hamar Arpt</DestinationName>
+    <DestinationStr>Hamar Arpt(HMR)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HMR</code>
+    <DestinationName>Hamar</DestinationName>
+    <DestinationStr>Hamar(HMR)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HMT</code>
+    <DestinationName>Hemet</DestinationName>
+    <DestinationStr>Hemet(HMT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HMV</code>
+    <DestinationName>Hemavan Flyg</DestinationName>
+    <DestinationStr>Hemavan Flyg(HMV)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HMV</code>
+    <DestinationName>Hemavan</DestinationName>
+    <DestinationStr>Hemavan(HMV)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HNA</code>
+    <DestinationName>Hanamaki Arpt</DestinationName>
+    <DestinationStr>Hanamaki Arpt(HNA)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HNA</code>
+    <DestinationName>Morioka</DestinationName>
+    <DestinationStr>Morioka(HNA)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HNB</code>
+    <DestinationName>Huntingburg Municipal</DestinationName>
+    <DestinationStr>Huntingburg Municipal(HNB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HNB</code>
+    <DestinationName>Huntingburg</DestinationName>
+    <DestinationStr>Huntingburg(HNB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HNC</code>
+    <DestinationName>Hatteras Arpt</DestinationName>
+    <DestinationStr>Hatteras Arpt(HNC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HNC</code>
+    <DestinationName>Hatteras</DestinationName>
+    <DestinationStr>Hatteras(HNC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HND</code>
+    <DestinationName>Haneda Arpt</DestinationName>
+    <DestinationStr>Haneda Arpt(HND)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HNH</code>
+    <DestinationName>Hoonah Municipal Arpt</DestinationName>
+    <DestinationStr>Hoonah Municipal Arpt(HNH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HNH</code>
+    <DestinationName>Hoonah</DestinationName>
+    <DestinationStr>Hoonah(HNH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HNK</code>
+    <DestinationName>Hinchinbrooke Is</DestinationName>
+    <DestinationStr>Hinchinbrooke Is(HNK)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HNL</code>
+    <DestinationName>Honolulu Intl</DestinationName>
+    <DestinationStr>Honolulu Intl(HNL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HNL</code>
+    <DestinationName>Honolulu</DestinationName>
+    <DestinationStr>Honolulu(HNL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HNL</code>
+    <DestinationName>Oahu</DestinationName>
+    <DestinationStr>Oahu(HNL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HNM</code>
+    <DestinationName>Hana Municipal</DestinationName>
+    <DestinationStr>Hana Municipal(HNM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HNM</code>
+    <DestinationName>Hana</DestinationName>
+    <DestinationStr>Hana(HNM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HNO</code>
+    <DestinationName>Herceg Novi</DestinationName>
+    <DestinationStr>Herceg Novi(HNO)-Montenegro</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HNS</code>
+    <DestinationName>Haines Municipal Arpt</DestinationName>
+    <DestinationStr>Haines Municipal Arpt(HNS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HNS</code>
+    <DestinationName>Haines</DestinationName>
+    <DestinationStr>Haines(HNS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HNY</code>
+    <DestinationName>Hengyang Arpt</DestinationName>
+    <DestinationStr>Hengyang Arpt(HNY)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HNY</code>
+    <DestinationName>Hengyang</DestinationName>
+    <DestinationStr>Hengyang(HNY)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HOB</code>
+    <DestinationName>Hobbs</DestinationName>
+    <DestinationStr>Hobbs(HOB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HOB</code>
+    <DestinationName>Lea County Arpt</DestinationName>
+    <DestinationStr>Lea County Arpt(HOB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HOD</code>
+    <DestinationName>Hodeidah Arpt</DestinationName>
+    <DestinationStr>Hodeidah Arpt(HOD)-Yemen, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HOD</code>
+    <DestinationName>Hodeidah</DestinationName>
+    <DestinationStr>Hodeidah(HOD)-Yemen, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HOE</code>
+    <DestinationName>Houeisay Airport</DestinationName>
+    <DestinationStr>Houeisay Airport(HOE)-Lao, People's Dem. Rep.</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HOE</code>
+    <DestinationName>Houeisay</DestinationName>
+    <DestinationStr>Houeisay(HOE)-Lao, People's Dem. Rep.</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HOF</code>
+    <DestinationName>Alahsa Arpt</DestinationName>
+    <DestinationStr>Alahsa Arpt(HOF)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HOF</code>
+    <DestinationName>Alahsa</DestinationName>
+    <DestinationStr>Alahsa(HOF)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HOF</code>
+    <DestinationName>Hofuf</DestinationName>
+    <DestinationStr>Hofuf(HOF)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HOG</code>
+    <DestinationName>Frank Pias International</DestinationName>
+    <DestinationStr>Frank Pias International(HOG)-Cuba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HOG</code>
+    <DestinationName>Holguin</DestinationName>
+    <DestinationStr>Holguin(HOG)-Cuba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HOH</code>
+    <DestinationName>Hohenems Airport</DestinationName>
+    <DestinationStr>Hohenems Airport(HOH)-Austria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HOH</code>
+    <DestinationName>Hohenems</DestinationName>
+    <DestinationStr>Hohenems(HOH)-Austria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HOI</code>
+    <DestinationName>Hao Island Arpt</DestinationName>
+    <DestinationStr>Hao Island Arpt(HOI)-French Polynesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HOI</code>
+    <DestinationName>Hao Island</DestinationName>
+    <DestinationStr>Hao Island(HOI)-French Polynesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HOM</code>
+    <DestinationName>Homer Municipal Arpt</DestinationName>
+    <DestinationStr>Homer Municipal Arpt(HOM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HOM</code>
+    <DestinationName>Homer</DestinationName>
+    <DestinationStr>Homer(HOM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HON</code>
+    <DestinationName>Huron Municipal</DestinationName>
+    <DestinationStr>Huron Municipal(HON)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HON</code>
+    <DestinationName>Huron</DestinationName>
+    <DestinationStr>Huron(HON)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HOP</code>
+    <DestinationName>Hopkinsville Christian Country Arpt</DestinationName>
+    <DestinationStr>Hopkinsville Christian Country Arpt(HOP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HOP</code>
+    <DestinationName>Hopkinsville</DestinationName>
+    <DestinationStr>Hopkinsville(HOP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HOQ</code>
+    <DestinationName>Hof De</DestinationName>
+    <DestinationStr>Hof De(HOQ)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HOQ</code>
+    <DestinationName>Hof Pirk Arpt</DestinationName>
+    <DestinationStr>Hof Pirk Arpt(HOQ)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HOR</code>
+    <DestinationName>Horta Arpt</DestinationName>
+    <DestinationStr>Horta Arpt(HOR)-Portugal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HOR</code>
+    <DestinationName>Horta</DestinationName>
+    <DestinationStr>Horta(HOR)-Portugal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HOT</code>
+    <DestinationName>Hot Springs</DestinationName>
+    <DestinationStr>Hot Springs(HOT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HOT</code>
+    <DestinationName>Memorial Field</DestinationName>
+    <DestinationStr>Memorial Field(HOT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HOU</code>
+    <DestinationName>Houston Hobby Arpt</DestinationName>
+    <DestinationStr>Houston Hobby Arpt(HOU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HOU</code>
+    <DestinationName>Houston</DestinationName>
+    <DestinationStr>Houston(HOU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HOV</code>
+    <DestinationName>Hovden Arpt</DestinationName>
+    <DestinationStr>Hovden Arpt(HOV)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HOV</code>
+    <DestinationName>Orsta Volda</DestinationName>
+    <DestinationStr>Orsta Volda(HOV)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HPA</code>
+    <DestinationName>Ha Apai</DestinationName>
+    <DestinationStr>Ha Apai(HPA)-Tonga</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HPA</code>
+    <DestinationName>Salote Pilolevu Arpt</DestinationName>
+    <DestinationStr>Salote Pilolevu Arpt(HPA)-Tonga</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HPB</code>
+    <DestinationName>Hooper Bay</DestinationName>
+    <DestinationStr>Hooper Bay(HPB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HPG</code>
+    <DestinationName>Hongping Arpt</DestinationName>
+    <DestinationStr>Hongping Arpt(HPG)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HPG</code>
+    <DestinationName>Shennongjia</DestinationName>
+    <DestinationStr>Shennongjia(HPG)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HPH</code>
+    <DestinationName>Catbi Arpt</DestinationName>
+    <DestinationStr>Catbi Arpt(HPH)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HPH</code>
+    <DestinationName>Haiphong</DestinationName>
+    <DestinationStr>Haiphong(HPH)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HPN</code>
+    <DestinationName>Westchester County Arpt</DestinationName>
+    <DestinationStr>Westchester County Arpt(HPN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HPN</code>
+    <DestinationName>White Plains</DestinationName>
+    <DestinationStr>White Plains(HPN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HPP</code>
+    <DestinationName>Poipet</DestinationName>
+    <DestinationStr>Poipet(HPP)-Cambodia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HPR</code>
+    <DestinationName>Central Hpr Arpt</DestinationName>
+    <DestinationStr>Central Hpr Arpt(HPR)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HPV</code>
+    <DestinationName>Kauai</DestinationName>
+    <DestinationStr>Kauai(HPV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HPV</code>
+    <DestinationName>Princeville Arpt</DestinationName>
+    <DestinationStr>Princeville Arpt(HPV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HPV</code>
+    <DestinationName>Princeville</DestinationName>
+    <DestinationStr>Princeville(HPV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HPY</code>
+    <DestinationName>Baytown Arpt</DestinationName>
+    <DestinationStr>Baytown Arpt(HPY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HPY</code>
+    <DestinationName>Baytown</DestinationName>
+    <DestinationStr>Baytown(HPY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HQM</code>
+    <DestinationName>Hoquaim</DestinationName>
+    <DestinationStr>Hoquaim(HQM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HRB</code>
+    <DestinationName>Harbin Arpt</DestinationName>
+    <DestinationStr>Harbin Arpt(HRB)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HRB</code>
+    <DestinationName>Harbin</DestinationName>
+    <DestinationStr>Harbin(HRB)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HRD</code>
+    <DestinationName>Harstad</DestinationName>
+    <DestinationStr>Harstad(HRD)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HRE</code>
+    <DestinationName>Harare Arpt</DestinationName>
+    <DestinationStr>Harare Arpt(HRE)-Zimbabwe</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HRE</code>
+    <DestinationName>Harare</DestinationName>
+    <DestinationStr>Harare(HRE)-Zimbabwe</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HRG</code>
+    <DestinationName>Hurghada Airport</DestinationName>
+    <DestinationStr>Hurghada Airport(HRG)-Egypt</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HRG</code>
+    <DestinationName>Hurghada</DestinationName>
+    <DestinationStr>Hurghada(HRG)-Egypt</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HRI</code>
+    <DestinationName>Hambantota</DestinationName>
+    <DestinationStr>Hambantota(HRI)-Sri Lanka</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HRI</code>
+    <DestinationName>Mattala Rajapakse Intl</DestinationName>
+    <DestinationStr>Mattala Rajapakse Intl(HRI)-Sri Lanka</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HRK</code>
+    <DestinationName>Kharkov Arpt</DestinationName>
+    <DestinationStr>Kharkov Arpt(HRK)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HRK</code>
+    <DestinationName>Kharkov</DestinationName>
+    <DestinationStr>Kharkov(HRK)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HRL</code>
+    <DestinationName>Harlingen</DestinationName>
+    <DestinationStr>Harlingen(HRL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HRL</code>
+    <DestinationName>Rio Grande Valley Intl Arpt</DestinationName>
+    <DestinationStr>Rio Grande Valley Intl Arpt(HRL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HRO</code>
+    <DestinationName>Boone County Arpt</DestinationName>
+    <DestinationStr>Boone County Arpt(HRO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HRO</code>
+    <DestinationName>Harrison</DestinationName>
+    <DestinationStr>Harrison(HRO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HRS</code>
+    <DestinationName>Harrismith Arpt</DestinationName>
+    <DestinationStr>Harrismith Arpt(HRS)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HRS</code>
+    <DestinationName>Harrismith</DestinationName>
+    <DestinationStr>Harrismith(HRS)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HRT</code>
+    <DestinationName>Harrogate</DestinationName>
+    <DestinationStr>Harrogate(HRT)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HRT</code>
+    <DestinationName>Linton On Ouse</DestinationName>
+    <DestinationStr>Linton On Ouse(HRT)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HRZ</code>
+    <DestinationName>Horizontina Arpt</DestinationName>
+    <DestinationStr>Horizontina Arpt(HRZ)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HRZ</code>
+    <DestinationName>Horizontina</DestinationName>
+    <DestinationStr>Horizontina(HRZ)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HSC</code>
+    <DestinationName>Shaoguan</DestinationName>
+    <DestinationStr>Shaoguan(HSC)-China</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>HSD</code>
+    <DestinationName>Huangshi</DestinationName>
+    <DestinationStr>Huangshi(HSD)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HSG</code>
+    <DestinationName>Saga Arpt</DestinationName>
+    <DestinationStr>Saga Arpt(HSG)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HSG</code>
+    <DestinationName>Saga</DestinationName>
+    <DestinationStr>Saga(HSG)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HSH</code>
+    <DestinationName>Henderson Sky Harbor Arpt</DestinationName>
+    <DestinationStr>Henderson Sky Harbor Arpt(HSH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HSI</code>
+    <DestinationName>Hastings Municipal</DestinationName>
+    <DestinationStr>Hastings Municipal(HSI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HSI</code>
+    <DestinationName>Hastings</DestinationName>
+    <DestinationStr>Hastings(HSI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HSK</code>
+    <DestinationName>Huesca</DestinationName>
+    <DestinationStr>Huesca(HSK)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HSK</code>
+    <DestinationName>Pirineos Airport</DestinationName>
+    <DestinationStr>Pirineos Airport(HSK)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HSL</code>
+    <DestinationName>Huslia Arpt</DestinationName>
+    <DestinationStr>Huslia Arpt(HSL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HSL</code>
+    <DestinationName>Huslia</DestinationName>
+    <DestinationStr>Huslia(HSL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HSM</code>
+    <DestinationName>Horsham</DestinationName>
+    <DestinationStr>Horsham(HSM)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HSN</code>
+    <DestinationName>Zhoushan Arpt</DestinationName>
+    <DestinationStr>Zhoushan Arpt(HSN)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HSN</code>
+    <DestinationName>Zhoushan</DestinationName>
+    <DestinationStr>Zhoushan(HSN)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HSP</code>
+    <DestinationName>Hot Springs</DestinationName>
+    <DestinationStr>Hot Springs(HSP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HSP</code>
+    <DestinationName>Ingalls Field</DestinationName>
+    <DestinationStr>Ingalls Field(HSP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HSS</code>
+    <DestinationName>HISSAR</DestinationName>
+    <DestinationStr>HISSAR(HSS)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HST</code>
+    <DestinationName>Homestead Municipal</DestinationName>
+    <DestinationStr>Homestead Municipal(HST)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HST</code>
+    <DestinationName>Homestead</DestinationName>
+    <DestinationStr>Homestead(HST)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HSV</code>
+    <DestinationName>Huntsville Intl Arpt</DestinationName>
+    <DestinationStr>Huntsville Intl Arpt(HSV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HSV</code>
+    <DestinationName>Huntsville</DestinationName>
+    <DestinationStr>Huntsville(HSV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HSZ</code>
+    <DestinationName>Hsinchun Arpt</DestinationName>
+    <DestinationStr>Hsinchun Arpt(HSZ)-Taiwan, Province of China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HSZ</code>
+    <DestinationName>Hsinchun</DestinationName>
+    <DestinationStr>Hsinchun(HSZ)-Taiwan, Province of China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HTA</code>
+    <DestinationName>Chita Arpt</DestinationName>
+    <DestinationStr>Chita Arpt(HTA)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HTA</code>
+    <DestinationName>Chita</DestinationName>
+    <DestinationStr>Chita(HTA)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HTF</code>
+    <DestinationName>Hatfield Arpt</DestinationName>
+    <DestinationStr>Hatfield Arpt(HTF)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HTF</code>
+    <DestinationName>Hatfield</DestinationName>
+    <DestinationStr>Hatfield(HTF)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HTH</code>
+    <DestinationName>Hawthorne</DestinationName>
+    <DestinationStr>Hawthorne(HTH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HTI</code>
+    <DestinationName>Hamilton Island Arpt</DestinationName>
+    <DestinationStr>Hamilton Island Arpt(HTI)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HTI</code>
+    <DestinationName>Hamilton Island</DestinationName>
+    <DestinationStr>Hamilton Island(HTI)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HTN</code>
+    <DestinationName>Hotan</DestinationName>
+    <DestinationStr>Hotan(HTN)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HTO</code>
+    <DestinationName>East Hampton Arpt</DestinationName>
+    <DestinationStr>East Hampton Arpt(HTO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HTO</code>
+    <DestinationName>East Hampton</DestinationName>
+    <DestinationStr>East Hampton(HTO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HTR</code>
+    <DestinationName>Hateruma</DestinationName>
+    <DestinationStr>Hateruma(HTR)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HTS</code>
+    <DestinationName>Huntington</DestinationName>
+    <DestinationStr>Huntington(HTS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HTS</code>
+    <DestinationName>Tri State Milton Arpt</DestinationName>
+    <DestinationStr>Tri State Milton Arpt(HTS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HTV</code>
+    <DestinationName>Huntsville Arpt</DestinationName>
+    <DestinationStr>Huntsville Arpt(HTV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HTV</code>
+    <DestinationName>Huntsville</DestinationName>
+    <DestinationStr>Huntsville(HTV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HTY</code>
+    <DestinationName>Hantai</DestinationName>
+    <DestinationStr>Hantai(HTY)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HTY</code>
+    <DestinationName>Hatay Airport</DestinationName>
+    <DestinationStr>Hatay Airport(HTY)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HUA</code>
+    <DestinationName>Redstone AAF</DestinationName>
+    <DestinationStr>Redstone AAF(HUA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HUC</code>
+    <DestinationName>Humacao Arpt</DestinationName>
+    <DestinationStr>Humacao Arpt(HUC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HUC</code>
+    <DestinationName>Humacao</DestinationName>
+    <DestinationStr>Humacao(HUC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HUE</code>
+    <DestinationName>Humera</DestinationName>
+    <DestinationStr>Humera(HUE)-Ethiopia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HUF</code>
+    <DestinationName>Hulman Field</DestinationName>
+    <DestinationStr>Hulman Field(HUF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HUF</code>
+    <DestinationName>Terre Haute</DestinationName>
+    <DestinationStr>Terre Haute(HUF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HUH</code>
+    <DestinationName>Huahine Arpt</DestinationName>
+    <DestinationStr>Huahine Arpt(HUH)-French Polynesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HUH</code>
+    <DestinationName>Huahine</DestinationName>
+    <DestinationStr>Huahine(HUH)-French Polynesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HUI</code>
+    <DestinationName>Hu</DestinationName>
+    <DestinationStr>Hu(HUI)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HUI</code>
+    <DestinationName>Phu Bai Arpt</DestinationName>
+    <DestinationStr>Phu Bai Arpt(HUI)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HUJ</code>
+    <DestinationName>Hugo</DestinationName>
+    <DestinationStr>Hugo(HUJ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HUL</code>
+    <DestinationName>Houlton International</DestinationName>
+    <DestinationStr>Houlton International(HUL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HUL</code>
+    <DestinationName>Houlton</DestinationName>
+    <DestinationStr>Houlton(HUL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HUM</code>
+    <DestinationName>Houma</DestinationName>
+    <DestinationStr>Houma(HUM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HUM</code>
+    <DestinationName>Terrebonne Arpt</DestinationName>
+    <DestinationStr>Terrebonne Arpt(HUM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HUN</code>
+    <DestinationName>Hualien Arpt</DestinationName>
+    <DestinationStr>Hualien Arpt(HUN)-Taiwan, Province of China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HUN</code>
+    <DestinationName>Hualien</DestinationName>
+    <DestinationStr>Hualien(HUN)-Taiwan, Province of China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HUQ</code>
+    <DestinationName>Houn</DestinationName>
+    <DestinationStr>Houn(HUQ)-Libyan Arab Jamahiriya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HUS</code>
+    <DestinationName>Hughes Municipal Arpt</DestinationName>
+    <DestinationStr>Hughes Municipal Arpt(HUS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HUS</code>
+    <DestinationName>Hughes</DestinationName>
+    <DestinationStr>Hughes(HUS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HUT</code>
+    <DestinationName>Hutchinson Municipal</DestinationName>
+    <DestinationStr>Hutchinson Municipal(HUT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HUT</code>
+    <DestinationName>Hutchinson</DestinationName>
+    <DestinationStr>Hutchinson(HUT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HUU</code>
+    <DestinationName>Huanuco Arpt</DestinationName>
+    <DestinationStr>Huanuco Arpt(HUU)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HUU</code>
+    <DestinationName>Huanuco</DestinationName>
+    <DestinationStr>Huanuco(HUU)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HUV</code>
+    <DestinationName>Hudiksvall Arpt</DestinationName>
+    <DestinationStr>Hudiksvall Arpt(HUV)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HUV</code>
+    <DestinationName>Hudiksvall</DestinationName>
+    <DestinationStr>Hudiksvall(HUV)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HUX</code>
+    <DestinationName>Bahias de Huatulco Intl</DestinationName>
+    <DestinationStr>Bahias de Huatulco Intl(HUX)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HUX</code>
+    <DestinationName>Huatulco</DestinationName>
+    <DestinationStr>Huatulco(HUX)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HUX</code>
+    <DestinationName>Santa Cruz Huatulco</DestinationName>
+    <DestinationStr>Santa Cruz Huatulco(HUX)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HUY</code>
+    <DestinationName>Humberside Arpt</DestinationName>
+    <DestinationStr>Humberside Arpt(HUY)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HUY</code>
+    <DestinationName>Humberside</DestinationName>
+    <DestinationStr>Humberside(HUY)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HUZ</code>
+    <DestinationName>Huizhou Arpt</DestinationName>
+    <DestinationStr>Huizhou Arpt(HUZ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HUZ</code>
+    <DestinationName>Huizhou</DestinationName>
+    <DestinationStr>Huizhou(HUZ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HVA</code>
+    <DestinationName>Analalava</DestinationName>
+    <DestinationStr>Analalava(HVA)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HVB</code>
+    <DestinationName>Hervey Bay</DestinationName>
+    <DestinationStr>Hervey Bay(HVB)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HVE</code>
+    <DestinationName>Hanksville</DestinationName>
+    <DestinationStr>Hanksville(HVE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HVE</code>
+    <DestinationName>Intermediate Arpt</DestinationName>
+    <DestinationStr>Intermediate Arpt(HVE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HVG</code>
+    <DestinationName>Honningsvag</DestinationName>
+    <DestinationStr>Honningsvag(HVG)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HVG</code>
+    <DestinationName>Valan Arpt</DestinationName>
+    <DestinationStr>Valan Arpt(HVG)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HVK</code>
+    <DestinationName>Holmavik</DestinationName>
+    <DestinationStr>Holmavik(HVK)-Iceland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HVN</code>
+    <DestinationName>New Haven</DestinationName>
+    <DestinationStr>New Haven(HVN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HVN</code>
+    <DestinationName>Tweed New Haven Arpt</DestinationName>
+    <DestinationStr>Tweed New Haven Arpt(HVN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HVR</code>
+    <DestinationName>City County</DestinationName>
+    <DestinationStr>City County(HVR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HVR</code>
+    <DestinationName>Havre</DestinationName>
+    <DestinationStr>Havre(HVR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HVS</code>
+    <DestinationName>Hartsville</DestinationName>
+    <DestinationStr>Hartsville(HVS)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>HVZ</code>
+    <DestinationName>Heviz</DestinationName>
+    <DestinationStr>Heviz(HVZ)-Hungary</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HWA</code>
+    <DestinationName>Hawabango</DestinationName>
+    <DestinationStr>Hawabango(HWA)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HWD</code>
+    <DestinationName>Hayward Air Terminal</DestinationName>
+    <DestinationStr>Hayward Air Terminal(HWD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HWD</code>
+    <DestinationName>Hayward</DestinationName>
+    <DestinationStr>Hayward(HWD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HWI</code>
+    <DestinationName>Hawk Inlet</DestinationName>
+    <DestinationStr>Hawk Inlet(HWI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HWN</code>
+    <DestinationName>Hwange Arpt</DestinationName>
+    <DestinationStr>Hwange Arpt(HWN)-Zimbabwe</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HWN</code>
+    <DestinationName>Hwange</DestinationName>
+    <DestinationStr>Hwange(HWN)-Zimbabwe</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HWO</code>
+    <DestinationName>Hollywood</DestinationName>
+    <DestinationStr>Hollywood(HWO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HWO</code>
+    <DestinationName>North Perry Arpt</DestinationName>
+    <DestinationStr>North Perry Arpt(HWO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HXX</code>
+    <DestinationName>Hay AU</DestinationName>
+    <DestinationStr>Hay AU(HXX)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HYA</code>
+    <DestinationName>Barnstable Cty Arpt</DestinationName>
+    <DestinationStr>Barnstable Cty Arpt(HYA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HYA</code>
+    <DestinationName>Hyannis</DestinationName>
+    <DestinationStr>Hyannis(HYA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HYC</code>
+    <DestinationName>High Wycombe</DestinationName>
+    <DestinationStr>High Wycombe(HYC)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HYD</code>
+    <DestinationName>Hyderabad</DestinationName>
+    <DestinationStr>Hyderabad(HYD)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HYD</code>
+    <DestinationName>Rajiv Gandhi Intl</DestinationName>
+    <DestinationStr>Rajiv Gandhi Intl(HYD)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HYF</code>
+    <DestinationName>Hayfields</DestinationName>
+    <DestinationStr>Hayfields(HYF)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HYG</code>
+    <DestinationName>Hydaburg</DestinationName>
+    <DestinationStr>Hydaburg(HYG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HYL</code>
+    <DestinationName>Hollis</DestinationName>
+    <DestinationStr>Hollis(HYL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HYL</code>
+    <DestinationName>Sea Plane Base</DestinationName>
+    <DestinationStr>Sea Plane Base(HYL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HYN</code>
+    <DestinationName>Huangyan Arpt</DestinationName>
+    <DestinationStr>Huangyan Arpt(HYN)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HYN</code>
+    <DestinationName>Huangyan</DestinationName>
+    <DestinationStr>Huangyan(HYN)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HYR</code>
+    <DestinationName>Hayward Municipal</DestinationName>
+    <DestinationStr>Hayward Municipal(HYR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HYR</code>
+    <DestinationName>Hayward</DestinationName>
+    <DestinationStr>Hayward(HYR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HYS</code>
+    <DestinationName>Hays Municipal</DestinationName>
+    <DestinationStr>Hays Municipal(HYS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HYS</code>
+    <DestinationName>Hays</DestinationName>
+    <DestinationStr>Hays(HYS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HZB</code>
+    <DestinationName>Hazebrouck</DestinationName>
+    <DestinationStr>Hazebrouck(HZB)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HZB</code>
+    <DestinationName>Merville Calonne Arpt</DestinationName>
+    <DestinationStr>Merville Calonne Arpt(HZB)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>HZC</code>
+    <DestinationName>Huzhou</DestinationName>
+    <DestinationStr>Huzhou(HZC)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HZG</code>
+    <DestinationName>Hanzhong Arpt</DestinationName>
+    <DestinationStr>Hanzhong Arpt(HZG)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HZG</code>
+    <DestinationName>Hanzhong</DestinationName>
+    <DestinationStr>Hanzhong(HZG)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HZK</code>
+    <DestinationName>Husavik Arpt</DestinationName>
+    <DestinationStr>Husavik Arpt(HZK)-Iceland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HZK</code>
+    <DestinationName>Husavik</DestinationName>
+    <DestinationStr>Husavik(HZK)-Iceland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HZL</code>
+    <DestinationName>Hazelton</DestinationName>
+    <DestinationStr>Hazelton(HZL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HZV</code>
+    <DestinationName>Hazyview Airport</DestinationName>
+    <DestinationStr>Hazyview Airport(HZV)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HZV</code>
+    <DestinationName>Hazyview</DestinationName>
+    <DestinationStr>Hazyview(HZV)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ITO</code>
+    <DestinationName>Hilo Hawaii Intl</DestinationName>
+    <DestinationStr>Hilo Hawaii Intl(ITO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ITO</code>
+    <DestinationName>Hilo</DestinationName>
+    <DestinationStr>Hilo(ITO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IUE</code>
+    <DestinationName>Hanan Arpt</DestinationName>
+    <DestinationStr>Hanan Arpt(IUE)-Niue</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JBQ</code>
+    <DestinationName>Higuero</DestinationName>
+    <DestinationStr>Higuero(JBQ)-Dominican Republic</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JBS</code>
+    <DestinationName>Hacienda Business Park Hlpt</DestinationName>
+    <DestinationStr>Hacienda Business Park Hlpt(JBS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JEM</code>
+    <DestinationName>Hlpt</DestinationName>
+    <DestinationStr>Hlpt(JEM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JHE</code>
+    <DestinationName>Helsingborg Heliport</DestinationName>
+    <DestinationStr>Helsingborg Heliport(JHE)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JHE</code>
+    <DestinationName>Helsingborg</DestinationName>
+    <DestinationStr>Helsingborg(JHE)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KEL</code>
+    <DestinationName>Holtenau Arpt</DestinationName>
+    <DestinationStr>Holtenau Arpt(KEL)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KKN</code>
+    <DestinationName>Hoeybuktmoen Arpt</DestinationName>
+    <DestinationStr>Hoeybuktmoen Arpt(KKN)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LDK</code>
+    <DestinationName>Hovby Airport</DestinationName>
+    <DestinationStr>Hovby Airport(LDK)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LFI</code>
+    <DestinationName>Hampton</DestinationName>
+    <DestinationStr>Hampton(LFI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LHR</code>
+    <DestinationName>Heathrow</DestinationName>
+    <DestinationStr>Heathrow(LHR)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LIY</code>
+    <DestinationName>Hinesville</DestinationName>
+    <DestinationStr>Hinesville(LIY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LNZ</code>
+    <DestinationName>Hoersching Arpt</DestinationName>
+    <DestinationStr>Hoersching Arpt(LNZ)-Austria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LTK</code>
+    <DestinationName>Hmelmin Airport</DestinationName>
+    <DestinationStr>Hmelmin Airport(LTK)-Syrian Arab Rep.</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LUL</code>
+    <DestinationName>Hesler Noble Field</DestinationName>
+    <DestinationStr>Hesler Noble Field(LUL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LYC</code>
+    <DestinationName>Hedlunda Arpt</DestinationName>
+    <DestinationStr>Hedlunda Arpt(LYC)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MCM</code>
+    <DestinationName>Hel De Monte Carlo Airport</DestinationName>
+    <DestinationStr>Hel De Monte Carlo Airport(MCM)-Monaco</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MDT</code>
+    <DestinationName>Harrisburg Intl</DestinationName>
+    <DestinationStr>Harrisburg Intl(MDT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MIR</code>
+    <DestinationName>Habib Bourguiba Intl</DestinationName>
+    <DestinationStr>Habib Bourguiba Intl(MIR)-Tunisia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MKK</code>
+    <DestinationName>Hoolehua</DestinationName>
+    <DestinationStr>Hoolehua(MKK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MMY</code>
+    <DestinationName>Hirara Arpt</DestinationName>
+    <DestinationStr>Hirara Arpt(MMY)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MOD</code>
+    <DestinationName>Harry Sham Fld</DestinationName>
+    <DestinationStr>Harry Sham Fld(MOD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MWO</code>
+    <DestinationName>Hook Field</DestinationName>
+    <DestinationStr>Hook Field(MWO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NOV</code>
+    <DestinationName>Huambo</DestinationName>
+    <DestinationStr>Huambo(NOV)-Angola</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NPE</code>
+    <DestinationName>Hawkes Bay Arpt</DestinationName>
+    <DestinationStr>Hawkes Bay Arpt(NPE)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ORL</code>
+    <DestinationName>Herndon Arpt</DestinationName>
+    <DestinationStr>Herndon Arpt(ORL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OTP</code>
+    <DestinationName>Henri Coanda Arpt</DestinationName>
+    <DestinationStr>Henri Coanda Arpt(OTP)-Romania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PBC</code>
+    <DestinationName>Hermanos Serdan Intl</DestinationName>
+    <DestinationStr>Hermanos Serdan Intl(PBC)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PHT</code>
+    <DestinationName>Henry County Arpt</DestinationName>
+    <DestinationStr>Henry County Arpt(PHT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PIB</code>
+    <DestinationName>Hattiesburg Laurel Regional Arpt</DestinationName>
+    <DestinationStr>Hattiesburg Laurel Regional Arpt(PIB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PRJ</code>
+    <DestinationName>Harbour Airport</DestinationName>
+    <DestinationStr>Harbour Airport(PRJ)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PVW</code>
+    <DestinationName>Hale County Arpt</DestinationName>
+    <DestinationStr>Hale County Arpt(PVW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QFQ</code>
+    <DestinationName>Harbour Arpt</DestinationName>
+    <DestinationStr>Harbour Arpt(QFQ)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QHA</code>
+    <DestinationName>Hasselt</DestinationName>
+    <DestinationStr>Hasselt(QHA)-Belgium</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QHD</code>
+    <DestinationName>Hahnweide</DestinationName>
+    <DestinationStr>Hahnweide(QHD)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QHS</code>
+    <DestinationName>Homs</DestinationName>
+    <DestinationStr>Homs(QHS)-Syrian Arab Rep.</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QHU</code>
+    <DestinationName>Husum</DestinationName>
+    <DestinationStr>Husum(QHU)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QHZ</code>
+    <DestinationName>Hoofddorp</DestinationName>
+    <DestinationStr>Hoofddorp(QHZ)-Netherlands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QOG</code>
+    <DestinationName>Homburg</DestinationName>
+    <DestinationStr>Homburg(QOG)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QQH</code>
+    <DestinationName>Harwich</DestinationName>
+    <DestinationStr>Harwich(QQH)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QVM</code>
+    <DestinationName>Hameenlinna</DestinationName>
+    <DestinationStr>Hameenlinna(QVM)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QVZ</code>
+    <DestinationName>Hamina</DestinationName>
+    <DestinationStr>Hamina(QVZ)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QWO</code>
+    <DestinationName>Holstebro</DestinationName>
+    <DestinationStr>Holstebro(QWO)-Denmark</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QYH</code>
+    <DestinationName>Hengelo</DestinationName>
+    <DestinationStr>Hengelo(QYH)-Netherlands</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QYI</code>
+    <DestinationName>Hilversum</DestinationName>
+    <DestinationStr>Hilversum(QYI)-Netherlands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QYZ</code>
+    <DestinationName>Heerenveen</DestinationName>
+    <DestinationStr>Heerenveen(QYZ)-Netherlands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RAC</code>
+    <DestinationName>Horlick Arpt</DestinationName>
+    <DestinationStr>Horlick Arpt(RAC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RKZ</code>
+    <DestinationName>He Ping Airport</DestinationName>
+    <DestinationStr>He Ping Airport(RKZ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RZZ</code>
+    <DestinationName>Halifax Cty Arpt</DestinationName>
+    <DestinationStr>Halifax Cty Arpt(RZZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SGN</code>
+    <DestinationName>Ho Chi Minh City</DestinationName>
+    <DestinationStr>Ho Chi Minh City(SGN)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SGR</code>
+    <DestinationName>Hull Field Arpt</DestinationName>
+    <DestinationStr>Hull Field Arpt(SGR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SHA</code>
+    <DestinationName>Hongqiao International Arpt</DestinationName>
+    <DestinationStr>Hongqiao International Arpt(SHA)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SOG</code>
+    <DestinationName>Haukasen Arpt</DestinationName>
+    <DestinationStr>Haukasen Arpt(SOG)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SRF</code>
+    <DestinationName>Hamilton AAF</DestinationName>
+    <DestinationStr>Hamilton AAF(SRF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SVJ</code>
+    <DestinationName>Helle</DestinationName>
+    <DestinationStr>Helle(SVJ)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SVN</code>
+    <DestinationName>Hunter AAF</DestinationName>
+    <DestinationStr>Hunter AAF(SVN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SYR</code>
+    <DestinationName>Hancock Intl</DestinationName>
+    <DestinationStr>Hancock Intl(SYR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TCZ</code>
+    <DestinationName>Hump Airport</DestinationName>
+    <DestinationStr>Hump Airport(TCZ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>THP</code>
+    <DestinationName>Hot Springs</DestinationName>
+    <DestinationStr>Hot Springs(THP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TMA</code>
+    <DestinationName>Henry Tift Myers Arpt</DestinationName>
+    <DestinationStr>Henry Tift Myers Arpt(TMA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UPG</code>
+    <DestinationName>Hasanudin Arpt</DestinationName>
+    <DestinationStr>Hasanudin Arpt(UPG)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UVF</code>
+    <DestinationName>Hewanorra Intl</DestinationName>
+    <DestinationStr>Hewanorra Intl(UVF)-Saint Lucia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VDE</code>
+    <DestinationName>Hierro Arpt</DestinationName>
+    <DestinationStr>Hierro Arpt(VDE)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VER</code>
+    <DestinationName>Heriberto Jara International</DestinationName>
+    <DestinationStr>Heriberto Jara International(VER)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VST</code>
+    <DestinationName>Hasslo Airport</DestinationName>
+    <DestinationStr>Hasslo Airport(VST)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WDH</code>
+    <DestinationName>Hosea Kutako International Arpt</DestinationName>
+    <DestinationStr>Hosea Kutako International Arpt(WDH)-Namibia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WHD</code>
+    <DestinationName>Hyder</DestinationName>
+    <DestinationStr>Hyder(WHD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WHH</code>
+    <DestinationName>Hiltons Har H</DestinationName>
+    <DestinationStr>Hiltons Har H(WHH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WKJ</code>
+    <DestinationName>Hokkaido Arpt</DestinationName>
+    <DestinationStr>Hokkaido Arpt(WKJ)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XAJ</code>
+    <DestinationName>Hirtshals</DestinationName>
+    <DestinationStr>Hirtshals(XAJ)-Denmark</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XAK</code>
+    <DestinationName>Herning</DestinationName>
+    <DestinationStr>Herning(XAK)-Denmark</DestinationStr>
+  </Destination>    
+  <Destination>
+    <code>XDU</code>
+    <DestinationName>Hervey</DestinationName>
+    <DestinationStr>Hervey(XDU)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XHE</code>
+    <DestinationName>Hyeres</DestinationName>
+    <DestinationStr>Hyeres(XHE)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XHF</code>
+    <DestinationName>Honefoss</DestinationName>
+    <DestinationStr>Honefoss(XHF)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XHU</code>
+    <DestinationName>Huntingdon</DestinationName>
+    <DestinationStr>Huntingdon(XHU)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XHY</code>
+    <DestinationName>Hendaye</DestinationName>
+    <DestinationStr>Hendaye(XHY)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XKD</code>
+    <DestinationName>Halden</DestinationName>
+    <DestinationStr>Halden(XKD)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XPZ</code>
+    <DestinationName>Harbourarpt</DestinationName>
+    <DestinationStr>Harbourarpt(XPZ)-France</DestinationStr>
+  </Destination>    
+  <Destination>
+    <code>XUE</code>
+    <DestinationName>Heimdal</DestinationName>
+    <DestinationStr>Heimdal(XUE)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XUG</code>
+    <DestinationName>Holmestrand</DestinationName>
+    <DestinationStr>Holmestrand(XUG)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XWM</code>
+    <DestinationName>Hallsberg</DestinationName>
+    <DestinationStr>Hallsberg(XWM)-Sweden</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XWP</code>
+    <DestinationName>Hassleholm</DestinationName>
+    <DestinationStr>Hassleholm(XWP)-Sweden</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XXU</code>
+    <DestinationName>Hedemora</DestinationName>
+    <DestinationStr>Hedemora(XXU)-Sweden</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XYC</code>
+    <DestinationName>Herrljunga</DestinationName>
+    <DestinationStr>Herrljunga(XYC)-Sweden</DestinationStr>
+  </Destination>    
+  <Destination>
+    <code>XYZ</code>
+    <DestinationName>Harnosand</DestinationName>
+    <DestinationStr>Harnosand(XYZ)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YGR</code>
+    <DestinationName>House Harbour Arpt</DestinationName>
+    <DestinationStr>House Harbour Arpt(YGR)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YGV</code>
+    <DestinationName>Havre St Pierre Municipal Arpt</DestinationName>
+    <DestinationStr>Havre St Pierre Municipal Arpt(YGV)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YGV</code>
+    <DestinationName>Havre St Pierre</DestinationName>
+    <DestinationStr>Havre St Pierre(YGV)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>YHB</code>
+    <DestinationName>Hudson Bay</DestinationName>
+    <DestinationStr>Hudson Bay(YHB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHE</code>
+    <DestinationName>Hope Arpt</DestinationName>
+    <DestinationStr>Hope Arpt(YHE)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHE</code>
+    <DestinationName>Hope</DestinationName>
+    <DestinationStr>Hope(YHE)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHF</code>
+    <DestinationName>Hearst Municipal Arpt</DestinationName>
+    <DestinationStr>Hearst Municipal Arpt(YHF)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHF</code>
+    <DestinationName>Hearst</DestinationName>
+    <DestinationStr>Hearst(YHF)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHH</code>
+    <DestinationName>Harbor Airport</DestinationName>
+    <DestinationStr>Harbor Airport(YHH)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHI</code>
+    <DestinationName>Holman Island</DestinationName>
+    <DestinationStr>Holman Island(YHI)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHM</code>
+    <DestinationName>Hamilton</DestinationName>
+    <DestinationStr>Hamilton(YHM)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>YHN</code>
+    <DestinationName>Hornepayne</DestinationName>
+    <DestinationStr>Hornepayne(YHN)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHO</code>
+    <DestinationName>Hopedale Arpt</DestinationName>
+    <DestinationStr>Hopedale Arpt(YHO)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHO</code>
+    <DestinationName>Hopedale</DestinationName>
+    <DestinationStr>Hopedale(YHO)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHY</code>
+    <DestinationName>Hay River Municipal Arpt</DestinationName>
+    <DestinationStr>Hay River Municipal Arpt(YHY)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHY</code>
+    <DestinationName>Hay River</DestinationName>
+    <DestinationStr>Hay River(YHY)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHZ</code>
+    <DestinationName>Halifax Intl</DestinationName>
+    <DestinationStr>Halifax Intl(YHZ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHZ</code>
+    <DestinationName>Halifax</DestinationName>
+    <DestinationStr>Halifax(YHZ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YOJ</code>
+    <DestinationName>High Level Arpt</DestinationName>
+    <DestinationStr>High Level Arpt(YOJ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YOJ</code>
+    <DestinationName>High Level</DestinationName>
+    <DestinationStr>High Level(YOJ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YUX</code>
+    <DestinationName>Hall Beach Arpt</DestinationName>
+    <DestinationStr>Hall Beach Arpt(YUX)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YUX</code>
+    <DestinationName>Hall Beach</DestinationName>
+    <DestinationStr>Hall Beach(YUX)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>YVH</code>
+    <DestinationName>Hjerkinn</DestinationName>
+    <DestinationStr>Hjerkinn(YVH)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZEY</code>
+    <DestinationName>Hagen</DestinationName>
+    <DestinationStr>Hagen(ZEY)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZEZ</code>
+    <DestinationName>Hameln</DestinationName>
+    <DestinationStr>Hameln(ZEZ)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZHL</code>
+    <DestinationName>Heerbrugg</DestinationName>
+    <DestinationStr>Heerbrugg(ZHL)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZHN</code>
+    <DestinationName>Herzogenbuchsee</DestinationName>
+    <DestinationStr>Herzogenbuchsee(ZHN)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZHO</code>
+    <DestinationName>Houston</DestinationName>
+    <DestinationStr>Houston(ZHO)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZHQ</code>
+    <DestinationName>Halberstadt</DestinationName>
+    <DestinationStr>Halberstadt(ZHQ)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZHZ</code>
+    <DestinationName>Halle</DestinationName>
+    <DestinationStr>Halle(ZHZ)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZIL</code>
+    <DestinationName>Horsens</DestinationName>
+    <DestinationStr>Horsens(ZIL)-Denmark</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZNA</code>
+    <DestinationName>Harbour Seaplane Base</DestinationName>
+    <DestinationStr>Harbour Seaplane Base(ZNA)-Canada</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZNB</code>
+    <DestinationName>Hamm</DestinationName>
+    <DestinationStr>Hamm(ZNB)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZNF</code>
+    <DestinationName>Hanau</DestinationName>
+    <DestinationStr>Hanau(ZNF)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZNI</code>
+    <DestinationName>Heidenheim</DestinationName>
+    <DestinationStr>Heidenheim(ZNI)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZNJ</code>
+    <DestinationName>Heilbronn</DestinationName>
+    <DestinationStr>Heilbronn(ZNJ)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZNK</code>
+    <DestinationName>Herford</DestinationName>
+    <DestinationStr>Herford(ZNK)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZNL</code>
+    <DestinationName>Herne</DestinationName>
+    <DestinationStr>Herne(ZNL)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZNN</code>
+    <DestinationName>Hilden</DestinationName>
+    <DestinationStr>Hilden(ZNN)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZNO</code>
+    <DestinationName>Hildesheim</DestinationName>
+    <DestinationStr>Hildesheim(ZNO)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZNP</code>
+    <DestinationName>Huerth</DestinationName>
+    <DestinationStr>Huerth(ZNP)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZNP</code>
+    <DestinationName>Hurth</DestinationName>
+    <DestinationStr>Hurth(ZNP)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZRY</code>
+    <DestinationName>Herning City</DestinationName>
+    <DestinationStr>Herning City(ZRY)-Denmark</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZVM</code>
+    <DestinationName>Hannover Messe/Laatzen RR Stn</DestinationName>
+    <DestinationStr>Hannover Messe/Laatzen RR Stn(ZVM)-Germany</DestinationStr>
+  </Destination>   
+  <Destination>
+    <code>ZWJ</code>
+    <DestinationName>Haugastol</DestinationName>
+    <DestinationStr>Haugastol(ZWJ)-Norway</DestinationStr>
+  </Destination>    
+</DestinationRoot>

@@ -1,0 +1,1882 @@
+﻿<DestinationRoot>
+  <Destination>
+    <code>NORESULT</code>
+    <DestinationName>NORESULT</DestinationName>
+    <DestinationStr>No Result Found</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AMM</code>
+    <DestinationName>Queen Alia Intl Arpt</DestinationName>
+    <DestinationStr>Queen Alia Intl Arpt(AMM)-Jordan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AQI</code>
+    <DestinationName>Qaisumah Arpt</DestinationName>
+    <DestinationStr>Qaisumah Arpt(AQI)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AQI</code>
+    <DestinationName>Qaisumah</DestinationName>
+    <DestinationStr>Qaisumah(AQI)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GNF</code>
+    <DestinationName>Quincy</DestinationName>
+    <DestinationStr>Quincy(GNF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IHN</code>
+    <DestinationName>Qishn</DestinationName>
+    <DestinationStr>Qishn(IHN)-Yemen, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IQM</code>
+    <DestinationName>Qiemo</DestinationName>
+    <DestinationStr>Qiemo(IQM)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IQN</code>
+    <DestinationName>Qingyang</DestinationName>
+    <DestinationStr>Qingyang(IQN)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JCH</code>
+    <DestinationName>Qasigiannguit</DestinationName>
+    <DestinationStr>Qasigiannguit(JCH)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JGO</code>
+    <DestinationName>Qeqertarsuaq</DestinationName>
+    <DestinationStr>Qeqertarsuaq(JGO)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JIQ</code>
+    <DestinationName>Qianjiang Wulingshan Arpt</DestinationName>
+    <DestinationStr>Qianjiang Wulingshan Arpt(JIQ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JIQ</code>
+    <DestinationName>Qianjiang</DestinationName>
+    <DestinationStr>Qianjiang(JIQ)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JJU</code>
+    <DestinationName>Qaqortoq Arpt</DestinationName>
+    <DestinationStr>Qaqortoq Arpt(JJU)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JJU</code>
+    <DestinationName>Qaqortoq</DestinationName>
+    <DestinationStr>Qaqortoq(JJU)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JQA</code>
+    <DestinationName>Qaarsut Arpt</DestinationName>
+    <DestinationStr>Qaarsut Arpt(JQA)-Greenland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JQA</code>
+    <DestinationName>Qaarsut</DestinationName>
+    <DestinationStr>Qaarsut(JQA)-Greenland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>KHI</code>
+    <DestinationName>Quaid E Azam International</DestinationName>
+    <DestinationStr>Quaid E Azam International(KHI)-Pakistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KQT</code>
+    <DestinationName>Qurghonteppa International</DestinationName>
+    <DestinationStr>Qurghonteppa International(KQT)-Tajikistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KQT</code>
+    <DestinationName>Qurghonteppa</DestinationName>
+    <DestinationStr>Qurghonteppa(KQT)-Tajikistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KWN</code>
+    <DestinationName>Quinhagak</DestinationName>
+    <DestinationStr>Quinhagak(KWN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MLI</code>
+    <DestinationName>Quad City Arpt</DestinationName>
+    <DestinationStr>Quad City Arpt(MLI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NDG</code>
+    <DestinationName>Qiqihar Arpt</DestinationName>
+    <DestinationStr>Qiqihar Arpt(NDG)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NDG</code>
+    <DestinationName>Qiqihar</DestinationName>
+    <DestinationStr>Qiqihar(NDG)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NLD</code>
+    <DestinationName>Quetzalcoatl International</DestinationName>
+    <DestinationStr>Quetzalcoatl International(NLD)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QAD</code>
+    <DestinationName>Pordenone</DestinationName>
+    <DestinationStr>Pordenone(QAD)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QAJ</code>
+    <DestinationName>Ajman City</DestinationName>
+    <DestinationStr>Ajman City(QAJ)-United Arab Emirates</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QAK</code>
+    <DestinationName>Barbacena</DestinationName>
+    <DestinationStr>Barbacena(QAK)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QAL</code>
+    <DestinationName>Alessandria</DestinationName>
+    <DestinationStr>Alessandria(QAL)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QAM</code>
+    <DestinationName>Amiens</DestinationName>
+    <DestinationStr>Amiens(QAM)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QAO</code>
+    <DestinationName>Agrigento</DestinationName>
+    <DestinationStr>Agrigento(QAO)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QAQ</code>
+    <DestinationName>Laquila</DestinationName>
+    <DestinationStr>Laquila(QAQ)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QAR</code>
+    <DestinationName>Arnhem</DestinationName>
+    <DestinationStr>Arnhem(QAR)-Netherlands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QAU</code>
+    <DestinationName>Bebedouro</DestinationName>
+    <DestinationStr>Bebedouro(QAU)-Brazil</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QAY</code>
+    <DestinationName>Alba Iulia</DestinationName>
+    <DestinationStr>Alba Iulia(QAY)-Romania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QAZ</code>
+    <DestinationName>Zakopane</DestinationName>
+    <DestinationStr>Zakopane(QAZ)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QBA</code>
+    <DestinationName>Budva</DestinationName>
+    <DestinationStr>Budva(QBA)-Montenegro</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QBC</code>
+    <DestinationName>Bella Colla Municipal</DestinationName>
+    <DestinationStr>Bella Colla Municipal(QBC)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QBC</code>
+    <DestinationName>Bella Coola</DestinationName>
+    <DestinationStr>Bella Coola(QBC)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QBF</code>
+    <DestinationName>Vail Van Service</DestinationName>
+    <DestinationStr>Vail Van Service(QBF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QBG</code>
+    <DestinationName>Pancevo</DestinationName>
+    <DestinationStr>Pancevo(QBG)-Serbia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QBH</code>
+    <DestinationName>Levallois</DestinationName>
+    <DestinationStr>Levallois(QBH)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QBI</code>
+    <DestinationName>Bitola</DestinationName>
+    <DestinationStr>Bitola(QBI)-Macedonia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QBK</code>
+    <DestinationName>Betim</DestinationName>
+    <DestinationStr>Betim(QBK)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QBM</code>
+    <DestinationName>Bourg Saint Maurice</DestinationName>
+    <DestinationStr>Bourg Saint Maurice(QBM)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QBM</code>
+    <DestinationName>Bourg St Maurice</DestinationName>
+    <DestinationStr>Bourg St Maurice(QBM)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QBO</code>
+    <DestinationName>Bochum</DestinationName>
+    <DestinationStr>Bochum(QBO)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QBQ</code>
+    <DestinationName>Besancon</DestinationName>
+    <DestinationStr>Besancon(QBQ)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QBS</code>
+    <DestinationName>Brescia</DestinationName>
+    <DestinationStr>Brescia(QBS)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QBV</code>
+    <DestinationName>Benevento</DestinationName>
+    <DestinationStr>Benevento(QBV)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QBW</code>
+    <DestinationName>Batesman Bay</DestinationName>
+    <DestinationStr>Batesman Bay(QBW)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QBX</code>
+    <DestinationName>Sobral</DestinationName>
+    <DestinationStr>Sobral(QBX)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QCA</code>
+    <DestinationName>Makkah</DestinationName>
+    <DestinationStr>Makkah(QCA)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QCB</code>
+    <DestinationName>Chiba</DestinationName>
+    <DestinationStr>Chiba(QCB)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QCC</code>
+    <DestinationName>Camacari</DestinationName>
+    <DestinationStr>Camacari(QCC)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QCE</code>
+    <DestinationName>Copper Mountain Van Service</DestinationName>
+    <DestinationStr>Copper Mountain Van Service(QCE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QCE</code>
+    <DestinationName>Copper Mountain</DestinationName>
+    <DestinationStr>Copper Mountain(QCE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QCF</code>
+    <DestinationName>Birigui</DestinationName>
+    <DestinationStr>Birigui(QCF)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QCH</code>
+    <DestinationName>Colatina</DestinationName>
+    <DestinationStr>Colatina(QCH)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QCI</code>
+    <DestinationName>Playa de los Cristianos</DestinationName>
+    <DestinationStr>Playa de los Cristianos(QCI)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QCJ</code>
+    <DestinationName>Botucatu</DestinationName>
+    <DestinationStr>Botucatu(QCJ)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QCK</code>
+    <DestinationName>Cabo Frio Br</DestinationName>
+    <DestinationStr>Cabo Frio Br(QCK)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QCL</code>
+    <DestinationName>Caltanissetta</DestinationName>
+    <DestinationStr>Caltanissetta(QCL)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QCM</code>
+    <DestinationName>Como</DestinationName>
+    <DestinationStr>Como(QCM)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QCN</code>
+    <DestinationName>Canela</DestinationName>
+    <DestinationStr>Canela(QCN)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QCQ</code>
+    <DestinationName>Caraguatatuba</DestinationName>
+    <DestinationStr>Caraguatatuba(QCQ)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QCS</code>
+    <DestinationName>Cosenza</DestinationName>
+    <DestinationStr>Cosenza(QCS)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QCW</code>
+    <DestinationName>Wilton</DestinationName>
+    <DestinationStr>Wilton(QCW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QCZ</code>
+    <DestinationName>Catanzaro</DestinationName>
+    <DestinationStr>Catanzaro(QCZ)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QDD</code>
+    <DestinationName>Botosani</DestinationName>
+    <DestinationStr>Botosani(QDD)-Romania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QDE</code>
+    <DestinationName>Catanduva</DestinationName>
+    <DestinationStr>Catanduva(QDE)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QDG</code>
+    <DestinationName>Ostrow Wielkopolski</DestinationName>
+    <DestinationStr>Ostrow Wielkopolski(QDG)-Poland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QDH</code>
+    <DestinationName>Ashford</DestinationName>
+    <DestinationStr>Ashford(QDH)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QDI</code>
+    <DestinationName>Dornbirn</DestinationName>
+    <DestinationStr>Dornbirn(QDI)-Austria</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QDM</code>
+    <DestinationName>Shek Mum</DestinationName>
+    <DestinationStr>Shek Mum(QDM)-Hong Kong</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QDN</code>
+    <DestinationName>Eden</DestinationName>
+    <DestinationStr>Eden(QDN)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QDQ</code>
+    <DestinationName>Duque De Caxias</DestinationName>
+    <DestinationStr>Duque De Caxias(QDQ)-Brazil</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QDV</code>
+    <DestinationName>Jundiai</DestinationName>
+    <DestinationStr>Jundiai(QDV)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QEA</code>
+    <DestinationName>Teramo</DestinationName>
+    <DestinationStr>Teramo(QEA)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QEB</code>
+    <DestinationName>Maebashi</DestinationName>
+    <DestinationStr>Maebashi(QEB)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QEI</code>
+    <DestinationName>Crailsheim</DestinationName>
+    <DestinationStr>Crailsheim(QEI)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QEO</code>
+    <DestinationName>Bielsko Baila</DestinationName>
+    <DestinationStr>Bielsko Baila(QEO)-Poland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QEQ</code>
+    <DestinationName>Embrach</DestinationName>
+    <DestinationStr>Embrach(QEQ)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QEV</code>
+    <DestinationName>Courbevoie</DestinationName>
+    <DestinationStr>Courbevoie(QEV)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QEW</code>
+    <DestinationName>Leicester</DestinationName>
+    <DestinationStr>Leicester(QEW)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QEX</code>
+    <DestinationName>Emmerich</DestinationName>
+    <DestinationStr>Emmerich(QEX)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QEZ</code>
+    <DestinationName>Pomezia</DestinationName>
+    <DestinationStr>Pomezia(QEZ)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QFA</code>
+    <DestinationName>Aalsmeer</DestinationName>
+    <DestinationStr>Aalsmeer(QFA)-Netherlands</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QFB</code>
+    <DestinationName>Freiburg</DestinationName>
+    <DestinationStr>Freiburg(QFB)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QFC</code>
+    <DestinationName>Creteil</DestinationName>
+    <DestinationStr>Creteil(QFC)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QFE</code>
+    <DestinationName>Fort Benning</DestinationName>
+    <DestinationStr>Fort Benning(QFE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QFE</code>
+    <DestinationName>Ft Benning</DestinationName>
+    <DestinationStr>Ft Benning(QFE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QFF</code>
+    <DestinationName>BROOKLYN</DestinationName>
+    <DestinationStr>BROOKLYN(QFF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QFH</code>
+    <DestinationName>Frederickshavn</DestinationName>
+    <DestinationStr>Frederickshavn(QFH)-Denmark</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QFL</code>
+    <DestinationName>Freilassing</DestinationName>
+    <DestinationStr>Freilassing(QFL)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QFQ</code>
+    <DestinationName>Harbour Arpt</DestinationName>
+    <DestinationStr>Harbour Arpt(QFQ)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QFQ</code>
+    <DestinationName>Maloy</DestinationName>
+    <DestinationStr>Maloy(QFQ)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QFR</code>
+    <DestinationName>Frosinone</DestinationName>
+    <DestinationStr>Frosinone(QFR)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QFU</code>
+    <DestinationName>Corralejo</DestinationName>
+    <DestinationStr>Corralejo(QFU)-Spain</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QFY</code>
+    <DestinationName>Fukuyama</DestinationName>
+    <DestinationStr>Fukuyama(QFY)-Japan</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QGB</code>
+    <DestinationName>Limeira</DestinationName>
+    <DestinationStr>Limeira(QGB)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QGC</code>
+    <DestinationName>Lencois Paulista</DestinationName>
+    <DestinationStr>Lencois Paulista(QGC)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QGJ</code>
+    <DestinationName>Nova Friburgo</DestinationName>
+    <DestinationStr>Nova Friburgo(QGJ)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QGL</code>
+    <DestinationName>Saint Gallen</DestinationName>
+    <DestinationStr>Saint Gallen(QGL)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QGL</code>
+    <DestinationName>Sankt Gallen</DestinationName>
+    <DestinationStr>Sankt Gallen(QGL)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QGL</code>
+    <DestinationName>St Gallen</DestinationName>
+    <DestinationStr>St Gallen(QGL)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QGN</code>
+    <DestinationName>Tarragona</DestinationName>
+    <DestinationStr>Tarragona(QGN)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QGO</code>
+    <DestinationName>Gorizia</DestinationName>
+    <DestinationStr>Gorizia(QGO)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QGS</code>
+    <DestinationName>Alagoinhas</DestinationName>
+    <DestinationStr>Alagoinhas(QGS)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QGU</code>
+    <DestinationName>Gifu</DestinationName>
+    <DestinationStr>Gifu(QGU)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QGY</code>
+    <DestinationName>Gyor Airport</DestinationName>
+    <DestinationStr>Gyor Airport(QGY)-Hungary</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QGY</code>
+    <DestinationName>Gyor</DestinationName>
+    <DestinationStr>Gyor(QGY)-Hungary</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QHA</code>
+    <DestinationName>Hasselt</DestinationName>
+    <DestinationStr>Hasselt(QHA)-Belgium</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QHB</code>
+    <DestinationName>Piracicaba</DestinationName>
+    <DestinationStr>Piracicaba(QHB)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QHD</code>
+    <DestinationName>Hahnweide</DestinationName>
+    <DestinationStr>Hahnweide(QHD)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QHG</code>
+    <DestinationName>Sete Lagoas</DestinationName>
+    <DestinationStr>Sete Lagoas(QHG)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QHI</code>
+    <DestinationName>Chon Buri</DestinationName>
+    <DestinationStr>Chon Buri(QHI)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QHP</code>
+    <DestinationName>Taubate</DestinationName>
+    <DestinationStr>Taubate(QHP)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QHS</code>
+    <DestinationName>Homs</DestinationName>
+    <DestinationStr>Homs(QHS)-Syrian Arab Rep.</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QHT</code>
+    <DestinationName>Terezopolis</DestinationName>
+    <DestinationStr>Terezopolis(QHT)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QHU</code>
+    <DestinationName>Husum</DestinationName>
+    <DestinationStr>Husum(QHU)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QHV</code>
+    <DestinationName>Novo Hamburgo Arpt</DestinationName>
+    <DestinationStr>Novo Hamburgo Arpt(QHV)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QHV</code>
+    <DestinationName>Novo Hamburgo</DestinationName>
+    <DestinationStr>Novo Hamburgo(QHV)-Brazil</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QHX</code>
+    <DestinationName>Qionghai</DestinationName>
+    <DestinationStr>Qionghai(QHX)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QHZ</code>
+    <DestinationName>Hoofddorp</DestinationName>
+    <DestinationStr>Hoofddorp(QHZ)-Netherlands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QIA</code>
+    <DestinationName>Itauna</DestinationName>
+    <DestinationStr>Itauna(QIA)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QIC</code>
+    <DestinationName>Siracusa</DestinationName>
+    <DestinationStr>Siracusa(QIC)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QIE</code>
+    <DestinationName>Istres</DestinationName>
+    <DestinationStr>Istres(QIE)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QIG</code>
+    <DestinationName>Iguatu Arpt</DestinationName>
+    <DestinationStr>Iguatu Arpt(QIG)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QIG</code>
+    <DestinationName>Iguatu</DestinationName>
+    <DestinationStr>Iguatu(QIG)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QIH</code>
+    <DestinationName>Tres Rios</DestinationName>
+    <DestinationStr>Tres Rios(QIH)-Brazil</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QII</code>
+    <DestinationName>Lindau</DestinationName>
+    <DestinationStr>Lindau(QII)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QIJ</code>
+    <DestinationName>Gijon</DestinationName>
+    <DestinationStr>Gijon(QIJ)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QIN</code>
+    <DestinationName>Mersin</DestinationName>
+    <DestinationStr>Mersin(QIN)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QIQ</code>
+    <DestinationName>Rio Claro</DestinationName>
+    <DestinationStr>Rio Claro(QIQ)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QIS</code>
+    <DestinationName>Mito</DestinationName>
+    <DestinationStr>Mito(QIS)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QIU</code>
+    <DestinationName>Ciudadela</DestinationName>
+    <DestinationStr>Ciudadela(QIU)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QIV</code>
+    <DestinationName>Ismailiya</DestinationName>
+    <DestinationStr>Ismailiya(QIV)-Egypt</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QIZ</code>
+    <DestinationName>Bizerte</DestinationName>
+    <DestinationStr>Bizerte(QIZ)-Tunisia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QJA</code>
+    <DestinationName>Jaragua Do Sul</DestinationName>
+    <DestinationStr>Jaragua Do Sul(QJA)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QJB</code>
+    <DestinationName>Jubail</DestinationName>
+    <DestinationStr>Jubail(QJB)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QJM</code>
+    <DestinationName>Brusque</DestinationName>
+    <DestinationStr>Brusque(QJM)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QJN</code>
+    <DestinationName>Jounieh</DestinationName>
+    <DestinationStr>Jounieh(QJN)-Lebanon</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QJO</code>
+    <DestinationName>Campos Do Jordao</DestinationName>
+    <DestinationStr>Campos Do Jordao(QJO)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QJU</code>
+    <DestinationName>Jalandhar</DestinationName>
+    <DestinationStr>Jalandhar(QJU)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QJV</code>
+    <DestinationName>Skagen</DestinationName>
+    <DestinationStr>Skagen(QJV)-Denmark</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QJY</code>
+    <DestinationName>Kolobrzeg</DestinationName>
+    <DestinationStr>Kolobrzeg(QJY)-Poland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QKB</code>
+    <DestinationName>Breckenridge Van Service</DestinationName>
+    <DestinationStr>Breckenridge Van Service(QKB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QKB</code>
+    <DestinationName>Breckenridge</DestinationName>
+    <DestinationStr>Breckenridge(QKB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QKF</code>
+    <DestinationName>Krefeld</DestinationName>
+    <DestinationStr>Krefeld(QKF)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QKG</code>
+    <DestinationName>Chalkida</DestinationName>
+    <DestinationStr>Chalkida(QKG)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QKI</code>
+    <DestinationName>Kielce</DestinationName>
+    <DestinationStr>Kielce(QKI)-Poland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QKN</code>
+    <DestinationName>Kairouan</DestinationName>
+    <DestinationStr>Kairouan(QKN)-Tunisia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QKQ</code>
+    <DestinationName>Anklam</DestinationName>
+    <DestinationStr>Anklam(QKQ)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QKR</code>
+    <DestinationName>Kourou</DestinationName>
+    <DestinationStr>Kourou(QKR)-French Guiana</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QKS</code>
+    <DestinationName>Keystone Van Service</DestinationName>
+    <DestinationStr>Keystone Van Service(QKS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QKS</code>
+    <DestinationName>Keystone</DestinationName>
+    <DestinationStr>Keystone(QKS)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QKW</code>
+    <DestinationName>Kanazawa</DestinationName>
+    <DestinationStr>Kanazawa(QKW)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QKZ</code>
+    <DestinationName>Konstanz</DestinationName>
+    <DestinationStr>Konstanz(QKZ)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QLB</code>
+    <DestinationName>Lajeado</DestinationName>
+    <DestinationStr>Lajeado(QLB)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QLC</code>
+    <DestinationName>Gliwice</DestinationName>
+    <DestinationStr>Gliwice(QLC)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QLD</code>
+    <DestinationName>Blida</DestinationName>
+    <DestinationStr>Blida(QLD)-Algeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QLE</code>
+    <DestinationName>Leeton Arpt</DestinationName>
+    <DestinationStr>Leeton Arpt(QLE)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QLE</code>
+    <DestinationName>Leeton</DestinationName>
+    <DestinationStr>Leeton(QLE)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QLF</code>
+    <DestinationName>Lahti</DestinationName>
+    <DestinationStr>Lahti(QLF)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QLG</code>
+    <DestinationName>Landshut</DestinationName>
+    <DestinationStr>Landshut(QLG)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QLH</code>
+    <DestinationName>Kelsterbach</DestinationName>
+    <DestinationStr>Kelsterbach(QLH)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QLI</code>
+    <DestinationName>Limassol</DestinationName>
+    <DestinationStr>Limassol(QLI)-Cyprus</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QLJ</code>
+    <DestinationName>Lucerne</DestinationName>
+    <DestinationStr>Lucerne(QLJ)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QLJ</code>
+    <DestinationName>Luzern</DestinationName>
+    <DestinationStr>Luzern(QLJ)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QLP</code>
+    <DestinationName>La Spezia</DestinationName>
+    <DestinationStr>La Spezia(QLP)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QLQ</code>
+    <DestinationName>Lerida</DestinationName>
+    <DestinationStr>Lerida(QLQ)-Spain</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QLR</code>
+    <DestinationName>Leiria</DestinationName>
+    <DestinationStr>Leiria(QLR)-Portugal</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QLS</code>
+    <DestinationName>Lausanne</DestinationName>
+    <DestinationStr>Lausanne(QLS)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QLT</code>
+    <DestinationName>Latina</DestinationName>
+    <DestinationStr>Latina(QLT)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QLW</code>
+    <DestinationName>Lavras</DestinationName>
+    <DestinationStr>Lavras(QLW)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QLY</code>
+    <DestinationName>Playa Blanca</DestinationName>
+    <DestinationStr>Playa Blanca(QLY)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QMB</code>
+    <DestinationName>Panambi</DestinationName>
+    <DestinationStr>Panambi(QMB)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QMD</code>
+    <DestinationName>Madaba</DestinationName>
+    <DestinationStr>Madaba(QMD)-Jordan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QME</code>
+    <DestinationName>Messina</DestinationName>
+    <DestinationStr>Messina(QME)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QMI</code>
+    <DestinationName>Mogi Das Cruzes</DestinationName>
+    <DestinationStr>Mogi Das Cruzes(QMI)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QMM</code>
+    <DestinationName>Marina Di Massa Arpt</DestinationName>
+    <DestinationStr>Marina Di Massa Arpt(QMM)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QMM</code>
+    <DestinationName>Marina Di Massa</DestinationName>
+    <DestinationStr>Marina Di Massa(QMM)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QMN</code>
+    <DestinationName>Mbabane</DestinationName>
+    <DestinationStr>Mbabane(QMN)-Swaziland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QMO</code>
+    <DestinationName>Mons</DestinationName>
+    <DestinationStr>Mons(QMO)-Belgium</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QMR</code>
+    <DestinationName>Marsala</DestinationName>
+    <DestinationStr>Marsala(QMR)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QMU</code>
+    <DestinationName>Moutiers</DestinationName>
+    <DestinationStr>Moutiers(QMU)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QMZ</code>
+    <DestinationName>Mainz</DestinationName>
+    <DestinationStr>Mainz(QMZ)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QNB</code>
+    <DestinationName>ANAND</DestinationName>
+    <DestinationStr>ANAND(QNB)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QNC</code>
+    <DestinationName>Neuchalet</DestinationName>
+    <DestinationStr>Neuchalet(QNC)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QND</code>
+    <DestinationName>Novi Sad</DestinationName>
+    <DestinationStr>Novi Sad(QND)-Serbia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QNF</code>
+    <DestinationName>Faridabad</DestinationName>
+    <DestinationStr>Faridabad(QNF)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QNG</code>
+    <DestinationName>Nagano</DestinationName>
+    <DestinationStr>Nagano(QNG)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QNJ</code>
+    <DestinationName>Annemasse</DestinationName>
+    <DestinationStr>Annemasse(QNJ)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QNL</code>
+    <DestinationName>Neuilly Sur Seine</DestinationName>
+    <DestinationStr>Neuilly Sur Seine(QNL)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QNM</code>
+    <DestinationName>Namure</DestinationName>
+    <DestinationStr>Namure(QNM)-Belgium</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QNO</code>
+    <DestinationName>Ascoli Piceno</DestinationName>
+    <DestinationStr>Ascoli Piceno(QNO)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QNP</code>
+    <DestinationName>Ayia Napa</DestinationName>
+    <DestinationStr>Ayia Napa(QNP)-Cyprus</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QNR</code>
+    <DestinationName>Santa Cruz Rio Pardo</DestinationName>
+    <DestinationStr>Santa Cruz Rio Pardo(QNR)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QNS</code>
+    <DestinationName>Canoas</DestinationName>
+    <DestinationStr>Canoas(QNS)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QNT</code>
+    <DestinationName>Niteroi Arpt</DestinationName>
+    <DestinationStr>Niteroi Arpt(QNT)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QNT</code>
+    <DestinationName>Niteroi</DestinationName>
+    <DestinationStr>Niteroi(QNT)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QNU</code>
+    <DestinationName>Nuoro</DestinationName>
+    <DestinationStr>Nuoro(QNU)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QNW</code>
+    <DestinationName>NAWANSHAHAR</DestinationName>
+    <DestinationStr>NAWANSHAHAR(QNW)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QNX</code>
+    <DestinationName>Macon</DestinationName>
+    <DestinationStr>Macon(QNX)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QNY</code>
+    <DestinationName>Marine Air Terminal</DestinationName>
+    <DestinationStr>Marine Air Terminal(QNY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QOA</code>
+    <DestinationName>Mococa</DestinationName>
+    <DestinationStr>Mococa(QOA)-Brazil</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QOB</code>
+    <DestinationName>Ansbach</DestinationName>
+    <DestinationStr>Ansbach(QOB)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QOC</code>
+    <DestinationName>Osasco</DestinationName>
+    <DestinationStr>Osasco(QOC)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QOG</code>
+    <DestinationName>Homburg</DestinationName>
+    <DestinationStr>Homburg(QOG)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QOI</code>
+    <DestinationName>Cotia</DestinationName>
+    <DestinationStr>Cotia(QOI)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QOM</code>
+    <DestinationName>Omiya</DestinationName>
+    <DestinationStr>Omiya(QOM)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QON</code>
+    <DestinationName>Arlon</DestinationName>
+    <DestinationStr>Arlon(QON)-Belgium</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QOR</code>
+    <DestinationName>Ordu</DestinationName>
+    <DestinationStr>Ordu(QOR)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QOT</code>
+    <DestinationName>Otaru</DestinationName>
+    <DestinationStr>Otaru(QOT)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QOW</code>
+    <DestinationName>Owerri</DestinationName>
+    <DestinationStr>Owerri(QOW)-Nigeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QOW</code>
+    <DestinationName>Sam Mbakwe Airport</DestinationName>
+    <DestinationStr>Sam Mbakwe Airport(QOW)-Nigeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QOX</code>
+    <DestinationName>Memmingen</DestinationName>
+    <DestinationStr>Memmingen(QOX)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QPA</code>
+    <DestinationName>Padova Arpt</DestinationName>
+    <DestinationStr>Padova Arpt(QPA)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QPA</code>
+    <DestinationName>Padova</DestinationName>
+    <DestinationStr>Padova(QPA)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QPB</code>
+    <DestinationName>Campobasso</DestinationName>
+    <DestinationStr>Campobasso(QPB)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QPC</code>
+    <DestinationName>Plock</DestinationName>
+    <DestinationStr>Plock(QPC)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QPE</code>
+    <DestinationName>Petropolis</DestinationName>
+    <DestinationStr>Petropolis(QPE)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QPG</code>
+    <DestinationName>Paya Lebar Arpt</DestinationName>
+    <DestinationStr>Paya Lebar Arpt(QPG)-Singapore</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QPH</code>
+    <DestinationName>Palapye</DestinationName>
+    <DestinationStr>Palapye(QPH)-Botswana</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QPL</code>
+    <DestinationName>Ploiesti</DestinationName>
+    <DestinationStr>Ploiesti(QPL)-Romania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QPM</code>
+    <DestinationName>Opole</DestinationName>
+    <DestinationStr>Opole(QPM)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QPN</code>
+    <DestinationName>Piatra Neamt</DestinationName>
+    <DestinationStr>Piatra Neamt(QPN)-Romania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QPO</code>
+    <DestinationName>Potenza</DestinationName>
+    <DestinationStr>Potenza(QPO)-Italy</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QPR</code>
+    <DestinationName>Prato</DestinationName>
+    <DestinationStr>Prato(QPR)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QPS</code>
+    <DestinationName>Pirassununga</DestinationName>
+    <DestinationStr>Pirassununga(QPS)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QPZ</code>
+    <DestinationName>Piacenza</DestinationName>
+    <DestinationStr>Piacenza(QPZ)-Italy</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QQD</code>
+    <DestinationName>Dover</DestinationName>
+    <DestinationStr>Dover(QQD)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QQH</code>
+    <DestinationName>Harwich</DestinationName>
+    <DestinationStr>Harwich(QQH)-United Kingdom</DestinationStr>
+  </Destination>    
+  <Destination>
+    <code>QQR</code>
+    <DestinationName>Ramsgate</DestinationName>
+    <DestinationStr>Ramsgate(QQR)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QQX</code>
+    <DestinationName>Bath</DestinationName>
+    <DestinationStr>Bath(QQX)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QQY</code>
+    <DestinationName>York</DestinationName>
+    <DestinationStr>York(QQY)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QRA</code>
+    <DestinationName>Randgermiston Arpt</DestinationName>
+    <DestinationStr>Randgermiston Arpt(QRA)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QRB</code>
+    <DestinationName>Ravensburg</DestinationName>
+    <DestinationStr>Ravensburg(QRB)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QRC</code>
+    <DestinationName>Rancagua</DestinationName>
+    <DestinationStr>Rancagua(QRC)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QRG</code>
+    <DestinationName>Ragusa</DestinationName>
+    <DestinationStr>Ragusa(QRG)-Italy</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QRI</code>
+    <DestinationName>Rize</DestinationName>
+    <DestinationStr>Rize(QRI)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QRL</code>
+    <DestinationName>Marbella</DestinationName>
+    <DestinationStr>Marbella(QRL)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QRM</code>
+    <DestinationName>Narromine</DestinationName>
+    <DestinationStr>Narromine(QRM)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QRO</code>
+    <DestinationName>Queretaro Intercontinental</DestinationName>
+    <DestinationStr>Queretaro Intercontinental(QRO)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QRO</code>
+    <DestinationName>Queretaro</DestinationName>
+    <DestinationStr>Queretaro(QRO)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QRP</code>
+    <DestinationName>Gramado</DestinationName>
+    <DestinationStr>Gramado(QRP)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QRQ</code>
+    <DestinationName>Marmaris</DestinationName>
+    <DestinationStr>Marmaris(QRQ)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QRT</code>
+    <DestinationName>Rieti</DestinationName>
+    <DestinationStr>Rieti(QRT)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QRV</code>
+    <DestinationName>Arras Arpt</DestinationName>
+    <DestinationStr>Arras Arpt(QRV)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QRV</code>
+    <DestinationName>Arras</DestinationName>
+    <DestinationStr>Arras(QRV)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QRW</code>
+    <DestinationName>Warri Airport</DestinationName>
+    <DestinationStr>Warri Airport(QRW)-Nigeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QRW</code>
+    <DestinationName>Warri</DestinationName>
+    <DestinationStr>Warri(QRW)-Nigeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QSA</code>
+    <DestinationName>Sabadell</DestinationName>
+    <DestinationStr>Sabadell(QSA)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QSC</code>
+    <DestinationName>Sao Carlos</DestinationName>
+    <DestinationStr>Sao Carlos(QSC)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QSF</code>
+    <DestinationName>Setif Arpt</DestinationName>
+    <DestinationStr>Setif Arpt(QSF)-Algeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QSF</code>
+    <DestinationName>Setif</DestinationName>
+    <DestinationStr>Setif(QSF)-Algeria</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QSJ</code>
+    <DestinationName>Sao Joao Del Rei</DestinationName>
+    <DestinationStr>Sao Joao Del Rei(QSJ)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QSO</code>
+    <DestinationName>Sousse</DestinationName>
+    <DestinationStr>Sousse(QSO)-Tunisia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QSR</code>
+    <DestinationName>Salerno Offline Point</DestinationName>
+    <DestinationStr>Salerno Offline Point(QSR)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QSR</code>
+    <DestinationName>Salerno</DestinationName>
+    <DestinationStr>Salerno(QSR)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QSS</code>
+    <DestinationName>Sassari</DestinationName>
+    <DestinationStr>Sassari(QSS)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QST</code>
+    <DestinationName>Izmit</DestinationName>
+    <DestinationStr>Izmit(QST)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QTH</code>
+    <DestinationName>Thredbo</DestinationName>
+    <DestinationStr>Thredbo(QTH)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QTJ</code>
+    <DestinationName>Chartres</DestinationName>
+    <DestinationStr>Chartres(QTJ)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QTK</code>
+    <DestinationName>Rothenburg</DestinationName>
+    <DestinationStr>Rothenburg(QTK)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QTL</code>
+    <DestinationName>Caratinga</DestinationName>
+    <DestinationStr>Caratinga(QTL)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QTM</code>
+    <DestinationName>Tomakomai</DestinationName>
+    <DestinationStr>Tomakomai(QTM)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QTO</code>
+    <DestinationName>Skitube</DestinationName>
+    <DestinationStr>Skitube(QTO)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QTR</code>
+    <DestinationName>Tartous</DestinationName>
+    <DestinationStr>Tartous(QTR)-Syrian Arab Rep.</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QTU</code>
+    <DestinationName>Itu BR</DestinationName>
+    <DestinationStr>Itu BR(QTU)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QTY</code>
+    <DestinationName>Tsu Jp</DestinationName>
+    <DestinationStr>Tsu Jp(QTY)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QTZ</code>
+    <DestinationName>Coatzacoalcos</DestinationName>
+    <DestinationStr>Coatzacoalcos(QTZ)-Mexico</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QUL</code>
+    <DestinationName>Ulm</DestinationName>
+    <DestinationStr>Ulm(QUL)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QUQ</code>
+    <DestinationName>Caceres</DestinationName>
+    <DestinationStr>Caceres(QUQ)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QUR</code>
+    <DestinationName>Muriae</DestinationName>
+    <DestinationStr>Muriae(QUR)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QUT</code>
+    <DestinationName>Utsunomiya</DestinationName>
+    <DestinationStr>Utsunomiya(QUT)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QUZ</code>
+    <DestinationName>Puerto de la Luz</DestinationName>
+    <DestinationStr>Puerto de la Luz(QUZ)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QVA</code>
+    <DestinationName>Varese</DestinationName>
+    <DestinationStr>Varese(QVA)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QVC</code>
+    <DestinationName>Vicosa</DestinationName>
+    <DestinationStr>Vicosa(QVC)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QVD</code>
+    <DestinationName>Salo</DestinationName>
+    <DestinationStr>Salo(QVD)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QVE</code>
+    <DestinationName>Forssa</DestinationName>
+    <DestinationStr>Forssa(QVE)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QVH</code>
+    <DestinationName>Vila Velha</DestinationName>
+    <DestinationStr>Vila Velha(QVH)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QVL</code>
+    <DestinationName>Victoria Island</DestinationName>
+    <DestinationStr>Victoria Island(QVL)-Nigeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QVM</code>
+    <DestinationName>Hameenlinna</DestinationName>
+    <DestinationStr>Hameenlinna(QVM)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QVN</code>
+    <DestinationName>Avellino</DestinationName>
+    <DestinationStr>Avellino(QVN)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QVP</code>
+    <DestinationName>Avare</DestinationName>
+    <DestinationStr>Avare(QVP)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QVR</code>
+    <DestinationName>Volta Redonda</DestinationName>
+    <DestinationStr>Volta Redonda(QVR)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QVU</code>
+    <DestinationName>Vaduz</DestinationName>
+    <DestinationStr>Vaduz(QVU)-Liechtenstein</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QVW</code>
+    <DestinationName>Kotka</DestinationName>
+    <DestinationStr>Kotka(QVW)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QVZ</code>
+    <DestinationName>Hamina</DestinationName>
+    <DestinationStr>Hamina(QVZ)-Finland</DestinationStr>
+  </Destination>    
+  <Destination>
+    <code>QWD</code>
+    <DestinationName>Mittenwald Airport</DestinationName>
+    <DestinationStr>Mittenwald Airport(QWD)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QWD</code>
+    <DestinationName>Mittenwald</DestinationName>
+    <DestinationStr>Mittenwald(QWD)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QWG</code>
+    <DestinationName>Wilgrove Air Parkarpt</DestinationName>
+    <DestinationStr>Wilgrove Air Parkarpt(QWG)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QWI</code>
+    <DestinationName>Schleswig</DestinationName>
+    <DestinationStr>Schleswig(QWI)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QWJ</code>
+    <DestinationName>Americana</DestinationName>
+    <DestinationStr>Americana(QWJ)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QWL</code>
+    <DestinationName>Crackenback Village</DestinationName>
+    <DestinationStr>Crackenback Village(QWL)-Australia</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QWM</code>
+    <DestinationName>Longmont</DestinationName>
+    <DestinationStr>Longmont(QWM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QWO</code>
+    <DestinationName>Holstebro</DestinationName>
+    <DestinationStr>Holstebro(QWO)-Denmark</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QWP</code>
+    <DestinationName>Winter Park</DestinationName>
+    <DestinationStr>Winter Park(QWP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QWQ</code>
+    <DestinationName>Struer</DestinationName>
+    <DestinationStr>Struer(QWQ)-Denmark</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QWR</code>
+    <DestinationName>Donauwoerth</DestinationName>
+    <DestinationStr>Donauwoerth(QWR)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QWS</code>
+    <DestinationName>Nowy Targ</DestinationName>
+    <DestinationStr>Nowy Targ(QWS)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QWT</code>
+    <DestinationName>Talavera De La Reina</DestinationName>
+    <DestinationStr>Talavera De La Reina(QWT)-Spain</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QWU</code>
+    <DestinationName>Wurzburg</DestinationName>
+    <DestinationStr>Wurzburg(QWU)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QWV</code>
+    <DestinationName>Valjevo</DestinationName>
+    <DestinationStr>Valjevo(QWV)-Serbia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QWW</code>
+    <DestinationName>Navalmoral de la Mata</DestinationName>
+    <DestinationStr>Navalmoral de la Mata(QWW)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QWX</code>
+    <DestinationName>Merida</DestinationName>
+    <DestinationStr>Merida(QWX)-Spain</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QWY</code>
+    <DestinationName>Albany</DestinationName>
+    <DestinationStr>Albany(QWY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QXB</code>
+    <DestinationName>Aix En Provence</DestinationName>
+    <DestinationStr>Aix En Provence(QXB)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QXE</code>
+    <DestinationName>Sora</DestinationName>
+    <DestinationStr>Sora(QXE)-Italy</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QXJ</code>
+    <DestinationName>Porvoo</DestinationName>
+    <DestinationStr>Porvoo(QXJ)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QXP</code>
+    <DestinationName>Struga</DestinationName>
+    <DestinationStr>Struga(QXP)-Macedonia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QXR</code>
+    <DestinationName>Radom</DestinationName>
+    <DestinationStr>Radom(QXR)-Poland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QXV</code>
+    <DestinationName>Svendborg</DestinationName>
+    <DestinationStr>Svendborg(QXV)-Denmark</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QXW</code>
+    <DestinationName>Alfenas</DestinationName>
+    <DestinationStr>Alfenas(QXW)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QYC</code>
+    <DestinationName>Drachten</DestinationName>
+    <DestinationStr>Drachten(QYC)-Netherlands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QYD</code>
+    <DestinationName>Gdynia</DestinationName>
+    <DestinationStr>Gdynia(QYD)-Poland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QYH</code>
+    <DestinationName>Hengelo</DestinationName>
+    <DestinationStr>Hengelo(QYH)-Netherlands</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QYI</code>
+    <DestinationName>Hilversum</DestinationName>
+    <DestinationStr>Hilversum(QYI)-Netherlands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QYK</code>
+    <DestinationName>Goyang</DestinationName>
+    <DestinationStr>Goyang(QYK)-Korea, Republic Of</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QYL</code>
+    <DestinationName>Almelo</DestinationName>
+    <DestinationStr>Almelo(QYL)-Netherlands</DestinationStr>
+  </Destination> 
+  <Destination>
+    <code>QYM</code>
+    <DestinationName>Amersfoort</DestinationName>
+    <DestinationStr>Amersfoort(QYM)-Netherlands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QYN</code>
+    <DestinationName>Byron Bay</DestinationName>
+    <DestinationStr>Byron Bay(QYN)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QYO</code>
+    <DestinationName>Olsztyn Arpt</DestinationName>
+    <DestinationStr>Olsztyn Arpt(QYO)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QYO</code>
+    <DestinationName>Olsztyn</DestinationName>
+    <DestinationStr>Olsztyn(QYO)-Poland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QYP</code>
+    <DestinationName>Apeldoorn</DestinationName>
+    <DestinationStr>Apeldoorn(QYP)-Netherlands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QYR</code>
+    <DestinationName>Barberey airport</DestinationName>
+    <DestinationStr>Barberey airport(QYR)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QYR</code>
+    <DestinationName>Troyes</DestinationName>
+    <DestinationStr>Troyes(QYR)-France</DestinationStr>
+  </Destination>    
+  <Destination>
+    <code>QYV</code>
+    <DestinationName>Deventer</DestinationName>
+    <DestinationStr>Deventer(QYV)-Netherlands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QYW</code>
+    <DestinationName>Le Vieux Port Harbour</DestinationName>
+    <DestinationStr>Le Vieux Port Harbour(QYW)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QYX</code>
+    <DestinationName>Uppsala</DestinationName>
+    <DestinationStr>Uppsala(QYX)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QYY</code>
+    <DestinationName>Bialystok</DestinationName>
+    <DestinationStr>Bialystok(QYY)-Poland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QYZ</code>
+    <DestinationName>Heerenveen</DestinationName>
+    <DestinationStr>Heerenveen(QYZ)-Netherlands</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QZB</code>
+    <DestinationName>Zermatt</DestinationName>
+    <DestinationStr>Zermatt(QZB)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QZD</code>
+    <DestinationName>Szeged</DestinationName>
+    <DestinationStr>Szeged(QZD)-Hungary</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QZF</code>
+    <DestinationName>Font Romeu</DestinationName>
+    <DestinationStr>Font Romeu(QZF)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QZO</code>
+    <DestinationName>Arezzo</DestinationName>
+    <DestinationStr>Arezzo(QZO)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QZQ</code>
+    <DestinationName>Zahle</DestinationName>
+    <DestinationStr>Zahle(QZQ)-Lebanon</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QZU</code>
+    <DestinationName>Rauma</DestinationName>
+    <DestinationStr>Rauma(QZU)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RZH</code>
+    <DestinationName>Quartz Hill Arpt</DestinationName>
+    <DestinationStr>Quartz Hill Arpt(RZH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SHP</code>
+    <DestinationName>Qinhuangdao Arpt</DestinationName>
+    <DestinationStr>Qinhuangdao Arpt(SHP)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SHP</code>
+    <DestinationName>Qinhuangdao</DestinationName>
+    <DestinationStr>Qinhuangdao(SHP)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAO</code>
+    <DestinationName>Qingdao</DestinationName>
+    <DestinationStr>Qingdao(TAO)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UEE</code>
+    <DestinationName>Queenstown Arpt</DestinationName>
+    <DestinationStr>Queenstown Arpt(UEE)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UEE</code>
+    <DestinationName>Queenstown</DestinationName>
+    <DestinationStr>Queenstown(UEE)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UEL</code>
+    <DestinationName>Quelimane Arpt</DestinationName>
+    <DestinationStr>Quelimane Arpt(UEL)-Mozambique</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UEL</code>
+    <DestinationName>Quelimane</DestinationName>
+    <DestinationStr>Quelimane(UEL)-Mozambique</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UET</code>
+    <DestinationName>Quetta</DestinationName>
+    <DestinationStr>Quetta(UET)-Pakistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UIB</code>
+    <DestinationName>Quibdo</DestinationName>
+    <DestinationStr>Quibdo(UIB)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UIH</code>
+    <DestinationName>Qui Nhon Arpt</DestinationName>
+    <DestinationStr>Qui Nhon Arpt(UIH)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UIH</code>
+    <DestinationName>Qui Nhon</DestinationName>
+    <DestinationStr>Qui Nhon(UIH)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UIN</code>
+    <DestinationName>Quincy</DestinationName>
+    <DestinationStr>Quincy(UIN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UIO</code>
+    <DestinationName>Quito</DestinationName>
+    <DestinationStr>Quito(UIO)-Ecuador</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UIP</code>
+    <DestinationName>Quimper</DestinationName>
+    <DestinationStr>Quimper(UIP)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UIR</code>
+    <DestinationName>Quirindi Arpt</DestinationName>
+    <DestinationStr>Quirindi Arpt(UIR)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UIR</code>
+    <DestinationName>Quirindi</DestinationName>
+    <DestinationStr>Quirindi(UIR)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UKT</code>
+    <DestinationName>Quakertown</DestinationName>
+    <DestinationStr>Quakertown(UKT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ULP</code>
+    <DestinationName>Quilpie Arpt</DestinationName>
+    <DestinationStr>Quilpie Arpt(ULP)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ULP</code>
+    <DestinationName>Quilpie</DestinationName>
+    <DestinationStr>Quilpie(ULP)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UNE</code>
+    <DestinationName>Qachas Nek</DestinationName>
+    <DestinationStr>Qachas Nek(UNE)-Lesotho</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UTW</code>
+    <DestinationName>Queenstown Airport</DestinationName>
+    <DestinationStr>Queenstown Airport(UTW)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UTW</code>
+    <DestinationName>Queenstown</DestinationName>
+    <DestinationStr>Queenstown(UTW)-South Africa</DestinationStr>
+  </Destination>    
+  <Destination>
+    <code>XQP</code>
+    <DestinationName>Quepos</DestinationName>
+    <DestinationStr>Quepos(XQP)-Costa Rica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XQU</code>
+    <DestinationName>Qualicum Arpt</DestinationName>
+    <DestinationStr>Qualicum Arpt(XQU)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XQU</code>
+    <DestinationName>Qualicum</DestinationName>
+    <DestinationStr>Qualicum(XQU)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQB</code>
+    <DestinationName>Quebec Intl</DestinationName>
+    <DestinationStr>Quebec Intl(YQB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQB</code>
+    <DestinationName>Quebec</DestinationName>
+    <DestinationStr>Quebec(YQB)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQC</code>
+    <DestinationName>Quaqtaq Arpt</DestinationName>
+    <DestinationStr>Quaqtaq Arpt(YQC)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQC</code>
+    <DestinationName>Quaqtaq</DestinationName>
+    <DestinationStr>Quaqtaq(YQC)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQZ</code>
+    <DestinationName>Quesnel Arpt</DestinationName>
+    <DestinationStr>Quesnel Arpt(YQZ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YQZ</code>
+    <DestinationName>Quesnel</DestinationName>
+    <DestinationStr>Quesnel(YQZ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YVM</code>
+    <DestinationName>Qikiqtarjuaq Arpt</DestinationName>
+    <DestinationStr>Qikiqtarjuaq Arpt(YVM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YVM</code>
+    <DestinationName>Qikiqtarjuaq</DestinationName>
+    <DestinationStr>Qikiqtarjuaq(YVM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZQN</code>
+    <DestinationName>Queenstown</DestinationName>
+    <DestinationStr>Queenstown(ZQN)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZQS</code>
+    <DestinationName>Queen Charlotte Island Arpt</DestinationName>
+    <DestinationStr>Queen Charlotte Island Arpt(ZQS)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZQS</code>
+    <DestinationName>Queen Charlotte Island</DestinationName>
+    <DestinationStr>Queen Charlotte Island(ZQS)-Canada</DestinationStr>
+  </Destination>
+</DestinationRoot>

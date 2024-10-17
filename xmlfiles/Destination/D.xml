@@ -1,0 +1,2422 @@
+﻿<DestinationRoot>
+  <Destination>
+    <code>NORESULT</code>
+    <DestinationName>NORESULT</DestinationName>
+    <DestinationStr>No Result Found</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ABY</code>
+    <DestinationName>Dougherty Cty Arpt</DestinationName>
+    <DestinationStr>Dougherty Cty Arpt(ABY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ABZ</code>
+    <DestinationName>Dyce Airport</DestinationName>
+    <DestinationStr>Dyce Airport(ABZ)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AHD</code>
+    <DestinationName>Downtown Arpt</DestinationName>
+    <DestinationStr>Downtown Arpt(AHD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ASW</code>
+    <DestinationName>Daraw Arpt</DestinationName>
+    <DestinationStr>Daraw Arpt(ASW)-Egypt</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AUH</code>
+    <DestinationName>Dhabi Intl Arpt</DestinationName>
+    <DestinationStr>Dhabi Intl Arpt(AUH)-United Arab Emirates</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AXD</code>
+    <DestinationName>Dhmokritos Arpt</DestinationName>
+    <DestinationStr>Dhmokritos Arpt(AXD)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BJX</code>
+    <DestinationName>Del Bajio International</DestinationName>
+    <DestinationStr>Del Bajio International(BJX)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BLE</code>
+    <DestinationName>Dala Airport</DestinationName>
+    <DestinationStr>Dala Airport(BLE)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BYB</code>
+    <DestinationName>Dibaa</DestinationName>
+    <DestinationStr>Dibaa(BYB)-Oman Sultanate Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CFN</code>
+    <DestinationName>Donegal Arpt</DestinationName>
+    <DestinationStr>Donegal Arpt(CFN)-Ireland, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CFN</code>
+    <DestinationName>Donegal</DestinationName>
+    <DestinationStr>Donegal(CFN)-Ireland, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DAB</code>
+    <DestinationName>Daytona Beach Regional Arpt</DestinationName>
+    <DestinationStr>Daytona Beach Regional Arpt(DAB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DAB</code>
+    <DestinationName>Daytona Beach</DestinationName>
+    <DestinationStr>Daytona Beach(DAB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DAC</code>
+    <DestinationName>Dacca</DestinationName>
+    <DestinationStr>Dacca(DAC)-Bangladesh</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DAC</code>
+    <DestinationName>Dhaka</DestinationName>
+    <DestinationStr>Dhaka(DAC)-Bangladesh</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DAC</code>
+    <DestinationName>Hazrat Shahjalal Intl Arpt</DestinationName>
+    <DestinationStr>Hazrat Shahjalal Intl Arpt(DAC)-Bangladesh</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DAD</code>
+    <DestinationName>Da Nang Arpt</DestinationName>
+    <DestinationStr>Da Nang Arpt(DAD)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DAD</code>
+    <DestinationName>Da Nang</DestinationName>
+    <DestinationStr>Da Nang(DAD)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DAE</code>
+    <DestinationName>Daparizo Airport</DestinationName>
+    <DestinationStr>Daparizo Airport(DAE)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DAE</code>
+    <DestinationName>Daparizo</DestinationName>
+    <DestinationStr>Daparizo(DAE)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DAG</code>
+    <DestinationName>Barstow Daggett  Airport</DestinationName>
+    <DestinationStr>Barstow Daggett  Airport(DAG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DAG</code>
+    <DestinationName>Daggett</DestinationName>
+    <DestinationStr>Daggett(DAG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DAI</code>
+    <DestinationName>DARJEELING</DestinationName>
+    <DestinationStr>DARJEELING(DAI)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DAK</code>
+    <DestinationName>Dakhla Arpt</DestinationName>
+    <DestinationStr>Dakhla Arpt(DAK)-Egypt</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DAK</code>
+    <DestinationName>Dakhla Oasis</DestinationName>
+    <DestinationStr>Dakhla Oasis(DAK)-Egypt</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DAL</code>
+    <DestinationName>Love Field</DestinationName>
+    <DestinationStr>Love Field(DAL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DAM</code>
+    <DestinationName>Damascus Intl</DestinationName>
+    <DestinationStr>Damascus Intl(DAM)-Syrian Arab Rep.</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DAM</code>
+    <DestinationName>Damascus</DestinationName>
+    <DestinationStr>Damascus(DAM)-Syrian Arab Rep.</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DAN</code>
+    <DestinationName>Danville Municipal</DestinationName>
+    <DestinationStr>Danville Municipal(DAN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DAN</code>
+    <DestinationName>Danville</DestinationName>
+    <DestinationStr>Danville(DAN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DAR</code>
+    <DestinationName>Dar Es Salaam</DestinationName>
+    <DestinationStr>Dar Es Salaam(DAR)-Tanzania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DAR</code>
+    <DestinationName>Es Salaam Intl</DestinationName>
+    <DestinationStr>Es Salaam Intl(DAR)-Tanzania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DAT</code>
+    <DestinationName>Datong Arpt</DestinationName>
+    <DestinationStr>Datong Arpt(DAT)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DAT</code>
+    <DestinationName>Datong</DestinationName>
+    <DestinationStr>Datong(DAT)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DAU</code>
+    <DestinationName>Daru Airport</DestinationName>
+    <DestinationStr>Daru Airport(DAU)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DAU</code>
+    <DestinationName>Daru</DestinationName>
+    <DestinationStr>Daru(DAU)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DAV</code>
+    <DestinationName>David</DestinationName>
+    <DestinationStr>David(DAV)-Panama</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DAV</code>
+    <DestinationName>Enrique Malek Intl</DestinationName>
+    <DestinationStr>Enrique Malek Intl(DAV)-Panama</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DAY</code>
+    <DestinationName>Dayton International Airport</DestinationName>
+    <DestinationStr>Dayton International Airport(DAY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DAY</code>
+    <DestinationName>Dayton</DestinationName>
+    <DestinationStr>Dayton(DAY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DBD</code>
+    <DestinationName>DHANBAD</DestinationName>
+    <DestinationStr>DHANBAD(DBD)-India</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>DBL</code>
+    <DestinationName>PANAJI</DestinationName>
+    <DestinationStr>PANAJI(DBL)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DBM</code>
+    <DestinationName>Debremarcos</DestinationName>
+    <DestinationStr>Debremarcos(DBM)-Ethiopia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DBN</code>
+    <DestinationName>Dublin Municipal Arpt</DestinationName>
+    <DestinationStr>Dublin Municipal Arpt(DBN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DBN</code>
+    <DestinationName>Dublin</DestinationName>
+    <DestinationStr>Dublin(DBN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DBO</code>
+    <DestinationName>Dubbo Arpt</DestinationName>
+    <DestinationStr>Dubbo Arpt(DBO)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DBO</code>
+    <DestinationName>Dubbo</DestinationName>
+    <DestinationStr>Dubbo(DBO)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DBQ</code>
+    <DestinationName>Dubuque Municipal Arpt</DestinationName>
+    <DestinationStr>Dubuque Municipal Arpt(DBQ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DBQ</code>
+    <DestinationName>Dubuque</DestinationName>
+    <DestinationStr>Dubuque(DBQ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DBU</code>
+    <DestinationName>Dambula</DestinationName>
+    <DestinationStr>Dambula(DBU)-Sri Lanka</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DBV</code>
+    <DestinationName>Dubrovnik Arpt</DestinationName>
+    <DestinationStr>Dubrovnik Arpt(DBV)-Croatia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DBV</code>
+    <DestinationName>Dubrovnik</DestinationName>
+    <DestinationStr>Dubrovnik(DBV)-Croatia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DBY</code>
+    <DestinationName>Dalby</DestinationName>
+    <DestinationStr>Dalby(DBY)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DCA</code>
+    <DestinationName>Ronald Reagan National Arpt</DestinationName>
+    <DestinationStr>Ronald Reagan National Arpt(DCA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DCA</code>
+    <DestinationName>Washington National Arpt</DestinationName>
+    <DestinationStr>Washington National Arpt(DCA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DCF</code>
+    <DestinationName>Canefield Arpt</DestinationName>
+    <DestinationStr>Canefield Arpt(DCF)-Dominica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DCF</code>
+    <DestinationName>Roseau</DestinationName>
+    <DestinationStr>Roseau(DCF)-Dominica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DCM</code>
+    <DestinationName>Castres</DestinationName>
+    <DestinationStr>Castres(DCM)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DCM</code>
+    <DestinationName>Mazamet Arpt</DestinationName>
+    <DestinationStr>Mazamet Arpt(DCM)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DCN</code>
+    <DestinationName>Curtain Arpt</DestinationName>
+    <DestinationStr>Curtain Arpt(DCN)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DCN</code>
+    <DestinationName>Derby City</DestinationName>
+    <DestinationStr>Derby City(DCN)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DCU</code>
+    <DestinationName>Decatur</DestinationName>
+    <DestinationStr>Decatur(DCU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DCU</code>
+    <DestinationName>Pyor Arpt</DestinationName>
+    <DestinationStr>Pyor Arpt(DCU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DDC</code>
+    <DestinationName>Dodge City Municipal Arpt</DestinationName>
+    <DestinationStr>Dodge City Municipal Arpt(DDC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DDC</code>
+    <DestinationName>Dodge City</DestinationName>
+    <DestinationStr>Dodge City(DDC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DDG</code>
+    <DestinationName>Dandong Arpt</DestinationName>
+    <DestinationStr>Dandong Arpt(DDG)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DDG</code>
+    <DestinationName>Dandong</DestinationName>
+    <DestinationStr>Dandong(DDG)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DDI</code>
+    <DestinationName>Daydream Island Arpt</DestinationName>
+    <DestinationStr>Daydream Island Arpt(DDI)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DDI</code>
+    <DestinationName>Daydream Island</DestinationName>
+    <DestinationStr>Daydream Island(DDI)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DDM</code>
+    <DestinationName>Dodoima</DestinationName>
+    <DestinationStr>Dodoima(DDM)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DDN</code>
+    <DestinationName>Delta Downs</DestinationName>
+    <DestinationStr>Delta Downs(DDN)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DDP</code>
+    <DestinationName>Dorado</DestinationName>
+    <DestinationStr>Dorado(DDP)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>DEB</code>
+    <DestinationName>Debrecen Arpt</DestinationName>
+    <DestinationStr>Debrecen Arpt(DEB)-Hungary</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DEB</code>
+    <DestinationName>Debrecen</DestinationName>
+    <DestinationStr>Debrecen(DEB)-Hungary</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DEC</code>
+    <DestinationName>Decatur Municipal</DestinationName>
+    <DestinationStr>Decatur Municipal(DEC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DEC</code>
+    <DestinationName>Decatur</DestinationName>
+    <DestinationStr>Decatur(DEC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DED</code>
+    <DestinationName>Dehra Dun</DestinationName>
+    <DestinationStr>Dehra Dun(DED)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DED</code>
+    <DestinationName>Jolly Grant Airport</DestinationName>
+    <DestinationStr>Jolly Grant Airport(DED)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DEE</code>
+    <DestinationName>Mendeleyevo Airport</DestinationName>
+    <DestinationStr>Mendeleyevo Airport(DEE)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DEE</code>
+    <DestinationName>Yuzhno Kurilsk</DestinationName>
+    <DestinationStr>Yuzhno Kurilsk(DEE)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DEH</code>
+    <DestinationName>Decorah Municipal</DestinationName>
+    <DestinationStr>Decorah Municipal(DEH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DEH</code>
+    <DestinationName>Decorah</DestinationName>
+    <DestinationStr>Decorah(DEH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DEL</code>
+    <DestinationName>Delhi Indira Gandhi Intl</DestinationName>
+    <DestinationStr>Delhi Indira Gandhi Intl(DEL)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DEL</code>
+    <DestinationName>Delhi</DestinationName>
+    <DestinationStr>Delhi(DEL)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DEM</code>
+    <DestinationName>Dembidollo</DestinationName>
+    <DestinationStr>Dembidollo(DEM)-Ethiopia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DEN</code>
+    <DestinationName>Denver Intl Arpt</DestinationName>
+    <DestinationStr>Denver Intl Arpt(DEN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DEN</code>
+    <DestinationName>Denver</DestinationName>
+    <DestinationStr>Denver(DEN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DEO</code>
+    <DestinationName>Dearborn</DestinationName>
+    <DestinationStr>Dearborn(DEO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DER</code>
+    <DestinationName>Derim</DestinationName>
+    <DestinationStr>Derim(DER)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DET</code>
+    <DestinationName>Detroit City Arpt</DestinationName>
+    <DestinationStr>Detroit City Arpt(DET)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DEY</code>
+    <DestinationName>Deyang</DestinationName>
+    <DestinationStr>Deyang(DEY)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DEZ</code>
+    <DestinationName>Al Jafrah Arpt</DestinationName>
+    <DestinationStr>Al Jafrah Arpt(DEZ)-Syrian Arab Rep.</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DEZ</code>
+    <DestinationName>Deirezzor</DestinationName>
+    <DestinationStr>Deirezzor(DEZ)-Syrian Arab Rep.</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DFI</code>
+    <DestinationName>Defiance Memorial Arpt</DestinationName>
+    <DestinationStr>Defiance Memorial Arpt(DFI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DFI</code>
+    <DestinationName>Defiance</DestinationName>
+    <DestinationStr>Defiance(DFI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DFW</code>
+    <DestinationName>Dallas Ft Worth Intl</DestinationName>
+    <DestinationStr>Dallas Ft Worth Intl(DFW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DFW</code>
+    <DestinationName>Dallas</DestinationName>
+    <DestinationStr>Dallas(DFW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DGA</code>
+    <DestinationName>Dangriga</DestinationName>
+    <DestinationStr>Dangriga(DGA)-Belize</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DGD</code>
+    <DestinationName>Dalgaranga</DestinationName>
+    <DestinationStr>Dalgaranga(DGD)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DGE</code>
+    <DestinationName>Mudgee Arpt</DestinationName>
+    <DestinationStr>Mudgee Arpt(DGE)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DGE</code>
+    <DestinationName>Mudgee</DestinationName>
+    <DestinationStr>Mudgee(DGE)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DGK</code>
+    <DestinationName>Dugong</DestinationName>
+    <DestinationStr>Dugong(DGK)-Mozambique</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DGL</code>
+    <DestinationName>Douglas Municipal Arpt</DestinationName>
+    <DestinationStr>Douglas Municipal Arpt(DGL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DGM</code>
+    <DestinationName>Dongguan</DestinationName>
+    <DestinationStr>Dongguan(DGM)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DGO</code>
+    <DestinationName>Durango</DestinationName>
+    <DestinationStr>Durango(DGO)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DGO</code>
+    <DestinationName>Guadalupe Victoria Intl Arpt</DestinationName>
+    <DestinationStr>Guadalupe Victoria Intl Arpt(DGO)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DGP</code>
+    <DestinationName>Daugavpils Arpt</DestinationName>
+    <DestinationStr>Daugavpils Arpt(DGP)-Latvia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DGP</code>
+    <DestinationName>Daugavpils</DestinationName>
+    <DestinationStr>Daugavpils(DGP)-Latvia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DGT</code>
+    <DestinationName>Dumaguete Arpt</DestinationName>
+    <DestinationStr>Dumaguete Arpt(DGT)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DGT</code>
+    <DestinationName>Dumaguete</DestinationName>
+    <DestinationStr>Dumaguete(DGT)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DHA</code>
+    <DestinationName>Az Zahran</DestinationName>
+    <DestinationStr>Az Zahran(DHA)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DHA</code>
+    <DestinationName>Dhahran Intl</DestinationName>
+    <DestinationStr>Dhahran Intl(DHA)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DHA</code>
+    <DestinationName>Dhahran</DestinationName>
+    <DestinationStr>Dhahran(DHA)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DHD</code>
+    <DestinationName>Durham Downs</DestinationName>
+    <DestinationStr>Durham Downs(DHD)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DHF</code>
+    <DestinationName>Al Dhafra Military Arpt</DestinationName>
+    <DestinationStr>Al Dhafra Military Arpt(DHF)-United Arab Emirates</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DHM</code>
+    <DestinationName>Dharamsala</DestinationName>
+    <DestinationStr>Dharamsala(DHM)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DHM</code>
+    <DestinationName>Gaggal Arpt</DestinationName>
+    <DestinationStr>Gaggal Arpt(DHM)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DHN</code>
+    <DestinationName>Dothan Municipal</DestinationName>
+    <DestinationStr>Dothan Municipal(DHN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DHN</code>
+    <DestinationName>Dothan</DestinationName>
+    <DestinationStr>Dothan(DHN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DHR</code>
+    <DestinationName>Den Helder</DestinationName>
+    <DestinationStr>Den Helder(DHR)-Netherlands</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>DHU</code>
+    <DestinationName>Zhuzhou</DestinationName>
+    <DestinationStr>Zhuzhou(DHU)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DIB</code>
+    <DestinationName>Chabau Arpt</DestinationName>
+    <DestinationStr>Chabau Arpt(DIB)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DIB</code>
+    <DestinationName>Dibrugarh</DestinationName>
+    <DestinationStr>Dibrugarh(DIB)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DIB</code>
+    <DestinationName>Mohanbari Arpt</DestinationName>
+    <DestinationStr>Mohanbari Arpt(DIB)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DIE</code>
+    <DestinationName>Antsiranana Arrachart Arpt</DestinationName>
+    <DestinationStr>Antsiranana Arrachart Arpt(DIE)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DIE</code>
+    <DestinationName>Diegosuarez</DestinationName>
+    <DestinationStr>Diegosuarez(DIE)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DIG</code>
+    <DestinationName>Diging Arpt</DestinationName>
+    <DestinationStr>Diging Arpt(DIG)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DIG</code>
+    <DestinationName>Diqing</DestinationName>
+    <DestinationStr>Diqing(DIG)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DIJ</code>
+    <DestinationName>Dijon</DestinationName>
+    <DestinationStr>Dijon(DIJ)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DIJ</code>
+    <DestinationName>Longvic Airport</DestinationName>
+    <DestinationStr>Longvic Airport(DIJ)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DIK</code>
+    <DestinationName>Dickinson Municipal</DestinationName>
+    <DestinationStr>Dickinson Municipal(DIK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DIK</code>
+    <DestinationName>Dickinson</DestinationName>
+    <DestinationStr>Dickinson(DIK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DIL</code>
+    <DestinationName>Comoro Arpt</DestinationName>
+    <DestinationStr>Comoro Arpt(DIL)-Timor Leste</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DIL</code>
+    <DestinationName>Dili</DestinationName>
+    <DestinationStr>Dili(DIL)-Timor Leste</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DIL</code>
+    <DestinationName>Presidente Nicolau Lobato Intl Arpt</DestinationName>
+    <DestinationStr>Presidente Nicolau Lobato Intl Arpt(DIL)-Timor Leste</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DIN</code>
+    <DestinationName>Dien Bien Phu</DestinationName>
+    <DestinationStr>Dien Bien Phu(DIN)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DIN</code>
+    <DestinationName>Gialam Arpt</DestinationName>
+    <DestinationStr>Gialam Arpt(DIN)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DIO</code>
+    <DestinationName>Diomede Island</DestinationName>
+    <DestinationStr>Diomede Island(DIO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DIQ</code>
+    <DestinationName>Divinopolis</DestinationName>
+    <DestinationStr>Divinopolis(DIQ)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DIR</code>
+    <DestinationName>Aba Tenna D Yilma Arpt</DestinationName>
+    <DestinationStr>Aba Tenna D Yilma Arpt(DIR)-Ethiopia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DIR</code>
+    <DestinationName>Dire Dawa</DestinationName>
+    <DestinationStr>Dire Dawa(DIR)-Ethiopia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DIS</code>
+    <DestinationName>Loubomo</DestinationName>
+    <DestinationStr>Loubomo(DIS)-Congo</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DIU</code>
+    <DestinationName>Diu Arpt</DestinationName>
+    <DestinationStr>Diu Arpt(DIU)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DIU</code>
+    <DestinationName>Diu In</DestinationName>
+    <DestinationStr>Diu In(DIU)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DIU</code>
+    <DestinationName>DIU</DestinationName>
+    <DestinationStr>DIU(DIU)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DIW</code>
+    <DestinationName>Dickwella Mawella Lagoon SPB</DestinationName>
+    <DestinationStr>Dickwella Mawella Lagoon SPB(DIW)-Sri Lanka</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DIW</code>
+    <DestinationName>Dickwella</DestinationName>
+    <DestinationStr>Dickwella(DIW)-Sri Lanka</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DIY</code>
+    <DestinationName>Diyarbai</DestinationName>
+    <DestinationStr>Diyarbai(DIY)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DIY</code>
+    <DestinationName>Diyarbakir Arpt</DestinationName>
+    <DestinationStr>Diyarbakir Arpt(DIY)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DJB</code>
+    <DestinationName>Jambi</DestinationName>
+    <DestinationStr>Jambi(DJB)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DJB</code>
+    <DestinationName>Sultan Taha Syarifudin Arpt</DestinationName>
+    <DestinationStr>Sultan Taha Syarifudin Arpt(DJB)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DJE</code>
+    <DestinationName>Djerba</DestinationName>
+    <DestinationStr>Djerba(DJE)-Tunisia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DJE</code>
+    <DestinationName>Melita Airport</DestinationName>
+    <DestinationStr>Melita Airport(DJE)-Tunisia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DJG</code>
+    <DestinationName>Djanet</DestinationName>
+    <DestinationStr>Djanet(DJG)-Algeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DJJ</code>
+    <DestinationName>Jayapura</DestinationName>
+    <DestinationStr>Jayapura(DJJ)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DJJ</code>
+    <DestinationName>Sentani Arpt</DestinationName>
+    <DestinationStr>Sentani Arpt(DJJ)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DJN</code>
+    <DestinationName>Delta Junction Arpt</DestinationName>
+    <DestinationStr>Delta Junction Arpt(DJN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DJN</code>
+    <DestinationName>Delta Junction</DestinationName>
+    <DestinationStr>Delta Junction(DJN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DJO</code>
+    <DestinationName>Daloa</DestinationName>
+    <DestinationStr>Daloa(DJO)-Ivory Coast</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DKA</code>
+    <DestinationName>Katsina Airport</DestinationName>
+    <DestinationStr>Katsina Airport(DKA)-Nigeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DKA</code>
+    <DestinationName>Katsina</DestinationName>
+    <DestinationStr>Katsina(DKA)-Nigeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DKI</code>
+    <DestinationName>Dunk Island Arpt</DestinationName>
+    <DestinationStr>Dunk Island Arpt(DKI)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DKI</code>
+    <DestinationName>Dunk Island</DestinationName>
+    <DestinationStr>Dunk Island(DKI)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DKK</code>
+    <DestinationName>Dunkirk</DestinationName>
+    <DestinationStr>Dunkirk(DKK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DKR</code>
+    <DestinationName>Dakar</DestinationName>
+    <DestinationStr>Dakar(DKR)-Senegal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DKR</code>
+    <DestinationName>Leopold Sedar Senghor Arpt</DestinationName>
+    <DestinationStr>Leopold Sedar Senghor Arpt(DKR)-Senegal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DKR</code>
+    <DestinationName>Senegal</DestinationName>
+    <DestinationStr>Senegal(DKR)-Senegal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DLA</code>
+    <DestinationName>Douala Arpt</DestinationName>
+    <DestinationStr>Douala Arpt(DLA)-Cameroon, United Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DLA</code>
+    <DestinationName>Douala</DestinationName>
+    <DestinationStr>Douala(DLA)-Cameroon, United Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DLC</code>
+    <DestinationName>Dalian Arpt</DestinationName>
+    <DestinationStr>Dalian Arpt(DLC)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DLC</code>
+    <DestinationName>Dalian</DestinationName>
+    <DestinationStr>Dalian(DLC)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DLD</code>
+    <DestinationName>Dagali Arpt</DestinationName>
+    <DestinationStr>Dagali Arpt(DLD)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DLD</code>
+    <DestinationName>Geilo</DestinationName>
+    <DestinationStr>Geilo(DLD)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DLE</code>
+    <DestinationName>Dole</DestinationName>
+    <DestinationStr>Dole(DLE)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DLE</code>
+    <DestinationName>Tavaux Arpt</DestinationName>
+    <DestinationStr>Tavaux Arpt(DLE)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DLF</code>
+    <DestinationName>Laughlin AFB</DestinationName>
+    <DestinationStr>Laughlin AFB(DLF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DLG</code>
+    <DestinationName>Dillingham Municipal Arpt</DestinationName>
+    <DestinationStr>Dillingham Municipal Arpt(DLG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DLG</code>
+    <DestinationName>Dillingham</DestinationName>
+    <DestinationStr>Dillingham(DLG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DLH</code>
+    <DestinationName>Duluth Intl</DestinationName>
+    <DestinationStr>Duluth Intl(DLH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DLH</code>
+    <DestinationName>Duluth</DestinationName>
+    <DestinationStr>Duluth(DLH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DLI</code>
+    <DestinationName>Dalat</DestinationName>
+    <DestinationStr>Dalat(DLI)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DLI</code>
+    <DestinationName>Lienkhang</DestinationName>
+    <DestinationStr>Lienkhang(DLI)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DLL</code>
+    <DestinationName>Dillon Arpt</DestinationName>
+    <DestinationStr>Dillon Arpt(DLL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DLL</code>
+    <DestinationName>Dillon</DestinationName>
+    <DestinationStr>Dillon(DLL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DLM</code>
+    <DestinationName>Dalaman Airport</DestinationName>
+    <DestinationStr>Dalaman Airport(DLM)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DLM</code>
+    <DestinationName>Dalaman</DestinationName>
+    <DestinationStr>Dalaman(DLM)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DLO</code>
+    <DestinationName>Dolomi Arpt</DestinationName>
+    <DestinationStr>Dolomi Arpt(DLO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DLO</code>
+    <DestinationName>Dolomi</DestinationName>
+    <DestinationStr>Dolomi(DLO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DLP</code>
+    <DestinationName>Disneyland Paris Heliport</DestinationName>
+    <DestinationStr>Disneyland Paris Heliport(DLP)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DLP</code>
+    <DestinationName>Disneyland Paris</DestinationName>
+    <DestinationStr>Disneyland Paris(DLP)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DLS</code>
+    <DestinationName>The Dalles Municipal Arpt</DestinationName>
+    <DestinationStr>The Dalles Municipal Arpt(DLS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DLS</code>
+    <DestinationName>The Dalles</DestinationName>
+    <DestinationStr>The Dalles(DLS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DLU</code>
+    <DestinationName>Dali Arpt</DestinationName>
+    <DestinationStr>Dali Arpt(DLU)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DLU</code>
+    <DestinationName>Dali City</DestinationName>
+    <DestinationStr>Dali City(DLU)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DLY</code>
+    <DestinationName>Dillons Bay</DestinationName>
+    <DestinationStr>Dillons Bay(DLY)-Vanuatu</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DMA</code>
+    <DestinationName>Davis Monthan AFB</DestinationName>
+    <DestinationStr>Davis Monthan AFB(DMA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DMD</code>
+    <DestinationName>Doomadgee Arpt</DestinationName>
+    <DestinationStr>Doomadgee Arpt(DMD)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DMD</code>
+    <DestinationName>Doomadgee</DestinationName>
+    <DestinationStr>Doomadgee(DMD)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DME</code>
+    <DestinationName>Domodedovo Arpt</DestinationName>
+    <DestinationStr>Domodedovo Arpt(DME)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DMK</code>
+    <DestinationName>Don Mueang International Arpt</DestinationName>
+    <DestinationStr>Don Mueang International Arpt(DMK)-Thailand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DMM</code>
+    <DestinationName>Dammam</DestinationName>
+    <DestinationStr>Dammam(DMM)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DMM</code>
+    <DestinationName>King Fahad Arpt</DestinationName>
+    <DestinationStr>King Fahad Arpt(DMM)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DMO</code>
+    <DestinationName>Sedalia Memorial Arpt</DestinationName>
+    <DestinationStr>Sedalia Memorial Arpt(DMO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DMO</code>
+    <DestinationName>Sedalia</DestinationName>
+    <DestinationStr>Sedalia(DMO)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>DMU</code>
+    <DestinationName>Dimapur Airport</DestinationName>
+    <DestinationStr>Dimapur Airport(DMU)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DMU</code>
+    <DestinationName>Dimapur</DestinationName>
+    <DestinationStr>Dimapur(DMU)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DNA</code>
+    <DestinationName>Kadena AFB</DestinationName>
+    <DestinationStr>Kadena AFB(DNA)-Japan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DNB</code>
+    <DestinationName>Dunbar</DestinationName>
+    <DestinationStr>Dunbar(DNB)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DND</code>
+    <DestinationName>Dundee</DestinationName>
+    <DestinationStr>Dundee(DND)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DND</code>
+    <DestinationName>Riverside Park Arpt</DestinationName>
+    <DestinationStr>Riverside Park Arpt(DND)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DNE</code>
+    <DestinationName>Dallas North Airport</DestinationName>
+    <DestinationStr>Dallas North Airport(DNE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DNH</code>
+    <DestinationName>Dunhuang Arpt</DestinationName>
+    <DestinationStr>Dunhuang Arpt(DNH)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DNH</code>
+    <DestinationName>Dunhuang</DestinationName>
+    <DestinationStr>Dunhuang(DNH)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DNK</code>
+    <DestinationName>Dnepropetrovsk Arpt</DestinationName>
+    <DestinationStr>Dnepropetrovsk Arpt(DNK)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DNK</code>
+    <DestinationName>Dnepropetrovsk</DestinationName>
+    <DestinationStr>Dnepropetrovsk(DNK)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DNL</code>
+    <DestinationName>Daniel Airport</DestinationName>
+    <DestinationStr>Daniel Airport(DNL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DNM</code>
+    <DestinationName>Denham Arpt</DestinationName>
+    <DestinationStr>Denham Arpt(DNM)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DNM</code>
+    <DestinationName>Denham</DestinationName>
+    <DestinationStr>Denham(DNM)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DNN</code>
+    <DestinationName>Dalton Municipal Airport</DestinationName>
+    <DestinationStr>Dalton Municipal Airport(DNN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DNN</code>
+    <DestinationName>Dalton</DestinationName>
+    <DestinationStr>Dalton(DNN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DNQ</code>
+    <DestinationName>Denilinquin Arpt</DestinationName>
+    <DestinationStr>Denilinquin Arpt(DNQ)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DNQ</code>
+    <DestinationName>Deniliquin</DestinationName>
+    <DestinationStr>Deniliquin(DNQ)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DNR</code>
+    <DestinationName>Dinard</DestinationName>
+    <DestinationStr>Dinard(DNR)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DNR</code>
+    <DestinationName>Pleurtuit Arpt</DestinationName>
+    <DestinationStr>Pleurtuit Arpt(DNR)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DNV</code>
+    <DestinationName>Danville</DestinationName>
+    <DestinationStr>Danville(DNV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DNV</code>
+    <DestinationName>Vermillion Cty</DestinationName>
+    <DestinationStr>Vermillion Cty(DNV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DNZ</code>
+    <DestinationName>Cardak Arpt</DestinationName>
+    <DestinationStr>Cardak Arpt(DNZ)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DNZ</code>
+    <DestinationName>Denizli</DestinationName>
+    <DestinationStr>Denizli(DNZ)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DOA</code>
+    <DestinationName>Doany</DestinationName>
+    <DestinationStr>Doany(DOA)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DOC</code>
+    <DestinationName>Dornoch Arpt</DestinationName>
+    <DestinationStr>Dornoch Arpt(DOC)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DOC</code>
+    <DestinationName>Dornoch</DestinationName>
+    <DestinationStr>Dornoch(DOC)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DOD</code>
+    <DestinationName>Dodoma</DestinationName>
+    <DestinationStr>Dodoma(DOD)-Tanzania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DOF</code>
+    <DestinationName>Dora Bay Arpt</DestinationName>
+    <DestinationStr>Dora Bay Arpt(DOF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DOF</code>
+    <DestinationName>Dora Bay</DestinationName>
+    <DestinationStr>Dora Bay(DOF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DOG</code>
+    <DestinationName>Dongola</DestinationName>
+    <DestinationStr>Dongola(DOG)-Sudan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DOH</code>
+    <DestinationName>Ad Dawhah</DestinationName>
+    <DestinationStr>Ad Dawhah(DOH)-Qatar</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DOH</code>
+    <DestinationName>Doha International Arpt</DestinationName>
+    <DestinationStr>Doha International Arpt(DOH)-Qatar</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DOH</code>
+    <DestinationName>Doha</DestinationName>
+    <DestinationStr>Doha(DOH)-Qatar</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DOK</code>
+    <DestinationName>Donetsk Arpt</DestinationName>
+    <DestinationStr>Donetsk Arpt(DOK)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DOK</code>
+    <DestinationName>Donetsk</DestinationName>
+    <DestinationStr>Donetsk(DOK)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DOL</code>
+    <DestinationName>Deauville</DestinationName>
+    <DestinationStr>Deauville(DOL)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DOL</code>
+    <DestinationName>Saint Gatien Arpt</DestinationName>
+    <DestinationStr>Saint Gatien Arpt(DOL)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DOL</code>
+    <DestinationName>St Gatien Arpt</DestinationName>
+    <DestinationStr>St Gatien Arpt(DOL)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DOM</code>
+    <DestinationName>Dominica</DestinationName>
+    <DestinationStr>Dominica(DOM)-Dominica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DOM</code>
+    <DestinationName>Melville Hall Arpt</DestinationName>
+    <DestinationStr>Melville Hall Arpt(DOM)-Dominica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DOO</code>
+    <DestinationName>Dorobisoro</DestinationName>
+    <DestinationStr>Dorobisoro(DOO)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DOR</code>
+    <DestinationName>Dori</DestinationName>
+    <DestinationStr>Dori(DOR)-Burkina Faso</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DOU</code>
+    <DestinationName>Dourados Airport</DestinationName>
+    <DestinationStr>Dourados Airport(DOU)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DOU</code>
+    <DestinationName>Dourados</DestinationName>
+    <DestinationStr>Dourados(DOU)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DOV</code>
+    <DestinationName>Dover AFB</DestinationName>
+    <DestinationStr>Dover AFB(DOV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DOV</code>
+    <DestinationName>Dover</DestinationName>
+    <DestinationStr>Dover(DOV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DOX</code>
+    <DestinationName>Dongara</DestinationName>
+    <DestinationStr>Dongara(DOX)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DOY</code>
+    <DestinationName>Dongying Airport</DestinationName>
+    <DestinationStr>Dongying Airport(DOY)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DOY</code>
+    <DestinationName>Dongying</DestinationName>
+    <DestinationStr>Dongying(DOY)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DPA</code>
+    <DestinationName>Dupage County Arpt</DestinationName>
+    <DestinationStr>Dupage County Arpt(DPA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DPE</code>
+    <DestinationName>Dieppe Arpt</DestinationName>
+    <DestinationStr>Dieppe Arpt(DPE)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DPE</code>
+    <DestinationName>Dieppe</DestinationName>
+    <DestinationStr>Dieppe(DPE)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DPL</code>
+    <DestinationName>Dipolog Arpt</DestinationName>
+    <DestinationStr>Dipolog Arpt(DPL)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DPL</code>
+    <DestinationName>Dipolog</DestinationName>
+    <DestinationStr>Dipolog(DPL)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DPO</code>
+    <DestinationName>Devonport Arpt</DestinationName>
+    <DestinationStr>Devonport Arpt(DPO)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DPO</code>
+    <DestinationName>Devonport</DestinationName>
+    <DestinationStr>Devonport(DPO)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DPS</code>
+    <DestinationName>Denpasar Bali</DestinationName>
+    <DestinationStr>Denpasar Bali(DPS)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DPS</code>
+    <DestinationName>Ngurah Rai Arpt</DestinationName>
+    <DestinationStr>Ngurah Rai Arpt(DPS)-Indonesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DQA</code>
+    <DestinationName>Daqing</DestinationName>
+    <DestinationStr>Daqing(DQA)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DQA</code>
+    <DestinationName>Saertu Airport</DestinationName>
+    <DestinationStr>Saertu Airport(DQA)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DRB</code>
+    <DestinationName>Derby Airport</DestinationName>
+    <DestinationStr>Derby Airport(DRB)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DRB</code>
+    <DestinationName>Derby</DestinationName>
+    <DestinationStr>Derby(DRB)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DRD</code>
+    <DestinationName>Dorunda</DestinationName>
+    <DestinationStr>Dorunda(DRD)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DRF</code>
+    <DestinationName>Drift River Arpt</DestinationName>
+    <DestinationStr>Drift River Arpt(DRF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DRF</code>
+    <DestinationName>Drift River</DestinationName>
+    <DestinationStr>Drift River(DRF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DRG</code>
+    <DestinationName>Deering</DestinationName>
+    <DestinationStr>Deering(DRG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DRK</code>
+    <DestinationName>Drake Bay Airport</DestinationName>
+    <DestinationStr>Drake Bay Airport(DRK)-Costa Rica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DRK</code>
+    <DestinationName>Drake Bay</DestinationName>
+    <DestinationStr>Drake Bay(DRK)-Costa Rica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DRN</code>
+    <DestinationName>Dirranbandi Arpt</DestinationName>
+    <DestinationStr>Dirranbandi Arpt(DRN)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DRN</code>
+    <DestinationName>Dirranbandi</DestinationName>
+    <DestinationStr>Dirranbandi(DRN)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DRO</code>
+    <DestinationName>Durango La Plata Cty Arpt</DestinationName>
+    <DestinationStr>Durango La Plata Cty Arpt(DRO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DRO</code>
+    <DestinationName>Durango</DestinationName>
+    <DestinationStr>Durango(DRO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DRR</code>
+    <DestinationName>Durrie</DestinationName>
+    <DestinationStr>Durrie(DRR)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DRS</code>
+    <DestinationName>Dresden Arpt</DestinationName>
+    <DestinationStr>Dresden Arpt(DRS)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DRS</code>
+    <DestinationName>Dresden</DestinationName>
+    <DestinationStr>Dresden(DRS)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DRT</code>
+    <DestinationName>Del Rio</DestinationName>
+    <DestinationStr>Del Rio(DRT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DRT</code>
+    <DestinationName>International Del Rio</DestinationName>
+    <DestinationStr>International Del Rio(DRT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DRU</code>
+    <DestinationName>Drummond</DestinationName>
+    <DestinationStr>Drummond(DRU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DRW</code>
+    <DestinationName>Darwin Airport</DestinationName>
+    <DestinationStr>Darwin Airport(DRW)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DRW</code>
+    <DestinationName>Darwin</DestinationName>
+    <DestinationStr>Darwin(DRW)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DSA</code>
+    <DestinationName>Doncaster</DestinationName>
+    <DestinationStr>Doncaster(DSA)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DSA</code>
+    <DestinationName>Finningley Arpt</DestinationName>
+    <DestinationStr>Finningley Arpt(DSA)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DSC</code>
+    <DestinationName>Dschang</DestinationName>
+    <DestinationStr>Dschang(DSC)-Cameroon, United Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DSD</code>
+    <DestinationName>Grande Anse Arpt</DestinationName>
+    <DestinationStr>Grande Anse Arpt(DSD)-Guadeloupe</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DSD</code>
+    <DestinationName>La Desirade</DestinationName>
+    <DestinationStr>La Desirade(DSD)-Guadeloupe</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DSE</code>
+    <DestinationName>Dessie</DestinationName>
+    <DestinationStr>Dessie(DSE)-Ethiopia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DSI</code>
+    <DestinationName>Destin Arpt</DestinationName>
+    <DestinationStr>Destin Arpt(DSI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DSI</code>
+    <DestinationName>Destin</DestinationName>
+    <DestinationStr>Destin(DSI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DSK</code>
+    <DestinationName>Dera Ismail Khan</DestinationName>
+    <DestinationStr>Dera Ismail Khan(DSK)-Pakistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DSM</code>
+    <DestinationName>Des Moines Municipal Airport</DestinationName>
+    <DestinationStr>Des Moines Municipal Airport(DSM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DSM</code>
+    <DestinationName>Des Moines</DestinationName>
+    <DestinationStr>Des Moines(DSM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DSN</code>
+    <DestinationName>Ordos Ejin Horo Airport</DestinationName>
+    <DestinationStr>Ordos Ejin Horo Airport(DSN)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DSN</code>
+    <DestinationName>Ordos</DestinationName>
+    <DestinationStr>Ordos(DSN)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DTA</code>
+    <DestinationName>Delta</DestinationName>
+    <DestinationStr>Delta(DTA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DTH</code>
+    <DestinationName>Death Valley Arpt</DestinationName>
+    <DestinationStr>Death Valley Arpt(DTH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DTH</code>
+    <DestinationName>Death Valley</DestinationName>
+    <DestinationStr>Death Valley(DTH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DTL</code>
+    <DestinationName>Detroit Lakes</DestinationName>
+    <DestinationStr>Detroit Lakes(DTL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DTM</code>
+    <DestinationName>Dortmund</DestinationName>
+    <DestinationStr>Dortmund(DTM)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DTM</code>
+    <DestinationName>Wickede Dortmund Arpt</DestinationName>
+    <DestinationStr>Wickede Dortmund Arpt(DTM)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DTN</code>
+    <DestinationName>Shreveport Downtown Arpt</DestinationName>
+    <DestinationStr>Shreveport Downtown Arpt(DTN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DTT</code>
+    <DestinationName>Detroit</DestinationName>
+    <DestinationStr>Detroit(DTT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DTW</code>
+    <DestinationName>Detroit Metro Wayne Cnty Arpt</DestinationName>
+    <DestinationStr>Detroit Metro Wayne Cnty Arpt(DTW)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DUA</code>
+    <DestinationName>Durant</DestinationName>
+    <DestinationStr>Durant(DUA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DUB</code>
+    <DestinationName>Dublin Arpt</DestinationName>
+    <DestinationStr>Dublin Arpt(DUB)-Ireland, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DUB</code>
+    <DestinationName>Dublin</DestinationName>
+    <DestinationStr>Dublin(DUB)-Ireland, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DUC</code>
+    <DestinationName>Duncan</DestinationName>
+    <DestinationStr>Duncan(DUC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DUC</code>
+    <DestinationName>Halliburton Arpt</DestinationName>
+    <DestinationStr>Halliburton Arpt(DUC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DUD</code>
+    <DestinationName>Dunedin</DestinationName>
+    <DestinationStr>Dunedin(DUD)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DUD</code>
+    <DestinationName>Momona Airport</DestinationName>
+    <DestinationStr>Momona Airport(DUD)-New Zealand</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DUE</code>
+    <DestinationName>Dundo</DestinationName>
+    <DestinationStr>Dundo(DUE)-Angola</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DUG</code>
+    <DestinationName>Bisbee Douglas Intl</DestinationName>
+    <DestinationStr>Bisbee Douglas Intl(DUG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DUG</code>
+    <DestinationName>Douglas</DestinationName>
+    <DestinationStr>Douglas(DUG)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>DUI</code>
+    <DestinationName>Duisburg</DestinationName>
+    <DestinationStr>Duisburg(DUI)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DUJ</code>
+    <DestinationName>Dubois Jefferson Cty Arpt</DestinationName>
+    <DestinationStr>Dubois Jefferson Cty Arpt(DUJ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DUJ</code>
+    <DestinationName>Dubois</DestinationName>
+    <DestinationStr>Dubois(DUJ)-United States</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>DUQ</code>
+    <DestinationName>Duncan</DestinationName>
+    <DestinationStr>Duncan(DUQ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DUR</code>
+    <DestinationName>Durban</DestinationName>
+    <DestinationStr>Durban(DUR)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DUR</code>
+    <DestinationName>King Shaka International</DestinationName>
+    <DestinationStr>King Shaka International(DUR)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DUS</code>
+    <DestinationName>Dusseldorf Arpt</DestinationName>
+    <DestinationStr>Dusseldorf Arpt(DUS)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DUS</code>
+    <DestinationName>Dusseldorf</DestinationName>
+    <DestinationStr>Dusseldorf(DUS)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DUT</code>
+    <DestinationName>Dutch Harbor</DestinationName>
+    <DestinationStr>Dutch Harbor(DUT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DUT</code>
+    <DestinationName>Emergency Field</DestinationName>
+    <DestinationStr>Emergency Field(DUT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DVL</code>
+    <DestinationName>Devils Lake Arpt</DestinationName>
+    <DestinationStr>Devils Lake Arpt(DVL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DVL</code>
+    <DestinationName>Devils Lake</DestinationName>
+    <DestinationStr>Devils Lake(DVL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DVN</code>
+    <DestinationName>Davenport Airport</DestinationName>
+    <DestinationStr>Davenport Airport(DVN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DVN</code>
+    <DestinationName>Davenport</DestinationName>
+    <DestinationStr>Davenport(DVN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DVO</code>
+    <DestinationName>Davao</DestinationName>
+    <DestinationStr>Davao(DVO)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DVO</code>
+    <DestinationName>Francisco Bangoy Intl</DestinationName>
+    <DestinationStr>Francisco Bangoy Intl(DVO)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DVT</code>
+    <DestinationName>Phoenix Deer Valley Airport</DestinationName>
+    <DestinationStr>Phoenix Deer Valley Airport(DVT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DVX</code>
+    <DestinationName>Delaware Airpark</DestinationName>
+    <DestinationStr>Delaware Airpark(DVX)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DWB</code>
+    <DestinationName>Soalala</DestinationName>
+    <DestinationStr>Soalala(DWB)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DWC</code>
+    <DestinationName>Al Maktoum Intl Arpt</DestinationName>
+    <DestinationStr>Al Maktoum Intl Arpt(DWC)-United Arab Emirates</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DWF</code>
+    <DestinationName>Wright AFB</DestinationName>
+    <DestinationStr>Wright AFB(DWF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DWH</code>
+    <DestinationName>David Wayne Hooks Arpt</DestinationName>
+    <DestinationStr>David Wayne Hooks Arpt(DWH)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DWN</code>
+    <DestinationName>Downtown Airpark</DestinationName>
+    <DestinationStr>Downtown Airpark(DWN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DWS</code>
+    <DestinationName>Walt Disney World Arpt</DestinationName>
+    <DestinationStr>Walt Disney World Arpt(DWS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DXB</code>
+    <DestinationName>Dubai Intl Arpt</DestinationName>
+    <DestinationStr>Dubai Intl Arpt(DXB)-United Arab Emirates</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DXB</code>
+    <DestinationName>Dubai</DestinationName>
+    <DestinationStr>Dubai(DXB)-United Arab Emirates</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DXR</code>
+    <DestinationName>Danbury Municipal Arpt</DestinationName>
+    <DestinationStr>Danbury Municipal Arpt(DXR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DXR</code>
+    <DestinationName>Danbury</DestinationName>
+    <DestinationStr>Danbury(DXR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DYA</code>
+    <DestinationName>Dysart</DestinationName>
+    <DestinationStr>Dysart(DYA)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DYG</code>
+    <DestinationName>Dayong</DestinationName>
+    <DestinationStr>Dayong(DYG)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DYG</code>
+    <DestinationName>Hehua Airport</DestinationName>
+    <DestinationStr>Hehua Airport(DYG)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DYG</code>
+    <DestinationName>Zhangjiajie</DestinationName>
+    <DestinationStr>Zhangjiajie(DYG)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DYL</code>
+    <DestinationName>Doylestown Arpt</DestinationName>
+    <DestinationStr>Doylestown Arpt(DYL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DYL</code>
+    <DestinationName>Doylestown</DestinationName>
+    <DestinationStr>Doylestown(DYL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DYR</code>
+    <DestinationName>Anadyr Arpt</DestinationName>
+    <DestinationStr>Anadyr Arpt(DYR)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DYR</code>
+    <DestinationName>Anadyr</DestinationName>
+    <DestinationStr>Anadyr(DYR)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DYS</code>
+    <DestinationName>Dyess Airforce Base</DestinationName>
+    <DestinationStr>Dyess Airforce Base(DYS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DYU</code>
+    <DestinationName>Dushanbe Arpt</DestinationName>
+    <DestinationStr>Dushanbe Arpt(DYU)-Tajikistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DYU</code>
+    <DestinationName>Dushanbe</DestinationName>
+    <DestinationStr>Dushanbe(DYU)-Tajikistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DYU</code>
+    <DestinationName>Tajikistan</DestinationName>
+    <DestinationStr>Tajikistan(DYU)-Tajikistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DZA</code>
+    <DestinationName>Dzaoudzi Arpt</DestinationName>
+    <DestinationStr>Dzaoudzi Arpt(DZA)-Mayotte</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DZA</code>
+    <DestinationName>Dzaoudzi</DestinationName>
+    <DestinationStr>Dzaoudzi(DZA)-Mayotte</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DZA</code>
+    <DestinationName>Mayotte</DestinationName>
+    <DestinationStr>Mayotte(DZA)-Mayotte</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DZN</code>
+    <DestinationName>ZHEZKAZGAN ARPT</DestinationName>
+    <DestinationStr>ZHEZKAZGAN ARPT(DZN)-Kazakstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DZN</code>
+    <DestinationName>ZHEZKAZGAN</DestinationName>
+    <DestinationStr>ZHEZKAZGAN(DZN)-Kazakstan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DZO</code>
+    <DestinationName>Durazno</DestinationName>
+    <DestinationStr>Durazno(DZO)-Uruguay</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EEN</code>
+    <DestinationName>Dilliant Hopkins Arpt</DestinationName>
+    <DestinationStr>Dilliant Hopkins Arpt(EEN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>EGI</code>
+    <DestinationName>Duke Field</DestinationName>
+    <DestinationStr>Duke Field(EGI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ESC</code>
+    <DestinationName>Delta County</DestinationName>
+    <DestinationStr>Delta County(ESC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>FAJ</code>
+    <DestinationName>Diego Jimenez Torres Arpt</DestinationName>
+    <DestinationStr>Diego Jimenez Torres Arpt(FAJ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GDC</code>
+    <DestinationName>Donaldson Center Arpt</DestinationName>
+    <DestinationStr>Donaldson Center Arpt(GDC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GDV</code>
+    <DestinationName>Dawson Community Arpt</DestinationName>
+    <DestinationStr>Dawson Community Arpt(GDV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>GOI</code>
+    <DestinationName>Dabolim Arpt</DestinationName>
+    <DestinationStr>Dabolim Arpt(GOI)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HAG</code>
+    <DestinationName>Den Haag</DestinationName>
+    <DestinationStr>Den Haag(HAG)-Netherlands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IAO</code>
+    <DestinationName>Del Carmen</DestinationName>
+    <DestinationStr>Del Carmen(IAO)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IDR</code>
+    <DestinationName>Devi Ahilya Bai Holkar Arpt</DestinationName>
+    <DestinationStr>Devi Ahilya Bai Holkar Arpt(IDR)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JBQ</code>
+    <DestinationName>Dr Joaquin Balaguer</DestinationName>
+    <DestinationStr>Dr Joaquin Balaguer(JBQ)-Dominican Republic</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JCD</code>
+    <DestinationName>Downtown Hp</DestinationName>
+    <DestinationStr>Downtown Hp(JCD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JDB</code>
+    <DestinationName>Downtown Heliport</DestinationName>
+    <DestinationStr>Downtown Heliport(JDB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JDM</code>
+    <DestinationName>Downtown Hlt</DestinationName>
+    <DestinationStr>Downtown Hlt(JDM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JDY</code>
+    <DestinationName>Downey</DestinationName>
+    <DestinationStr>Downey(JDY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JIB</code>
+    <DestinationName>Djibouti</DestinationName>
+    <DestinationStr>Djibouti(JIB)-Djibouti</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JNJ</code>
+    <DestinationName>Duqm</DestinationName>
+    <DestinationStr>Duqm(JNJ)-Oman Sultanate Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>JRB</code>
+    <DestinationName>Downtown Manhattan Heliport</DestinationName>
+    <DestinationStr>Downtown Manhattan Heliport(JRB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LGI</code>
+    <DestinationName>Deadmans Cay Arpt</DestinationName>
+    <DestinationStr>Deadmans Cay Arpt(LGI)-Bahamas</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LGI</code>
+    <DestinationName>Deadmans Cay</DestinationName>
+    <DestinationStr>Deadmans Cay(LGI)-Bahamas</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LIR</code>
+    <DestinationName>D Oduber Quiros Intl Arpt</DestinationName>
+    <DestinationStr>D Oduber Quiros Intl Arpt(LIR)-Costa Rica</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MEO</code>
+    <DestinationName>Dare County Regional Arpt</DestinationName>
+    <DestinationStr>Dare County Regional Arpt(MEO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MEV</code>
+    <DestinationName>Douglas County Arpt</DestinationName>
+    <DestinationStr>Douglas County Arpt(MEV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MGE</code>
+    <DestinationName>Dobbins Air Force Base</DestinationName>
+    <DestinationStr>Dobbins Air Force Base(MGE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MGM</code>
+    <DestinationName>Dannelly Field</DestinationName>
+    <DestinationStr>Dannelly Field(MGM)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MGY</code>
+    <DestinationName>Dayton General Airport South</DestinationName>
+    <DestinationStr>Dayton General Airport South(MGY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MII</code>
+    <DestinationName>Dr Gastao Vidigal</DestinationName>
+    <DestinationStr>Dr Gastao Vidigal(MII)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MKO</code>
+    <DestinationName>Davis Field</DestinationName>
+    <DestinationStr>Davis Field(MKO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MME</code>
+    <DestinationName>Durham Tees Valley Arpt</DestinationName>
+    <DestinationStr>Durham Tees Valley Arpt(MME)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MME</code>
+    <DestinationName>Durham</DestinationName>
+    <DestinationStr>Durham(MME)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MSN</code>
+    <DestinationName>Dane County Regional</DestinationName>
+    <DestinationStr>Dane County Regional(MSN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MVF</code>
+    <DestinationName>Dixsept Rosado Arpt</DestinationName>
+    <DestinationStr>Dixsept Rosado Arpt(MVF)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MVY</code>
+    <DestinationName>Dukes County</DestinationName>
+    <DestinationStr>Dukes County(MVY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NAG</code>
+    <DestinationName>Dr Ambedkar Intl Arpt</DestinationName>
+    <DestinationStr>Dr Ambedkar Intl Arpt(NAG)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NFB</code>
+    <DestinationName>Detroit Naval Air Facility</DestinationName>
+    <DestinationStr>Detroit Naval Air Facility(NFB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NLF</code>
+    <DestinationName>Darnley Island</DestinationName>
+    <DestinationStr>Darnley Island(NLF)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NMB</code>
+    <DestinationName>Daman Airport</DestinationName>
+    <DestinationStr>Daman Airport(NMB)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NMB</code>
+    <DestinationName>Daman</DestinationName>
+    <DestinationStr>Daman(NMB)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NTR</code>
+    <DestinationName>Del Norte International</DestinationName>
+    <DestinationStr>Del Norte International(NTR)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OWB</code>
+    <DestinationName>Daviess County Arpt</DestinationName>
+    <DestinationStr>Daviess County Arpt(OWB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PCL</code>
+    <DestinationName>D Abenzur Rengifo Arpt</DestinationName>
+    <DestinationStr>D Abenzur Rengifo Arpt(PCL)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PDK</code>
+    <DestinationName>Dekalb Peachtree</DestinationName>
+    <DestinationStr>Dekalb Peachtree(PDK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PIZ</code>
+    <DestinationName>Dew Station Arpt</DestinationName>
+    <DestinationStr>Dew Station Arpt(PIZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PMV</code>
+    <DestinationName>Del Caribe Intl</DestinationName>
+    <DestinationStr>Del Caribe Intl(PMV)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>POU</code>
+    <DestinationName>Dutchess County</DestinationName>
+    <DestinationStr>Dutchess County(POU)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PQC</code>
+    <DestinationName>Duong Dang Arpt</DestinationName>
+    <DestinationStr>Duong Dang Arpt(PQC)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>PSK</code>
+    <DestinationName>Dublin</DestinationName>
+    <DestinationStr>Dublin(PSK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QDI</code>
+    <DestinationName>Dornbirn</DestinationName>
+    <DestinationStr>Dornbirn(QDI)-Austria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QDQ</code>
+    <DestinationName>Duque De Caxias</DestinationName>
+    <DestinationStr>Duque De Caxias(QDQ)-Brazil</DestinationStr>
+  </Destination>   
+  <Destination>
+    <code>QQD</code>
+    <DestinationName>Dover</DestinationName>
+    <DestinationStr>Dover(QQD)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QWR</code>
+    <DestinationName>Donauwoerth</DestinationName>
+    <DestinationStr>Donauwoerth(QWR)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QYC</code>
+    <DestinationName>Drachten</DestinationName>
+    <DestinationStr>Drachten(QYC)-Netherlands</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>QYV</code>
+    <DestinationName>Deventer</DestinationName>
+    <DestinationStr>Deventer(QYV)-Netherlands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>RHO</code>
+    <DestinationName>Diagoras Arpt</DestinationName>
+    <DestinationStr>Diagoras Arpt(RHO)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SDV</code>
+    <DestinationName>Dov Airport</DestinationName>
+    <DestinationStr>Dov Airport(SDV)-Israel</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SJW</code>
+    <DestinationName>Daguocun Arpt</DestinationName>
+    <DestinationStr>Daguocun Arpt(SJW)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SPA</code>
+    <DestinationName>Downtown Memorial</DestinationName>
+    <DestinationStr>Downtown Memorial(SPA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>STP</code>
+    <DestinationName>Downtown St Paul Arpt</DestinationName>
+    <DestinationStr>Downtown St Paul Arpt(STP)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SUE</code>
+    <DestinationName>Door Country Arpt</DestinationName>
+    <DestinationStr>Door Country Arpt(SUE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAC</code>
+    <DestinationName>D Z Romualdez Arpt</DestinationName>
+    <DestinationStr>D Z Romualdez Arpt(TAC)-Philippines</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAE</code>
+    <DestinationName>Daegu Arpt</DestinationName>
+    <DestinationStr>Daegu Arpt(TAE)-Korea, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAE</code>
+    <DestinationName>Daegu</DestinationName>
+    <DestinationStr>Daegu(TAE)-Korea, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAZ</code>
+    <DestinationName>Dashoguz Arpt</DestinationName>
+    <DestinationStr>Dashoguz Arpt(TAZ)-Turkmenistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TAZ</code>
+    <DestinationName>Dashoguz</DestinationName>
+    <DestinationStr>Dashoguz(TAZ)-Turkmenistan</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TNT</code>
+    <DestinationName>Dade Collier Arpt</DestinationName>
+    <DestinationStr>Dade Collier Arpt(TNT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UKA</code>
+    <DestinationName>Diani Airport</DestinationName>
+    <DestinationStr>Diani Airport(UKA)-Kenya</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>URC</code>
+    <DestinationName>Diwopu Intl Arpt</DestinationName>
+    <DestinationStr>Diwopu Intl Arpt(URC)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VDH</code>
+    <DestinationName>Dong Hoi Arpt</DestinationName>
+    <DestinationStr>Dong Hoi Arpt(VDH)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VDH</code>
+    <DestinationName>Dong Hoi</DestinationName>
+    <DestinationStr>Dong Hoi(VDH)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VIL</code>
+    <DestinationName>Dakhla Airport</DestinationName>
+    <DestinationStr>Dakhla Airport(VIL)-Morocco</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VIL</code>
+    <DestinationName>Dakhla</DestinationName>
+    <DestinationStr>Dakhla(VIL)-Morocco</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VMI</code>
+    <DestinationName>Dr Juan Plate Arpt</DestinationName>
+    <DestinationStr>Dr Juan Plate Arpt(VMI)-Paraguay</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>WEH</code>
+    <DestinationName>Dashuibo Arpt</DestinationName>
+    <DestinationStr>Dashuibo Arpt(WEH)-China</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XDA</code>
+    <DestinationName>Dax Les Thermes</DestinationName>
+    <DestinationStr>Dax Les Thermes(XDA)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XDI</code>
+    <DestinationName>Digne</DestinationName>
+    <DestinationStr>Digne(XDI)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XDK</code>
+    <DestinationName>Dunkerque</DestinationName>
+    <DestinationStr>Dunkerque(XDK)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XDK</code>
+    <DestinationName>Dunkirk</DestinationName>
+    <DestinationStr>Dunkirk(XDK)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XDM</code>
+    <DestinationName>Drummondville</DestinationName>
+    <DestinationStr>Drummondville(XDM)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XDN</code>
+    <DestinationName>Douai</DestinationName>
+    <DestinationStr>Douai(XDN)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XDR</code>
+    <DestinationName>Dreux</DestinationName>
+    <DestinationStr>Dreux(XDR)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XED</code>
+    <DestinationName>Disneyland Paris</DestinationName>
+    <DestinationStr>Disneyland Paris(XED)-France</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XGP</code>
+    <DestinationName>Dombas</DestinationName>
+    <DestinationStr>Dombas(XGP)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XHO</code>
+    <DestinationName>Dongguan Bus</DestinationName>
+    <DestinationStr>Dongguan Bus(XHO)-China</DestinationStr>
+  </Destination>    
+  <Destination>
+    <code>XND</code>
+    <DestinationName>Drammen</DestinationName>
+    <DestinationStr>Drammen(XND)-Norway</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XPW</code>
+    <DestinationName>Didcot</DestinationName>
+    <DestinationStr>Didcot(XPW)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XQH</code>
+    <DestinationName>Derby</DestinationName>
+    <DestinationStr>Derby(XQH)-United Kingdom</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>XVG</code>
+    <DestinationName>Darlington</DestinationName>
+    <DestinationStr>Darlington(XVG)-United Kingdom</DestinationStr>
+  </Destination>    
+  <Destination>
+    <code>XXD</code>
+    <DestinationName>Degerfors</DestinationName>
+    <DestinationStr>Degerfors(XXD)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XZF</code>
+    <DestinationName>Dammam Port</DestinationName>
+    <DestinationStr>Dammam Port(XZF)-Saudi Arabia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YDA</code>
+    <DestinationName>Dawson City Arpt</DestinationName>
+    <DestinationStr>Dawson City Arpt(YDA)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YDA</code>
+    <DestinationName>Dawson City</DestinationName>
+    <DestinationStr>Dawson City(YDA)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YDC</code>
+    <DestinationName>Drayton Valley</DestinationName>
+    <DestinationStr>Drayton Valley(YDC)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YDF</code>
+    <DestinationName>Deer Lake Municipal</DestinationName>
+    <DestinationStr>Deer Lake Municipal(YDF)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YDF</code>
+    <DestinationName>Deer Lake</DestinationName>
+    <DestinationStr>Deer Lake(YDF)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YDG</code>
+    <DestinationName>Digby</DestinationName>
+    <DestinationStr>Digby(YDG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YDL</code>
+    <DestinationName>Dease Lake Arpt</DestinationName>
+    <DestinationStr>Dease Lake Arpt(YDL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YDL</code>
+    <DestinationName>Dease Lake</DestinationName>
+    <DestinationStr>Dease Lake(YDL)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YDN</code>
+    <DestinationName>Dauphin Airport</DestinationName>
+    <DestinationStr>Dauphin Airport(YDN)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YDN</code>
+    <DestinationName>Dauphin</DestinationName>
+    <DestinationStr>Dauphin(YDN)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YDO</code>
+    <DestinationName>Dolbeau</DestinationName>
+    <DestinationStr>Dolbeau(YDO)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YDQ</code>
+    <DestinationName>Dawson Creek Arpt</DestinationName>
+    <DestinationStr>Dawson Creek Arpt(YDQ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YDQ</code>
+    <DestinationName>Dawson Creek</DestinationName>
+    <DestinationStr>Dawson Creek(YDQ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHD</code>
+    <DestinationName>Dryden Regional Airport</DestinationName>
+    <DestinationStr>Dryden Regional Airport(YHD)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YHD</code>
+    <DestinationName>Dryden</DestinationName>
+    <DestinationStr>Dryden(YHD)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YKA</code>
+    <DestinationName>Davie Fulton Arpt</DestinationName>
+    <DestinationStr>Davie Fulton Arpt(YKA)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YPR</code>
+    <DestinationName>Digby Island Arpt</DestinationName>
+    <DestinationStr>Digby Island Arpt(YPR)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YVZ</code>
+    <DestinationName>Deer Lake Arpt</DestinationName>
+    <DestinationStr>Deer Lake Arpt(YVZ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YVZ</code>
+    <DestinationName>Deer Lake</DestinationName>
+    <DestinationStr>Deer Lake(YVZ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YWF</code>
+    <DestinationName>Dwtown Waterfront Heliport</DestinationName>
+    <DestinationStr>Dwtown Waterfront Heliport(YWF)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZCR</code>
+    <DestinationName>Dachau</DestinationName>
+    <DestinationStr>Dachau(ZCR)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZCS</code>
+    <DestinationName>Darmstadt</DestinationName>
+    <DestinationStr>Darmstadt(ZCS)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZCT</code>
+    <DestinationName>Delmenhorst</DestinationName>
+    <DestinationStr>Delmenhorst(ZCT)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZCW</code>
+    <DestinationName>Dormagen</DestinationName>
+    <DestinationStr>Dormagen(ZCW)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZCY</code>
+    <DestinationName>Dueren</DestinationName>
+    <DestinationStr>Dueren(ZCY)-Germany</DestinationStr>
+  </Destination>    
+  <Destination>
+    <code>ZDV</code>
+    <DestinationName>Davos</DestinationName>
+    <DestinationStr>Davos(ZDV)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZDW</code>
+    <DestinationName>Delemont</DestinationName>
+    <DestinationStr>Delemont(ZDW)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZDX</code>
+    <DestinationName>Dietikon</DestinationName>
+    <DestinationStr>Dietikon(ZDX)-Switzerland</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZSU</code>
+    <DestinationName>Dessau</DestinationName>
+    <DestinationStr>Dessau(ZSU)-Germany</DestinationStr>
+  </Destination>  
+  <Destination>
+    <code>ZVD</code>
+    <DestinationName>Drangedal</DestinationName>
+    <DestinationStr>Drangedal(ZVD)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DSS</code>
+    <DestinationName>Thies</DestinationName>
+    <DestinationStr>Thies(DSS)-Senegal</DestinationStr>
+  </Destination>
+</DestinationRoot>

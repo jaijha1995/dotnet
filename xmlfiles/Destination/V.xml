@@ -1,0 +1,1612 @@
+﻿<DestinationRoot>
+  <Destination>
+    <code>NORESULT</code>
+    <DestinationName>NORESULT</DestinationName>
+    <DestinationStr>No Result Found</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>AES</code>
+    <DestinationName>Vigra Airport</DestinationName>
+    <DestinationStr>Vigra Airport(AES)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ANU</code>
+    <DestinationName>V C Bird Intl Arpt</DestinationName>
+    <DestinationStr>V C Bird Intl Arpt(ANU)-Antigua And Barbuda</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BCB</code>
+    <DestinationName>Virginia Tech Arpt</DestinationName>
+    <DestinationStr>Virginia Tech Arpt(BCB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BDQ</code>
+    <DestinationName>Vadodara Arpt</DestinationName>
+    <DestinationStr>Vadodara Arpt(BDQ)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BDQ</code>
+    <DestinationName>Vadodara</DestinationName>
+    <DestinationStr>Vadodara(BDQ)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BEL</code>
+    <DestinationName>Val De Cans Arpt</DestinationName>
+    <DestinationStr>Val De Cans Arpt(BEL)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BFR</code>
+    <DestinationName>Virgil I Grissom Municipal</DestinationName>
+    <DestinationStr>Virgil I Grissom Municipal(BFR)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BOB</code>
+    <DestinationName>Vaitape</DestinationName>
+    <DestinationStr>Vaitape(BOB)-French Polynesia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BVH</code>
+    <DestinationName>Vilhena Arpt</DestinationName>
+    <DestinationStr>Vilhena Arpt(BVH)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>BVH</code>
+    <DestinationName>Vilhena</DestinationName>
+    <DestinationStr>Vilhena(BVH)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>CYO</code>
+    <DestinationName>Vilo Acuna International</DestinationName>
+    <DestinationStr>Vilo Acuna International(CYO)-Cuba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>DNV</code>
+    <DestinationName>Vermillion Cty</DestinationName>
+    <DestinationStr>Vermillion Cty(DNV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>END</code>
+    <DestinationName>Vance Airforce Base</DestinationName>
+    <DestinationStr>Vance Airforce Base(END)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>HVG</code>
+    <DestinationName>Valan Arpt</DestinationName>
+    <DestinationStr>Valan Arpt(HVG)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>IXZ</code>
+    <DestinationName>Veer Savarkar Arpt</DestinationName>
+    <DestinationStr>Veer Savarkar Arpt(IXZ)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KNA</code>
+    <DestinationName>Vina Del Mar Arpt</DestinationName>
+    <DestinationStr>Vina Del Mar Arpt(KNA)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>KNA</code>
+    <DestinationName>Vina Del Mar</DestinationName>
+    <DestinationStr>Vina Del Mar(KNA)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>LOV</code>
+    <DestinationName>V Carranza International</DestinationName>
+    <DestinationStr>V Carranza International(LOV)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>MMO</code>
+    <DestinationName>Vila Do Maio Arpt</DestinationName>
+    <DestinationStr>Vila Do Maio Arpt(MMO)-Cape Verde, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>NEV</code>
+    <DestinationName>Vance W Amory Intl</DestinationName>
+    <DestinationStr>Vance W Amory Intl(NEV)-St. Kitts - Nevis</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OBS</code>
+    <DestinationName>Vals Lanas Arpt</DestinationName>
+    <DestinationStr>Vals Lanas Arpt(OBS)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OEA</code>
+    <DestinationName>Vincennes</DestinationName>
+    <DestinationStr>Vincennes(OEA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>OGZ</code>
+    <DestinationName>Vladikavkaz</DestinationName>
+    <DestinationStr>Vladikavkaz(OGZ)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QBF</code>
+    <DestinationName>Vail Van Service</DestinationName>
+    <DestinationStr>Vail Van Service(QBF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QVA</code>
+    <DestinationName>Varese</DestinationName>
+    <DestinationStr>Varese(QVA)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QVC</code>
+    <DestinationName>Vicosa</DestinationName>
+    <DestinationStr>Vicosa(QVC)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QVH</code>
+    <DestinationName>Vila Velha</DestinationName>
+    <DestinationStr>Vila Velha(QVH)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QVL</code>
+    <DestinationName>Victoria Island</DestinationName>
+    <DestinationStr>Victoria Island(QVL)-Nigeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QVR</code>
+    <DestinationName>Volta Redonda</DestinationName>
+    <DestinationStr>Volta Redonda(QVR)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QVU</code>
+    <DestinationName>Vaduz</DestinationName>
+    <DestinationStr>Vaduz(QVU)-Liechtenstein</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>QWV</code>
+    <DestinationName>Valjevo</DestinationName>
+    <DestinationStr>Valjevo(QWV)-Serbia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SLU</code>
+    <DestinationName>Vigie Field Arpt</DestinationName>
+    <DestinationStr>Vigie Field Arpt(SLU)-Saint Lucia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>SMA</code>
+    <DestinationName>Vilo Do Porto Arpt</DestinationName>
+    <DestinationStr>Vilo Do Porto Arpt(SMA)-Portugal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TCL</code>
+    <DestinationName>Van De Graff Arpt</DestinationName>
+    <DestinationStr>Van De Graff Arpt(TCL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>TYL</code>
+    <DestinationName>Victor Monteas Arias Arpt</DestinationName>
+    <DestinationStr>Victor Monteas Arias Arpt(TYL)-Peru</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UDE</code>
+    <DestinationName>Volkel Arpt</DestinationName>
+    <DestinationStr>Volkel Arpt(UDE)-Netherlands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>UVF</code>
+    <DestinationName>Vieux Fort St Lucia</DestinationName>
+    <DestinationStr>Vieux Fort St Lucia(UVF)-Saint Lucia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VAA</code>
+    <DestinationName>Vaasa Arpt</DestinationName>
+    <DestinationStr>Vaasa Arpt(VAA)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VAA</code>
+    <DestinationName>Vaasa</DestinationName>
+    <DestinationStr>Vaasa(VAA)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VAD</code>
+    <DestinationName>Moody AFB</DestinationName>
+    <DestinationStr>Moody AFB(VAD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VAF</code>
+    <DestinationName>Chabeuil Airport</DestinationName>
+    <DestinationStr>Chabeuil Airport(VAF)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VAF</code>
+    <DestinationName>Valence</DestinationName>
+    <DestinationStr>Valence(VAF)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VAG</code>
+    <DestinationName>Maj Brig Trompowsky Arpt</DestinationName>
+    <DestinationStr>Maj Brig Trompowsky Arpt(VAG)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VAG</code>
+    <DestinationName>Varginha</DestinationName>
+    <DestinationStr>Varginha(VAG)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VAI</code>
+    <DestinationName>Vanimo Arpt</DestinationName>
+    <DestinationStr>Vanimo Arpt(VAI)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VAI</code>
+    <DestinationName>Vanimo</DestinationName>
+    <DestinationStr>Vanimo(VAI)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VAK</code>
+    <DestinationName>Chevak</DestinationName>
+    <DestinationStr>Chevak(VAK)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VAL</code>
+    <DestinationName>Valenca</DestinationName>
+    <DestinationStr>Valenca(VAL)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VAM</code>
+    <DestinationName>Maamigili Island Arpt</DestinationName>
+    <DestinationStr>Maamigili Island Arpt(VAM)-Maldives</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VAM</code>
+    <DestinationName>Maamigili Island</DestinationName>
+    <DestinationStr>Maamigili Island(VAM)-Maldives</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VAN</code>
+    <DestinationName>Van Arpt</DestinationName>
+    <DestinationStr>Van Arpt(VAN)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VAN</code>
+    <DestinationName>Van TR</DestinationName>
+    <DestinationStr>Van TR(VAN)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VAP</code>
+    <DestinationName>Valparaiso</DestinationName>
+    <DestinationStr>Valparaiso(VAP)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VAR</code>
+    <DestinationName>Varna</DestinationName>
+    <DestinationStr>Varna(VAR)-Bulgaria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VAS</code>
+    <DestinationName>Sivas Arpt</DestinationName>
+    <DestinationStr>Sivas Arpt(VAS)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VAS</code>
+    <DestinationName>Sivas</DestinationName>
+    <DestinationStr>Sivas(VAS)-Turkey</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VAT</code>
+    <DestinationName>Vatomandry</DestinationName>
+    <DestinationStr>Vatomandry(VAT)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VAV</code>
+    <DestinationName>Lupepau U Arpt</DestinationName>
+    <DestinationStr>Lupepau U Arpt(VAV)-Tonga</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VAV</code>
+    <DestinationName>Vava U</DestinationName>
+    <DestinationStr>Vava U(VAV)-Tonga</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VAW</code>
+    <DestinationName>Vardoe Luftan</DestinationName>
+    <DestinationStr>Vardoe Luftan(VAW)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VAW</code>
+    <DestinationName>Vardoe</DestinationName>
+    <DestinationStr>Vardoe(VAW)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VAZ</code>
+    <DestinationName>Val D Isere</DestinationName>
+    <DestinationStr>Val D Isere(VAZ)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VBG</code>
+    <DestinationName>Vandenberg Airforce Base</DestinationName>
+    <DestinationStr>Vandenberg Airforce Base(VBG)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VBS</code>
+    <DestinationName>Brescia Montichiari Arpt</DestinationName>
+    <DestinationStr>Brescia Montichiari Arpt(VBS)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VBV</code>
+    <DestinationName>Vanuabalavu</DestinationName>
+    <DestinationStr>Vanuabalavu(VBV)-Fiji Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VBY</code>
+    <DestinationName>Visby Airport</DestinationName>
+    <DestinationStr>Visby Airport(VBY)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VBY</code>
+    <DestinationName>Visby</DestinationName>
+    <DestinationStr>Visby(VBY)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VCA</code>
+    <DestinationName>Can Tho Arpt</DestinationName>
+    <DestinationStr>Can Tho Arpt(VCA)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VCA</code>
+    <DestinationName>Can Tho</DestinationName>
+    <DestinationStr>Can Tho(VCA)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VCE</code>
+    <DestinationName>Marco Polo Arpt</DestinationName>
+    <DestinationStr>Marco Polo Arpt(VCE)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VCE</code>
+    <DestinationName>Venezia</DestinationName>
+    <DestinationStr>Venezia(VCE)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VCE</code>
+    <DestinationName>Venice</DestinationName>
+    <DestinationStr>Venice(VCE)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VCL</code>
+    <DestinationName>Chulai Arpt</DestinationName>
+    <DestinationStr>Chulai Arpt(VCL)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VCL</code>
+    <DestinationName>Tamky</DestinationName>
+    <DestinationStr>Tamky(VCL)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VCP</code>
+    <DestinationName>Viracopos Arpt</DestinationName>
+    <DestinationStr>Viracopos Arpt(VCP)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VCS</code>
+    <DestinationName>Con Dao</DestinationName>
+    <DestinationStr>Con Dao(VCS)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VCS</code>
+    <DestinationName>Coong Arpt</DestinationName>
+    <DestinationStr>Coong Arpt(VCS)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VCT</code>
+    <DestinationName>Victoria Regional Arpt</DestinationName>
+    <DestinationStr>Victoria Regional Arpt(VCT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VCT</code>
+    <DestinationName>Victoria</DestinationName>
+    <DestinationStr>Victoria(VCT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VCV</code>
+    <DestinationName>George AFB</DestinationName>
+    <DestinationStr>George AFB(VCV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VCV</code>
+    <DestinationName>Victorville</DestinationName>
+    <DestinationStr>Victorville(VCV)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VDA</code>
+    <DestinationName>Ovda Arpt</DestinationName>
+    <DestinationStr>Ovda Arpt(VDA)-Israel</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VDA</code>
+    <DestinationName>Ovda</DestinationName>
+    <DestinationStr>Ovda(VDA)-Israel</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VDB</code>
+    <DestinationName>Fagernes</DestinationName>
+    <DestinationStr>Fagernes(VDB)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VDB</code>
+    <DestinationName>Valdres Arpt</DestinationName>
+    <DestinationStr>Valdres Arpt(VDB)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VDC</code>
+    <DestinationName>Vitoria Da Conquista Arpt</DestinationName>
+    <DestinationStr>Vitoria Da Conquista Arpt(VDC)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VDC</code>
+    <DestinationName>Vitoria Da Conquista</DestinationName>
+    <DestinationStr>Vitoria Da Conquista(VDC)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VDD</code>
+    <DestinationName>Vienna Danubepier Hov</DestinationName>
+    <DestinationStr>Vienna Danubepier Hov(VDD)-Austria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VDE</code>
+    <DestinationName>Hierro Arpt</DestinationName>
+    <DestinationStr>Hierro Arpt(VDE)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VDE</code>
+    <DestinationName>Valverde</DestinationName>
+    <DestinationStr>Valverde(VDE)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VDH</code>
+    <DestinationName>Dong Hoi Arpt</DestinationName>
+    <DestinationStr>Dong Hoi Arpt(VDH)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VDH</code>
+    <DestinationName>Dong Hoi</DestinationName>
+    <DestinationStr>Dong Hoi(VDH)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VDI</code>
+    <DestinationName>Vidalia Municipal Arpt</DestinationName>
+    <DestinationStr>Vidalia Municipal Arpt(VDI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VDI</code>
+    <DestinationName>Vidalia</DestinationName>
+    <DestinationStr>Vidalia(VDI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VDM</code>
+    <DestinationName>Viedma Arpt</DestinationName>
+    <DestinationStr>Viedma Arpt(VDM)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VDM</code>
+    <DestinationName>Viedma</DestinationName>
+    <DestinationStr>Viedma(VDM)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VDP</code>
+    <DestinationName>Valle De La Pascua</DestinationName>
+    <DestinationStr>Valle De La Pascua(VDP)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VDS</code>
+    <DestinationName>Vadso</DestinationName>
+    <DestinationStr>Vadso(VDS)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VDZ</code>
+    <DestinationName>Valdez Municipal Arpt</DestinationName>
+    <DestinationStr>Valdez Municipal Arpt(VDZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VDZ</code>
+    <DestinationName>Valdez</DestinationName>
+    <DestinationStr>Valdez(VDZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VEE</code>
+    <DestinationName>Venetie</DestinationName>
+    <DestinationStr>Venetie(VEE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VEJ</code>
+    <DestinationName>Vejle</DestinationName>
+    <DestinationStr>Vejle(VEJ)-Denmark</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VEL</code>
+    <DestinationName>Vernal Municipal</DestinationName>
+    <DestinationStr>Vernal Municipal(VEL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VEL</code>
+    <DestinationName>Vernal</DestinationName>
+    <DestinationStr>Vernal(VEL)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VER</code>
+    <DestinationName>Heriberto Jara International</DestinationName>
+    <DestinationStr>Heriberto Jara International(VER)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VER</code>
+    <DestinationName>Veracruz</DestinationName>
+    <DestinationStr>Veracruz(VER)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VEY</code>
+    <DestinationName>Vestmannaeyjar Arpt</DestinationName>
+    <DestinationStr>Vestmannaeyjar Arpt(VEY)-Iceland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VEY</code>
+    <DestinationName>Vestmannaeyjar</DestinationName>
+    <DestinationStr>Vestmannaeyjar(VEY)-Iceland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VFA</code>
+    <DestinationName>Victoria Falls Arpt</DestinationName>
+    <DestinationStr>Victoria Falls Arpt(VFA)-Zimbabwe</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VFA</code>
+    <DestinationName>Victoria Falls</DestinationName>
+    <DestinationStr>Victoria Falls(VFA)-Zimbabwe</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VGA</code>
+    <DestinationName>Vijayawada Arpt</DestinationName>
+    <DestinationStr>Vijayawada Arpt(VGA)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VGA</code>
+    <DestinationName>Vijayawada</DestinationName>
+    <DestinationStr>Vijayawada(VGA)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VGD</code>
+    <DestinationName>Vologda Arpt</DestinationName>
+    <DestinationStr>Vologda Arpt(VGD)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VGD</code>
+    <DestinationName>Vologda</DestinationName>
+    <DestinationStr>Vologda(VGD)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VGO</code>
+    <DestinationName>Vigo Airport</DestinationName>
+    <DestinationStr>Vigo Airport(VGO)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VGO</code>
+    <DestinationName>Vigo</DestinationName>
+    <DestinationStr>Vigo(VGO)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VGT</code>
+    <DestinationName>Las Vegas North Air Terminal</DestinationName>
+    <DestinationStr>Las Vegas North Air Terminal(VGT)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VGZ</code>
+    <DestinationName>Villagarzon Arpt</DestinationName>
+    <DestinationStr>Villagarzon Arpt(VGZ)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VGZ</code>
+    <DestinationName>Villagarzon</DestinationName>
+    <DestinationStr>Villagarzon(VGZ)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VHC</code>
+    <DestinationName>Saurimo</DestinationName>
+    <DestinationStr>Saurimo(VHC)-Angola</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VHM</code>
+    <DestinationName>Vilhelmina Arpt</DestinationName>
+    <DestinationStr>Vilhelmina Arpt(VHM)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VHM</code>
+    <DestinationName>Vilhelmina</DestinationName>
+    <DestinationStr>Vilhelmina(VHM)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VHN</code>
+    <DestinationName>Culberson Cty Arpt</DestinationName>
+    <DestinationStr>Culberson Cty Arpt(VHN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VHN</code>
+    <DestinationName>Van Horn</DestinationName>
+    <DestinationStr>Van Horn(VHN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VHY</code>
+    <DestinationName>Charmeil Arpt</DestinationName>
+    <DestinationStr>Charmeil Arpt(VHY)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VHY</code>
+    <DestinationName>Vichy</DestinationName>
+    <DestinationStr>Vichy(VHY)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VIB</code>
+    <DestinationName>Villa Constitucion Arpt</DestinationName>
+    <DestinationStr>Villa Constitucion Arpt(VIB)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VIB</code>
+    <DestinationName>Villa Constitucion</DestinationName>
+    <DestinationStr>Villa Constitucion(VIB)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VIC</code>
+    <DestinationName>Vicenza Arpt</DestinationName>
+    <DestinationStr>Vicenza Arpt(VIC)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VIC</code>
+    <DestinationName>Vicenza</DestinationName>
+    <DestinationStr>Vicenza(VIC)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VID</code>
+    <DestinationName>Vidin</DestinationName>
+    <DestinationStr>Vidin(VID)-Bulgaria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VIE</code>
+    <DestinationName>Vienna Intl Arpt</DestinationName>
+    <DestinationStr>Vienna Intl Arpt(VIE)-Austria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VIE</code>
+    <DestinationName>Vienna</DestinationName>
+    <DestinationStr>Vienna(VIE)-Austria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VIE</code>
+    <DestinationName>Wien</DestinationName>
+    <DestinationStr>Wien(VIE)-Austria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VIF</code>
+    <DestinationName>Vieste Arpt</DestinationName>
+    <DestinationStr>Vieste Arpt(VIF)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VIF</code>
+    <DestinationName>Vieste</DestinationName>
+    <DestinationStr>Vieste(VIF)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VIG</code>
+    <DestinationName>El Vigia</DestinationName>
+    <DestinationStr>El Vigia(VIG)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VIG</code>
+    <DestinationName>Juan P Perez Alfonso Arpt</DestinationName>
+    <DestinationStr>Juan P Perez Alfonso Arpt(VIG)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VII</code>
+    <DestinationName>Vinh City Arpt</DestinationName>
+    <DestinationStr>Vinh City Arpt(VII)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VII</code>
+    <DestinationName>Vinh City</DestinationName>
+    <DestinationStr>Vinh City(VII)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VIJ</code>
+    <DestinationName>Virgin Gorda Arpt</DestinationName>
+    <DestinationStr>Virgin Gorda Arpt(VIJ)-British Virgin Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VIJ</code>
+    <DestinationName>Virgin Gorda</DestinationName>
+    <DestinationStr>Virgin Gorda(VIJ)-British Virgin Islands</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VIL</code>
+    <DestinationName>Dakhla Airport</DestinationName>
+    <DestinationStr>Dakhla Airport(VIL)-Morocco</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VIL</code>
+    <DestinationName>Dakhla</DestinationName>
+    <DestinationStr>Dakhla(VIL)-Morocco</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VIN</code>
+    <DestinationName>Vinnitsa Arpt</DestinationName>
+    <DestinationStr>Vinnitsa Arpt(VIN)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VIN</code>
+    <DestinationName>Vinnitsa</DestinationName>
+    <DestinationStr>Vinnitsa(VIN)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VIQ</code>
+    <DestinationName>Viqueque</DestinationName>
+    <DestinationStr>Viqueque(VIQ)-Timor Leste</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VIR</code>
+    <DestinationName>Virginia Arpt</DestinationName>
+    <DestinationStr>Virginia Arpt(VIR)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VIS</code>
+    <DestinationName>Visalia Municipal</DestinationName>
+    <DestinationStr>Visalia Municipal(VIS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VIS</code>
+    <DestinationName>Visalia</DestinationName>
+    <DestinationStr>Visalia(VIS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VIT</code>
+    <DestinationName>Vitoria Arpt</DestinationName>
+    <DestinationStr>Vitoria Arpt(VIT)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VIT</code>
+    <DestinationName>Vitoria</DestinationName>
+    <DestinationStr>Vitoria(VIT)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VIV</code>
+    <DestinationName>Vivigani</DestinationName>
+    <DestinationStr>Vivigani(VIV)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VIX</code>
+    <DestinationName>Eurico Sales Arpt</DestinationName>
+    <DestinationStr>Eurico Sales Arpt(VIX)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VIX</code>
+    <DestinationName>Vitoria</DestinationName>
+    <DestinationStr>Vitoria(VIX)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VIY</code>
+    <DestinationName>Villacoublay Velizy</DestinationName>
+    <DestinationStr>Villacoublay Velizy(VIY)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VIZ</code>
+    <DestinationName>VIZAG</DestinationName>
+    <DestinationStr>VIZAG(VIZ)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VJI</code>
+    <DestinationName>Abingdon</DestinationName>
+    <DestinationStr>Abingdon(VJI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VJI</code>
+    <DestinationName>Virginia Highlands Arpt</DestinationName>
+    <DestinationStr>Virginia Highlands Arpt(VJI)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VKG</code>
+    <DestinationName>Rach Gia Arpt</DestinationName>
+    <DestinationStr>Rach Gia Arpt(VKG)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VKG</code>
+    <DestinationName>Rach Gia</DestinationName>
+    <DestinationStr>Rach Gia(VKG)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VKO</code>
+    <DestinationName>Vnukovo Arpt</DestinationName>
+    <DestinationStr>Vnukovo Arpt(VKO)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VKS</code>
+    <DestinationName>Vicksburg Arpt</DestinationName>
+    <DestinationStr>Vicksburg Arpt(VKS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VKS</code>
+    <DestinationName>Vicksburg</DestinationName>
+    <DestinationStr>Vicksburg(VKS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VKT</code>
+    <DestinationName>Vorkuta</DestinationName>
+    <DestinationStr>Vorkuta(VKT)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VLA</code>
+    <DestinationName>Vandalia</DestinationName>
+    <DestinationStr>Vandalia(VLA)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VLC</code>
+    <DestinationName>Valencia Arpt</DestinationName>
+    <DestinationStr>Valencia Arpt(VLC)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VLC</code>
+    <DestinationName>Valencia</DestinationName>
+    <DestinationStr>Valencia(VLC)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VLD</code>
+    <DestinationName>Valdosta Regional</DestinationName>
+    <DestinationStr>Valdosta Regional(VLD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VLD</code>
+    <DestinationName>Valdosta</DestinationName>
+    <DestinationStr>Valdosta(VLD)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VLE</code>
+    <DestinationName>J T Robidoux</DestinationName>
+    <DestinationStr>J T Robidoux(VLE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VLE</code>
+    <DestinationName>Valle</DestinationName>
+    <DestinationStr>Valle(VLE)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VLG</code>
+    <DestinationName>Villa Gesell Arpt</DestinationName>
+    <DestinationStr>Villa Gesell Arpt(VLG)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VLG</code>
+    <DestinationName>Villa Gesell</DestinationName>
+    <DestinationStr>Villa Gesell(VLG)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VLI</code>
+    <DestinationName>Bauerfield Arpt</DestinationName>
+    <DestinationStr>Bauerfield Arpt(VLI)-Vanuatu</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VLI</code>
+    <DestinationName>Port Vila</DestinationName>
+    <DestinationStr>Port Vila(VLI)-Vanuatu</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VLL</code>
+    <DestinationName>Valladolid Arpt</DestinationName>
+    <DestinationStr>Valladolid Arpt(VLL)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VLL</code>
+    <DestinationName>Valladolid</DestinationName>
+    <DestinationStr>Valladolid(VLL)-Spain</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VLN</code>
+    <DestinationName>Arturo Michelena Intl</DestinationName>
+    <DestinationStr>Arturo Michelena Intl(VLN)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VLN</code>
+    <DestinationName>Valencia</DestinationName>
+    <DestinationStr>Valencia(VLN)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VLO</code>
+    <DestinationName>Stolport Arpt</DestinationName>
+    <DestinationStr>Stolport Arpt(VLO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VLO</code>
+    <DestinationName>Vallejo</DestinationName>
+    <DestinationStr>Vallejo(VLO)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VLR</code>
+    <DestinationName>Vallenar Arpt</DestinationName>
+    <DestinationStr>Vallenar Arpt(VLR)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VLR</code>
+    <DestinationName>VALLENAR</DestinationName>
+    <DestinationStr>VALLENAR(VLR)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VLS</code>
+    <DestinationName>Valesdir</DestinationName>
+    <DestinationStr>Valesdir(VLS)-Vanuatu</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VLV</code>
+    <DestinationName>Antonio N Briceno Arpt</DestinationName>
+    <DestinationStr>Antonio N Briceno Arpt(VLV)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VLV</code>
+    <DestinationName>Valera</DestinationName>
+    <DestinationStr>Valera(VLV)-Venezuela</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VLY</code>
+    <DestinationName>Anglesey Arpt</DestinationName>
+    <DestinationStr>Anglesey Arpt(VLY)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VLY</code>
+    <DestinationName>Anglesey</DestinationName>
+    <DestinationStr>Anglesey(VLY)-United Kingdom</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VME</code>
+    <DestinationName>Villa Mercedes Arpt</DestinationName>
+    <DestinationStr>Villa Mercedes Arpt(VME)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VME</code>
+    <DestinationName>Villa Mercedes</DestinationName>
+    <DestinationStr>Villa Mercedes(VME)-Argentina</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VMI</code>
+    <DestinationName>Dr Juan Plate Arpt</DestinationName>
+    <DestinationStr>Dr Juan Plate Arpt(VMI)-Paraguay</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VMI</code>
+    <DestinationName>Vallemi</DestinationName>
+    <DestinationStr>Vallemi(VMI)-Paraguay</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VMU</code>
+    <DestinationName>Baimuru Airport</DestinationName>
+    <DestinationStr>Baimuru Airport(VMU)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VMU</code>
+    <DestinationName>Balimuru</DestinationName>
+    <DestinationStr>Balimuru(VMU)-Papua New Guinea</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VNC</code>
+    <DestinationName>Venice Municipal Airport</DestinationName>
+    <DestinationStr>Venice Municipal Airport(VNC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VNC</code>
+    <DestinationName>Venice</DestinationName>
+    <DestinationStr>Venice(VNC)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VNE</code>
+    <DestinationName>Muecon Arpt</DestinationName>
+    <DestinationStr>Muecon Arpt(VNE)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VNE</code>
+    <DestinationName>Vannes</DestinationName>
+    <DestinationStr>Vannes(VNE)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VNL</code>
+    <DestinationName>Vinales</DestinationName>
+    <DestinationStr>Vinales(VNL)-Cuba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VNO</code>
+    <DestinationName>Vilnius Arpt</DestinationName>
+    <DestinationStr>Vilnius Arpt(VNO)-Lithuania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VNO</code>
+    <DestinationName>Vilnius</DestinationName>
+    <DestinationStr>Vilnius(VNO)-Lithuania</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VNR</code>
+    <DestinationName>Vanrook</DestinationName>
+    <DestinationStr>Vanrook(VNR)-Australia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VNS</code>
+    <DestinationName>Lal Bahadur Shastri Arpt</DestinationName>
+    <DestinationStr>Lal Bahadur Shastri Arpt(VNS)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VNS</code>
+    <DestinationName>Varanasi</DestinationName>
+    <DestinationStr>Varanasi(VNS)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VNT</code>
+    <DestinationName>Ventspils Intl Arpt</DestinationName>
+    <DestinationStr>Ventspils Intl Arpt(VNT)-Latvia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VNT</code>
+    <DestinationName>Ventspils</DestinationName>
+    <DestinationStr>Ventspils(VNT)-Latvia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VNX</code>
+    <DestinationName>Vilanculos Arpt</DestinationName>
+    <DestinationStr>Vilanculos Arpt(VNX)-Mozambique</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VNX</code>
+    <DestinationName>Vilanculos</DestinationName>
+    <DestinationStr>Vilanculos(VNX)-Mozambique</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VNY</code>
+    <DestinationName>Van Nuys Arpt</DestinationName>
+    <DestinationStr>Van Nuys Arpt(VNY)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VOG</code>
+    <DestinationName>Volgograd Arpt</DestinationName>
+    <DestinationStr>Volgograd Arpt(VOG)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VOG</code>
+    <DestinationName>Volgograd</DestinationName>
+    <DestinationStr>Volgograd(VOG)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VOH</code>
+    <DestinationName>Vohemar</DestinationName>
+    <DestinationStr>Vohemar(VOH)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VOL</code>
+    <DestinationName>Nea Anchialos Arpt</DestinationName>
+    <DestinationStr>Nea Anchialos Arpt(VOL)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VOL</code>
+    <DestinationName>Volos</DestinationName>
+    <DestinationStr>Volos(VOL)-Greece</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VOT</code>
+    <DestinationName>Votuporanga</DestinationName>
+    <DestinationStr>Votuporanga(VOT)-Brazil</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VOZ</code>
+    <DestinationName>Voronezh Arpt</DestinationName>
+    <DestinationStr>Voronezh Arpt(VOZ)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VOZ</code>
+    <DestinationName>Voronezh</DestinationName>
+    <DestinationStr>Voronezh(VOZ)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VPN</code>
+    <DestinationName>Vopnafjordur</DestinationName>
+    <DestinationStr>Vopnafjordur(VPN)-Iceland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VPS</code>
+    <DestinationName>Fort Walton Beach Arpt</DestinationName>
+    <DestinationStr>Fort Walton Beach Arpt(VPS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VPS</code>
+    <DestinationName>Fort Walton Beach</DestinationName>
+    <DestinationStr>Fort Walton Beach(VPS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VPS</code>
+    <DestinationName>Ft Walton Beach Arpt</DestinationName>
+    <DestinationStr>Ft Walton Beach Arpt(VPS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VPS</code>
+    <DestinationName>Valparaiso</DestinationName>
+    <DestinationStr>Valparaiso(VPS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VPY</code>
+    <DestinationName>Chimoio Airport</DestinationName>
+    <DestinationStr>Chimoio Airport(VPY)-Mozambique</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VPY</code>
+    <DestinationName>Chimoio</DestinationName>
+    <DestinationStr>Chimoio(VPY)-Mozambique</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VPZ</code>
+    <DestinationName>Porter County</DestinationName>
+    <DestinationStr>Porter County(VPZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VPZ</code>
+    <DestinationName>Valparaiso</DestinationName>
+    <DestinationStr>Valparaiso(VPZ)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VQS</code>
+    <DestinationName>A Rivera Rodrigues Arpt</DestinationName>
+    <DestinationStr>A Rivera Rodrigues Arpt(VQS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VQS</code>
+    <DestinationName>Vieques</DestinationName>
+    <DestinationStr>Vieques(VQS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VRA</code>
+    <DestinationName>Juan G Gomez International</DestinationName>
+    <DestinationStr>Juan G Gomez International(VRA)-Cuba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VRA</code>
+    <DestinationName>Varadero</DestinationName>
+    <DestinationStr>Varadero(VRA)-Cuba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VRB</code>
+    <DestinationName>Vero Beach Municipal Arpt</DestinationName>
+    <DestinationStr>Vero Beach Municipal Arpt(VRB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VRB</code>
+    <DestinationName>Vero Beach</DestinationName>
+    <DestinationStr>Vero Beach(VRB)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VRK</code>
+    <DestinationName>Varkaus</DestinationName>
+    <DestinationStr>Varkaus(VRK)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VRL</code>
+    <DestinationName>Vila Real Arpt</DestinationName>
+    <DestinationStr>Vila Real Arpt(VRL)-Portugal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VRL</code>
+    <DestinationName>Vila Real</DestinationName>
+    <DestinationStr>Vila Real(VRL)-Portugal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VRN</code>
+    <DestinationName>Verona Airport</DestinationName>
+    <DestinationStr>Verona Airport(VRN)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VRN</code>
+    <DestinationName>Verona</DestinationName>
+    <DestinationStr>Verona(VRN)-Italy</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VRO</code>
+    <DestinationName>Kawama Arpt</DestinationName>
+    <DestinationStr>Kawama Arpt(VRO)-Cuba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VRO</code>
+    <DestinationName>Matanzas</DestinationName>
+    <DestinationStr>Matanzas(VRO)-Cuba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VRY</code>
+    <DestinationName>Vaeroy</DestinationName>
+    <DestinationStr>Vaeroy(VRY)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VSA</code>
+    <DestinationName>C Rovirosa Perez Intl</DestinationName>
+    <DestinationStr>C Rovirosa Perez Intl(VSA)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VSA</code>
+    <DestinationName>Villahermosa</DestinationName>
+    <DestinationStr>Villahermosa(VSA)-Mexico</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VSE</code>
+    <DestinationName>Viseu Arpt</DestinationName>
+    <DestinationStr>Viseu Arpt(VSE)-Portugal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VSE</code>
+    <DestinationName>Viseu</DestinationName>
+    <DestinationStr>Viseu(VSE)-Portugal</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VSF</code>
+    <DestinationName>Springfield</DestinationName>
+    <DestinationStr>Springfield(VSF)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VSG</code>
+    <DestinationName>Lugansk Arpt</DestinationName>
+    <DestinationStr>Lugansk Arpt(VSG)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VSG</code>
+    <DestinationName>Lugansk</DestinationName>
+    <DestinationStr>Lugansk(VSG)-Ukraine</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VST</code>
+    <DestinationName>Hasslo Airport</DestinationName>
+    <DestinationStr>Hasslo Airport(VST)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VST</code>
+    <DestinationName>Vasteras</DestinationName>
+    <DestinationStr>Vasteras(VST)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VTB</code>
+    <DestinationName>Vitebsk Arpt</DestinationName>
+    <DestinationStr>Vitebsk Arpt(VTB)-Belarus</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VTB</code>
+    <DestinationName>Vitebsk</DestinationName>
+    <DestinationStr>Vitebsk(VTB)-Belarus</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VTE</code>
+    <DestinationName>Vientiane</DestinationName>
+    <DestinationStr>Vientiane(VTE)-Lao, People's Dem. Rep.</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VTE</code>
+    <DestinationName>Wattay Arpt</DestinationName>
+    <DestinationStr>Wattay Arpt(VTE)-Lao, People's Dem. Rep.</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VTG</code>
+    <DestinationName>Vung Tau</DestinationName>
+    <DestinationStr>Vung Tau(VTG)-Vietnam</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VTL</code>
+    <DestinationName>Vittel</DestinationName>
+    <DestinationStr>Vittel(VTL)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VTN</code>
+    <DestinationName>Valentine</DestinationName>
+    <DestinationStr>Valentine(VTN)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VTU</code>
+    <DestinationName>Las Tunas</DestinationName>
+    <DestinationStr>Las Tunas(VTU)-Cuba</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VTZ</code>
+    <DestinationName>Vishakhapatanam</DestinationName>
+    <DestinationStr>Vishakhapatanam(VTZ)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VTZ</code>
+    <DestinationName>Vishakhapatnam</DestinationName>
+    <DestinationStr>Vishakhapatnam(VTZ)-India</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VUP</code>
+    <DestinationName>Alfonso Lopez Pumarejo Arpt</DestinationName>
+    <DestinationStr>Alfonso Lopez Pumarejo Arpt(VUP)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VUP</code>
+    <DestinationName>Valleduper</DestinationName>
+    <DestinationStr>Valleduper(VUP)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VVB</code>
+    <DestinationName>Mahanoro</DestinationName>
+    <DestinationStr>Mahanoro(VVB)-Madagascar (Malagasy)</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VVC</code>
+    <DestinationName>Vanguardia Arpt</DestinationName>
+    <DestinationStr>Vanguardia Arpt(VVC)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VVC</code>
+    <DestinationName>Villavicencio</DestinationName>
+    <DestinationStr>Villavicencio(VVC)-Colombia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VVI</code>
+    <DestinationName>Viru Viru Intl Arpt</DestinationName>
+    <DestinationStr>Viru Viru Intl Arpt(VVI)-Bolivia</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VVK</code>
+    <DestinationName>Vastervik</DestinationName>
+    <DestinationStr>Vastervik(VVK)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VVO</code>
+    <DestinationName>Vladivostok Arpt</DestinationName>
+    <DestinationStr>Vladivostok Arpt(VVO)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VVO</code>
+    <DestinationName>Vladivostok</DestinationName>
+    <DestinationStr>Vladivostok(VVO)-Russian Federation</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VVZ</code>
+    <DestinationName>Illizi</DestinationName>
+    <DestinationStr>Illizi(VVZ)-Algeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VVZ</code>
+    <DestinationName>Takhamalt Arpt</DestinationName>
+    <DestinationStr>Takhamalt Arpt(VVZ)-Algeria</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VXC</code>
+    <DestinationName>Lichinga Airport</DestinationName>
+    <DestinationStr>Lichinga Airport(VXC)-Mozambique</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VXC</code>
+    <DestinationName>Lichinga</DestinationName>
+    <DestinationStr>Lichinga(VXC)-Mozambique</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VXE</code>
+    <DestinationName>San Pedro Airport</DestinationName>
+    <DestinationStr>San Pedro Airport(VXE)-Cape Verde, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VXE</code>
+    <DestinationName>Sao Vicente</DestinationName>
+    <DestinationStr>Sao Vicente(VXE)-Cape Verde, Republic Of</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VXO</code>
+    <DestinationName>Vaxjo Airport</DestinationName>
+    <DestinationStr>Vaxjo Airport(VXO)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VXO</code>
+    <DestinationName>Vaxjo</DestinationName>
+    <DestinationStr>Vaxjo(VXO)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VYD</code>
+    <DestinationName>Vryheid Arpt</DestinationName>
+    <DestinationStr>Vryheid Arpt(VYD)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VYD</code>
+    <DestinationName>Vryheid</DestinationName>
+    <DestinationStr>Vryheid(VYD)-South Africa</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VYS</code>
+    <DestinationName>Illinois Valley Regional Arpt</DestinationName>
+    <DestinationStr>Illinois Valley Regional Arpt(VYS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>VYS</code>
+    <DestinationName>Peru</DestinationName>
+    <DestinationStr>Peru(VYS)-United States</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XCR</code>
+    <DestinationName>Vatry Arpt</DestinationName>
+    <DestinationStr>Vatry Arpt(XCR)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XKZ</code>
+    <DestinationName>Vinstra</DestinationName>
+    <DestinationStr>Vinstra(XKZ)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XVD</code>
+    <DestinationName>VENDOME</DestinationName>
+    <DestinationStr>VENDOME(XVD)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XVE</code>
+    <DestinationName>Versailles</DestinationName>
+    <DestinationStr>Versailles(XVE)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XVF</code>
+    <DestinationName>Villefranche Sur Saone</DestinationName>
+    <DestinationStr>Villefranche Sur Saone(XVF)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XVI</code>
+    <DestinationName>Vienne</DestinationName>
+    <DestinationStr>Vienne(XVI)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XVK</code>
+    <DestinationName>Voss</DestinationName>
+    <DestinationStr>Voss(XVK)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XVM</code>
+    <DestinationName>Vuokatti</DestinationName>
+    <DestinationStr>Vuokatti(XVM)-Finland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XVN</code>
+    <DestinationName>Verdun</DestinationName>
+    <DestinationStr>Verdun(XVN)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XVO</code>
+    <DestinationName>Vesoul</DestinationName>
+    <DestinationStr>Vesoul(XVO)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XVP</code>
+    <DestinationName>Villepinte</DestinationName>
+    <DestinationStr>Villepinte(XVP)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XVS</code>
+    <DestinationName>Valenciennes</DestinationName>
+    <DestinationStr>Valenciennes(XVS)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XVT</code>
+    <DestinationName>Vitre</DestinationName>
+    <DestinationStr>Vitre(XVT)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XVZ</code>
+    <DestinationName>Vierzon</DestinationName>
+    <DestinationStr>Vierzon(XVZ)-France</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XWV</code>
+    <DestinationName>Varberg</DestinationName>
+    <DestinationStr>Varberg(XWV)-Sweden</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XXE</code>
+    <DestinationName>Vennesla</DestinationName>
+    <DestinationStr>Vennesla(XXE)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>XXG</code>
+    <DestinationName>Verdal</DestinationName>
+    <DestinationStr>Verdal(XXG)-Norway</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YVE</code>
+    <DestinationName>Vernon Municipal Arpt</DestinationName>
+    <DestinationStr>Vernon Municipal Arpt(YVE)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YVE</code>
+    <DestinationName>Vernon</DestinationName>
+    <DestinationStr>Vernon(YVE)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YVG</code>
+    <DestinationName>Vermilion Arpt</DestinationName>
+    <DestinationStr>Vermilion Arpt(YVG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YVG</code>
+    <DestinationName>Vermilion</DestinationName>
+    <DestinationStr>Vermilion(YVG)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YVO</code>
+    <DestinationName>Val d Or Municipal Arpt</DestinationName>
+    <DestinationStr>Val d Or Municipal Arpt(YVO)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YVO</code>
+    <DestinationName>Val D Or</DestinationName>
+    <DestinationStr>Val D Or(YVO)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YVR</code>
+    <DestinationName>Vancouver Intl Arpt</DestinationName>
+    <DestinationStr>Vancouver Intl Arpt(YVR)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YVR</code>
+    <DestinationName>Vancouver</DestinationName>
+    <DestinationStr>Vancouver(YVR)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YWH</code>
+    <DestinationName>Victoria Harbour</DestinationName>
+    <DestinationStr>Victoria Harbour(YWH)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYJ</code>
+    <DestinationName>Victoria Intl Arpt</DestinationName>
+    <DestinationStr>Victoria Intl Arpt(YYJ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>YYJ</code>
+    <DestinationName>Victoria</DestinationName>
+    <DestinationStr>Victoria(YYJ)-Canada</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZAL</code>
+    <DestinationName>Valdivia</DestinationName>
+    <DestinationStr>Valdivia(ZAL)-Chile</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZFP</code>
+    <DestinationName>Veszprem</DestinationName>
+    <DestinationStr>Veszprem(ZFP)-Hungary</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZGX</code>
+    <DestinationName>Viborg</DestinationName>
+    <DestinationStr>Viborg(ZGX)-Denmark</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZKY</code>
+    <DestinationName>Verbier</DestinationName>
+    <DestinationStr>Verbier(ZKY)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZKZ</code>
+    <DestinationName>Vevey</DestinationName>
+    <DestinationStr>Vevey(ZKZ)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZLA</code>
+    <DestinationName>Villars sur Ollon</DestinationName>
+    <DestinationStr>Villars sur Ollon(ZLA)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZLA</code>
+    <DestinationName>Villars</DestinationName>
+    <DestinationStr>Villars(ZLA)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZLB</code>
+    <DestinationName>Visp</DestinationName>
+    <DestinationStr>Visp(ZLB)-Switzerland</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZQJ</code>
+    <DestinationName>Velbert</DestinationName>
+    <DestinationStr>Velbert(ZQJ)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZQK</code>
+    <DestinationName>Viersen</DestinationName>
+    <DestinationStr>Viersen(ZQK)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZQL</code>
+    <DestinationName>Villingen Schwenningen</DestinationName>
+    <DestinationStr>Villingen Schwenningen(ZQL)-Germany</DestinationStr>
+  </Destination>
+  <Destination>
+    <code>ZYV</code>
+    <DestinationName>Vegarshei</DestinationName>
+    <DestinationStr>Vegarshei(ZYV)-Norway</DestinationStr>
+  </Destination>
+</DestinationRoot>
